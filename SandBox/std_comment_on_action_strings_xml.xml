@@ -4,7 +4,7 @@
     <tag language="Tiếng Việt" />
   </tags>
   <strings>
-    <string id="00fZGqbJ" text="A hard day's work, taking {ENEMY_SETTLEMENT}. But worth it." />
+    <string id="00fZGqbJ" text="Một ngày làm việc chăm chỉ đã qua {ENEMY_SETTLEMENT}. Chúng thật sự đáng giá." />
     <string id="2AsFNABs" text="Every time we run down another group of those bandits, I think, that could have been me, had fate worked out a bit different." />
     <string id="2R19RV70" text="I hear you took {SETTLEMENT_NAME}." />
     <string id="2zjTq6N8" text="I hear you defeated {DEFEATED_LEADER_RELATIONSHIP} in battle. I won't pretend that I grieved too much when I heard that." />

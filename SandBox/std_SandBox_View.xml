@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="Tiếng Việt" />
+  </tags>
+  <strings>
+    <string id="171fTtIN" text="SandBox" />
+    <string id="9NuttOBC" text="Tải" />
+    <string id="A7349NHy" text="Quyết Định Mấu Chốt Của Vương Quốc" />
+    <string id="AbEh2y8o" text="Lưu Và Thoát" />
+    <string id="bFzZwwjT" text="Kiểm Tra" />
+    <string id="bV75iwKa" text="Lưu" />
+    <string id="d4ud8l9b" text="Tiếp Tục" />
+    <string id="e0KdfaNe" text="Lưu Như" />
+    <string id="NqarFr4P" text="Tuỳ Chọn" />
+    <string id="PXT6aA4J" text="Tuỳ Chọn Chiến Dịch" />
+    <string id="RamV6yLM" text="Thoát ra Menu chính" />
+    <string id="VHjIJGja" text="Bạn cần thuộc về một Vương Quốc" />
+    <string id="XzZFhRwr" text="Quay Trở Lại Trò Chơi" />
+  </strings>
+</base>

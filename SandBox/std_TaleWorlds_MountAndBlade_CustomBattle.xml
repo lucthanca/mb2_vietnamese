@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="Tiếng Việt" />
+  </tags>
+  <strings>
+    <string id="35IHscBa" text="KẺ ĐỊCH" />
+    <string id="4gOGGbeQ" text="Trận Đánh Tuỳ Chỉnh" />
+    <string id="BC7n6qxk" text="NGƯỜI CHƠI" />
+    <string id="fXhblsky" text="BẢN ĐỒ" />
+    <string id="MVOWsP48" text="Chọn một Máy Cận Chiến" />
+    <string id="mxbq3InD" text="{ARMY_SIZE} người" />
+    <string id="SLZzfNPr" text="Chọn một Máy Tầm Xa" />
+  </strings>
+</base>

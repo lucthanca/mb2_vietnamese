@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="Tiếng Việt" />
+  </tags>
+  <strings>
+    <string id="1B57e3WC" text="{HERO} phủ quyết lại quyết định của hội nghị vương quốc {FACTION}" />
+    <string id="6q9sb18u" text="{HERO_2.LINK} đã bị mưu sát." />
+    <string id="7SHqWNzE" text="Đám côn đồ trong khu vực {COMMON_AREA} của {SETTLEMENT} đã bị đuổi đi." />
+    <string id="7tx9sch3" text="Đã phát hiện nơi ẩn náu" />
+    <string id="8jQVL5sv" text="{MOTHER.LINK} đã sinh {CHILD.LINK}, nhưng một cặp song sinh đã chết." />
+    <string id="8Klpa7Xa" text="{INSULTER.LINK} đã thề sẽ báo thù {INSULTEE.LINK}." />
+    <string id="8wlvxzuP" text="{HERO_1.LINK} đã gặp {HERO_2.LINK}." />
+    <string id="a0qduLNq" text="{SETTLEMENT} hiện đã an toàn." />
+    <string id="aheVbtmm" text="{ITEM} của {FACTION}" />
+    <string id="aowJMil0" text="{KINGDOM} đã bị huỷ diệt." />
+    <string id="AQK4ADS5" text="{HERO_1.LINK} đã mưu sát {HERO_2.LINK}" />
+    <string id="AxMrFoea" text="{TOWN_NAME} đã bị quân đội {LORD.LINK} của {FACTION_NAME} vây công!" />
+    <string id="bNAxWneP" text="{INSULTER.LINK} nói {INSULTEE.LINK} đang tống tiền các thương nhân." />
+    <string id="bNDUtygL" text="{INSULTER.LINK} nói {INSULTEE.LINK} đang tích trữ hàng để ép giá sản phẩm lên cao." />
+    <string id="Bovy7D7s" text="{MOTHER.LINK} đã sinh con, nhưng đứa trẻ đã bị chết yểu." />
+    <string id="bZvmjYPE" text="{PARTY} đang thủ vệ {SETTLEMENT}" />
+    <string id="Cae69FRp" text="{SETTLEMENT} đang được quân đội {PARTY} thủ vệ" />
+    <string id="cOnCiZeH" text="{HERO1} đã tấn công khu vực chung của {HERO2} tại {SETTLEMENT}{ADDITIONAL_INFO}" />
+    <string id="dfAE3liA" text="{CLAN_NAME} đã gia nhập {FACTION}." />
+    <string id="dmqy8OyY" text="{INSULTER.LINK} nói {INSULTEE.LINK} làm ăn không giữ chữ tín." />
+    <string id="dzJOruIi" text="{COMMON_AREA} của {SETTLEMENT} không còn thuộc về {HERO.LINK}." />
+    <string id="EHFibjkM" text="{TOWN_NAME} đã bị {LORD.LINK} của {FACTION_NAME} xuất lĩnh binh đoàn vây công!" />
+    <string id="ELFgdGJZ" text="{MOTHER.LINK} đã mang thai." />
+    <string id="eMRMptST" text="{MOTHER.LINK} đã sinh con." />
+    <string id="ExbVzTZA" text="{CLAN} đã ký khế ước tác chiến cùng với {KINGDOM}." />
+    <string id="F3MPgmhR" text="{CLAIMANT.LINK} nói rằng chủ nhân của {SETTLEMENT_NAME} nên là {CLAIMANT_CLAN}, chứ không phải {CURRENT_OWNER_CLAN}." />
+    <string id="FZdiWaBs" text="Khu vực chung của {HERO} đã bị chiếm đoạt" />
+    <string id="GRSAoy8H" text="Việc giao dịch {ITEM} bị cấm tại {FACTION_NAME_1}." />
+    <string id="h5rkbVu3" text="Chủ nhân mới của {SETTLEMENT} là {LORD.LINK}." />
+    <string id="h78oPYTs" text="{INSULTER.LINK} nói {INSULTEE.LINK} là một kẻ dị giáo." />
+    <string id="hJFCi1zu" text="{FACTION1} và {FACTION2} đã hoà bình." />
+    <string id="hopvV6Ch" text="{FACTION1_NAME} đã tuyên chiến với {FACTION2_NAME}" />
+    <string id="hP57Caab" text="{VICTOR_PARTY} của {VICTOR_FACTION} đánh bại {DEFEATED_PARTY} của {DEFEATED_FACTION}" />
+    <string id="Jo3Lux3w" text="{HERO_1.LINK} phải có trách nhiệm trước cái chết của {HERO_2.LINK}" />
+    <string id="jZcV4gI7" text="{INSULTER.LINK} đã nói {INSULTEE.LINK} dẫn đến chiến sự gặp thất bại do một hành động hèn nhát." />
+    <string id="KbakhGqB" text="{HERO_1.LINK} đã đánh bại quân đội của {HERO_2.LINK}." />
+    <string id="kcqSzPSL" text="{SETTLEMENT}" />
+    <string id="kMwv4QJK" text="{INSULTER.LINK} đã vì tranh đoạt cờ rút mà dẫn đến tranh chấp với {INSULTEE.LINK}." />
+    <string id="kqwNCCbZ" text="{TOWN_NAME} đã bị vây công bởi quân đội {LORD.LINK} của {FACTION_NAME}!" />
+    <string id="ksr1bSTC" text="{SETTLEMENT} đã bị quân đội {PARTY} tập kích" />
+    <string id="MoYYusXJ" text="{INSULTER.LINK} đã nói vì {INSULTEE.LINK} không tuân mệnh lệnh nên đã dẫn đến chiến sự gặp thất bại." />
+    <string id="nPF738Cb" text="{INSULTER.LINK} đã cáo buộc {INSULTEE.LINK} về việc gây chia rẽ giữa mọi người." />
+    <string id="orDGbYZE" text="{INSULTER.LINK} đã phát sinh tranh chấp với {INSULTEE.LINK}." />
+    <string id="P6wGNIb6" text="{MOTHER.LINK} đã sinh con {CHILD.LINK}." />
+    <string id="P9RGAGFC" text="{MOTHER.LINK} đã chết khi sinh con." />
+    <string id="pBMMXwVa" text="{INSULTER.LINK} đã rằng {INSULTEE.LINK} đã dùng thủ đoạn gian trá để dành đất." />
+    <string id="pHyqL3bw" text="{HERO.LINK} đã được sinh ra với mẫu thân là {MOTHER.LINK} và phụ thân {FATHER.LINK}." />
+    <string id="PLiydbpQ" text="{PARTY} đã bắt đầu tập kích {SETTLEMENT}." />
+    <string id="PsU1ri42" text="{PARTY1} đã cùng chiến đấu với {PARTY2}." />
+    <string id="RpVrqXOU" text="{INSULTER.LINK} đã phát sinh tranh chấp với {INSULTEE.LINK} vì miếng đất." />
+    <string id="S0oFKYfB" text="{CLAN} đã không còn phục vụ cho {KINGDOM} nữa." />
+    <string id="TsYCa2fZ" text="{FACTION1} đã cùng {FACTION2} hội nghị hoà bình" />
+    <string id="uXLDudpa" text="{MOTHER.LINK} đã sinh cặp song sinh, nhưng chúng đều đã chết yểu." />
+    <string id="WiiRaLyK" text="{INSULTER.LINK} đã nói {INSULTEE.LINK} đã gây cho chiến sự một thất bại vì hành động lỗ mãng." />
+    <string id="XRTcnnR2" text="{HERO.LINK} đã chạy trốn." />
+    <string id="xss7eP0f" text="{PARTY} đang tập kích {SETTLEMENT}" />
+    <string id="y8WlfdqZ" text="{LORD.LINK}" />
+    <string id="yUaE3eeX" text="{SETTLEMENT} đã bị thanh lý." />
+    <string id="z6tHRStO" text="{MOTHER.LINK} đã sinh một cặp song sinh, {CHILD1.LINK} và {CHILD2.LINK}." />
+    <string id="ZQ0bn7l7" text="{HERO_1} đã chịu trách nhiệM cho cái chết của {HERO_2}" />
+  </strings>
+</base>

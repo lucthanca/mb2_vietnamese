@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="Tiếng Việt" />
+  </tags>
+  <strings>
+    <string id="(" text="Ba Địch Mạc Tư" />
+    <string id="3nilwlcM" text="Bạn đã tới {TUTORIAL_SETTLEMENT_NAME}. Bạn bấm vào nút được tô sáng bên trái để có thể tiến vào khám phá một điểm định cư." />
+    <string id="3RqEmB15" text="Người chỉ dẫn Tạp Lạp Địch Á" />
+    <string id="3Y5dudW9" text="A Nhĩ Đạt" />
+    <string id="3YkpC9Nf" text="Bạn có thể lọc các vật phẩm bằng nút ở phía trên cùng ứng với các giá trị (Tên, Số lương, Giá trị)." />
+    <string id="4IZnbvlD" text="Bảo Đăng" />
+    <string id="5bYwdRFs" text="Huấn luyện kiếm thuật" />
+    <string id="5M48atXU" text="Bạn đã kích hoạt một nhiệm vụ! Bạn có thể tìm hiểu thêm về nhiệm vụ đó bằng cách chọn vào mục Nhật ký nhiệm vụ ở dưới góc trái màn hình." />
+    <string id="7xHMIZEP" text="Bia Tập Luyện" />
+    <string id="8UUV94Lq" text="Huấn luyện vũ khí tầm xa" />
+    <string id="8YvBapxl" text="Ngoã Lý Khắc" />
+    <string id="9YqwNQPO" text="Huấn Luyện Kỵ Xạ" />
+    <string id="ajo9KQpr" text="Đánh bại người huấn luyện tân binh" />
+    <string id="at4MdVBJ" text="Pháp Đề Đức" />
+    <string id="atWs6mkm" text="Huấn luyện Kiếm và Khiên" />
+    <string id="axnDLcDA" text="Nói chuyện với lại thủ lĩnh" />
+    <string id="B7WlM3CU" text="Bạn có thể mua các vật tư từ điểm định cư qua menu phía bên trái." />
+    <string id="C8NDynaB" text="Ni Á Sâm" />
+    <string id="CaCfbRJq" text="Nặc Quỳnh" />
+    <string id="CONYULU6" text="Pháp Tác Tư" />
+    <string id="CpKLau15" text="Anh trai bạn đề nghị bạn mua 2 bao ngũ cốc.{newline}{newline}Bạn có thể làm việc này bằng cách chọn vào mũi tên nhỏ phía bên trái trong hòm chứa đồ của bạn để tiến hành giao dịch" />
+    <string id="cZsPNpCs" text="Đang mua lương thực" />
+    <string id="d0LpBfis" text="Huấn luyện Nỏ" />
+    <string id="D0SoDPcr" text="Huấn luyện cận chiến nâng cao" />
+    <string id="ddoD208G" text="Tuỳ vào quan hệ của bạn với những người có danh tiếng, họ sẽ có thể giúp bạn chiêu mộ binh sĩ được nhiều và chất lượng hơn (cao cấp binh sĩ).{newline}{newline}Chọn vài binh sĩ, sau đó kéo sang quân đội của bạn." />
+    <string id="DELVwiEM" text="Đề Lạp" />
+    <string id="dFpNRB1g" text="Nặc Cam Đức" />
+    <string id="eFc6YuzQ" text="Để rời khỏi hoàn cảnh hiện tại, bạn có thể giữ phím &quot;Tab&quot;.{newline}{newline}Điều này sẽ giúp bạn trở lại menu của điểm định cư, nơi bạn có thể mua vật tư cũng như chiêu quân." />
+    <string id="EhELIf65" text="Đặc Lỗ Nhân" />
+    <string id="elRQHiLR" text="Huấn Luyện dùng kiếm trên lưng ngựa" />
+    <string id="f6xYa3c4" text="Chào mừng bạn đến với Tạp Lạp Địch Á!{newline}{newline}Bạn có thể khám phá bản đồ thiên hạ bằng việc sử dụng các phím WASD, dùng chuột phải để nhìn xung quanh, dùng lăn chuột để phóng to thu nhỏ bản đồ.{newline}{newline}Thử tý mà xem." />
+    <string id="FFP17aSl" text="Khi bắt đầu một trận chiến, các binh lính của bạn sẽ giữ nguyên phòng thủ tại vị trí. Bạn có thể ra lệnh cho họ tấn công bằng cách mở lệnh chỉ huy 'di chuyển' qua phím &quot;F1&quot; và chọn &quot;Đi theo ta&quot; bằng phím &quot;F2&quot;." />
+    <string id="fpdXZ0fl" text="Chiêu mộ" />
+    <string id="GCqWwDWg" text="Ba Lạp Địch Nhĩ" />
+    <string id="GjGF4xbn" text="Huấn luyện dùng khiên" />
+    <string id="gUvxp8mf" text="Huấn luyệN dùng cung" />
+    <string id="IcBq2jSZ" text="Ngải Thắc Nhân" />
+    <string id="Il7C9LQG" text="You can move your character:{newline}- Forwards with [W]{newline}- Backwards with [S]{newline}- Left with [A]{newline}- Right with [D]{newline}{newline}Try them all now!" />
+    <string id="JDtbzwB0" text="Nusun" />
+    <string id="jLWPSiOR" text="Speak to the Headman" />
+    <string id="jWvle1tC" text="Finish the track and hit targets as many as you can ({HIT} / {ALL}))" />
+    <string id="K0f6WLjV" text="To leave a mission, you can hold down the Tab key.{newline}{newline}This will return you to the settlement menu where you can purchase supplies and hire recruits." />
+    <string id="KiJd6Xik" text="Movement" />
+    <string id="KUEHAD4U" text="Quests" />
+    <string id="kwW6v202" text="Go to shooting position." />
+    <string id="L0tOoWpV" text="Go to normal trainer" />
+    <string id="L24eYhaX" text="Mount the horse" />
+    <string id="LGuJctoZ" text="Attack to trainer ({HIT} / {ALL})" />
+    <string id="lN1RQ260" text="Shoot targets ({HIT} / {ALL})" />
+    <string id="LS1whiyj" text="The menu on the top right shows the important people in your current location.{newline}{newline}Click on the headman's portrait to talk to him." />
+    <string id="m2uEbrkh" text="Najun" />
+    <string id="mfugkRoz" text="Hideouts &amp; Orders" />
+    <string id="MgBazeaE" text="Alte" />
+    <string id="MqeQco4z" text="Mounted Spear Training" />
+    <string id="MUEaqlix" text="Beat veteran trainer" />
+    <string id="NWxC3CbS" text="Fodor" />
+    <string id="OA9bQ8QJ" text="Alea" />
+    <string id="odbkXZkz" text="Moving your party is done by clicking on the map. This will leave a mark on the target location - unless you have clicked on inaccessible areas such as mountains or sea.{newline}{newline}Let’s set off to {TUTORIAL_SETTLEMENT_NAME}!" />
+    <string id="OFNEE8Xr" text="You can tell your men to charge by opening the movement orders with &quot;F1&quot; and choosing charge with &quot;F3&quot;." />
+    <string id="oj7B1GOT" text="Entering Settlements" />
+    <string id="OJmYUcaU" text="With Sword" />
+    <string id="okM9QUFA" text="Javelin Training" />
+    <string id="opUBnFym" text="Terte" />
+    <string id="P7KbSBvr" text="Mounted Training" />
+    <string id="pAf5Mt3X" text="Alishka" />
+    <string id="q65JaEBW" text="Alya" />
+    <string id="q71nXdD4" text="Go to trainer" />
+    <string id="QHhdmvLj" text="Combat Training" />
+    <string id="qNrWU4Or" text="Melee Training" />
+    <string id="qXv3BY5v" text="You can hold &quot;Left Alt&quot; key to see the location of the Headman.{newline}{newline}Once you are near him, press F to speak with him." />
+    <string id="QZHSvGrD" text="Baldrim" />
+    <string id="rLEIuqZO" text="After a hard-fought battle, you may have the choice to take some prisoners or recruit those that you have freed from your enemy.{newline}{newline}Both options are done by transferring the troops to your party with the little arrow button on the left." />
+    <string id="Rvn8tGB0" text="Your brother has asked you to hire at least 4 men before you set out to face the raiders.{newline}{newline}You can hire troops from villages and towns by clicking on the &quot;Recruit Troops&quot; button." />
+    <string id="Sfd3aqia" text="Bandan" />
+    <string id="tZtrK3cs" text="Horse Archery Training" />
+    <string id="uW4htMut" text="With Sword and Shield" />
+    <string id="w4Ajm40u" text="Faroc" />
+    <string id="WjuwOavt" text="Hideout missions begin with the enemy unaware of your approach.{newline}{newline}Order your troops to follow you with the &quot;F1&quot; and &quot;F2&quot; shortcuts and try to take them on in small groups." />
+    <string id="wq9sNkMc" text="Leaving a Mission" />
+    <string id="WTF4ZIe7" text="Jatu" />
+    <string id="x4xx1Zd6" text="Battle Commands" />
+    <string id="X7Xp9xGe" text="Tertha" />
+    <string id="xCHBC7S9" text="Click on the &quot;Talk&quot; button to return to the notable and learn more about the task ahead." />
+    <string id="Xr50xGhr" text=" ({TIME_SCORE} seconds)" />
+    <string id="XsIq2RFs" text="Baldim" />
+    <string id="yCEMiKjB" text="Choose your {SELECTION}" />
+    <string id="yvdQ9MD6" text="Terea" />
+    <string id="Z33uQl2f" text="Tarya" />
+    <string id="z9eC5hjv" text="With Spear and Shield" />
+    <string id="ZozwfwVl" text="Defend yourself ({HIT} / {ALL})" />
+    <string id="ZW9OGfEt" text="Rescuing &amp; Taking Prisoners" />
+  </strings>
+</base>

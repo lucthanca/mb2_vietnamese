@@ -5,31 +5,31 @@
   </tags>
   <strings>
     <string id="00fZGqbJ" text="Một ngày làm việc chăm chỉ đã qua {ENEMY_SETTLEMENT}. Chúng thật sự đáng giá." />
-    <string id="2AsFNABs" text="Every time we run down another group of those bandits, I think, that could have been me, had fate worked out a bit different." />
-    <string id="2R19RV70" text="Ta nghe nói ngươi đã chiếm được {SETTLEMENT_NAME}." />
-    <string id="2zjTq6N8" text="I hear you defeated {DEFEATED_LEADER_RELATIONSHIP} in battle. I won't pretend that I grieved too much when I heard that." />
-    <string id="3CKuk4Nj" text="I heard that you renounced your allegiance to {FIRST_NAME}. Let us pray that we may not come to blows." />
-    <string id="3vO2C8hO" text="My friend, I will never forget how we watered our last battlefield with the blood of {DEFEATED_PARTY_LEADER}'s men. I hope you have the stomach for more." />
-    <string id="6KMf8lNE" text="I remember our victory over {DEFEATED_PARTY_LEADER}. I will not forget your bravery in that battle." />
-    <string id="7vcCSGEN" text="I heard you defeated {DEFEATED_PARTY_LEADER}, even though he had you outnumbered. Most impressive." />
-    <string id="8qkWFWTa" text="When last we met, {PLAYER.LINK}, you had the better of me. If we ever meet in battle again, perhaps things will go differently." />
-    <string id="952DmRsV" text="I heard that you have pledged allegiance to our lord, {FIRST_NAME}. Well, I can't say that I would have trusted you, but perhaps you deserve the benefit of the doubt." />
-    <string id="9DDmAvXD" text="Apparently my family believes that we might make a good match." />
-    <string id="9HvWdW77" text="I hear you've been trying to take the credit for our victory over {DEFEATED_PARTY_LEADER}. I was on the battlefield too, you may remember." />
-    <string id="9VBbSF33" text="I remember our last battle. You should know better than to cross paths with me again." />
-    <string id="A7iiTdng" text="I hear the {ENEMY_TERM} beat you, but you put up a hard fight." />
-    <string id="A7nmHKBr" text="I hear you took {SETTLEMENT_NAME}. I hope the cost in lives was not too high.." />
-    <string id="al0vHv5D" text="I insulted {SIDE2TROOP}." />
-    <string id="ALIAwlgz" text="I heard that you fought and defeated {DEFEATED_PARTY_LEADER}. I wish you joy of your victory, my friend!" />
-    <string id="alO2F63A" text="I hear you fought bravely against {VICTORIOUS_PARTY_LEADER} and made the {ENEMY_TERM} pay heavily for their victory. I salute your courage and your men's sacrifice." />
-    <string id="AtbVSdJi" text="I heard that you have pledged allegiance to our lord, {FIRST_NAME}. No doubt you will soon betray him, and I will have the pleasure of watching you die a traitor's death." />
-    <string id="B8Kb89jk" text="That battle against the {ENEMY_TERM}. You failed, and we both paid the price." />
-    <string id="bb8AxGwc" text="I heard that you fought and defeated {DEFEATED_PARTY_LEADER}. A blow well struck!" />
-    <string id="BCNRS2ml" text="I hear you defeated {DEFEATED_LEADER_RELATIONSHIP} in battle. Well, I always knew you'd be a dangerous enemy." />
-    <string id="bI2XZrAk" text="I hear you came to blows with {VICTORIOUS_PARTY_LEADER}, and he gave you the thrashing you deserved." />
-    <string id="bOKqn4dN" text="Spare my caravans next time and find the courage to attack me directly." />
-    <string id="BYZXoAly" text="I remember our victory over {DEFEATED_PARTY_LEADER}. I am grateful for the aid. But if you think you can call upon that favor, you are mistaken." />
-    <string id="C6iJs2Ih" text="So.. You married {FIRST_NAME}. No doubt you'll both be very happy." />
+    <string id="2AsFNABs" text="Mỗi khi chúng ta hạ gục một đội cường dạo , ta nghĩ, nếu như vận mệnh phát sinh điểm sai lầm mà ta làm không tốt thì sớm muộn cũng sẽ trở thành đám cường dạo kia." />
+    <string id="2R19RV70" text="Ta nghe nói ngươi đã chiếm được{SETTLEMENT_NAME}." />
+    <string id="2zjTq6N8" text="Ta nghe nói ngươi đã đánh bại {DEFEATED_LEADER_RELATIONSHIP} trong trận chiến. Ta sẽ không giả vờ rằng ta đã rất đau lòng khi nghe thấy điều đó." />
+    <string id="3CKuk4Nj" text="Ta nghe nói rằng ngươi đã tuyên bố từ bỏ hiệ trung với {FIRST_NAME}. Mong rằng chúng ta có thể sẽ không như vậy." />
+    <string id="3vO2C8hO" text="Người bạn của ta, ta sẽ không bao giờ quên cái cách mà chúng ta đã chiến đấu hết mình trong trận chiến cuối cùng với sự anh dũng của {DEFEATED_PARTY_LEADER} người đàn ông's men. Ta hi vọng ngươi có thể thấy được điều đó nhiều hơn thế." />
+    <string id="6KMf8lNE" text="Ta nhớ chiến thắng đã qua của chúng ta {DEFEATED_PARTY_LEADER}. Ta sẽ không thể quên được sự dũng cảm của ngươi trong trận chiến đó." />
+    <string id="7vcCSGEN" text="Ta nghe nói ngươi đã đánh bại {DEFEATED_PARTY_LEADER}, mặc dù quân của hắn ta hoàn toàn vượt trội hơn. Thật ấn tượng." />
+    <string id="8qkWFWTa" text="Lần cuối chúng ta gặp nhau, {PLAYER.LINK}, ta đã có thiện cảm tốt với ngươi. Nếu chúng ta một lần nữa chiến đấu cùng chiến tuyến, có thể sẽ có những điều khác biệt xảy ra." />
+    <string id="952DmRsV" text="Ta nghe nói rằng ngươi đã tuyên thệ trung thành với quân chủ của chúng ta, {FIRST_NAME}. Hay lắm, ta không thể nói chắc rằng ta sẽ hoàn toàn tin tưởng ngươi, nhưng có lẽ những điểm hoài nghi của ta dành cho ngươi sẽ được giảm đi chút ít ." />
+    <string id="9DDmAvXD" text="Rõ ràng gia tộc của ta đã tin tưởng rằng chúng ta có thể kiến tạo nên một trận chiến hoàn hảo." />
+    <string id="9HvWdW77" text="Ta nghe nói ngươi đã cố gắng để góp phần vào chiến thắng của chúng ta {DEFEATED_PARTY_LEADER}. Ta cũng đã có mặt trong trận chiến đó, có thể ngươi vẫn còn nhớ ." />
+    <string id="9VBbSF33" text="Ta nhớ trận chiến cuối cùng của chúng ta. Ngươi nên hiểu rõ rằng ngươi có thể cùng ta vượt qua con đường đó một lần nữa." />
+    <string id="A7iiTdng" text="Ta nghe nói {ENEMY_TERM} đánh bại ngươi, nhưng chính ngươi đã khiến cho cuộc chiến ấy trở nên khó khăn hơn bao giờ hết." />
+    <string id="A7nmHKBr" text="Ta nghe nói ngươi đã chiếm được {SETTLEMENT_NAME}. Ta hi vọng rằng ngươi sẽ không phải trả một cái giá quá đắt, cũng không tổn thất quá nhiều binh sĩ." />
+    <string id="al0vHv5D" text="Ta đã thực sự nhẫn nhục {SIDE2TROOP}." />
+    <string id="ALIAwlgz" text="Ta nghe nói ngươi đã chiến đấu và đã đánh bại {DEFEATED_PARTY_LEADER}. Ta hi vọng ngươi hài lòng với chiến thắng của mình, bạn của ta ạ!" />
+    <string id="alO2F63A" text="Ta nghe nói ngươi đã chiến đấu dũng cảm {VICTORIOUS_PARTY_LEADER} và khiến {ENEMY_TERM} phải trả giá đắt cho chiến thắng của chúng. Ta xin nghiêng mình nể phục trước sự dũng cảm và sự hi sinh của một người đàn ông như ngươi ." />
+    <string id="AtbVSdJi" text="Ta nghe nói rằng ngươi đã tuyên thệ trung thành với quân chủ của chúng ta , {FIRST_NAME}. Không nghi ngờ gì nữa, ngươi sẽ phản bội hắn ta sớm thôi, và ta sẽ hả dạ xem ngươi chét với cái chết của một kẻ phản bội." />
+    <string id="B8Kb89jk" text="Trận chiến đấu đó {ENEMY_TERM}. Ngươi đã thất bại, và chúng ta đã đều phải trả giá cho điều này." />
+    <string id="bb8AxGwc" text="Ta nghe nói ngươi đã chiến đấu và đã đánh bại {DEFEATED_PARTY_LEADER}. Một cú knock out tuyệt vời!" />
+    <string id="BCNRS2ml" text="Ta nghe nói ngươi đã đánh bại {DEFEATED_LEADER_RELATIONSHIP} trong cuộc chiến . Thực sự, ta đã luôn biết ngươi chính là một đối thủ khó nhằn và cực kỳ nguy hiểm ." />
+    <string id="bI2XZrAk" text="Ta nghe nói ngươi đã đánh nhau với {VICTORIOUS_PARTY_LEADER}, và hắn ta đã trả lại ngươi một sự trừng phạt xứng đáng." />
+    <string id="bOKqn4dN" text="Đừng tiếp tục tìm tới thương đội của ta và nếu có ngon thì hãy trực tiếp chiến đấu với ta như những thằng đàn ông thực sự đi." />
+    <string id="BYZXoAly" text="Ta nhớ những chiến thắng đã qua của chúng ta {DEFEATED_PARTY_LEADER}. Không khí đó thật tuyệt vời đối với ta. Nhưng nếu ngươi nghĩ người có thể khơi gợi lại được sự đặc ân đó thì người đã nhầm rồi." />
+    <string id="C6iJs2Ih" text="Vậy.. Ngươi đã kết hôn {FIRST_NAME}. Không còn nghi ngờ gì nữa, các ngươi sẽ có được hạnh phúc thực sự." />
     <string id="CfYJZXok" text="You rebelled against {FIRST_NAME}. Look, I know you well. I'm sure you had your reasons. But you shouldn't have done that." />
     <string id="cQbIMImo" text="I will not forget our victory over {DEFEATED_PARTY_LEADER}." />
     <string id="CwJonOjV" text="You're a rebel and a traitor, {PLAYER.LINK}, but somehow I still can't bring myself to hate you." />

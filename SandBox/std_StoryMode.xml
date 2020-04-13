@@ -449,7 +449,7 @@
     <string id="QxeKZ3nE" text="Reach Clan Tier {CLAN_TIER}" />
     <string id="r2XC8nbZ" text="{YOUTH_INTRO}" />
     <string id="R3CnF55p" text="So... Who's this that comes through my place of business, killing my employees?[if:idle_angry][ib:warrior]" />
-    <string id="R4Gqskgq" text="Victory" />
+    <string id="R4Gqskgq" text="Chiến Thắng" />
     <string id="R5kLv5kg" text="I am what they call Palaic. Palaic is a language that is no longer spoken, except by a few old people. Even the word 'Palaic' is imperial. We are a people who have forgotten who we are." />
     <string id="r8ZLabb0" text="I have gathered all pieces of the Dragon Banner. What now?" />
     <string id="rbjjDYXj" text="You wefre defeated by the raiders in the hideout but you managed to escape. You need to wait to be able to attack again." />

@@ -960,7 +960,7 @@
     <string id="sBpcOmoi" text="It is something I must do, {LORD_SALUTATION}." />
     <string id="ScSV97Dm" text="We are preparing for an attack but we need some time to gather our men. Meet me here in {SETTLEMENT_NAME} after 3 days and we'll strike them together." />
     <string id="se2EXQu8" text="When the heat's this bad, a fellow can build up quite a thirst." />
-    <string id="seyti8xR" text="Victory!" />
+    <string id="seyti8xR" text="Chiến Thắng!" />
     <string id="SFWNy76G" text="As you are not a warrior, you are free to go." />
     <string id="sfxfiWxl" text="{?PLAYER.GENDER}Madam{?}Sir{\?}, people gossip. Everyone around here knows you’ve been asking those questions. Your quarry is going to slip away if you don’t move quickly." />
     <string id="sG9bKLdg" text="We welcome valiant warriors into our people, {PLAYER.NAME}, but you must prove yourself. Take your sword to my enemies and make a name for yourself, and we will formally adopt you as one of us. You may be given lands to protect and can speak at our councils." />

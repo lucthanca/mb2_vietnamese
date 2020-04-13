@@ -44,7 +44,8 @@
     <string id="1oeak0OC" text="Forge" />
     <string id="1PwQxaOu" text="Preparations seem to be under way for a tournament. Prize is {ITEM}." />
     <string id="1pxLpZ4r" text="Calculating:" />
-    <string id="1sJcKkVP" text="Guard" />
+    <string id="1sJcKkVP" text="Thủ Vệ" />
+    <string id="1wHTYnxh" text="Ngươi đã ủng hộ mưu đồ chống đối lại Đế Quốc!" />
     <string id="1wkANMRC" text="Our plan is to try and hold this narrow pass." />
     <string id="1XVvU23F" text="Unable to use the clipboard text as body properties key!" />
     <string id="1Zq8mzzJ" text="Well now. Let's see what sort of fly has stumbled into our web." />
@@ -252,7 +253,8 @@
     <string id="A0sT86A3" text="No War Selected" />
     <string id="a0YMy8E5" text="{REQUIRED_ITEM} is needed for upgrade." />
     <string id="a10WGnBr" text="FOUL! No fighting outside of the joust. You have been disqualified!" />
-    <string id="a15eUf3B" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} and {?}{\?}{TROOP_NAMES_END} {?IS_PLURAL}are{?}is{\?} fighting enemy inside the walls." />
+    <string id="a15eUf3B" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} và {?}{\?}{TROOP_NAMES_END} {?IS_PLURAL}đang{?}đang{\?} chiến đấu với quân địch trong thành." />
+    <string id="A1tkQyBb" text="{KINGDOM_NAME} đã bị diệt. Ngươi đã bị đánh bại!" />
     <string id="a3hmB91k" text="Build and operate siege engines. Successfully use engines in sieges offensively or defensively." />
     <string id="A3T5z4Mv" text="Defensive" />
     <string id="a3uKkLez" text="{LORD.LINK} is in the field nearby {SETTLEMENT_NAME}" />
@@ -306,11 +308,13 @@
     <string id="AMhvD9om" text="Army Commander" />
     <string id="anHqaNK0" text="queen" />
     <string id="anrHk7ea" text="{PARTY} is leading the attack on the enemy. You'll be joining {?ARMY_COMMANDER_GENDER}her{?}him{\?} with your troops." />
-    <string id="aNSAaHk9" text="Bagh Chal is a game of Sheep (white) versus Wolves (black).{newline}The wolves have four pawns that start on the four corners of the board. Every turn, one sheep is placed on the board, and one wolf makes a move or capture until all sheep have been placed on the board.{newline}After all sheep have been placed, the sheep can now also move on the board." />
-    <string id="aOvxxLZ8" text="Food Variety" />
+    <string id="aNSAaHk9" text="Dương Lang Kỳ là một trò chơi về Dê (trắng) đấu với Sói (đen).{newline}Sói có 4 quân cờ, lúc bắt đầu đặt trên 4 góc của bàn cờ. Mỗi lượt đi đều sẽ có một con Dê được đặt vào bàn cờ, một con Sói sẽ di chuyển hoặc là bắt lấy Dê, cho đến khi tất cả các Dê đều được đặt vào trong bàn cờ mới thôi. {newline}Sau khi tất cả Dê đều được đặt vào bàn cờ, Dê cũng có thể bắt đầu di chuyển trên bàn cơ rồi." />
+    <string id="AONnsaao" text="Ngươi là lãnh tụ của Đế Quốc!" />
+    <string id="aOvxxLZ8" text="Lương Thực Đa Dạng" />
+    <string id="Aph8CcKO" text="Điểm Thuộc Tính Khả Dụng: Bạn có thể dùng các điểm này để phân bố tới bất kỳ thuộc tính nào. Mỗi lần bạn tăng {ATTRIBUTE_EVERY_LEVEL} cấp, liền có thể nhận được một Điểm Thuộc Tính Khả Dụng. " />
     <string id="ar2Y8Xs9" text="{LEFT}: " />
     <string id="aR4e8B2A" text="II" />
-    <string id="arHXmqqc" text="a beg" />
+    <string id="arHXmqqc" text="một lời cầu xin" />
     <string id="arWaVMpe" text="We must hit hard and destroy their siege machines." />
     <string id="asHzEWnG" text="We shall stain the sands with your blood, then." />
     <string id="aTLrmbVL" text="Tier IV" />
@@ -480,10 +484,11 @@
     <string id="DJgeYv9X" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} and {?}{\?}{TROOP_NAMES_END} {?IS_PLURAL}are{?}is{\?} moving in reserve." />
     <string id="DjoYTx2w" text="Mercenaries cannot gather armies" />
     <string id="dKcvwi6V" text="Well well, look at this! You'd best start coughing up some silver, friend, or me and my boys'll have to break you." />
-    <string id="DKqLY1aJ" text="Equip" />
+    <string id="DKnL0IcO" text="Ngươi đã phá huỷ Đế Quốc!" />
+    <string id="DKqLY1aJ" text="Trang Bị" />
     <string id="dKXdN4BL" text="You are leading an army" />
-    <string id="dLXZaEI1" text="Buying Foods" />
-    <string id="DM6luo3c" text="Continue" />
+    <string id="dLXZaEI1" text="Đang mua Lương Thực" />
+    <string id="DM6luo3c" text="Tiếp Tục" />
     <string id="dMKyWmJ6" text="You are trapped by enemies." />
     <string id="dO5tqXT8" text="Ex-Spouse" />
     <string id="DOKG38dF" text="Tutorials Enabled" />
@@ -499,8 +504,9 @@
     <string id="DU9SofaW" text="Cut" />
     <string id="DuFg1avZ" text="Next level at: {NEXT_SKILL_POINTS}" />
     <string id="Duoo5R2P" text="Arena Master" />
-    <string id="DvecWeGT" text="Winter {DAY}, {YEAR}" />
-    <string id="DvGueBrU" text="Linen" />
+    <string id="DvecWeGT" text="Mùa Đông {DAY}, {YEAR}" />
+    <string id="DvGueBrU" text="Vải Lanh" />
+    <string id="Dw3CViwY" text="Ngươi đã đánh bại Đế Quốc!" />
     <string id="dxtuFW8b" text="You put up quite a good fight there. Some very good moves. A few errors, sure, but you definitely show promise. And you earned a prize of {PRIZE}{GOLD_ICON} for knocking down {OPPONENT_COUNT} opponents." />
     <string id="DyarV8i7" text="There is already a proposed decision for this policy." />
     <string id="dyLYsWPf" text="Assuring Presence Perk Bonus" />
@@ -736,8 +742,7 @@
     <string id="InGwtrWt" text="Quit" />
     <string id="inKr3PbA" text="Armies" />
     <string id="iNriAkLl" text="Used for increasing speed" />
-    <string id="ioBKEA6x" text="You can use free focus points for increasing your learning limit in individual skills. Characters earn one focus point evry time they level up." />
-    <string id="ioKVFDcQ" text="{?AND} {?}and {\?}{SENTENCE_3} " />
+    <string id="ioKVFDcQ" text="{?AND} {?}và {\?}{SENTENCE_3} " />
     <string id="iOLa5rjZ" text="Grain is usually the cheapest food you can buy.{newline}{newline}Other types of food may grant various bonuses when consumed.{newline}{newline}Buy some food now." />
     <string id="IoLK7Lec" text="Base size" />
     <string id="iORENG5d" text="Mercenaries cannot propose policies." />
@@ -775,6 +780,7 @@
     <string id="Jd0Kq9lD" text="Shield" />
     <string id="jd4ULLGr" text="Active Quests" />
     <string id="JdNTRtpJ" text=" Maintain high morale in your party. Assemble and lead armies. " />
+    <string id="jEaglTuQ" text="Ngươi đã thống nhất Đế Quốc!" />
     <string id="Jelvod71" text="Capturing" />
     <string id="jfIbp2Hg" text="Follow Up: " />
     <string id="JflqTj4T" text="Misc." />
@@ -820,7 +826,6 @@
     <string id="k8PxNh7x" text="Shield V" />
     <string id="k8QpbFnj" text="Cape" />
     <string id="k9QvIYaR" text="Focus points are used to increase the learning rate at any skill." />
-    <string id="kA5tlKTz" text="Free Attribute Points: You can use these points to increase attributes. You'll gain one free attribute for every three levels you gain. " />
     <string id="ka7vAxgo" text="Charge at enemy {TARGET_FORMATION}" />
     <string id="KawqKhwh" text="Heavy Armor" />
     <string id="KC5AZohd" text="Greetings, traveler. Welcome to our forest. We're going to have to collect a small toll." />
@@ -854,11 +859,12 @@
     <string id="KSaxvbs9" text="Show on map" />
     <string id="ktFeXrXl" text="You cannot make any moves. Skipping turn." />
     <string id="KTGG9EgL" text="Safe journeys! Don't let yourself get robbed by anyone but us!" />
-    <string id="Ktk2FaFn" text="Parties ({CURRENT}\{LIMIT})" />
-    <string id="KUEHAD4U" text="Quests" />
+    <string id="Ktk2FaFn" text="Quân Đội ({CURRENT}\{LIMIT})" />
+    <string id="KUEHAD4U" text="Nhiệm Vụ" />
+    <string id="kUh3nsAF" text="Ngươi đã tìm thấy mảnh thứ 3 cũng là mảnh cuối của lá cờ!" />
     <string id="kuKad3dj" text="{MISSION_MODE}" />
-    <string id="kuLjsNgz" text="Rural Notable" />
-    <string id="kvykuTJS" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} and {?}{\?}{TROOP_NAMES_END} {?IS_PLURAL}are{?}is{\?} attacking siege weapons." />
+    <string id="kuLjsNgz" text="Nhân Sĩ Nông Thôn" />
+    <string id="kvykuTJS" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} và {?}{\?}{TROOP_NAMES_END} {?IS_PLURAL}are{?}is{\?} attacking siege weapons." />
     <string id="kwKT6zKq" text="Your unit is expected to: {BEHAVIOUR_NAME_BEGIN}{?IS_PLURAL} and {?}{\?}{BEHAVIOUR_NAME_END}" />
     <string id="KWXEMsHC" text="{LORD.LINK} is at {SETTLEMENT_NAME}" />
     <string id="kx7q8ybD" text="Arm Armor" />
@@ -948,13 +954,14 @@
     <string id="mNr84Xm1" text="Can't access clan window right now!" />
     <string id="mPaQzgS0" text="Good to see you here, {PLAYER.LINK}." />
     <string id="MpDMaBE9" text="Defy us, will you? We'll drink from your skull!" />
-    <string id="MPZ40lEk" text="Naming Newborn" />
+    <string id="MPZ40lEk" text="Đặt Tên Cho Con Mới Sinh" />
     <string id="MqCH7R4A" text="Security" />
-    <string id="MqsWixDp" text="Retreat!" />
+    <string id="MqsWixDp" text="Rút Lui!" />
     <string id="MRktqZwu" text="Skill Focus" />
     <string id="MrtzlaYt" text="During battles, holding down the Alt key shows markers on enemy and allied formations." />
     <string id="mSPDO0Fe" text="You are trapped by enemies. You are not in no condition to fight. Your only option is to surrender." />
-    <string id="MT4b8H9h" text="Unknown" />
+    <string id="MT4b8H9h" text="Chưa biết" />
+    <string id="mtndRgOg" text="Ngươi phát động âm mưu chống phá lại Đế Quốc!" />
     <string id="mTTWkewD" text="Give" />
     <string id="MUCmJaXQ" text="Ruler of {FACTION}" />
     <string id="MW8rlyfL" text="Thrown" />
@@ -1032,13 +1039,14 @@
     <string id="ogtgc69b" text="You have been awarded the right to carry a banner. Your banner will signify your status and bring you honour. Which banner do you want to choose?" />
     <string id="OGxk0EXC" text="The tournament has ended. {TOURNAMENT_FINAL_PARTICIPANT_A} wins by beating {TOURNAMENT_FINAL_PARTICIPANT_B} in the final round." />
     <string id="oHaWR73d" text="Ok" />
-    <string id="Ohdrbpiw" text="Vlandian" />
-    <string id="OhLXo0gb" text="Criminal Governor" />
+    <string id="Ohdrbpiw" text="Ngoã Lan Địch Á" />
+    <string id="OhLXo0gb" text="Tổng Đốc Hình Sự" />
     <string id="OIBpCGYv" text="This party will shrink in size. It's current size target is {TARGET_SIZE}" />
     <string id="OiCCv0EL" text="The village is going through hard times. Farm tools are rusty and broken. Brush and weeds are reclaiming the outermost fields. " />
+    <string id="OikiOJgf" text="Ngươi tìm thấy mảnh cờ hiệu thứ 2!" />
     <string id="oiSW6MyB" text="Chest Armor" />
-    <string id="OJbpmlXu" text="Ranged" />
-    <string id="OJmC1Ckc" text="Remaining opponent: {REMAINING_OPPONENT_COUNT}" />
+    <string id="OJbpmlXu" text="Tầm xa" />
+    <string id="OJmC1Ckc" text="Đối thủ còn lại: {REMAINING_OPPONENT_COUNT}" />
     <string id="okH55fbn" text="New reinforcements have arrived for ally side!" />
     <string id="OKUTPdaa" text="Level" />
     <string id="ol0rBSrb" text="{STR1}{newline}{STR2}" />
@@ -1046,12 +1054,13 @@
     <string id="OLyjbawD" text="[More]" />
     <string id="ONGv27TH" text="Now out of my sight, you mangy cringing cur!" />
     <string id="OnttNMRn" text="Shield IV" />
-    <string id="Ooqyo9RB" text="Skip Round" />
-    <string id="OPhlqUVl" text="Talk" />
-    <string id="OpSGWdrk" text="Gangster" />
-    <string id="OqCodBZJ" text="Stop there you dog! Show us what you've got!" />
-    <string id="oRaa1yls" text="Consumable" />
-    <string id="OSZUvWbG" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} and {?}{\?}{TROOP_NAMES_END} {?IS_PLURAL}are{?}is{\?} ready." />
+    <string id="Ooqyo9RB" text="Bỏ qua lượt" />
+    <string id="OPhlqUVl" text="Nói Chuyện" />
+    <string id="OpSGWdrk" text="Đạo Tặc" />
+    <string id="OqCodBZJ" text="Đứng lại con chó kia! Cho ta xem ngươi có gì nào!" />
+    <string id="oqEV14Lm" text="Ngươi ủng hộ âm mưu chống phá lại Đế Quốc!" />
+    <string id="oRaa1yls" text="Vật tiêu hao" />
+    <string id="OSZUvWbG" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} và {?}{\?}{TROOP_NAMES_END} {?IS_PLURAL}đã{?}đã{\?} sẵn sàng xuất phát." />
     <string id="ot2M62R8" text="+{BONUS_AMOUNT} xp bonus to garrison troops" />
     <string id="OtP3heba" text="You've beaten your opponent and won the game!" />
     <string id="ou9asw1a" text="Swing {SWING_DAMAGE_TYPE} Damage: " />
@@ -1080,6 +1089,7 @@
     <string id="PE4nuMc7" text="This page explains the game concepts in Bannerlord" />
     <string id="PEKxMxal" text="STUB: You can now escape." />
     <string id="pEm60xEX" text="Your opponent captures a pawn." />
+    <string id="pERXhX7A" text="Ngươi tìm thấy mảnh cờ hiệu đầu tiên!" />
     <string id="pftVKkgq" text="To keep track of a settlement on the campaign map, press the circle next to its name." />
     <string id="pgbC8UkU" text="Rebellion" />
     <string id="pgd7Dp78" text="Dwellings" />
@@ -1087,8 +1097,8 @@
     <string id="PHkC8Gia" text="Sell" />
     <string id="PhoKHbhd" text="Battle won. Press {leave_key} to view results" />
     <string id="Pia30xtc" text="{?ASKED_LORD.GENDER}She{?}He{\?} is currently at {TOWN_NAME}." />
-    <string id="PiHpR4QL" text="One Handed" />
-    <string id="PitdvCJI" text="Change Governor" />
+    <string id="PiHpR4QL" text="Một Tay" />
+    <string id="PitdvCJI" text="Thay đổi Tổng Đốc" />
     <string id="PJEuE208" text="Militia:" />
     <string id="PJNW1UWK" text="Shop Keeper" />
     <string id="pJR9zz06" text="Troops that are ready to upgrade are marked with a special icon.{newline}{newline}Some troops may have two possible upgrade paths." />
@@ -1182,7 +1192,7 @@
     <string id="QWqvGa1P" text="Cow" />
     <string id="r312jCKr" text="Propose Peace" />
     <string id="R4eS65oX" text="Some of the angry villagers grab their tools and prepare to resist you. It looks like you'll have a fight on your hands if you continue." />
-    <string id="R4Gqskgq" text="Victory" />
+    <string id="R4Gqskgq" text="Chiến Thắng" />
     <string id="R5IOmwN1" text="Building Siege Camp" />
     <string id="R6oKMaZ5" text="{MARRIED_HERO.LINK} married {MARRIED_TO.LINK}." />
     <string id="R7v2UD8b" text="You move a pawn." />
@@ -1222,11 +1232,12 @@
     <string id="rY23b263" text="Your opponent moves a pawn." />
     <string id="RzjMX0Og" text="Good. Now be on your way. Don't forget to drink lots of water!" />
     <string id="rzsRQkXw" text="{CHAR_NAME} already have {PERK_NAME} perk." />
-    <string id="s1NEbhFL" text="In Queue" />
-    <string id="S3ymfdwB" text="You have made changes. Do you want to apply them?" />
-    <string id="s5h0Yarn" text="Manage your army" />
-    <string id="s6ofDDii" text="Barricade" />
-    <string id="s9oED1IR" text="Skirmisher" />
+    <string id="s1NEbhFL" text="Trong Hàng Đợi" />
+    <string id="S3ymfdwB" text="Bạn đã làm thay đổi. Bạn có muốn áp dụng nó ngay không?" />
+    <string id="s5h0Yarn" text="Quản lý quân đội" />
+    <string id="s6ofDDii" text="Chướng ngại vật" />
+    <string id="s9oED1IR" text="Tán Binh (Bộ Binh hoặc Kỵ Binh hạng nhẹ)" />
+    <string id="SBp4Ja1u" text="Bạnc có thể dùng Chuyên Tinh Điểm để tăng giới hạn khả năng học các kỹ năng đặc biệt cá nhân. Nhân vật sẽ nhận được {FOCUS_PER_LEVEL} Chuyên Tinh Điểm mỗi khi tăng cấp." />
     <string id="sbricRaZ" text="Earnings from Bets: {BET}" />
     <string id="SdcpdfaV" text="Hey - you. What you got in your bags? What are you carrying?" />
     <string id="SdXS4lxN" text="Faction Leader Bonus" />
@@ -1362,12 +1373,13 @@
     <string id="V1FKcYyi" text="{SETTLEMENT_NAME} (Looted)" />
     <string id="v3cY44N1" text="You cannot annex a ruling clan's settlement." />
     <string id="v5bJd6mZ" text="+{BONUS_AMOUNT} bonus to prosperity change" />
-    <string id="V7ESaOJU" text="Choose your banner" />
+    <string id="V7ESaOJU" text="Chọn cờ hiệu" />
     <string id="v7HPTy2y" text="With a strong army at your behest, you can conquer an enemy castle or city. This looks like a good target to besiege." />
-    <string id="Vap6ahft" text="Men! {BEHAVIOUR_NAME_BEGIN}!" />
-    <string id="VbeHEAsa" text="Retreat" />
+    <string id="v8gFAT88" text="Bạn đã phát động âm mưu chống phá lại kẻ địch của Đế Quốc!" />
+    <string id="Vap6ahft" text="Các huynh đệ! {BEHAVIOUR_NAME_BEGIN}!" />
+    <string id="VbeHEAsa" text="Rút Lui" />
     <string id="VbL6GFmy" text="Butter" />
-    <string id="Vc9Mx6Jb" text="Quest" />
+    <string id="Vc9Mx6Jb" text="NhiệM vụ" />
     <string id="vdEoBkpr" text="You must maintain food supplies at all times. If you run out of food, your party will lose morale. Your troops may desert you because of low morale.{newline}{newline}You can see your food reserve on the info bar. Hover over it to see how much food your party consumes each day. Since your party needs food, go to marketplace now to purchase some." />
     <string id="vdK5SaJN" text="Mm. Pity.[ib:aggressive][rb:very_negative]" />
     <string id="vdKLq8T5" text="Walls{newline}Level {LEVEL}" />
@@ -1438,7 +1450,8 @@
     <string id="wshehbFu" text="Mercenaries cannot disband armies." />
     <string id="WSk5Sibs" text="Cheese" />
     <string id="WSoZkkqD" text="PrisonGuard" />
-    <string id="wtDdqXGW" text="Well, I'm glad you respect our ancient and sacred privileges." />
+    <string id="wtDdqXGW" text="Tốt, Ta rất lấy làm vui mừng vì ngươi đã tôn trọng những đặc quyền cổ xưa thần thánh của chúng ta." />
+    <string id="wTEYR4kc" text="Ngươi đã chọn là tuyên thệ hiệu trung với {KINGDOM_NAME}!" />
     <string id="WTR5Lr8W" text="The defenders win when they can move their king to any edge of the board.{newline}The attackers win when they capture the king, or if they can prevent all defenders from moving." />
     <string id="wTT3Fyzl" text="sir" />
     <string id="WusvipsF" text="Insufficient funds!" />

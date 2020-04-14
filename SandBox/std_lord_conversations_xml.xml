@@ -4,41 +4,24 @@
     <tag language="Tiếng Việt" />
   </tags>
   <strings>
-    <string id="3WjKtaS0" text="I am not commanding any men at the moment." />
-    <string id="5uCebOUD" text="We are resting at {s1}. {s14}{s15}" />
-    <string id="5ypRJiWZ" text="Thanks for information" />
-    <string id="62AkUCOw" text="Why do not you defend..." />
-    <string id="6rTxjBWe" text="We are recruiting new soldiers from {s1}. {s14}{s15}" />
-    <string id="7TIRUaPi" text="We are travelling to {s1}. {s14}{s15}" />
-    <string id="8SUpFvJD" text="We are retreating to {s1}. {s14}{s15}" />
-    <string id="8VsbaDHu" text="We are fighting against {s1}. {s14}{s15}" />
-    <string id="8xvSu9fX" text="Forgive me {?NPC.GENDER}madame{?}sir{\?}. I don't know what I was thinking." />
-    <string id="9BblWBGo" text="If you are looking for action against our foes, you may try venturing out to {s4}. We have received word that a force of the {s5} is in the area, and I am going there myself. I cannot guarantee you that our enemies will be there when you arrive, of course." />
-    <string id="b9iOMo1O" text="I am leading the army of the realm." />
-    <string id="DyQ18GAX" text="I am screening {s1}'s advance. {s14}{s15}" />
-    <string id="fbM7drKO" text="Why do not you besiege..." />
-    <string id="fBt8X6Tw" text="Eh? What do you want?" />
+    <string id="5ypRJiWZ" text="Cảm tạ vì đã cung cấp thông tin" />
+    <string id="62AkUCOw" text="Tại sao ngươi không phòng thủ..." />
+    <string id="8xvSu9fX" text="Hãy thứ lỗi cho ta {?NPC.GENDER}phu nhân{?}tiên sinh{\?}. Ta không biết ta nghĩ cái gì nữa." />
+    <string id="fbM7drKO" text="Tại sao ngươi không vây công..." />
+    <string id="fBt8X6Tw" text="Ế? Ngươi muốn như nào?" />
     <string id="gBbIWuDW" text="TODO_OZAN_1 s43" />
-    <string id="GnxvoJ38" text="If you are looking for action against our foes, you may join our attack on {s4}. The enemy may come in force to oppose us, so it is good to have as many men as possible." />
-    <string id="GUIwjFKP" text="Ok, let's follow your advice first." />
-    <string id="gZSdus34" text="I offer you one chance to surrender or die." />
-    <string id="HEJOdRwi" text="Forgive me, {?NPC.GENDER}madame{?}sir{\?}. I don't know what I was thinking." />
-    <string id="hjZkoJbc" text="I think {ACTION} {SETTLEMENT} is more logical currently, can you help me in doing this. {AMOUNT}{GOLD_ICON}" />
-    <string id="HKMdHYb7" text="I stand my ground. Prepare to fight!" />
+    <string id="GUIwjFKP" text="Được, trước tiên cứ theo đề nghị của ngươi đi." />
+    <string id="gZSdus34" text="Ta chỉ nói một câu, đầu hàng hoặc CHẾT." />
+    <string id="HEJOdRwi" text="Thứ lỗi cho ta, {?NPC.GENDER}phu nhân{?}tiên sinh{\?}. Không biết ta đang nghĩ cái gì nữa." />
+    <string id="hjZkoJbc" text="Ta cho rằng hiện tại mà {ACTION} {SETTLEMENT} thì đúng là vô cùng hợp lý, ngươi có thể giúp ta một chút sức lực hay không. {AMOUNT}{GOLD_ICON}" />
+    <string id="HKMdHYb7" text="Ta luôn giữ vững lập trường. Chuẩn bị chiến đi!" />
     <string id="JbWJ7Rxl" text="{POSSIBLE_TARGET}" />
-    <string id="JLXPDR9K" text="I don't know: {reg1} {s1} (ERROR)" />
-    <string id="ltS8zmH8" text="Are you mad? I'm not your enemy." />
-    <string id="M7O3AItb" text="Forgive me. It's nothing." />
-    <string id="mjoxaNQz" text="If you are looking for action against our foes, you may try venturing out to {s4}. We have received word that a force of the {s5} is in the area. I am not currently headed that way, but others may be.  I cannot guarantee you that our enemies will be there when you arrive, of course." />
-    <string id="RFkvMoMU" text="We are laying waste to the village of {s1}. {s14}{s15}" />
+    <string id="ltS8zmH8" text="Ngươi có vấn đề về não hả? Ta không phải là kẻ địch của ngươi." />
+    <string id="M7O3AItb" text="Thứ lỗi cho ta. Không có gì đâu." />
     <string id="RJbrrM0K" text="{REASON}" />
-    <string id="s61RscYw" text="Where?" />
-    <string id="sSrP56d2" text="We are scouting for the enemy around {s1}. {s14}{s15}" />
-    <string id="UUKIk0WP" text="We are accompanying {s1}. {s14}{s15}" />
-    <string id="vsxVIDqT" text="Be gone, then." />
+    <string id="s61RscYw" text="Chỗ nào cơ?" />
+    <string id="vsxVIDqT" text="Vậy thì đi thôi." />
     <string id="WzipKNWN" text="{s43}" />
-    <string id="x6qI4aBP" text="What am I doing? What does it look like I'm doing?! I'm a prisoner here!" />
-    <string id="YLPPnLMu" text="I am heading to the vicinity of {s1}. {s14}{s15}" />
-    <string id="ztuhSo8h" text="Why do not you raid..." />
+    <string id="ztuhSo8h" text="Vì cớ gì ngươi không tập kích..." />
   </strings>
 </base>

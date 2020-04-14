@@ -4,9 +4,10 @@
     <tag language="Tiếng Việt" />
   </tags>
   <strings>
-    <string id="1VOXUsST" text="Customize your banner's symbol" />
-    <string id="3CpNUnVl" text="Cancel" />
-    <string id="Eg3m6vUS" text="Customize your personal banner by choosing your clan's symbol" />
-    <string id="WiNRdfsm" text="Done" />
+    <string id="1VOXUsST" text="Tuỳ chọn biểu tượng cho cờ hiệu của bạn" />
+    <string id="3CpNUnVl" text="Huỷ bỏ" />
+    <string id="Eg3m6vUS" text="Chọn biểu tượng cho gia tộc để tạo cờ hiệu của mình" />
+    <string id="ObTXSp9L" text="Không thể dán nếu chưa chọn đúng template." />
+    <string id="WiNRdfsm" text="Xong" />
   </strings>
 </base>

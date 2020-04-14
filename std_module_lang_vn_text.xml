@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+    <tags>
+        <tag language="Tiếng Việt" />
+    </tags>
+    <strings>
+        <string id="vadu_greeting_text" text="Module Tiếng Việt đã được bật. Hy vọng nó sẽ giúp các hạ hành tẩu dễ dàng hơn :D" />
+		<string id="vadu_credit_btn_txt" text="Dịch bởi Lục Thần Ca" />
+        <string id="vadu_clicked_btn_msg" text="Module hoá bởi Lục Thần Ca, hihi. Source thư viện được Ha ThanhKS chia sẻ.Nếu các hạ có bất kỳ câu hỏi nào thì hãy liên hệ với tại hạ. Giờ thì chiến thôi!" />
+    </strings>
+</base>

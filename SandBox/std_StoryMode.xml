@@ -4,6 +4,11 @@
     <tag language="Tiếng Việt" />
   </tags>
   <strings>
+    <string id="9ZyXl25X" text="cái thứ hai" />
+    <string id="HskL8pEa" text="{KINGDOM_NAME} đã bị đánh bại. Ngươi đã thất bại!" />
+    <string id="IL4FcHXv" text="Ngươi đã tuyên thệ hiệu trung với {KINGDOM_NAME}!" />
+    <string id="oAoTaAWg" text="cái đầu tiên" />
+    <string id="Pus87ZW2" text="Ngươi đã tìm được {BANNER_PIECE_COUNT} mảnh cờ hiệu!" />
     <string id="09z8Q08f" text="Your family were small farmers with just enough land to feed themselves and make a small profit. People like them were the pillars of the imperial rural economy, as well as the backbone of the levy." />
     <string id="0IeByuam" text="It was a victory, of the kind that is almost as bad as a defeat." />
     <string id="0LIb10KB" text="{EDUCATION_INTRO}" />
@@ -39,6 +44,7 @@
     <string id="3T0Rd1Zt" text="Very well. I'll have informants spread the news all around the Empire that a new, legitimate claimant has emerged. Complete with some omens to show the divine favor that follow you." />
     <string id="40oa2Nav" text="The banner of Calradios is part of a legend. They say it was carried by Calradios the Great as he led his small band of exiles into this land to make a new home for themselves. They say that, so long as it is carried by a true son of Calradios, he shall never be defeated in battle. Or a daughter, I imagine, although that has never come up.[sp:/Sounds/VO/mainquest/mntemp_q01_04.ogg]" />
     <string id="4Baa38ra" text="We won, barely, with the help of the imperials, but the Khergits were mauled. Since then, the Khergits have been rather weak - and you know what happens to the weak. Still, no one told them to put all their eggs in one basket like that." />
+    <string id="4cw169Kb" text="cái thứ ba và cũng là cái cuối cùng" />
     <string id="4d5SP6B6" text="{MENTOR.LINK} suggested that you should support an anti-imperial kingdom by offering them the Dragon Banner." />
     <string id="4f5xwzX0" text="When your community needed to organize a posse to pursue horse thieves, you were the obvious choice. You hunted down the raiders, surrounded them and forced their surrender, and took back your stolen property." />
     <string id="4IS4Lou7" text="I ran too. And any man who tells you he wouldn’t, in those circumstances, is a liar. When I was sitting in the cold woods later that night, hiding with other fugitives, listening to the barbarians whoop and holler as they chopped off heads as trophies - I promise them that no Calradian soldier should again be led into battle by an emperor who knows so little of war." />
@@ -610,7 +616,7 @@
     <string id="YBqmnNGv" text="\n+{VALUE} gold" />
     <string id="YcnK0Thk" text="Hunters" />
     <string id="YEeb0B1V" text="I am {HEADMAN.FIRSTNAME}, headman of this village. What brings you here?" />
-    <string id="yflx4LNc" text="Beat the trainer!" />
+    <string id="yflx4LNc" text="Hạ gục người hướng dẫn!" />
     <string id="yjOanW6x" text="I wonder which imperial faction I should support.." />
     <string id="YKzuGc54" text="You were big, and other children looked to have you around in any scrap with children from a neighboring village. You pushed a plough and throw an axe like an adult." />
     <string id="yNcBDr9j" text="You talked with {IMPERIAL_MENTOR.LINK}. Now, you may want to talk with {ANTI_IMPERIAL_MENTOR.LINK} and take {?ANTI_IMPERIAL_MENTOR.GENDER}her{?}his{\?} opinions too. {?ANTI_IMPERIAL_MENTOR.GENDER}She{?}He{\?} is currently in {SETTLEMENT_LINK}." />

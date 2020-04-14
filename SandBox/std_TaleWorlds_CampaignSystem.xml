@@ -4,8 +4,18 @@
     <tag language="Tiếng Việt" />
   </tags>
   <strings>
+    <string id="kaQ7DsW3" text="Nhân vật hiện không có mục tiêu để tăng cấp." />
+    <string id="m1bIfPf1" text="Nhân vật không có đủ điểm kinh nghiệm để tăng cấp." />
+    <string id="PJMbfSPJ" text="Có {NUMBER} tên tù binh muốn gia nhập quân đội, ngươi có thể chiêu mộ chúng." />
+    <string id="QwpHoMJu" text="Thứ Yếu" />
+    <string id="Wbm4XGB6" text="Ngươi có {NUMBER} binh sĩ có thể tăng cấp." />
+    <string id="rlqjkZ9Q" text="Ngươi có {NUMBER} sở trường mới có thể tiến hành nâng cấp." />
+    <string id="1zLZf5rw" text="Lính của ngươi đã mang ngươi ra từ chiến trường." />
     <string id="00bd3Huo" text="performing new rituals that treat the ruler as semi-divine" />
     <string id="01jmBrDb" text="+4 hitpoints." />
+    <string id="FSl1LFP6" text="{CLAN} đã nhận thêm {AMOUNT_TO_ADD} danh vọng. Điểm danh vọng mới là {NEW_RENOWN}" />
+    <string id="essaRvXP" text=" ủng hộ của Quốc Vương" />
+    <string id="FAIYN0vN" text="Nhiệm vụ của ngươi có {NUMBER} cái tiến triển mới." />
     <string id="02c5bQSM" text="Discard" />
     <string id="03DZpTYi" text="You are a wanted criminal." />
     <string id="03lc5R2t" text="You have tried to persuade me before. I will not stand your words again." />
@@ -409,7 +419,7 @@
     <string id="7ZqusnEa" text="Character can produce crude iron more efficiently by obtaining three units of crude iron from one unit of iron ore." />
     <string id="7ZUggDRD" text="Sword Master II" />
     <string id="81qgJ7fW" text="Every profitable shop you own gives you 1 renown per day" />
-    <string id="83iwPPVH" text="Strong Smith" />
+    <string id="83iwPPVH" text="Rèn Tinh Vi" />
     <string id="84vpd3LI" text="Army Dispersed" />
     <string id="85kgOyBj" text="After painful days of being imprisoned in dungeon, you find a chance break free and escape from the settlement!" />
     <string id="86YeKa2s" text="When introducing yourself to lords for the first time, have 10% chance to gain +2 relation with them" />
@@ -1219,12 +1229,12 @@
     <string id="G794L3jS" text="Local communities could sometimes force rulers to sign documents that might limit their powers. They would often use the increased autonomy to raise local militia forces." />
     <string id="g7hZw8LI" text="Have you brought {REQUESTED_AMOUNT} units of {RAW_MATERIALS}? I have a fat purse of {REWARD}{GOLD_ICON} for you as promised." />
     <string id="g7qhnsnJ" text="{CLAN_NAME} left kingdom {KINGDOM_NAME}." />
-    <string id="g8a8a8KJ" text="Immediately increase Strength (STR) by 1." />
-    <string id="g8JjBaNY" text="Scarred Description" />
-    <string id="g8jzdaM1" text="{FIRST_NAME} the Tanner" />
-    <string id="g8qb3Ame" text="Thank you." />
-    <string id="g9qLrEb4" text="Great Investor" />
-    <string id="g9VIbA9s" text="Sergeant" />
+    <string id="g8a8a8KJ" text="Ngay lập tức tăng 1 điểm Khống Chế (CTR)" />
+    <string id="g8JjBaNY" text="Mô tả kinh nghiệm sa trường" />
+    <string id="g8jzdaM1" text="Nhu Bì Công - {FIRST_NAME}" />
+    <string id="g8qb3Ame" text="Cảm ơn ngươi." />
+    <string id="g9qLrEb4" text="Chỉ lãi không lõ" />
+    <string id="g9VIbA9s" text="Quân Sĩ" />
     <string id="GAbxdioL" text="{FIRST_NAME} the {?FEMALE}She-Wolf{?}Stallion{\?}" />
     <string id="gAc8SWDt" text="There {?PLURAL}is{?}are{\?} {PRISONER_COUNT} {?PLURAL}prisoner{?}prisoners{\?} here." />
     <string id="gBcb92pJ" text="{FIRST_NAME} the Slicer" />

@@ -4,33 +4,53 @@
     <tag language="Tiếng Việt" />
   </tags>
   <strings>
-    <string id="05fdfc6e238429753ef282f2ce97c1f8" text="Stack Amount: " />
-    <string id="08abd5af7774d311cadc3ed900b47754" text="Type: " />
-    <string id="0Q4Xo2BQ" text="Select the Leader of the New Party" />
-    <string id="0rBsbw1T" text="No effect" />
-    <string id="13wo3QQB" text="Secondary" />
-    <string id="154a34f8caccfc833238cc89d38861e8" text="Requires: " />
-    <string id="1CXlqb2U" text="Pick:" />
-    <string id="1oeak0OC" text="Forge" />
-    <string id="29kdPaeK" text="This hero is busy" />
-    <string id="2abtb4xu" text="Independent" />
-    <string id="2ckyCKR7" text="Reserve" />
-    <string id="2Cq3tViJ" text="Party Troop Size Limit" />
+    <string id="dWYm9GsC" text="Yêu Cầu" />
+    <string id="eHVq6yDa" text="Thuộc Tính Vật Phẩm" />
+    <string id="eIws123Z" text="Giáp Chân" />
+    <string id="HkfY3Ds5" text="Giáp Thân" />
+    <string id="hn9TPqhK" text="Cấp Bậc" />
+    <string id="kftE5nvv" text="Giáp Ngựa" />
+    <string id="kx7q8ybD" text="Giáp Tay" />
+    <string id="Mfbc4rQR" text="Sát Thương Va Chạm" />
+    <string id="myMbtwXi" text="Điểm Sĩ Khí được thêm" />
+    <string id="O3dhjtOS" text="Giáp Đầu" />
+    <string id="rg7OuWS2" text="Thao Túng" />
+    <string id="s31DnnAf" text="Sát Thương" />
+    <string id="sqdzHOPe" text="Nhóm Loại" />
+    <string id="twtbH1zv" text="Số lượng ngăn xếp" />
+    <string id="US7UmBbt" text="Cấp Bậc Giáp" />
+    <string id="XzggyCPW" text="Vị anh hùng này hiện đang không rảnh." />
+    <string id="ZcybPatO" text="Độ dài vũ khí" />
+    <string id="ZUgoQ1Ws" text="Kiểu Ngựa" />
+    <string id="S9tmCkHz" text="Vị anh hùng này đang thanh lý một khu đạo tặc" />
+    <string id="sa2TQu1G" text="Vị anh hùng này đang bộn bề vấn đề cần giải quyết" />
+    <string id="lGWb26Lj" text="Vị anh hùng này đang có nhiệm vụ trên người." />
+    <string id="05fdfc6e238429753ef282f2ce97c1f8" text="Số lượng ngăn xếp: " />
+    <string id="08abd5af7774d311cadc3ed900b47754" text="Loại: " />
+    <string id="0Q4Xo2BQ" text="Chọn một quan chỉ huy cho quân đội mới" />
+    <string id="0rBsbw1T" text="Không có ảnh hưởng" />
+    <string id="13wo3QQB" text="Thứ yếu" />
+    <string id="154a34f8caccfc833238cc89d38861e8" text="Yêu cầu: " />
+    <string id="1CXlqb2U" text="Chọn:" />
+    <string id="1oeak0OC" text="Rèn" />
+    <string id="2abtb4xu" text="Độc Lập" />
+    <string id="2ckyCKR7" text="Lưu Giữ" />
+    <string id="2Cq3tViJ" text="Hạn mức số quân trong quân đội" />
     <string id="2GWR9Cba" text="Hearth" />
-    <string id="2nN1QuxZ" text="This quest will be failed unless completed in this time." />
-    <string id="3025020b83b218707499f0de3135ed0a" text="Maneuver: " />
-    <string id="305cf7f98458b22e9af72b60a131714f" text="Horse Armor: " />
-    <string id="345a87fcc69f626ae3916939ef2fc135" text="Swing Speed: " />
-    <string id="3ab000d582d2f304e8bed9109ff147a2" text="Consumable" />
+    <string id="2nN1QuxZ" text="Nếu trong thời gian được hạn định mà không hoàn thành nhiệm vụ, thì nhiệm vụ sẽ thất bại." />
+    <string id="3025020b83b218707499f0de3135ed0a" text="Thao Túng: " />
+    <string id="305cf7f98458b22e9af72b60a131714f" text="Giáp Ngựa: " />
+    <string id="345a87fcc69f626ae3916939ef2fc135" text="Tốc Độ Chém: " />
     <string id="3CpNUnVl" text="Cancel" />
     <string id="3F0y3ugx" text="Success!" />
     <string id="3ORSs1nN" text="Current bonus: {BONUS}" />
     <string id="3sxtCWPe" text="Leaving Kingdom" />
     <string id="43HYUImy" text="{SETTLEMENT}'s Siege" />
     <string id="4cU98rkg" text="Smelting" />
+    <string id="4Dd2xgPm" text="Trọng lượng" />
     <string id="4U9EnZt5" text="Critical Success!" />
-    <string id="4uMWNDoi" text="Thrust Speed" />
-    <string id="51ZgFP8d" text="Running From {TARGET_PARTY}." />
+    <string id="4uMWNDoi" text="Tốc độ đâm" />
+    <string id="51ZgFP8d" text="Đang chạy khỏi {TARGET_PARTY}." />
     <string id="5bzk75Ql" text="Engaging {TARGET_PARTY}." />
     <string id="5dCR9ixM" text="You can sell this workshop for {AMOUNT} denars." />
     <string id="5dec16fa0be433ade3c4cb0074ef366d" text="Accuracy: " />
@@ -38,12 +58,14 @@
     <string id="5Unqsx3N" text="Confirm" />
     <string id="63Ic1Ahe" text="Cost: {UPGRADE_COST} (You don't have)" />
     <string id="68IlDbA2" text="You need to have {PERK_NAME} perk to upgrade a bandit troop to a normal troop." />
-    <string id="6adabc1f82216992571c3e22abc164d7" text="Ammo Limit: " />
-    <string id="74dc1908cb0b990e80fb977b5a0ef10d" text="Speed: " />
+    <string id="6adabc1f82216992571c3e22abc164d7" text="Giới Hạn Mức Đạn: " />
+    <string id="6GSXsdeX" text="Tốc Độ" />
+    <string id="74dc1908cb0b990e80fb977b5a0ef10d" text="Tốc Độ: " />
     <string id="7h6cXdW7" text="Engineer" />
     <string id="7tBOCHm6" text="Sigil Color:" />
     <string id="7Xynf4IA" text="Hand Armor" />
-    <string id="8cad4a279770f269c4bb0dc7a357ee1e" text="Class: " />
+    <string id="8BlMRMiR" text="Cấp Bậc" />
+    <string id="8cad4a279770f269c4bb0dc7a357ee1e" text="Nhóm loại: " />
     <string id="8SOh9bah" text="Choose Production" />
     <string id="92M0Pb5T" text="Scout" />
     <string id="94aHU6nD" text="Daily Production" />
@@ -51,7 +73,8 @@
     <string id="a241aacb1780599430c79fd9f667b67f" text="Party Morale: " />
     <string id="a8nRxITn" text="Prisoner of {PARTY_NAME}" />
     <string id="aadiCuDe" text="{COMPLETION_PERCENT} (Approximately {DAYS} day to complete)" />
-    <string id="AcMayd1p" text="Running from {TARGET_PARTY}" />
+    <string id="AcMayd1p" text="Đang chạy khỏi {TARGET_PARTY}" />
+    <string id="bAqDnkaT" text="Tốc Độ Ném" />
     <string id="aE4ZRbB6" text=" {HEALTH}%" />
     <string id="aFYwbosi" text="This hero is already leading a party" />
     <string id="aGFxIvqx" text="Leave Member(s)" />
@@ -80,6 +103,7 @@
     <string id="cbbUzYX3" text="Difficulty: {DIFFICULTY}" />
     <string id="CExQ40Ux" text="{PARTY_1S_MEMBERS}   " />
     <string id="cf61cce254c7dca65be9bebac7fb9bf5" text="Arm Armor: " />
+    <string id="cnmRwV4s" text="Giới Hạn Đạn" />
     <string id="CnsIzaWo" text="Field Battle" />
     <string id="cUUI8u2G" text="Smithy Stamina" />
     <string id="d2K6gMsZ" text="Leave members. Need at least 1 companion." />

@@ -4,415 +4,415 @@
     <tag language="Tiếng Việt" />
   </tags>
   <strings>
-    <string id="03mPaWum" text="Kingdom" />
-    <string id="08oulGov" text="Drop your equipped weapon." />
-    <string id="0EDGnl1C" text="Ranged Only" />
-    <string id="0fLpwDzk" text="Sets the window mode.{newline}Windowed: Runs the game on a window.{newline}Fullscreen: Runs the game in full screen.{newline}Borderless Fullscreen: Runs the game on a borderless maximized window." />
-    <string id="0hzYbsXD" text="Equip Weapon 1 DESC" />
-    <string id="0MvDMsEl" text="Occlusion Method" />
-    <string id="0ot0eBzv" text="Turn Camera With Horse In First Person" />
-    <string id="0ufcpRUS" text="Move Camera Up" />
+    <string id="03mPaWum" text="Vương Quốc" />
+    <string id="08oulGov" text="Vứt bỏ vũ khí bạn đã trang bị." />
+    <string id="0EDGnl1C" text="Chỉ Tầm Xa" />
+    <string id="0fLpwDzk" text="Đặt chế độ cửa sổ.{newline}Cửa sổ: Chạy game trên cửa sổ màn hình.{newline}Toàn màn hình: Chạy game trên toàn màn hình.{newline}Toàn màn hình không viền: Chạy game trên 1 cửa sổ không có viền" />
+    <string id="0hzYbsXD" text="Trang bị vũ khí 1 DESC" />
+    <string id="0MvDMsEl" text="Phương Thức Tạo Mảng Tối" />
+    <string id="0ot0eBzv" text="Bật Camera theo góc nhìn của ngựa trong góc nhìn thứ nhất" />
+    <string id="0ufcpRUS" text="Di chuyển Camera lên" />
     <string id="0WrKbmfz" text="SMAA x2" />
-    <string id="0x44y8fb" text="Group 2 Hear DESC" />
-    <string id="0YV6wbsq" text="Pause time in campaign map." />
-    <string id="16EUzfcH" text="Adjust the exposure level according to your preference using the slider." />
-    <string id="1awQTVqN" text="Number Of Ragdolls" />
+    <string id="0x44y8fb" text="Tổ 2 nghe lệNh DESC" />
+    <string id="0YV6wbsq" text="Tạm dừng thời gian trên bản đồ chiến dịch." />
+    <string id="16EUzfcH" text="Dùng thanh trượt để điều chỉnh mức độ phơi sáng theo sở thích của bạn." />
+    <string id="1awQTVqN" text="Lượng Hiệu Ứng Các Xác Chết" />
     <string id="1dQFNvhQ" text="Numpad +" />
-    <string id="1ebaa1Wf" text="Toggle Walk/Run Mode" />
-    <string id="1uCaibsd" text="Full" />
-    <string id="1WsmBXkN" text="Frame Limiter" />
-    <string id="1zEr6Zs8" text="Left Stick Right" />
-    <string id="25MeMNbP" text="Right" />
-    <string id="26r6Q8at" text="Right Stick Down" />
-    <string id="2Ao5DCb6" text="Move Party Down" />
-    <string id="2AyPP3rw" text="High" />
-    <string id="2bPTx7So" text="Your character goes to crouching state." />
-    <string id="2e8wI3EM" text="Equip Weapon 2" />
+    <string id="1ebaa1Wf" text="Hoán Đổi Đi Bộ/Chế Độ Chạy" />
+    <string id="1uCaibsd" text="Đầy Đủ" />
+    <string id="1WsmBXkN" text="Giới Hạn Khung Hình" />
+    <string id="1zEr6Zs8" text="Analog trái hướng sang phải" />
+    <string id="25MeMNbP" text="Phải" />
+    <string id="26r6Q8at" text="Analog phải hướng xuống" />
+    <string id="2Ao5DCb6" text="Di chuyển đội ngũ xuống dưới" />
+    <string id="2AyPP3rw" text="Cao" />
+    <string id="2bPTx7So" text="Nhân vật của bạn tiến vào trạng thái cúi núp." />
+    <string id="2e8wI3EM" text="Trang bị vũ khí 2" />
     <string id="2EjZcRgF" text="F5" />
-    <string id="2h2148cq" text="Send Message To Everyone" />
-    <string id="2qFVBblU" text="Toggle Weapon Mode DESC" />
-    <string id="2v1xw6JS" text="Right Stick" />
-    <string id="2ZJQylWo" text="Switch between run and walk modes." />
-    <string id="3Dngsvya" text="Move Forward" />
-    <string id="3Gb7tKgJ" text="{LEFT} and {RIGHT}" />
-    <string id="3MLvkSjw" text="Report Shot Difficulty" />
-    <string id="3nTeojbI" text="=" />
-    <string id="3oUbmqJY" text="Synchronizes the game to the monitor's refresh rate. Eliminates tearing artifacts." />
-    <string id="3P7eDKEY" text="Equip Item 4" />
-    <string id="3sRdGQou" text="Leave" />
+    <string id="2h2148cq" text="Gửi tin nhắn tới tất cả mọi người" />
+    <string id="2qFVBblU" text="Hoán đổi chế độ vũ khí DESC" />
+    <string id="2v1xw6JS" text="Analog bên phải" />
+    <string id="2ZJQylWo" text="Chuyển đôi giữa chế độ đi và chạy." />
+    <string id="3Dngsvya" text="Tiến về phía trước" />
+    <string id="3Gb7tKgJ" text="{LEFT} và {RIGHT}" />
+    <string id="3MLvkSjw" text="Hiển thị kết quả bắn trúng" />
+    <string id="3nTeojbI" text="Tổ 4 nghe lệnh DESC" />
+    <string id="3oUbmqJY" text="Đồng bộ tốc độ làm mới làm tươi của trò chơi và màn hình. Giảm thiểu hiện tượng xé màn hình." />
+    <string id="3P7eDKEY" text="Trang bị vật phẩm 4" />
+    <string id="3sRdGQou" text="Rời đi" />
     <string id="3V0bvyLC" text="{STR1}{STR2}" />
-    <string id="3YwMXbAT" text="Fastforward time in campaign map." />
-    <string id="3zk3mzG4" text="Leave DESC" />
-    <string id="41Na9Lg1" text="Left Stick" />
-    <string id="44akzqlm" text="Right Arrow" />
-    <string id="45yEpDdE" text="Resolution Scale" />
+    <string id="3YwMXbAT" text="Tăng tốc thời gian trên bản đồ chiến dịch." />
+    <string id="3zk3mzG4" text="RờI đi DESC" />
+    <string id="41Na9Lg1" text="Analog Trái" />
+    <string id="44akzqlm" text="Mũi Tên Phải" />
+    <string id="45yEpDdE" text="Độ Phân Giải" />
     <string id="46vWdakp" text="Y" />
-    <string id="4aAvY4yO" text="Low" />
-    <string id="4AyPI1H9" text="Camera Toggle DESC" />
-    <string id="4e0ycN1Q" text="Everyone Hear" />
-    <string id="4Gdng2Tt" text="Hold for faster camera sliding on campaign map." />
+    <string id="4aAvY4yO" text="Thấp" />
+    <string id="4AyPI1H9" text="Hoán Đổi Camera DESC" />
+    <string id="4e0ycN1Q" text="Tất cả nghe lệnh" />
+    <string id="4Gdng2Tt" text="Giữ để camera trượt nhanh hơn trên bản đồ chiến dịch." />
     <string id="4NaOKslb" text="-" />
-    <string id="4Nw1hF2R" text="Kick your enemies to break their guard when not attacking or defending. Bash your enemies with your equipment while defending." />
-    <string id="4Q9pzbqM" text="Enable the controller vibration effect." />
-    <string id="4R4shVxp" text="Sharpen Amount" />
-    <string id="4SeC2VOQ" text="D-pad Right" />
-    <string id="4spC1rcN" text="SelectOrder7 DESC" />
-    <string id="4v3kotBH" text="SelectOrder2 DESC" />
-    <string id="4x1wGwW9" text="Select Order 7" />
-    <string id="4Z2NBfW4" text="Team Chat" />
-    <string id="58eAHUQi" text="Group 4 Hear DESC" />
-    <string id="5B3ptxje" text="Character Developer" />
-    <string id="5c7l7r31" text="Left Mouse Button" />
-    <string id="5JwDMBlz" text="Move Left DESC" />
+    <string id="4Nw1hF2R" text="Đá kẻ địch khi không công kích cũng như phòng thủ có thể phá phòng ngự đối phương. Khi bạn dùng kiên phòng thủ cũng có thể cho đối phương 1 thuẫn kích." />
+    <string id="4Q9pzbqM" text="Kích hoạt bộ rung của tay cầm" />
+    <string id="4R4shVxp" text="Số Lượng Làm Nét" />
+    <string id="4SeC2VOQ" text="D-pad Phải" />
+    <string id="4spC1rcN" text="Chọn mệnh lệnh 7 DESC" />
+    <string id="4v3kotBH" text="Chọn mệnh lệnh 2 DESC" />
+    <string id="4x1wGwW9" text="Chọn mệnh lệnh 7" />
+    <string id="4Z2NBfW4" text="Trò chuyện với đồng đội" />
+    <string id="58eAHUQi" text="Tổ 4 nghe lệnh DESC" />
+    <string id="5B3ptxje" text="Nhân vật" />
+    <string id="5c7l7r31" text="Phím Chuột Trái" />
+    <string id="5JwDMBlz" text="Sang Trái DESC" />
     <string id="5jxcNYlU" text="Numpad 6" />
     <string id="5QpTaCa0" text="W" />
-    <string id="5siWUJPw" text="Fullscreen" />
-    <string id="5WDQLWCk" text="Campaign AI" />
-    <string id="6AnHiJGR" text="Selected Monitor" />
-    <string id="6auWfPnA" text="SelectOrder6 DESC" />
-    <string id="6CeL6iOp" text="Select Group 1" />
-    <string id="6g0y182U" text="Environment Detail" />
+    <string id="5siWUJPw" text="Toàn Màn Hình" />
+    <string id="5WDQLWCk" text="Chiến Dịch AI" />
+    <string id="6AnHiJGR" text="Chọn Màn Hình" />
+    <string id="6auWfPnA" text="Chọn mệnh lệnh 6 DESC" />
+    <string id="6CeL6iOp" text="Chọn tổ 1" />
+    <string id="6g0y182U" text="Chi tiết môi trường" />
     <string id="6HJxnF3G" text="Lưu trữ thất bại!" />
-    <string id="6QiPm27r" text="Move your party upward in campaign map." />
-    <string id="6sIFj7K9" text="Fast-Forward Time" />
-    <string id="6Uh76bYG" text="Map Time Stop" />
-    <string id="6uNvJbdx" text="Select Group 4" />
+    <string id="6QiPm27r" text="Di chuyển quân đội của bạn trên bản đồ chiến dịch." />
+    <string id="6sIFj7K9" text="Tăng tốc thời gian" />
+    <string id="6Uh76bYG" text="Thời gian bản đồ dừng lại" />
+    <string id="6uNvJbdx" text="Chọn Tổ 4" />
     <string id="7MU008BT" text="F11" />
     <string id="7pBx0s07" text="Bật rung trên bộ điều khiển" />
-    <string id="7phVPcDc" text="Sets the quality of shaders. A higher value means better graphical effects." />
-    <string id="7QKjVON8" text="Jump" />
-    <string id="7RV38Hoy" text="Group 7 Hear DESC" />
-    <string id="7S1aCWFa" text="Jump while on foot or mounted." />
+    <string id="7phVPcDc" text="Đặt chất lượng đổ bóng. Giá trị cao thì chất lượng đồ hoạ cũng tuyệt vời hơn." />
+    <string id="7QKjVON8" text="Nhảy" />
+    <string id="7RV38Hoy" text="Tổ 7 nghe lệnh DESC" />
+    <string id="7S1aCWFa" text="Nhảy trong khi đi bộ hoặc trên lưng ngựa." />
     <string id="7SSytk7Z" text="U" />
-    <string id="7tYiV9Vw" text="Anisotropic 8X" />
-    <string id="7vl1ebVZ" text="Left Control" />
-    <string id="7X6fZ5kQ" text="Enables the screen space reflections." />
+    <string id="7tYiV9Vw" text="Bất Đẳng Hướng 8X" />
+    <string id="7vl1ebVZ" text="Ctrl Trái" />
+    <string id="7X6fZ5kQ" text="Cho phép phản chiếu không gian màn hình." />
     <string id="7XmaJYuh" text="Move your party to right in campaign map." />
-    <string id="7zUWqY3O" text="Left" />
-    <string id="8AiDqTFB" text="Map Move Backward" />
-    <string id="8b45xcyL" text="Sets the quality of trees and grass." />
-    <string id="8b5HDBl9" text="Map Move Right DESC" />
-    <string id="8hArJQWf" text="Show Targeting Reticle" />
-    <string id="8iwie5KL" text="SelectOrder5" />
-    <string id="8kO2jDVf" text="Affects the quality of textures." />
+    <string id="7zUWqY3O" text="Trái" />
+    <string id="8AiDqTFB" text="Di chuyển bản đồ về phía sau" />
+    <string id="8b45xcyL" text="Đặt chất lượng của cây và cỏ." />
+    <string id="8b5HDBl9" text="Di chuyển bản đồ sang phải DESC" />
+    <string id="8hArJQWf" text="Hiển Thị Mục Tiêu" />
+    <string id="8iwie5KL" text="Chọn mệnh lệNh 5" />
+    <string id="8kO2jDVf" text="Ảnh hưởng tới chất lượng các chi tiết kết cấu." />
     <string id="8t4KDZfU" text="E" />
-    <string id="8UBfIenN" text="Normal" />
+    <string id="8UBfIenN" text="Bình thường" />
     <string id="8WrQ9fnb" text="C" />
-    <string id="929oYf3G" text="Zoom Out" />
-    <string id="92ZztgDd" text="Decal Quality" />
-    <string id="9F323ez4" text="Trilinear" />
-    <string id="9gAVbJAR" text="Resume Time" />
-    <string id="9hRcH7kV" text="Sun Shafts" />
-    <string id="9k4sahxA" text="Sheath your equipped weapon." />
-    <string id="9OHGqgjH" text="Zoom in to aim at enemies or to look further." />
+    <string id="929oYf3G" text="Thu Nhỏ" />
+    <string id="92ZztgDd" text="Chất lượng Đề Can" />
+    <string id="9F323ez4" text="Tam Tuyến Tính" />
+    <string id="9gAVbJAR" text="Tiếp Tục Thời Gian" />
+    <string id="9hRcH7kV" text="Tia Mặt Trời" />
+    <string id="9k4sahxA" text="Thu hồi vũ khí của bạn." />
+    <string id="9OHGqgjH" text="Phóng to để nhắm mục tiêu hoặc nhìn được xa hơn." />
     <string id="9pEc15Sb" text="S" />
-    <string id="9QsTWOYN" text="Start Button" />
-    <string id="9qZw55vR" text="Master volume level." />
-    <string id="9Rr1iimX" text="D-pad Left" />
-    <string id="9xKCz9BE" text="Switch between first and third person view." />
+    <string id="9QsTWOYN" text="Phím Start" />
+    <string id="9qZw55vR" text="Âm lượng tổng." />
+    <string id="9Rr1iimX" text="D-pad Trái" />
+    <string id="9xKCz9BE" text="Chuyển đổi góc nhìn nhân vật." />
     <string id="A0bqGRQc" text="F" />
     <string id="A4B0GTqw" text="FXAA" />
     <string id="Aa2Yokz3" text="Numpad *" />
-    <string id="aAaF9FWC" text="Right Control" />
-    <string id="accbLVWL" text="Sets the anti-aliasing technique. " />
+    <string id="aAaF9FWC" text="Ctrl Phải" />
+    <string id="accbLVWL" text="Đặt kỹ thuật xử lý răng cưa. " />
     <string id="acqAYxhr" text="," />
-    <string id="Ad8NUgpY" text="Group 5 Hear DESC" />
-    <string id="aFPK4kIi" text="Map Move Left DESC" />
-    <string id="AhrWBKx9" text="Equip Item 1" />
-    <string id="AiYklNiQ" text="UI Bên Phải" />
+    <string id="Ad8NUgpY" text="Tổ 5 nghe lệnh DESC" />
+    <string id="aFPK4kIi" text="Di chuyển bản đồ sang trái DESC" />
+    <string id="AhrWBKx9" text="Trang bị vật phẩm 1" />
+    <string id="AiYklNiQ" text="UI Sang Phải" />
     <string id="AJFpx99v" text="Điều Chỉnh Phơi Sáng" />
-    <string id="aJxmDbur" text="Hold to leave an area. " />
-    <string id="aKghgqEl" text="SelectOrder1 DESC" />
-    <string id="aky3YmaT" text="Map Wait DESC" />
-    <string id="amdYLZ6o" text="Quests Window" />
-    <string id="aNs2hcVi" text="UI Move Down" />
+    <string id="aJxmDbur" text="Giữ để rời khỏi khu vực. " />
+    <string id="aKghgqEl" text="Chọn mệnh lệnh 1 DESC" />
+    <string id="aky3YmaT" text="Bản Đồ Chờ Đợi DESC" />
+    <string id="amdYLZ6o" text="Cửa sổ nhiệm vụ" />
+    <string id="aNs2hcVi" text="UI Xuống Dưới" />
     <string id="aombIn07" text="Đặt mức phơi sáng." />
     <string id="ap1wEfdW" text="V" />
-    <string id="aqcFXbir" text="Right Stick Up" />
+    <string id="aqcFXbir" text="Analog Phải lên trên" />
     <string id="ar2Y8Xs9" text="{LEFT}: " />
-    <string id="asrbFBbn" text="Order Menu" />
-    <string id="au7tXcD1" text="Stereo" />
-    <string id="aufrcNmq" text="Particle Detail" />
-    <string id="avDb6Y66" text="Middle Mouse Button" />
-    <string id="AVZ0zB0g" text="UI Switch To Right Tab" />
+    <string id="asrbFBbn" text="Danh Sách Mệnh Lệnh" />
+    <string id="au7tXcD1" text="Âm Thanh Lập Thể" />
+    <string id="aufrcNmq" text="Chi Tiết Hạt" />
+    <string id="avDb6Y66" text="Phím Lăn Chuột" />
+    <string id="AVZ0zB0g" text="UI Đổi Sang Tab bên phải" />
     <string id="aWDfG0RO" text="F3" />
-    <string id="aydCb7WA" text="Medium" />
-    <string id="Az084VJK" text="Defend" />
-    <string id="b1OtYhnF" text="Texture Filtering" />
-    <string id="b9rDOY21" text="SelectOrder2" />
-    <string id="bdJv9dcm" text="Character Zoom In" />
-    <string id="BDSEgN41" text="Sets the overall graphics quality preset." />
-    <string id="bEJsGiBK" text="Foliage Quality" />
-    <string id="bFSxl4Vl" text="UI Move Up DESC" />
+    <string id="aydCb7WA" text="Trung Bình" />
+    <string id="Az084VJK" text="Phòng Thủ" />
+    <string id="b1OtYhnF" text="Lọc Kết Cấu" />
+    <string id="b9rDOY21" text="Chọn Mệnh Lệnh 2" />
+    <string id="bdJv9dcm" text="Phóng To Nhân Vật" />
+    <string id="BDSEgN41" text="Đặt chất lượng đồ hoạ tổng thể." />
+    <string id="bEJsGiBK" text="Chất Lượng Tán Lá" />
+    <string id="bFSxl4Vl" text="UI Lên Trên DESC" />
     <string id="bGbIRSmD" text="." />
-    <string id="BgjaAUNf" text="Sets the quality of water. A higher value means more detailed water simulation." />
+    <string id="BgjaAUNf" text="Đặt chất lượng mặt nước. Một giá trị cao ứng với chất lượng nước mô phỏng chi tiết hơn." />
     <string id="bgwA4Pd8" text="2" />
     <string id="BJJl0qam" text="Nhanh hơn" />
     <string id="bJRFVONJ" text="Nút X" />
     <string id="Bl8cKwhL" text="Hiệu chuẩn hiển thị" />
-    <string id="bmpagYCb" text="Equip your shield or change to the next one." />
-    <string id="BmSzvXlZ" text="Up" />
-    <string id="bNWx8Zqb" text="Banner Window DESC" />
-    <string id="bqb2K5b1" text="Move Right" />
-    <string id="br4J1TTA" text="Take Screenshot DESC" />
+    <string id="bmpagYCb" text="Trang bị khiên hoặc đổi cái khác." />
+    <string id="BmSzvXlZ" text="Lên" />
+    <string id="bNWx8Zqb" text="Cửa Sổ Cờ Hiệu DESC" />
+    <string id="bqb2K5b1" text="Sang Phải" />
+    <string id="br4J1TTA" text="Chụp Ảnh Màn Hình DESC" />
     <string id="BSdIYN9F" text="P" />
-    <string id="bT77aWti" text="Switch Weapon Usage" />
-    <string id="bvJUmRBd" text="Select Group 2" />
-    <string id="bW2urPqE" text="SelectOrder6" />
-    <string id="bWV5BOyc" text="D-pad Down" />
+    <string id="bT77aWti" text="Chuyển Đổi Vũ Khí Sử Dụng" />
+    <string id="bvJUmRBd" text="Chọn Tổ 2" />
+    <string id="bW2urPqE" text="Chọn Mệnh Lệnh 6" />
+    <string id="bWV5BOyc" text="D-pad xuống" />
     <string id="bYwwY9qh" text="Numpad 5" />
     <string id="c49AY7yF" text="Thấp (128)" />
-    <string id="C7zwur4k" text="Escape" />
+    <string id="C7zwur4k" text="Esc" />
     <string id="cAkgnVr5" text="Num Lock" />
     <string id="CbwmI1JY" text="Bật độ sâu cho hình ảnh." />
-    <string id="cdaUUBFQ" text="UI Move Up" />
-    <string id="CnJQpaiK" text="Party Window DESC" />
-    <string id="combatkick" text="Kick / Bash" />
-    <string id="cOuaMvNR" text="Temporal SMAA x2" />
+    <string id="cdaUUBFQ" text="UI lên trên" />
+    <string id="CnJQpaiK" text="Cửa Sổ Quân Đội DESC" />
+    <string id="combatkick" text="Đá / Thuẫn Kích" />
+    <string id="cOuaMvNR" text="SMAA x2 Tạm Thời" />
     <string id="cp80Mq2W" text=";" />
     <string id="Crf6Z1S5" text="Page Up" />
-    <string id="CsEtp6Az" text="Group 3 Hear" />
+    <string id="CsEtp6Az" text="Tổ 3 nghe lệnh" />
     <string id="ct0coyrR" text="A" />
-    <string id="cTHGQ62C" text="Group 1 Hear DESC" />
+    <string id="cTHGQ62C" text="Tổ 1 nghe lệnh DESC" />
     <string id="CTiemsyh" text="Numpad 3" />
     <string id="Cvdaadvs" text="Rất Cao" />
-    <string id="cvhQOE38" text="Show Attack Direction" />
+    <string id="cvhQOE38" text="Hiển Thị Hướng Tấn Công" />
     <string id="cWRA5VVr" text="Alt Trái" />
     <string id="czYbd1vo" text="H" />
-    <string id="D008gyKC" text="Select Order 1" />
+    <string id="D008gyKC" text="Chọn Mệnh Lệnh 1" />
     <string id="d5a3QdBR" text="Không thể truy cập vào thư mục lưu trữ." />
     <string id="d6DkPU2b" text="Tổng Thể" />
     <string id="d75b5uSL" text="Song Tuyết Tính" />
     <string id="dB6cFDmz" text="/" />
     <string id="dbkFMtJw" text="Phóng To Bản Đồ" />
     <string id="DbpgZxxK" text="Cự Ly Camera góc nhìn thứ 3" />
-    <string id="dC1MBjrO" text="Affects the size of the texture streaming cache. A higher value requires more video memory but provides a smoother experience." />
+    <string id="dC1MBjrO" text="Ảnh hưởng đến bộ nhớ đệm của kết cấu. Giá trị cao thì sẽ tốn VRam nhưng được cái hình ảnh mượt hơn." />
     <string id="Dg0SKmCS" text="Tốc Độ Trận Đánh DESC" />
-    <string id="dg6yQU6z" text="Send Message To Team" />
-    <string id="DiK2cKUi" text="Sound Device" />
-    <string id="DIvUcHY1" text="UI Leave" />
-    <string id="dkLG4JC4" text="Enter" />
-    <string id="DqFxOjTp" text="Screen Resolution" />
-    <string id="drbgOAqx" text="Enable reports for experience gain." />
-    <string id="drG1OL8d" text="Mouse Scroll Up" />
-    <string id="dRx9qWRO" text="Map Context Menu DESC" />
-    <string id="DTSHoHbu" text="Inventory Window" />
-    <string id="Dw58UUua" text="Subsurface Scattering" />
-    <string id="dYu897GO" text="A Button" />
-    <string id="E5xbXlLB" text="Enables the sun shafts." />
-    <string id="ea8kNj32" text="Your preferred sound output device." />
-    <string id="EaOcWkH3" text="Open Encyclopedia." />
-    <string id="EkzORIiZ" text="Open all chat." />
+    <string id="dg6yQU6z" text="Gửi tin nhắn đến đồng đội" />
+    <string id="DiK2cKUi" text="Thiết bị âm thanh" />
+    <string id="DIvUcHY1" text="UI Rời Đi" />
+    <string id="dkLG4JC4" text="Tiến Vào" />
+    <string id="DqFxOjTp" text="Độ Phân Giải Màn Hình" />
+    <string id="drbgOAqx" text="Bật báo cáo kinh nghiệm nhận được" />
+    <string id="drG1OL8d" text="Lăn Chuột Lên" />
+    <string id="dRx9qWRO" text="Danh Sách Ngữ Cảnh Bản Đồ DESC" />
+    <string id="DTSHoHbu" text="Cửa Sổ Hòm Đồ" />
+    <string id="Dw58UUua" text="Tán Xạ Bên Dưới Bề Mặt" />
+    <string id="dYu897GO" text="Phím A" />
+    <string id="E5xbXlLB" text="Bật tia sáng mặt trời." />
+    <string id="ea8kNj32" text="Thiết bị âm thanh đầu ra ưa thích của bạn." />
+    <string id="EaOcWkH3" text="Mở Bách Khoa Toàn Thư." />
+    <string id="EkzORIiZ" text="Mở Chat Tổng." />
     <string id="evc8yBIy" text="M" />
-    <string id="EvOLbiqM" text="Select Group 3" />
-    <string id="evzb1cmP" text="Equip the item in your fourth slot." />
-    <string id="ewbUcb3N" text="UI Move Right DESC" />
+    <string id="EvOLbiqM" text="Chọn Tổ 3" />
+    <string id="evzb1cmP" text="Trang bị vật phẩm ở vị trí thứ 4 của bạn" />
+    <string id="ewbUcb3N" text="UI Sang Phải DESC" />
     <string id="eZsVkuQD" text="8" />
-    <string id="F7yNEXrV" text="Map Zoom In DESC" />
-    <string id="F8Q8mEak" text="UI Enter" />
-    <string id="fBXuMgdm" text="Campaign AI DESC" />
-    <string id="FEDEsbCx" text="Move your party downward in campaign map." />
+    <string id="F7yNEXrV" text="Bản Đồ Phóng To DESC" />
+    <string id="F8Q8mEak" text="UI Tiến Vào" />
+    <string id="fBXuMgdm" text="Chiến Dịch AI DESC" />
+    <string id="FEDEsbCx" text="Di chuyển quân đội của bạn xuống phía dưới bản đồ chiến dịch." />
     <string id="ffHX9L80" text="Numpad 0" />
     <string id="FHBoO2sp" text="6" />
-    <string id="fJnqJx8m" text="Character Window" />
-    <string id="FLLnblfP" text="Report Casualties" />
+    <string id="fJnqJx8m" text="Cửa Sổ Nhân Vật" />
+    <string id="FLLnblfP" text="Báo Cáo Thương Vong" />
     <string id="FqvJUBRn" text="Rất Thấp" />
-    <string id="fsI2wuHa" text="Group 2 Hear" />
+    <string id="fsI2wuHa" text="Tổ 2 nghe lệNh" />
     <string id="fXKtZqmW" text="Chuyển Camera Xuống Dưới" />
     <string id="G2e8xucc" text="Nếu khuôn các ô vuông không hiển thị, hãy thử di chuyển thanh trượt.{newline}Trượt thanh trượt tới điểm mà khuôn ô vuông vừa đủ để thấy được." />
     <string id="g4Iq82iw" text="Mở trò chuyện với đồng đội." />
     <string id="g4VjAbMG" text="J" />
     <string id="G8ug5Bwx" text="Trò Chuyện" />
-    <string id="gAJHtTK2" text="Enable text reports for hit difficulty rate of ranged weapons." />
+    <string id="gAJHtTK2" text="Bật báo cáo văn bản cho việc hiển thị tỷ lệ độ khó khi đánh trúng của vũ khí xạ chiến." />
     <string id="GAWxyVgq" text="Xoá" />
     <string id="gCDjIGB6" text="Hiện Máu" />
     <string id="Gd2iUUHa" text="Đặt chất lượng khi render ra các chi tiết nhỏ. Giá trị cao hơn có nghĩa là các chi tiết sẽ sắc nét hơn." />
-    <string id="GgUBPvBH" text="Enable showing banners on friendly troops." />
-    <string id="gIsqhwTs" text="First Person Field of View" />
-    <string id="Gl2S6WEW" text="Sets the monitor that the game window to be displayed." />
-    <string id="Gl7wgtPQ" text="Move Party Up" />
-    <string id="glpNsbMs" text="Zoom DESC" />
-    <string id="GO6zrJwF" text="Inventory Window DESC" />
-    <string id="GPaZ8wOo" text="UI Switch To Right Tab DESC" />
+    <string id="GgUBPvBH" text="Hiển thị cờ hiệu trên đầu quân đội thân thiện." />
+    <string id="gIsqhwTs" text="Tầm nhìn của góc nhìn thứ nhất" />
+    <string id="Gl2S6WEW" text="Thiết đặt màn hình để hiển thị game." />
+    <string id="Gl7wgtPQ" text="Di chuyển quân đội lên" />
+    <string id="glpNsbMs" text="Thu phóng DESC" />
+    <string id="GO6zrJwF" text="Cửa Sổ Hòm Đồ DESC" />
+    <string id="GPaZ8wOo" text="UI Chuyển Sang Tab Phải DESC" />
     <string id="GxHV8b1b" text="Numpad 1" />
-    <string id="gzMIzYTF" text="Game Log Window" />
-    <string id="h6wUbray" text="Number Of Corpses" />
-    <string id="haX0xRHa" text="Camera Speed Up" />
-    <string id="hdbb0Jjp" text="Encyclopedia Window" />
+    <string id="gzMIzYTF" text="Cửa Sổ Nhật Ký" />
+    <string id="h6wUbray" text="Số lượng Xác Chết" />
+    <string id="haX0xRHa" text="Tăng Tốc Camera" />
+    <string id="hdbb0Jjp" text="Cửa sổ Bách Khoa Toàn Thư" />
     <string id="HDV63kra" text="4" />
-    <string id="hfpb4NaS" text="Group 0 Hear DESC" />
-    <string id="hHxSj7tY" text="SelectOrder3" />
-    <string id="hK9bkACI" text="UI Switch To Left Tab" />
-    <string id="hL2Lnp6N" text="View Orders DESC" />
-    <string id="HmgPBPeq" text="Desktop Resolution" />
-    <string id="HNTCnUYY" text="Party Window" />
-    <string id="HRTeeku9" text="D-pad Up" />
-    <string id="Hs1CYfbc" text="Equip Next Weapon" />
-    <string id="hS4wYBa8" text="Reverse Order Group" />
-    <string id="HsljR1NL" text="Equip Weapon 1" />
+    <string id="hfpb4NaS" text="Tổ 0 nghe lệnh DESC" />
+    <string id="hHxSj7tY" text="Chọn mệnh lệNh 3" />
+    <string id="hK9bkACI" text="UI Chuyển sang tab trái" />
+    <string id="hL2Lnp6N" text="Xem các mệnh lệnh DESC" />
+    <string id="HmgPBPeq" text="Độ phân giải màn hình" />
+    <string id="HNTCnUYY" text="Cửa Sổ Quân Đội" />
+    <string id="HRTeeku9" text="D-pad Lên" />
+    <string id="Hs1CYfbc" text="Trang bị vũ khí tiếp theo" />
+    <string id="hS4wYBa8" text="Chọn ngược lại các tổ lệnh" />
+    <string id="HsljR1NL" text="Trang bị vũ khí 1" />
     <string id="HsYbuReS" text="PCF" />
-    <string id="hUyPaplJ" text="Battle Size" />
+    <string id="hUyPaplJ" text="Quy Mô Trận Chiến" />
     <string id="HVa0okoe" text="F9" />
-    <string id="HxIqxjmk" text="Select Everyone" />
-    <string id="HyDC937R" text="Map Time Fast Forward DESC" />
-    <string id="hZEAeoCk" text="Move your party to left in campaign map." />
-    <string id="I3eooo5c" text="Sets the terrain quality." />
-    <string id="I3rTzBae" text="Character Detail" />
-    <string id="i5xbEcE3" text="Resume or pause time in campaign map." />
-    <string id="I6OJtaMT" text="Never" />
-    <string id="i6rQFv6i" text="Map Move Forward DESC" />
+    <string id="HxIqxjmk" text="Chọn Tất Cả Mọi Người" />
+    <string id="HyDC937R" text="Thời gian chuyển tiếp nhanh DESC" />
+    <string id="hZEAeoCk" text="Chuyển quân đội sang bên trái bản đồ chiến dịch." />
+    <string id="I3eooo5c" text="Đặt chất lượng địa hình." />
+    <string id="I3rTzBae" text="Chi Tiết Nhân Vật" />
+    <string id="i5xbEcE3" text="Tiếp tục hoặc tạm dừng trong bản đồ chiến dịch." />
+    <string id="I6OJtaMT" text="Không bao giờ" />
+    <string id="i6rQFv6i" text="Bản đồ Di chuyển về phía trước DESC" />
     <string id="I9PN1qny" text="Numpad Enter" />
     <string id="IahiWHHW" text="K" />
-    <string id="IaoVYeZi" text="Enables the tesselation." />
+    <string id="IaoVYeZi" text="Bật tăng độ chi tiết cho các vật thể." />
     <string id="IBEJPlEj" text="Home" />
-    <string id="Ibl4avht" text="Right Bumper" />
+    <string id="Ibl4avht" text="Bumper Phải trên tay cầm" />
     <string id="iblHebbT" text="F1" />
-    <string id="IcEPmXxM" text="Sets the ambient occlusion technique." />
-    <string id="ICgda8Is" text="Up Double Press: Charge Forward" />
-    <string id="ID9lG6xg" text="View Orders" />
-    <string id="IDKbw4Sw" text="UI Leave DESC" />
-    <string id="igGLkaf6" text="Equip Item 2" />
-    <string id="iGi5HsGS" text="Left Shift" />
+    <string id="IcEPmXxM" text="Đặt kỹ thuật tạo các mảng tối ở giữa các khe hở, – chỗ tiếp xúc giữa các vật thể hay nếp nhăn của vật gì đó, đổ bóng sẽ chi tiết và nhiều hơn làm cho thật hơn. Ambient Occlusion tính toán vị trí của vật thể với nhau và với nguồn sáng, sau đó mô tả những nguồn sáng không chiếu tới." />
+    <string id="ICgda8Is" text="Ấn phím Lên 2 lần: Xung phong lên phía trước" />
+    <string id="ID9lG6xg" text="Xem các mệnh lệnh" />
+    <string id="IDKbw4Sw" text="UI Rời đi DESC" />
+    <string id="igGLkaf6" text="Trang bị vật phẩm 2" />
+    <string id="iGi5HsGS" text="Shift Trái" />
     <string id="IiioTamH" text="TSAO" />
-    <string id="IjhCSwNn" text="Move camera further from your character in third person view." />
-    <string id="IjRHUbbN" text="Tesselation" />
-    <string id="IKjxVh2N" text="Motion Blur" />
-    <string id="ikoUJQyl" text="Enables the bloom effect." />
-    <string id="IOZ4aWVp" text="Select Group 8" />
-    <string id="IPbh2TvZ" text="Initiate Team Chat" />
-    <string id="iPx4jep6" text="Exposure" />
+    <string id="IjhCSwNn" text="Di chuyển camera ra xa hơn nhân vật của bạn khi ở góc nhìn thứ ba." />
+    <string id="IjRHUbbN" text="Chia Đa Giác" />
+    <string id="IKjxVh2N" text="Làm Mờ Chuyển Động" />
+    <string id="ikoUJQyl" text="Bật hiệu ứng cường độ chiếu sáng. Bloom tăng cường độ chiếu sáng của nguồn sáng trong game (ví dụ như mặt trờI), làm cho nguồn sáng trở nên sống động và giống thật hơn." />
+    <string id="IOZ4aWVp" text="Chọn Tổ 8" />
+    <string id="IPbh2TvZ" text="Khởi xướng trò chuyện trong đội" />
+    <string id="iPx4jep6" text="Phơi Sáng" />
     <string id="Irhxad7u" text="Chất lượng nước" />
-    <string id="iTau5cxh" text="Average" />
+    <string id="iTau5cxh" text="Trung Bình" />
     <string id="iUFgqwkA" text="Trung Bình (256)" />
-    <string id="iwO3g6Rz" text="Select how challenging the combat AI will be." />
+    <string id="iwO3g6Rz" text="Chọn khả năng chiến đấu của AI." />
     <string id="IYLn67Xm" text="X" />
-    <string id="Iz2vu6xM" text="Mouse Scroll Down" />
-    <string id="iZq6c4bd" text="UI Move Left DESC" />
+    <string id="Iz2vu6xM" text="Lăn Chuột Xuống" />
+    <string id="iZq6c4bd" text="UI Sang Trái DESC" />
     <string id="izZCwYNb" text="SMAA" />
-    <string id="j2g8BSOF" text="Static and Dynamic" />
-    <string id="J2pcA6KR" text="View Character" />
-    <string id="j3k8PiPo" text="Enables the deformable grass." />
-    <string id="j4F7tTzy" text="Clan" />
-    <string id="jaeLYPIG" text="Pause Time" />
-    <string id="jafcz97A" text="Shadow Quality" />
-    <string id="JAzv5xYY" text="Enable text reports for damage dealt." />
-    <string id="jbLwdd6z" text="Headphones" />
-    <string id="jbMwcl0G" text="Everyone Hear DESC" />
+    <string id="j2g8BSOF" text="Tĩnh và Động" />
+    <string id="J2pcA6KR" text="Xem Nhân Vật" />
+    <string id="j3k8PiPo" text="Cho phép cỏ biến dạng." />
+    <string id="j4F7tTzy" text="Gia Tộc" />
+    <string id="jaeLYPIG" text="Thời Gian Tạm Dừng" />
+    <string id="jafcz97A" text="Chất Lượng Đổ Bóng" />
+    <string id="JAzv5xYY" text="Bật báo cáo sát thương gây ra." />
+    <string id="jbLwdd6z" text="Tai nghe" />
+    <string id="jbMwcl0G" text="Tất cả nghe lệNh DESC" />
     <string id="jd9ZG2CI" text="R" />
-    <string id="jgCb0sga" text="Enable crosshair for ranged weapons." />
+    <string id="jgCb0sga" text="Bật tâm cho vũ khí tầm xa." />
     <string id="jIcGy6gI" text="{LEFT} : {RIGHT}" />
-    <string id="JLqe3lrb" text="Combat AI Difficulty" />
-    <string id="JLtTANZg" text="Move Left" />
-    <string id="JmlrVqFz" text="Equip Weapon 2 DESC" />
-    <string id="JP1y1i0A" text="Equip Weapon 4" />
-    <string id="Js1lhJkk" text="Language" />
-    <string id="Ju6btXsv" text="Control Attack Direction" />
-    <string id="jvOYgHOe" text="Custom" />
-    <string id="JXdwIX8Q" text="Set thickness for trails of ranged weapons." />
-    <string id="jZs8I1Uq" text="Enables the film grain." />
-    <string id="JZYQGUF3" text="Down Double Press: Sudden Break" />
-    <string id="k2QXfBBn" text="Y Button" />
-    <string id="k3CLKsrz" text="By Mouse Movement" />
-    <string id="k3LajvfJ" text="Open Banner Editor screen." />
-    <string id="k4E1gylQ" text="Sets the amount of sharpen effect." />
+    <string id="JLqe3lrb" text="Độ Khó AI Chiến Đấu" />
+    <string id="JLtTANZg" text="Sang Trái" />
+    <string id="JmlrVqFz" text="Trang bị vũ khí 2 DESC" />
+    <string id="JP1y1i0A" text="Trang bị vũ khí 4" />
+    <string id="Js1lhJkk" text="Ngôn Ngữ" />
+    <string id="Ju6btXsv" text="Kiểm soát hướng tấn công" />
+    <string id="jvOYgHOe" text="Tuỳ chỉnh" />
+    <string id="JXdwIX8Q" text="Đặt độ lớn cho các vệt bắt (phóng) của các vũ khí tầm xa." />
+    <string id="jZs8I1Uq" text="Bật tạo các hạt." />
+    <string id="JZYQGUF3" text="Ấn phím Xuống liên tiếp 2 lần: Đột Ngột Gián Đoạn" />
+    <string id="k2QXfBBn" text="Phím Y" />
+    <string id="k3CLKsrz" text="Theo hướng chuột" />
+    <string id="k3LajvfJ" text="Mở màn hình sửa đổi cờ hiệu." />
+    <string id="k4E1gylQ" text="Đặt hiệu mức làm nét." />
     <string id="k7gJYLLj" text="Numpad 8" />
-    <string id="K80z5onY" text="Determines how far will the camera be in third-person." />
+    <string id="K80z5onY" text="Xác định khoảng cách giữa camera và nhân vật trong góc nhìn thứ ba." />
     <string id="kak4GxOh" text="F6" />
-    <string id="KBSbXN5F" text="Left Stick Left" />
-    <string id="kF5FabLb" text="Defend DESC" />
-    <string id="kG4051e5" text="SelectOrder7" />
-    <string id="KHbdmIfF" text="Static Only" />
-    <string id="KjZas5Xs" text="Sets the display adapter that the game will run on." />
-    <string id="Kk0hMffJ" text="Mouse Sensitivity" />
-    <string id="KKNmozPI" text="Left Arrow" />
-    <string id="KO5zuUvN" text="Action" />
+    <string id="KBSbXN5F" text="Analog Trái sang trái" />
+    <string id="kF5FabLb" text="Phòng Ngự DESC" />
+    <string id="kG4051e5" text="Chọn mệnh lệNh 7" />
+    <string id="KHbdmIfF" text="Chỉ Tĩnh" />
+    <string id="KjZas5Xs" text="Chọn màn hình hiển thị trò chơi." />
+    <string id="Kk0hMffJ" text="Độ nhạy của chuột" />
+    <string id="KKNmozPI" text="Mũi tên bên trái" />
+    <string id="KO5zuUvN" text="Hành Động" />
     <string id="KONClayU" text="\" />
     <string id="koX9okuG" text="Không" />
     <string id="KtYtBnvP" text="Đặt giới hạn khung hình." />
-    <string id="KUEHAD4U" text="Quests" />
+    <string id="KUEHAD4U" text="Nhiệm Vụ" />
     <string id="KUGomrhD" text="Đừng Hiển Thị Nữa" />
     <string id="KwNTg7BT" text="Chế Độ Hiển Thị" />
     <string id="lC5xsoSh" text="Không giới hạn" />
     <string id="lCucoVwJ" text="Ước tính bộ nhớ GPU cần dùng" />
-    <string id="lgOBD6MF" text="Enable marks for direction of attack." />
-    <string id="lgzmPG6K" text="Crouch" />
-    <string id="lhHUGbnm" text="Initiate All Chat" />
+    <string id="lgOBD6MF" text="Cho phép đánh dấu hướng tấn công" />
+    <string id="lgzmPG6K" text="Cúi" />
+    <string id="lhHUGbnm" text="Khởi xướng chat tổng" />
     <string id="LjNnWa7R" text="F10" />
-    <string id="LJZAvH8f" text="Texture Quality" />
-    <string id="ll2iP8yo" text="Using more than your available GPU memory can result in serious performance drops and stability issues. Proceed with caution." />
-    <string id="LoZajra1" text="View Character DESC" />
+    <string id="LJZAvH8f" text="Chất lượng kết cấu" />
+    <string id="ll2iP8yo" text="Sử dụng quá số lượng bộ nhớ card đồ hoạ mà máy bạn có, sẽ dẫn đến giảm hiệu năng và các vấn đề ổn định. Tiến hành cẩn trọng." />
+    <string id="LoZajra1" text="Xem Nhân Vật DESC" />
     <string id="Lp0byzGQ" text="I" />
-    <string id="LsX8rTwl" text="Open Character Development screen." />
+    <string id="LsX8rTwl" text="Mở màn hình phát triển của nhân vật." />
     <string id="lsxqkhy6" text="O" />
-    <string id="lxIeKgXe" text="Sheath Weapon" />
-    <string id="LYAeYPlT" text="Sheath Weapon DESC" />
-    <string id="m1PinhQd" text="Open Party Screen." />
-    <string id="M1ZFZR5I" text="Terrain Quality" />
-    <string id="M2LCpC4Z" text="Invert Mouse Y Axis" />
-    <string id="m7B471Hw" text="Sets the lighting quality." />
-    <string id="Mf5qVgAv" text="Equip Item 3" />
-    <string id="MFbBFDqx" text="Map Fast Move" />
-    <string id="MfsNAPh6" text="Enables the subsurface scattering." />
+    <string id="lxIeKgXe" text="Thu Hồi Vũ Khí" />
+    <string id="LYAeYPlT" text="Thu Hồi Vũ Khí DESC" />
+    <string id="m1PinhQd" text="Mở màn hình Quân Đội." />
+    <string id="M1ZFZR5I" text="Chất lượng Địa Hình" />
+    <string id="M2LCpC4Z" text="Đảo ngược trục Y" />
+    <string id="m7B471Hw" text="Đặt chất lượng ánh sáng." />
+    <string id="Mf5qVgAv" text="Trang bị vật phẩm 3" />
+    <string id="MFbBFDqx" text="Di chuyển nhanh trên bản đồ" />
+    <string id="MfsNAPh6" text="Bật tán xạ dưới bề mặt." />
     <string id="MfunBOxF" text="Hiệu chuẩn mức độ tương phản." />
     <string id="mG4rCrfE" text="0" />
     <string id="MkKL3Y4P" text="Numpad 7" />
     <string id="mLtHlKzD" text="Alt Phải" />
     <string id="MNsKxGzK" text="Chất lượng hình ảnh chi tiết" />
-    <string id="Mpl0oqe9" text="Map Zoom Out DESC" />
-    <string id="mueocuFG" text="Show Indicators" />
-    <string id="mWnA4X5D" text="Select Order 6" />
+    <string id="Mpl0oqe9" text="Thu nhỏ bản đồ chiến dịch DESC" />
+    <string id="mueocuFG" text="Hiển thị các chỉ thị mục tiêu" />
+    <string id="mWnA4X5D" text="Chọn mệNh lệNh 6" />
     <string id="MXHkvySm" text="F7" />
-    <string id="MxmOWsHj" text="Encyclopedia" />
-    <string id="Mxnj08mB" text="Move Party Right" />
+    <string id="MxmOWsHj" text="Bách Khoa Toàn Thư" />
+    <string id="Mxnj08mB" text="Chuyển Quân Đội Sang Phải" />
     <string id="N5fmlTza" text="{LEFT}, {RIGHT}" />
-    <string id="n6cE42p9" text="Equip Secondary Weapon DESC" />
-    <string id="nD11hOsQ" text="Open Quest Log." />
-    <string id="nDjFBDvE" text="Sets the maximum number of units on battles. A higher value requires better CPU and GPU." />
-    <string id="NdZYJ8dO" text="SelectOrder5 DESC" />
-    <string id="NkgHkAlZ" text="SelectOrder8 DESC" />
-    <string id="nMeL96ib" text="(HOLD) Leave" />
-    <string id="NN7DHB1A" text="Group 1 Hear" />
-    <string id="nNBb8a9A" text="UI Enter DESC" />
-    <string id="NPBaJKwW" text="Move Forward DESC" />
-    <string id="nsM4izfn" text="Crouch DESC" />
-    <string id="o0QPZODk" text="Move Party Left" />
+    <string id="n6cE42p9" text="Trang bị vũ khí phụ DESC" />
+    <string id="nD11hOsQ" text="Mở Nhật Ký Nhiệm Vụ." />
+    <string id="nDjFBDvE" text="Đặt số lượng các đơn vị trong một trận chiến. Một giá trị lớn thì cần CPU và GPU sịn hơn." />
+    <string id="NdZYJ8dO" text="Chọn mệnh lệnh 5 DESC" />
+    <string id="NkgHkAlZ" text="Chọn mệnh lệnh 8 DESC" />
+    <string id="nMeL96ib" text="(GIỮ) Rời đi" />
+    <string id="NN7DHB1A" text="Tổ 1 nghe lệnh" />
+    <string id="nNBb8a9A" text="UI Tiến Vào DESC" />
+    <string id="NPBaJKwW" text="Di Chuyển Phía Trước DESC" />
+    <string id="nsM4izfn" text="Cúi DESC" />
+    <string id="o0QPZODk" text="Di Quân Đội sang Trái" />
     <string id="o8WjGqS4" text="Z" />
-    <string id="ocNVbyPJ" text="Borderless Fullscreen" />
-    <string id="odsVjkbO" text="Open Inventory." />
-    <string id="oEdTBobd" text="Anisotropic 2X" />
-    <string id="oeXA4OpG" text="Map Select DESC" />
-    <string id="OgXnrvcA" text="Enables the cloth simulation. Uses GPU resources." />
+    <string id="ocNVbyPJ" text="Toàn màn hình không viền" />
+    <string id="odsVjkbO" text="Mở Kho Đồ." />
+    <string id="oEdTBobd" text="Bất Đẳng Hướng 2X" />
+    <string id="oeXA4OpG" text="Chọn Bản Đồ DESC" />
+    <string id="OgXnrvcA" text="Bật mô phỏng vải, cần dùng GPU." />
     <string id="oHaWR73d" text="Ok" />
-    <string id="OHs18aCS" text="Slowest" />
-    <string id="oI1gktYa" text="Sound effects volume level." />
-    <string id="OiB50fga" text="Map Select" />
-    <string id="oMaTg568" text="Get camera closer to campaign map." />
-    <string id="Oo7wQbfG" text="X2 Mouse Button" />
-    <string id="Op68a8dO" text="Menu Shortcuts" />
-    <string id="OqYO78Jb" text="SelectOrder9 DESC" />
-    <string id="OREWvYbi" text="Equip Weapon 4 DESC" />
-    <string id="otHjiYlN" text="Particle Quality" />
+    <string id="OHs18aCS" text="Chậm nhất" />
+    <string id="oI1gktYa" text="Mức hiệu ứng âm thanh." />
+    <string id="OiB50fga" text="Chọn bản đồ" />
+    <string id="oMaTg568" text="Đưa camera gần hơn với bản đồ chiến dịch" />
+    <string id="Oo7wQbfG" text="Ấn Chuột X2" />
+    <string id="Op68a8dO" text="Lối tắt danh sách" />
+    <string id="OqYO78Jb" text="Chọn mệnh lệnh9 DESC" />
+    <string id="OREWvYbi" text="Trang bị vũ khí 4 DESC" />
+    <string id="otHjiYlN" text="Chất lượng Hạt" />
     <string id="OtS4DYD1" text="T" />
-    <string id="OYaqdNAI" text="Select Order 2" />
-    <string id="P4rblFQN" text="Map Zoom Out" />
-    <string id="P5x1HU1u" text="Anti-aliasing" />
-    <string id="P63jJ5Jq" text="Back Button" />
-    <string id="P7E3rS3m" text="Music volume level." />
-    <string id="pa8A2VG3" text="Enable the red border around the screen when the player takes damage." />
+    <string id="OYaqdNAI" text="Chọn mệnh lệnh 2" />
+    <string id="P4rblFQN" text="Thu nhỏ bản đồ" />
+    <string id="P5x1HU1u" text="Khử Răng Cưa" />
+    <string id="P63jJ5Jq" text="Phím Back" />
+    <string id="P7E3rS3m" text="Âm lượng âm nhạc." />
+    <string id="pa8A2VG3" text="Bật một đường viền màu đỏ bao quanh màn hình khi nhân vật bị nhận sát thương." />
     <string id="PACe9VHN" text="&lt;" />
-    <string id="PADeKaAu" text="Map Context Menu" />
-    <string id="PjP4MktO" text="Equip Primary Weapon DESC" />
+    <string id="PADeKaAu" text="Danh sách ngữ cảnh bản đồ" />
+    <string id="PjP4MktO" text="Trang bị vũ khí chính DESC" />
     <string id="PksJtzwJ" text="Space" />
-    <string id="Pkw17hO0" text="Combat Speed" />
-    <string id="pLCcV4GU" text="UI Switch To Left Tab DESC" />
-    <string id="pMRw0fvV" text="Map Fast Move DESC" />
-    <string id="pnEeRPAk" text="Group 7 Hear" />
-    <string id="pNocZkrx" text="Enable Damage Taken Visuals" />
-    <string id="PPFFxlsX" text="Choose how to perform blocks." />
-    <string id="pQVSwtfn" text="Move camera closer to your character in third person view." />
-    <string id="PRsSB9B8" text="Interact with weapons, mounts, doors, people etc." />
-    <string id="ps103cxD" text="Perform an attack with your weapon." />
-    <string id="pshodFff" text="Weapon Trail Visibility" />
+    <string id="Pkw17hO0" text="Tốc độ Chiến Đấu" />
+    <string id="pLCcV4GU" text="UI Chuyển sang Tab trái DESC" />
+    <string id="pMRw0fvV" text="Bản đồ di chuyển nhanh DESC" />
+    <string id="pnEeRPAk" text="Tổ 7 nghe lệNh" />
+    <string id="pNocZkrx" text="Bật hiệu ứng thị giác khi bị thương." />
+    <string id="PPFFxlsX" text="Chọn cách mà để chặn đòn." />
+    <string id="pQVSwtfn" text="Di chuyển camera gần hơn với nhân vật của bạn trong góc nhìn thứ ba." />
+    <string id="PRsSB9B8" text="Tương tác với vũ khí, ngựa, cửa, con người,v..v.." />
+    <string id="ps103cxD" text="Dùng vũ khí của bạn, tiến hành công kích một lần." />
+    <string id="pshodFff" text="Có thể nhìn thấy vệt chém của vũ khí." />
     <string id="PtI8voo3" text="F8" />
     <string id="PvNGaexX" text="Hold to show marks for important people, places, nameplates etc." />
     <string id="pVrv5hnp" text="B" />
@@ -432,17 +432,17 @@
     <string id="qSJZyoro" text="F2" />
     <string id="qsrqjK0B" text="Sets the detail level of environment props." />
     <string id="qtgBKzY8" text="Sets the number of visible corpses." />
-    <string id="qvaJYO9c" text="Anisotropic 16X" />
+    <string id="qvaJYO9c" text="Bất Đẳng Hướng 16X" />
     <string id="qW1FWX0C" text="Down Arrow" />
     <string id="qYTo5C4x" text="Quick Save DESC" />
-    <string id="r0tu2Y57" text="Down" />
-    <string id="R9cQCadq" text="Choose how to perform attacks." />
+    <string id="r0tu2Y57" text="Xuống" />
+    <string id="R9cQCadq" text="Chọn cách tấn công." />
     <string id="r9tGsO4Z" text="Game Restart Required" />
-    <string id="RaijrIxP" text="Interact" />
-    <string id="rbz1Bwbv" text="Inventory" />
-    <string id="rCstRmpZ" text="Left Stick Down" />
+    <string id="RaijrIxP" text="Tương Tác" />
+    <string id="rbz1Bwbv" text="Kho Đồ" />
+    <string id="rCstRmpZ" text="Analog Trái xuống dưới" />
     <string id="RdARXWNw" text="Mouse Vertical Movement Scale" />
-    <string id="rH6gEaNP" text="Drop Weapon DESC" />
+    <string id="rH6gEaNP" text="Vứt Bỏ Vũ Khí DESC" />
     <string id="Rh7aDJ3n" text="Banner Window" />
     <string id="Rhl5E2ut" text="Sets the type of shadows." />
     <string id="rNiESgEo" text="]" />
@@ -450,9 +450,9 @@
     <string id="roJLc9oH" text="Half" />
     <string id="rP058aIm" text="Đặt vật phẩm vào vị trí đầu tiên của bạn." />
     <string id="rs0wImmD" text="Không thể tạo dữ liệu lưu trữ." />
-    <string id="RSmsn6mb" text="Resume/Pause Time" />
+    <string id="RSmsn6mb" text="Tạm Dừng/Tiếp Tục thời gian" />
     <string id="rwE0VVQX" text="Map Camera Follow Mode DESC" />
-    <string id="RX76Kfa8" text="Camera Toggle" />
+    <string id="RX76Kfa8" text="Chuyển Đổi Camera" />
     <string id="rYCYUZu5" text="Group 5 Hear" />
     <string id="s4QeCCDp" text="(Double Press) Sudden Turn Right" />
     <string id="s4r1xdg0" text="Group 6 Hear" />
@@ -507,14 +507,14 @@
     <string id="uBRn8Je8" text="3" />
     <string id="ucyy9Sc5" text="{LEFT} / {RIGHT}" />
     <string id="UFHqkvah" text="Interactive Grass" />
-    <string id="UixNc11t" text="Defend attacks with your weapon or shield." />
-    <string id="UjX1E56u" text="By Inverse Mouse Movement" />
+    <string id="UixNc11t" text="Phòng thủ tấn công bởi vũ khí hoặc khiên." />
+    <string id="UjX1E56u" text="Bằng chuột" />
     <string id="ukw0Zi1X" text="[" />
     <string id="UNmUcizM" text="Select Order 3" />
     <string id="Uojm77jP" text="Lighting Quality" />
     <string id="UoxjMhfJ" text="SelectOrder1" />
     <string id="UqB9zKfE" text="Equip Primary Weapon" />
-    <string id="uQfDuGem" text="Character Zoom Out" />
+    <string id="uQfDuGem" text="Thu Nhỏ Nhân Vật" />
     <string id="urbLiiQJ" text="Cấu Hình Phơi Sáng" />
     <string id="urSa4wQG" text="Show Banners On Friendly Troops" />
     <string id="uRXlSUVh" text="N" />
@@ -569,9 +569,9 @@
     <string id="xnGGas4h" text="Invert y-axis of the mouse for camera control." />
     <string id="XnhBdHnS" text="Surround" />
     <string id="XnoL375p" text="Jump DESC" />
-    <string id="xNprkuJl" text="Drop Weapon" />
+    <string id="xNprkuJl" text="Vứt Bỏ Vũ Khí" />
     <string id="xnulLUFX" text="Save your game quickly with a shortcut." />
-    <string id="XoQ13rWc" text="UI Move Down DESC" />
+    <string id="XoQ13rWc" text="UI Di Chuyển Xuống DESC" />
     <string id="xRbpqS2U" text="Group 3 Hear DESC" />
     <string id="XrUGC7H4" text="Backspace" />
     <string id="xtFZDect" text="(Double Press) Sudden Turn Left" />
@@ -587,12 +587,12 @@
     <string id="YDccwh2x" text="Master Volume" />
     <string id="YDnWm5eI" text="Left Trigger" />
     <string id="yDr2HCFR" text="Switch to 360 degree view mode around your character." />
-    <string id="yfMN8wWN" text="Anisotropic 4X" />
+    <string id="yfMN8wWN" text="Bất Đẳng Hướng 4X" />
     <string id="Yg2jHH1M" text="Numpad /" />
     <string id="yLCSTuBw" text="Sets the resolution of the game. Higher resolution requires a more powerful display adapter." />
-    <string id="Yn8bh0qT" text="Equip Next Shield" />
+    <string id="Yn8bh0qT" text="Trang Bị Khiên Chắn Tiếp Theo" />
     <string id="YT6ljA5V" text="Map Move Forward" />
-    <string id="yV64UCaW" text="Zoom In" />
+    <string id="yV64UCaW" text="Phóng To" />
     <string id="YZv1752W" text="D" />
     <string id="yZvw7EQb" text="Screen Space Reflection" />
     <string id="z8XjxODK" text="Change to alternative usage for a weapon. Melee or ranged, one handed or two handed." />

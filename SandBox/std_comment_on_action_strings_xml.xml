@@ -45,13 +45,13 @@
     <string id="DzpcTVWI" text="Ta nghe nói ngươi đã tuyên thệ hiệu trung với quân chủ của chúng ta, {FIRST_NAME}. Ta mong chờ được kề vai sát cánh tác chiến với ngươi đánh lại kẻ thù của chúng ta." />
     <string id="e0WSVhxu" text="Nghe nói ngươi muốn gia nhập chúng ta, cùng tuyên thệ hiệu trung với {FIRST_NAME}. uhmm... Tự làm việc đó đi, đừng có cản đường ta." />
     <string id="e5viS3jv" text="{SIDE1TROOP} đã sỉ nhục ta." />
-    <string id="e8Lec4g2" text="Ta nghe nói ngươi đã tuyên thệ hiệu trung với quân chủ của chúng ta, {FIRST_NAME}. I do not pretend to be happy about his decision, but perhaps it is better to have you inside our tent pissing out, than the other way around." />
-    <string id="eMlj4eRa" text="Ta nghe nói ngươi đã tuyên thệ hiệu trung với quân chủ của chúng ta, {FIRST_NAME}. Good {?PLAYER.GENDER}woman{?}man{\?}! Our lord is a noble soul, and rewards loyalty and valor with kindness and generosity." />
-    <string id="f0TZ7BRb" text="I hear you defeated {DEFEATED_LEADER_RELATIONSHIP} in battle." />
-    <string id="fjthM3fE" text="Ta nghe nói ngươi đã tuyên thệ hiệu trung với quân chủ của chúng ta, {FIRST_NAME}. Excellent... I am sure that you and I will become very good friends. But remember -- if you betray us, it will be the biggest mistake you will ever make." />
-    <string id="FxTlch69" text="You must think me a truely weathly man to raid my caravans and expect that I would not notice. I'll assume your actions were meant as a compliment, and that you'll find other means of income." />
-    <string id="g3a9dmzu" text="Those bandits never give us much trouble, but it is good practice I suppose." />
-    <string id="gaHeS3qu" text="I will not forget our victory over {DEFEATED_PARTY_LEADER}. Let us once again give thanks to heaven, and pray that we not grow too proud." />
+    <string id="e8Lec4g2" text="Ta nghe nói ngươi đã tuyên thệ hiệu trung với quân chủ của chúng ta, {FIRST_NAME}. ta không phải vờ hài lòng về quyết định của hắn, nhưng có lẽ tốt hơn là ngươi nên ở lại đây với chúng ta để đó đối phó với kẻ thù, dù sao cách này cũng hay hơn so với những cách khác." />
+    <string id="eMlj4eRa" text="Ta nghe nói ngươi đã tuyên thệ hiệu trung với quân chủ của chúng ta, {FIRST_NAME}. Tốt {?PLAYER.GENDER} phụ nữ{?} đàn ông {\?}! Quân chủ của chúng ta là người có tấm lòng cao thượng, sẽ sử dụng sự nhân từ cùng sự khẳng khái để ban thưởng cho lòng trung thành và sự dũng cảm." />
+    <string id="f0TZ7BRb" text="Ta nghe nói ngươi đã đánh bại {DEFEATED_LEADER_RELATIONSHIP} trong trận chiến." />
+    <string id="fjthM3fE" text="Ta nghe nói ngươi đã tuyên thệ hiệu trung với quân chủ của chúng ta, {FIRST_NAME}. Tốt lắm...Ta chắc chắn rằng ngươi và ta sẽ là những chiến hữu tốt. Nhưng hãy nhớ rằng -- nếu ngươi phản bội chúng ta, đó đúng là sai lầm lớn nhất mà ngươi phạm phải." />
+    <string id="FxTlch69" text="Ngươi nhất định cho ta là kẻ có tiền, cho nên ngươi mới cướp bóc thương đội của ta, hy vọng ta không chú ý tới. Ta sẽ coi đó như một hành động thăm hỏi của ngươi, hãy kiếm công việc khác mà làm đi." />
+    <string id="g3a9dmzu" text="Những nhóm cường đạo kia chưa từng khiến chúng ta thêm phiền hà, nhưng ta nghĩ đây chính xác là phương pháp rất tốt để chúng ta thực hành nâng cao sức chiến đấu." />
+    <string id="gaHeS3qu" text="Ta vẫn còn nhớ về trận chiến cuối cùng của chúng taI will not forget our victory over {DEFEATED_PARTY_LEADER}. Let us once again give thanks to heaven, and pray that we not grow too proud." />
     <string id="gQcyHNVT" text="I hear you took the fortress of {SETTLEMENT_NAME}. No doubt you found some traitor to let you through the gates." />
     <string id="GXR9KGBn" text="Chasing down bandits like that... I suppose it has to be done." />
     <string id="H1t6YIMv" text="I will always cherish the memory of our battle against {DEFEATED_PARTY_LEADER}. May all our battles be equally glorious." />
@@ -99,7 +99,7 @@
     <string id="rlLqbDCQ" text="You cost me a great sum of coin when you raided my caravan. I wonder if I could regain it through the sale of your organs." />
     <string id="S28aK0oF" text="I ask, for the sake of your honor, that you not raid anymore of my caravans." />
     <string id="SCvFN6Ap" text="Your rebellion against {FIRST_NAME} was an act of treason." />
-    <string id="SM16wIcc" text="So, you crossed swords with that rascal they call {DEFEATED_PARTY_LEADER}, and emerged victorious. Good work." />
+    <string id="SM16wIcc" text="Cho nên ngươi đã giao thủ với lại tên lưu manh được gọi là {DEFEATED_PARTY_LEADER}, đồng thời cũng giành chiến thắng. Làm tốt lắm." />
     <string id="SoCaUHhH" text="There's something I can't stay silent about... You broke your word to {COMMENT_REFERENCE_HERO}. This is hard for me to accept." />
     <string id="tciR9VSr" text="I hear you fought {DEFEATED_LEADER}, and won. {?GENDER}Her{?}His{\?} mistake cost us the lives of many brave men." />
     <string id="tMET9a0Q" text="I see you have helped yourself to one of my caravans... I am not kind to thieves. Perhaps I shall take your hands and eyes as compensation." />
@@ -111,7 +111,7 @@
     <string id="vxkoCCuc" text="I hear you'll be joining us in the service of {FIRST_NAME}" />
     <string id="W3F2HgTN" text="I hear you took the fortress of {SETTLEMENT_NAME}. A blow well struck!" />
     <string id="WROObSl4" text="{SIDE1TROOP} insulted {SIDE2TROOP}." />
-    <string id="WZ2K83Z4" text="You rebelled and broke your oath of fealty to me, {PLAYER.LINK}, but now the Heavens have delivered you to me." />
+    <string id="WZ2K83Z4" text="Ngươi đã phản bội lời thề trung thành với ta {PLAYER. LINK}, nhưng giờ thì sao, ông trời đã để ngươi rơi vào tay ta." />
     <string id="WzMjUSGv" text="I hear you defeated {DEFEATED_LEADER_RELATIONSHIP}. You're a wily foe, but I've run you to ground and now I shall finish you off." />
     <string id="x8WJb01D" text="I don't begrudge you your victory, the last time we met. I'm glad we no longer have to fight." />
     <string id="XLqklKR5" text="I hear {VICTORIOUS_PARTY_LEADER} ran you down. Some speak of heroic last stands, but I say a defeat is a defeat." />

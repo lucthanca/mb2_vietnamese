@@ -46,43 +46,43 @@
     <string id="e0WSVhxu" text="Nghe nói ngươi muốn gia nhập chúng ta, cùng tuyên thệ hiệu trung với {FIRST_NAME}. uhmm... Tự làm việc đó đi, đừng có cản đường ta." />
     <string id="e5viS3jv" text="{SIDE1TROOP} đã sỉ nhục ta." />
     <string id="e8Lec4g2" text="Ta nghe nói ngươi đã tuyên thệ hiệu trung với quân chủ của chúng ta, {FIRST_NAME}. ta không phải vờ hài lòng về quyết định của hắn, nhưng có lẽ tốt hơn là ngươi nên ở lại đây với chúng ta để đó đối phó với kẻ thù, dù sao cách này cũng hay hơn so với những cách khác." />
-    <string id="eMlj4eRa" text="Ta nghe nói ngươi đã tuyên thệ hiệu trung với quân chủ của chúng ta, {FIRST_NAME}. Tốt {?PLAYER.GENDER} phụ nữ{?} đàn ông {\?}! Quân chủ của chúng ta là người có tấm lòng cao thượng, sẽ sử dụng sự nhân từ cùng sự khẳng khái để ban thưởng cho lòng trung thành và sự dũng cảm." />
+    <string id="eMlj4eRa" text="Ta nghe nói ngươi đã tuyên thệ hiệu trung với quân chủ của chúng ta, {FIRST_NAME}. Tốt lắm {?PLAYER.GENDER}phu nhân{?}tiên sinh{\?}! Quân chủ của chúng ta là người có tấm lòng cao thượng, sẽ sử dụng sự nhân từ cùng sự khẳng khái để ban thưởng cho lòng trung thành và sự dũng cảm." />
     <string id="f0TZ7BRb" text="Ta nghe nói ngươi đã đánh bại {DEFEATED_LEADER_RELATIONSHIP} trong trận chiến." />
     <string id="fjthM3fE" text="Ta nghe nói ngươi đã tuyên thệ hiệu trung với quân chủ của chúng ta, {FIRST_NAME}. Tốt lắm...Ta chắc chắn rằng ngươi và ta sẽ là những chiến hữu tốt. Nhưng hãy nhớ rằng -- nếu ngươi phản bội chúng ta, đó đúng là sai lầm lớn nhất mà ngươi phạm phải." />
     <string id="FxTlch69" text="Ngươi nhất định cho ta là kẻ có tiền, cho nên ngươi mới cướp bóc thương đội của ta, hy vọng ta không chú ý tới. Ta sẽ coi đó như một hành động thăm hỏi của ngươi, hãy kiếm công việc khác mà làm đi." />
-    <string id="g3a9dmzu" text="Những nhóm cường đạo kia chưa từng khiến chúng ta thêm phiền hà, nhưng ta nghĩ đây chính xác là phương pháp rất tốt để chúng ta thực hành nâng cao sức chiến đấu." />
-    <string id="gaHeS3qu" text="Ta vẫn còn nhớ về trận chiến cuối cùng của chúng ta {DEFEATED_PARTY_LEADER}. Một lần nữa chúng ta hãy gửi lời tạ ơn tới trời cao,và cầu nguyện rằng chúng ta sẽ không ngủ quên trên chiến thắng." />
+    <string id="g3a9dmzu" text="Những nhóm cường đạo kia chưa từng gây thêm phiền phức cho chúng ta, nhưng ta nghĩ đây chính xác là phương pháp rất tốt để chúng ta thực hành nâng cao sức chiến đấu." />
+    <string id="gaHeS3qu" text="Ta vẫn còn nhớ về trận chiến trước đó của chúng ta với {DEFEATED_PARTY_LEADER}. Một lần nữa chúng ta hãy gửi lời tạ ơn tới trời cao,và cầu nguyện rằng chúng ta sẽ không ngủ quên trên chiến thắng." />
     <string id="gQcyHNVT" text="Ta nghe nói ngươi đã chiếm được pháo đài của {SETTLEMENT_NAME}. Không nghi ngờ gì nữa, chắc hẳn ngươi đã tìm được kẻ tay trong giúp ngươi có thể qua được cổng thành." />
-    <string id="GXR9KGBn" text="Hãy truy đuổi những đám cường đạo theo cách đó... Ta cho rằng điều này cần phải được thực thi." />
-    <string id="H1t6YIMv" text="Ta sẽ luôn trân trọng những khoảnh khắc mà chúng ta đã chiến đấu {DEFEATED_PARTY_LEADER}. Có thể nói rằng tất cả những trận chiến đó đều thực sự đáng giá." />
+    <string id="GXR9KGBn" text="Hãy truy đuổi những đám cường đạo theo cách đó... Ta cho rằng điều này cần nhất định phải được thực thi." />
+    <string id="H1t6YIMv" text="Ta sẽ luôn trân trọng những khoảnh khắc mà chúng ta đã chiến đấu với {DEFEATED_PARTY_LEADER}. Có thể nói rằng tất cả những trận chiến đó đều thực sự đáng giá." />
     <string id="hjcjbEYn" text="Ta nghe nói rằng người đã chiếm được {SETTLEMENT_NAME}. Ta mong rằng sự đổ máu của chúng chính là sự trả giá xứng đáng với những gì chúng đã gây ra cho chúng ta." />
-    <string id="hl1AFy3m" text="Ta nghe nói ngươi đã đánh bạiI hear you defeated {DEFEATED_LEADER_RELATIONSHIP}. Hừ! Điều này có lẽ thích thú lắm nếu ta được chứng kiến {?GENDER}cô ta{?}hắn ta{\?} đã bị ngươi thu phục." />
-    <string id="iEaXFpUF" text="Ta không biết ngươi đã làm gì để có thể đánh bại {DEFEATED_LEADER_RELATIONSHIP}, but it will not work against me." />
-    <string id="ifNalTNK" text="Chà, đó là một nhóm cường đạo nhỏ đang đi săn lùng những người lữ khách. Nhưng quân của chúng có thể nhiều hơn thế nữa. Sẽ luôn là như vậy." />
+    <string id="hl1AFy3m" text="Ta nghe nói ngươi đã đánh bại {DEFEATED_LEADER_RELATIONSHIP}. Hừ! Điều này có lẽ thích thú lắm nếu ta được chứng kiến {?GENDER}nàng ta{?}hắn ta{\?} đã bị ngươi thu phục." />
+    <string id="iEaXFpUF" text="Ta không biết ngươi đã làm gì để có thể đánh bại {DEFEATED_LEADER_RELATIONSHIP}, nhưng điều đó sẽ không có hiệu quả đối với ta." />
+    <string id="ifNalTNK" text="Cứ như vậy, bọn cường đạo cướp bóc của những người lữ hành, ít thì một nhóm nhỏ. Nhưng còn có rất nhiều những nhóm lớn. Nói chung là giết mãi không hết được cường đạo." />
     <string id="iNYL0cJ5" text="Ta nghe nói ngươi đã chiếm được {SETTLEMENT_NAME}. Làm tốt lắm." />
-    <string id="JCzju3in" text="Ta nghe nói I heard the {ENEMY_TERM} đánh bại ngươi, nhưng đó là cái giá của một thằng đàn ông, làm được chịu được. Tốt lắm." />
-    <string id="jH77WXL2" text="Có quá nhiều điều để có thể nói về ngươi - cách ngươi đã đánh bại {DEFEATED_PARTY_LEADER} even though you were outnumbered. Is that really what happened? Somehow I doubt it." />
-    <string id="jhnPucu3" text="So... We're both courting the fair {FIRST_NAME}." />
-    <string id="JNub3xzU" text="It was hard going back there against the {ENEMY_TERM}. I'm glad we all made it out alive." />
-    <string id="jqOmOSQZ" text="Amongst war and death, trade alone keeps this great land together. If you insist on raiding my caravans and further undermining this world's prosperity, than I must defeat you." />
-    <string id="k4MKDRJH" text="You have taken {SETTLEMENT_NAME}. So be it. I would have done the same, in your shoes. But I shall retake it." />
-    <string id="keJgUALH" text="Well... I can forgive many things, but it is hard to forgive treason." />
-    <string id="Kf45xPSd" text="You may have won last time we met, but that won't happen again." />
-    <string id="kWGF47Mc" text="You won our last battle. That won't happen again." />
-    <string id="LaBhR4Vm" text="I hear {VICTORIOUS_PARTY_LEADER} defeated you. Fear not, we will give them back double." />
-    <string id="LaPJJMCD" text="I heard that you fought and defeated {DEFEATED_PARTY_LEADER}. Every dog has its day, I suppose." />
-    <string id="lMFCQOJL" text="You rebelled and broke your oath of fealty to me, {PLAYER.LINK}. Expect no mercy." />
-    <string id="lsgsuRva" text="I heard that you renounced your allegiance to {FIRST_NAME}. Well, we're better off without you." />
-    <string id="LXMcIObA" text="My peasants tell me a man bearing your description looted their goods and coin. I suppose I should be grateful you didn't burn the buildings to ground." />
-    <string id="lzQYayR0" text="I remember our last battle. It was a good fight. Have you come for another?" />
-    <string id="M43kLIaa" text="We may have fought together against {DEFEATED_PARTY_LEADER}, but even that cannot make up for everything else you've done." />
-    <string id="mabEK2R8" text="I hear you recently caught some bandits. Speaking as a merchant, we appreciate any efforts to make the roads safer." />
-    <string id="mwF92doJ" text="I remember our last battle. It was a good fight." />
-    <string id="n0SpScdp" text="So apparently you're a tough bite to swallow. I hear {VICTORIOUS_PARTY_LEADER} paid heavily in blood to defeat you." />
-    <string id="ndagvVPz" text="I hear you defeated {DEFEATED_LEADER_RELATIONSHIP} in battle. But don't think that I will fall so easily for your tricks." />
-    <string id="ndQo81VN" text="Ta nghe nói ngươi đã tuyên thệ hiệu trung với quân chủ của chúng ta, {FIRST_NAME}. That is good. The more skilled fighters we have with us in these troubled times, the better. I shall be watching your progress." />
-    <string id="Nnqgix3X" text="I am glad that you look after your men well." />
-    <string id="O0acjJR9" text="Ta nghe nói ngươi đã tuyên thệ hiệu trung với quân chủ của chúng ta, {FIRST_NAME}. Alas, from what I know of you I fear that you will disgrace us, but I will be happy if you prove me wrong." />
+    <string id="JCzju3in" text="Ta nghe nói {ENEMY_TERM} đã đánh bại ngươi, nhưng bọn chúng cũng phải bỏ ra một cái giá lớn. Tốt lắm." />
+    <string id="jH77WXL2" text="Có quá nhiều điều để có thể nói về ngươi - cách ngươi đã đánh bại {DEFEATED_PARTY_LEADER} cho dù là ở thế yếu hơn. Là thật sao? Chả hiểu sao chứ ta vẫn có chút hoài nghi về việc đó." />
+    <string id="jhnPucu3" text="Vậy là... Chúng ta đều đang truy cầu vẻ đẹp của {FIRST_NAME}." />
+    <string id="JNub3xzU" text="Trở lại và đối phó với {ENEMY_TERM} thật là khó khắn. Ta vui vì chúng ta vẫn còn sống." />
+    <string id="jqOmOSQZ" text="Giữa chiến tranh và cái chết, chỉ có buôn bán mới có thể đem mảnh đất vĩ đại này giữ lại một chỗ. Nếu ngươi vẫn muốn tập kích thương đội của ta, một bước đi phá hoạt cái thế giới phồn vinh này, vậy thì bổn đại gia phải đánh bại ngươi." />
+    <string id="k4MKDRJH" text="Ngươi đã đánh chiếm được {SETTLEMENT_NAME}. Tốt lắm, nếu ta là ngươi ta cũng sẽ làm vậy. Nhưng có điều, ta sẽ đoạt lại nó." />
+    <string id="keJgUALH" text="Ỏ... Ta có thể tha thứ cho rất nhiều chuyện, nhưng phản bội thì không." />
+    <string id="Kf45xPSd" text="Lần trước chúng ta giao thủ có thể là ngươi thắng. Nhưng lần sau sẽ không còn may mắn vậy đâu." />
+    <string id="kWGF47Mc" text="Lần giao thủ trước ngươi thắng. Chuyện này sẽ không xảy ra nữa đâu nhé." />
+    <string id="LaBhR4Vm" text="Ta nghe nói ngươi đã bị {VICTORIOUS_PARTY_LEADER} đánh bại. Đừng có sợ, chúng ta sẽ trả lại cho chúng gấp đôi." />
+    <string id="LaPJJMCD" text="Nghe nói ngươi đã tiến đánh và đả bại được {DEFEATED_PARTY_LEADER}. Ta nghĩ rằng con người thì ai cũng đều sẽ có những lúc đắc ý tự mãn ;)))" />
+    <string id="lMFCQOJL" text="Ngươi phản bội lời thề trung thành với ta, {PLAYER.LINK}. Đừng mong rằng ta sẽ thủ hạ lưu tình." />
+    <string id="lsgsuRva" text="Ta nghe nói ngươi đã từ bỏ hiệU trung với {FIRST_NAME}. Cũng được thôi, không có ngươi chúng ta sẽ tốt hơn." />
+    <string id="LXMcIObA" text="Một đám nông dân của ta nói cho ta biết là, có một kẻ có vẻ giống ngươi đã cướp hàng hoá và tiền của họ. Có lẽ ta hẳn nên cảm tạ ngươi vì không có đem nhà cửa, công trình thiêu thành bình địa." />
+    <string id="lzQYayR0" text="Ta nhớ chúng ta trong một trận chiến trước đây đã đánh rất đã đời. Ngươi muốn làm trận nữa không?" />
+    <string id="M43kLIaa" text="Ta và ngươi cũng đã từng sát cánh chiến đấu với lại {DEFEATED_PARTY_LEADER}, những cho dù vậy, cũng chẳng thể đền bù được tất cả những gì ngươi đã làm đâu." />
+    <string id="mabEK2R8" text="Ta nghe nói gần đây đã đập mấy lũ cường đạo. Là một người thương nhân, chúng ta cực kỳ biết ơn với những gì khiến cho con đường đi trở nên thuận tiện, an toàn hơn." />
+    <string id="mwF92doJ" text="Ta nhớ trận chiến trước đây của chúng ta đã đánh rất đã." />
+    <string id="n0SpScdp" text="Rất rõ ràng, ngươi là một cọng rơm cứng, một đối thủ khó ăn. Ta nghe nói là để đánh bại ngươi, {VICTORIOUS_PARTY_LEADER} đã phải bỏ ra một lượng máu lớn." />
+    <string id="ndagvVPz" text="Ta nghe nói ngươi đã đánh bại {DEFEATED_LEADER_RELATIONSHIP}. Nhưng đừng cho là ta sẽ dễ dàng ăn ta, ta sẽ không bị quỷ kế của ngươi lừa gạt đâu nhé." />
+    <string id="ndQo81VN" text="Ta nghe nói ngươi đã tuyên thệ hiệu trung với quân chủ của chúng ta, {FIRST_NAME}. Vậy thì thật tốt. Ở cái thời thế hỗn loạn này, chúng ta có được càng chiến sĩ thuần thục càng tốt. Ta sẽ quan tâm đến quá trình phát triển của ngươi." />
+    <string id="Nnqgix3X" text="Ta rất vui khi thấy ngươi quan tâm chú ý đến các thủ hạ của mình." />
+    <string id="O0acjJR9" text="Ta nghe nói ngươi đã tuyên thệ hiệu trung với quân chủ của chúng ta, {FIRST_NAME}. Aiza, căn cứ vào sự hiểu biết của ta về ngươi, ta rất lo lắng ngươi sẽ làm chúng ta mất mặt, nhưng nếu như ngươi có thể chứng minh là ta sai, ta sẽ rất vui đó." />
     <string id="obydBl7I" text="I heard that you beat {DEFEATED_PARTY_LEADER}... This is good." />
     <string id="Pf44U15I" text="Ta nghe nói ngươi đã tuyên thệ hiệu trung với quân chủ của chúng ta, {FIRST_NAME}. Pray do not disgrace us by behaving in a cowardly fashion." />
     <string id="pJtkSopk" text="I hear you defeated {DEFEATED_LEADER_RELATIONSHIP} in battle. I'm here to even the score." />

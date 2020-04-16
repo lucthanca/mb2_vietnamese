@@ -4,41 +4,41 @@
     <tag language="Tiếng Việt" />
   </tags>
   <strings>
-    <string id="0xC75dN6" text="Enemy Party" />
-    <string id="1cnJtNTt" text="({KEY}) Pull" />
-    <string id="1CPdu9K0" text="Stone" />
-    <string id="3PP01vFv" text="Keep away from that weapon." />
+    <string id="0xC75dN6" text="Quân Địch" />
+    <string id="1cnJtNTt" text="({KEY}) Kéo" />
+    <string id="1CPdu9K0" text="Đá" />
+    <string id="3PP01vFv" text="Tránh xa vũ khí này ra." />
     <string id="4FVIuqsl" text="{ALIVE}/{TOTAL}" />
-    <string id="4Skg9QhO" text="Trebuchet" />
-    <string id="5oozsaIb" text="({KEY}) Open" />
-    <string id="5wx4BF5h" text="({KEY}) Rotate" />
+    <string id="4Skg9QhO" text="Máy bắn đá" />
+    <string id="5oozsaIb" text="({KEY}) Mở" />
+    <string id="5wx4BF5h" text="({KEY}) Xoay" />
     <string id="5zGsfiMM" text="{TRAINING_TYPE}" />
-    <string id="6wZUG0ev" text="Gate" />
-    <string id="abbALYlp" text="Ballista" />
-    <string id="aXjlMBiE" text="Siege Tower" />
-    <string id="bNYm3K6b" text="({KEY}) Pick Up" />
-    <string id="bWi4aMO9" text="Arrow Barrel" />
-    <string id="F9AQxCax" text="Fork" />
-    <string id="fEQAPJ2e" text="({KEY}) Use" />
-    <string id="G0AWk1rX" text="Ladder" />
-    <string id="gqQPSAQZ" text="({KEY}) Leave Area" />
-    <string id="hOSafKZ9" text="A new {GAME_TYPE} game will be started on {SCENE_NAME}" />
+    <string id="6wZUG0ev" text="Cổng lớn" />
+    <string id="abbALYlp" text="Nỏ Pháo" />
+    <string id="aXjlMBiE" text="Tháp Công Thành" />
+    <string id="bNYm3K6b" text="({KEY}) Nhặt Lên" />
+    <string id="bWi4aMO9" text="Bao Đựng Tên" />
+    <string id="F9AQxCax" text="Nĩa" />
+    <string id="fEQAPJ2e" text="({KEY}) Dùng" />
+    <string id="G0AWk1rX" text="Thang" />
+    <string id="gqQPSAQZ" text="({KEY}) Rời khỏi khu vực" />
+    <string id="hOSafKZ9" text="Một game mới {GAME_TYPE} sẽ được bắt đầu tại {SCENE_NAME}" />
     <string id="hvQSOi79" text="Bot" />
-    <string id="ibC4xPoo" text="({KEY}) Load Ammo" />
-    <string id="jfcceEoE" text="{PILE_TYPE} Pile" />
-    <string id="kbNcm68J" text="({KEY}) Lift" />
+    <string id="ibC4xPoo" text="({KEY}) Nạp Đạn" />
+    <string id="jfcceEoE" text="{PILE_TYPE} Xếp chồng" />
+    <string id="kbNcm68J" text="({KEY}) Nâng lên" />
     <string id="L91XKoMD" text="{TEAM_LEADER}: {PLAYER_NAME}, {BEHAVIOR}" />
-    <string id="lVfmVHbz" text="Login Failed" />
-    <string id="MaBSSg7I" text="Battering Ram" />
-    <string id="MdQJxiGz" text="({KEY}) Push" />
-    <string id="Na81xuXn" text="({KEY}) Rearm" />
-    <string id="NbpcDXtJ" text="Mangonel" />
-    <string id="pgw7LMRo" text="Server over capacity." />
-    <string id="PNg2Rb4p" text="{PEER_NAME} will be kicked{IS_BANNED}" />
-    <string id="pzfbPbWW" text="Boulder" />
-    <string id="rwZAZSvX" text="({KEY}) Move" />
-    <string id="sSJSTe5p" text="Player Party" />
-    <string id="TJj71hPO" text="({KEY}) Close" />
-    <string id="wY1qP2qj" text="({KEY}) Select" />
+    <string id="lVfmVHbz" text="Đăng Nhập Thất Bại" />
+    <string id="MaBSSg7I" text="Chuỳ Công Thành" />
+    <string id="MdQJxiGz" text="({KEY}) Đẩy" />
+    <string id="Na81xuXn" text="({KEY}) Nhét thêm" />
+    <string id="NbpcDXtJ" text="Xe Bắn Đá" />
+    <string id="pgw7LMRo" text="Máy chủ quá tải." />
+    <string id="PNg2Rb4p" text="{PEER_NAME} sẽ bị đá{IS_BANNED}" />
+    <string id="pzfbPbWW" text="Cự Thạch" />
+    <string id="rwZAZSvX" text="({KEY}) Di Chuyển" />
+    <string id="sSJSTe5p" text="Quân Đội Người Chơi" />
+    <string id="TJj71hPO" text="({KEY}) Đóng" />
+    <string id="wY1qP2qj" text="({KEY}) Lựa Chọn" />
   </strings>
 </base>

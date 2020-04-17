@@ -4,41 +4,41 @@
     <tag language="Tiếng Việt" />
   </tags>
   <strings>
-    <string id="02FaqhzI" text="I've heard of you. They say good things about you. Let's talk, from time to time. A friendship with someone like me can be quite profitable for someone like you." />
-    <string id="0etg1Q9l" text="I have asked many sacrifices of my men in {FIRST_NAME}'s service. I will not hear it said that their loyalty was misplaced." />
-    <string id="1jUa8olQ" text="I don't expect you to surrender, but I'll give you the chance to do so.[ib:warrior][if:idle_angry]" />
-    <string id="22a9fyiQ" text="Father" />
-    <string id="27KUtWGA" text="You came through on that task I gave you. I thank you." />
-    <string id="2FWBCCw0" text="Sister" />
-    <string id="3L7Rkswm" text="You can surrender, but I hope you don't. I'd enjoy sticking a blade into you until you squeal.[ib:warrior][if:idle_angry]" />
-    <string id="3PsQTf0z" text="I've got you cornered. Yield, or we shall attack.[ib:warrior][if:idle_angry]" />
-    <string id="3TGug4Vb" text="I know your name. They say you are a most valiant warrior. I can only hope that your honour and mercy matches your valor." />
-    <string id="3UucAOBW" text="I am {CONVERSATION_CHARACTER.LINK}, a chieftain of the Battanians." />
-    <string id="48g7K7Zi" text="When you walk these roads, my friend, know that nothing escapes the notice of the Hidden Hand. Lords and emperors come and go, but we remain." />
-    <string id="49sxmwcX" text="Still your tongue! You'll have need of it shortly, to beg for mercy" />
-    <string id="4Jo8JMZm" text="My lady" />
-    <string id="5DCMLfp8" text="I have heard of you. I am not in a mood for banter, so let us dispense with the courtesies." />
-    <string id="5Fa0uDJn" text="sultana of the Aserai" />
-    <string id="5ZfjV7hS" text="Enough! You win today, you dog! Ach, the shame of it![rf:angry][rb:trivial]" />
-    <string id="62vceTar" text="I am {CONVERSATION_CHARACTER.LINK}, of the {CLAN_NAME}." />
-    <string id="6acfbHiE" text="I shall mark down your name. But you shall have to earn my trust, stranger, for the world is a treacherous place, and these are treacherous times." />
-    <string id="6LlDlGSb" text="high queen of the Battanians" />
-    <string id="6UBdsXlo" text="Perhaps one day we shall see each other on a battlefield. You shall know the Ghilman by the splendor of our steeds and the shimmer of our steel. If we are on your side, you may rejoice. If we are your enemy, you may save yourself a great deal of trouble by running away before the fighting starts." />
-    <string id="7lWtkqHv" text="I'll remember your name." />
-    <string id="7pQ3y21E" text="Thank you again for all your help." />
-    <string id="80C0gWJ4" text="king of the Vlandians" />
-    <string id="86aQkXpV" text="Very well - I shall put your courage to the test!" />
-    <string id="8eLXNZ7U" text="It is good to know who one fights." />
-    <string id="8GDgJCB4" text="If you're ever looking for stout warriors, friend, you should think about hiring the Company of the Boar. The stoutest lads in Vlandia flock to our banner. Because if you don't hire us, your enemy might." />
-    <string id="8WLSZRZc" text="Very well. What do you propose?" />
-    <string id="8x8kVUGX" text="Uphold the rights of the poor and the meek, of the widow and the orphan, and the Heavens will take note." />
-    <string id="99gE1ZoY" text="I am {CONVERSATION_CHARACTER.LINK}, of the {FACTION}." />
-    <string id="9ZHhYooG" text="Remember how I beat you, one-on-one? Are you back for more?" />
-    <string id="a55SAS18" text="We have the advantage of you. Yield, and you will be well-treated.[ib:warrior][if:idle_angry]" />
-    <string id="a5LChqbr" text="The common folk of these lands need someone looking after them. That's where our Brotherhood comes in. You'll hear us called bandits or robbers. Don't believe a word of it." />
-    <string id="a8584KD0" text="I am {CONVERSATION_CHARACTER.LINK}, of the {CLAN_NAME}. I am sure you have heard the name of our clan in the epics of the steppe. We carry the name of one the ten sons of the great she-wolf, mother of the Khuzaits." />
-    <string id="aaadHoIb" text="May {?GENDER}she{?}he{\?} crush all {?GENDER}her{?}his{\?} foes!" />
-    <string id="aagGt8pX" text="Your lordship" />
+    <string id="02FaqhzI" text="Ta đã nghe danh của ngươi. Bọn họ nói những điều tốt về ngươi. Thi thoảng hãy tâm sự với nhau. Ngươi sẽ thấy rằng một người bạn như ta có thể mang lại nhiều lợi ích cho ngươi hơn ngươi tưởng đấy." />
+    <string id="0etg1Q9l" text="Ta đã phải bắt buộc nhiều binh sĩ của đội quân ta hi sinh trong trận giao tranh với  {FIRST_NAME}. Ta sẽ không nghe bất kỳ ai nói rằng lòng chung thành của bọn họ đã được đặt sai chỗ." />
+    <string id="1jUa8olQ" text="Ta không mong chờ rằng ngươi sẽ đầu hàng, nhưng ta sẽ cho ngươi cơ hội thực hiện điều đó.[ib:warrior][if:idle_angry]" />
+    <string id="22a9fyiQ" text="Phụ thân" />
+    <string id="27KUtWGA" text="Ngươi đã thông qua nhiệm vụ mà ta giao cho. Cảm tạ ngươi." />
+    <string id="2FWBCCw0" text="Sư tỉ" />
+    <string id="3L7Rkswm" text="Ngươi có thể đầu hàng, nhưng ta không hi vọng ngươi làm điều đó. Ta lại thích việc cứa một lưỡi đao vào ngươi cho tới khi ngươi phải la lên.[ib:warrior][if:idle_angry]" />
+    <string id="3PsQTf0z" text="Ngươi đã bị đưa vào bước đường cùng rồi. Hoặc đầu hàng, bằng không chúng ta sẽ giải quyết bằng máu[ib:warrior][if:idle_angry]" />
+    <string id="3TGug4Vb" text="Ta đã biết qua về ngươi. Bọn họ đồn rằng ngươi là một chiến binh dũng cảm nhất. Còn ta chỉ hi vọng danh sự và sự thương cảm xứng đáng với lòng dũng cảm của ngươi." />
+    <string id="3UucAOBW" text="Ta chính là {CONVERSATION_CHARACTER.LINK}, một thủ lĩnh của người Battani." />
+    <string id="48g7K7Zi" text="Khi ngươi đi trên những con đường này, chiến hữu của ta, biết rằng không gì có thể vượt qua được bàn tay vô hình này. Quân chủ và lãnh chúa đến và đi, nhưng chúng ta vẫn ở lại." />
+    <string id="49sxmwcX" text="Vẫn từ miệng ngươi. Ngươi sẽ cần nó để cầu xin sự thương hại lúc này." />
+    <string id="4Jo8JMZm" text="Nữ sĩ" />
+    <string id="5DCMLfp8" text="Ta nghe nói qua về ngươi rồi. Ta không có tâm trạng để đùa, cho nên là chúng ta bỏ qua mấy nghi lễ li phiền phức đi." />
+    <string id="5Fa0uDJn" text="Nữ Tô Đan của A Tắc Lai" />
+    <string id="5ZfjV7hS" text="Đủ rồi! Coi như hôm nay ngươi thắng, cẩu tặc! Ây da, thật sự hổ thẹn![rf:angry][rb:trivial]" />
+    <string id="62vceTar" text="Ta chính là {CONVERSATION_CHARACTER.LINK}, của {CLAN_NAME}." />
+    <string id="6acfbHiE" text="Ta sẽ chú ý tới tên của ngươi. Nhưng trước hết ngươi phải lấy được lòng tin của ta, người lạ, vì thế giới là nơi đầy những bất trắc, và đây là khoảng thời gian nhạy cảm." />
+    <string id="6LlDlGSb" text="Nữ vương của người Battani" />
+    <string id="6UBdsXlo" text="Có thể một ngày nào đó chúng ta sẽ nhìn thấy nhau trên chiến trường. Ngươi sẽ biết Ghilman qua sự huy hoàng của những con chiến mã và của những thanh kiếm sắc lưỡi bóng loáng. Nếu chúng ta đứng về phía ngươi, ngươi có thể hoan hỉ. Còn nếu chúng ta là kẻ thù, ngươi có thể tự cứu mình ra khỏi rắc rối bằng cách chạy trốn trước khi cuộc chiến bắt đầu." />
+    <string id="7lWtkqHv" text="Ta sẽ nhớ tên ngươi." />
+    <string id="7pQ3y21E" text="Một lần nữa cảm tạ người về tất cả." />
+    <string id="80C0gWJ4" text="Vua của Vlandians" />
+    <string id="86aQkXpV" text="Tốt lắm - Ta sẽ thử thách lòng can đảm của ngươi!" />
+    <string id="8eLXNZ7U" text="Thật tốt khi biết được ai là người chiến đấu." />
+    <string id="8GDgJCB4" text="Nếu ngươi đang tìm kiếm những chiến binh cường tráng, bằng hữu, ngươi nên nghĩ đến việc tuyển chọn những con heo đực thay vì bọn họ. Số đông những người cường tráng nhất ở Vlandia đã giơ cao quốc cờ của chúng ta. Nếu ngươi không kêu gọi được họ, ngươi có thể sẽ là kẻ thù của bọn ta." />
+    <string id="8WLSZRZc" text="Tốt lắm. Very well. Đề xuất của ngươi là gì?" />
+    <string id="8x8kVUGX" text="Hãy đề cao quyền của người nghèo và lương thiện, góa phụ và trẻ mồ côi, and the Heavens will take note." />
+    <string id="99gE1ZoY" text="Ta chính là {CONVERSATION_CHARACTER.LINK}, của {FACTION}." />
+    <string id="9ZHhYooG" text="Còn nhớ cái cách mà ta đã đánh ngươi, một đấu một chứ? Ngươi có muốn biết thêm mùi nữa không?" />
+    <string id="a55SAS18" text="Chúng ta có ngươi là lợi thếWe have the advantage of you. Tuân thủ theo, và ngươi sẽ có được sự đối đãi xứng đáng.[ib:warrior][if:idle_angry]" />
+    <string id="a5LChqbr" text="Những thường dân của vùng đất này cần có người chăm lo cho họ. Đó là nơi mà Brotherhood chúng ta cần đến. Ngươi sẽ thấy bọn ta được gọi là những kẻ côn đồ hoặc kẻ cướp. Đừng có tin vào những lời đồn thổi đó." />
+    <string id="a8584KD0" text="Ta chính là {CONVERSATION_CHARACTER.LINK}, của {CLAN_NAME}. Ta chắc chắn ngươi đã từng nghe tên của bang hội chúng ta trong sử thi thảo nguyên này. Chúng ta mang tên gọi của một trong mười đứa con của mẹ nói vĩ đại, mẹ của Khuzaits." />
+    <string id="aaadHoIb" text="Có thể {?GENDER}nàng ta{?}hắn ta{\?} đè bẹp tất cả kẻ thù của {?GENDER}nàng ta{?}hắn ta{\?}!" />
+    <string id="aagGt8pX" text="Quân chủ của ngươi" />
     <string id="aFbkjgVe" text="So, you weren't able to complete that task... Well, sometimes these things are out of our hands... and sometimes not. But let us not dwell on this." />
     <string id="aIimfZZe" text="I've heard of you. They spoke of you as an impressive warrior. They had not mentioned that you were so, em, charming." />
     <string id="atHFPCcK" text="It is good to meet you. Remember, there is no currency in this world more valuable than the weight of your word, so speak truthfully with me, and I shall do the same with you." />

@@ -83,47 +83,47 @@
     <string id="ndQo81VN" text="Ta nghe nói ngươi đã tuyên thệ hiệu trung với quân chủ của chúng ta, {FIRST_NAME}. Vậy thì thật tốt. Ở cái thời thế hỗn loạn này, chúng ta có được càng chiến sĩ thuần thục càng tốt. Ta sẽ quan tâm đến quá trình phát triển của ngươi." />
     <string id="Nnqgix3X" text="Ta rất vui khi thấy ngươi quan tâm chú ý đến các thủ hạ của mình." />
     <string id="O0acjJR9" text="Ta nghe nói ngươi đã tuyên thệ hiệu trung với quân chủ của chúng ta, {FIRST_NAME}. Aiza, căn cứ vào sự hiểu biết của ta về ngươi, ta rất lo lắng ngươi sẽ làm chúng ta mất mặt, nhưng nếu như ngươi có thể chứng minh là ta sai, ta sẽ rất vui đó." />
-    <string id="obydBl7I" text="Ta nghe nói rằng ngươi đã đánh {DEFEATED_PARTY_LEADER}... Một cú đánh tuyệt đấy." />
+    <string id="obydBl7I" text="Ta nghe nói rằng ngươi đã đánh bại {DEFEATED_PARTY_LEADER}... Một cú đánh tuyệt đấy." />
     <string id="Pf44U15I" text="Ta nghe nói ngươi đã tuyên thệ hiệu trung với quân chủ của chúng ta, {FIRST_NAME}. Mong rằng ngươi sẽ không làm cho chúng ta thất vọng bằng những hành động hèn hạ." />
     <string id="pJtkSopk" text="Ta nghe nói ngươi đã đánh bại {DEFEATED_LEADER_RELATIONSHIP} trong trận chiến. Nhưng ta vẫn ở đây bất luận kết quả như thế nào." />
-    <string id="pT6QqtTB" text="Ta nghe nói rằng ngươi đã bao vây và chiếm được {SETTLEMENT_NAME}." />
-    <string id="PzBfkDIF" text="Ngươi đã cướp bóc của một đội quân khác dưới sự bảo hộ của ta. Hãy nhìn xem, nó chẳng khác nào trận chiến, tất cả những thứ chúng ta làm... là thực sự cần cho điều đó hay sao?" />
-    <string id="Q5eT72ba" text="Sự nổi loạn của ngươi để chống lại {FIRST_NAME} đã vô tình khiến chúng ta thành kẻ thù. Tuy nhiên thành thật mà nói,ta thích mọi thứ diễn ra như vậy. Tốt hơn hết là nên để con rắn độc ở ngoài thay vì là cho nó vào trong ổ đúng không nào?" />
-    <string id="q5SZRgUR" text="Ta nghe nói ngươi đã ra đòn với {VICTORIOUS_PARTY_LEADER}, và ngươi đã bị trục xuất khỏi căn cứ địa." />
-    <string id="QbXjHb7y" text="Lần cuối chúng ta gặp nhau ngươi đã dành chiến thắng. Hi vọng ngươi đã hài lòng với chiến thắng đó. Nhưng ngươi sẽ chẳng có thêm chiến thắng nào nữa cả. Sẽ không có cơ hội thứ hai cho sự xảo trá của ngươi đâu." />
+    <string id="pT6QqtTB" text="Ta nghe nói rằng ngươi đã vây công và chiếm được {SETTLEMENT_NAME}." />
+    <string id="PzBfkDIF" text="Ngươi đã đánh cướp một thương đội dưới quyền bảo hộ của ta. Nghe này, giờ đang chiến tranh, ta biết mọi người đều phải tận lực... Nhưng cái việc cướp giật này có cần thiết lắm không?" />
+    <string id="Q5eT72ba" text="Sự phản bội của ngươi với {FIRST_NAME} đã vô tình khiến chúng ta thành kẻ thù. Tuy nhiên thành thật mà nói, ta lại thích như vậy. Để con rắn độc bên ngoài lều trại vẫn hơn là cho chúng ở trong, người thấy đúng chứ?" />
+    <string id="q5SZRgUR" text="Ta nghe nói ngươi đã đánh nhau với {VICTORIOUS_PARTY_LEADER}, ngươi đã bị đánh khỏi chiến trường." />
+    <string id="QbXjHb7y" text="Lần trước giao chiến ngươi đã thắng ta. Hy vọng ngươi cứ hưởng thụ nốt cái chiến thắng nhỏ nhoi của mình đi. Ngươi sẽ chẳng còn cơ hội cho lần sau đâu, quỷ kế của ngươi sẽ không phát huy đến hai lần được." />
     <string id="qEZR7adT" text="Ta không thể đứng nhìn ngươi làm hao hụt con đường thương thảo và công kích đội quân của ta, hành động xảo trá của ngươi phải được đưa ra ánh sáng." />
-    <string id="QXrxVZHJ" text="Ta nghe nói ngươi đã đánh bại {DEFEATED_LEADER_RELATIONSHIP}. Suy cho cùng, ta sẽ không bình luận về {?GENDER}nàng ta{?}hắn ta{\?} tiêu chuẩn của chiến thuật, nhưng có lẽ điều này không quá khó để tìm ra đáp án." />
-    <string id="r7yWwaY3" text="Ta nghe nói ngươi đã dũng cảm chống lại kẻ địch {VICTORIOUS_PARTY_LEADER} kể cả tới tận khi số lượng của quân địch đã hoàn toàn áp đảo ngươi." />
+    <string id="QXrxVZHJ" text="Ta nghe nói ngươi đã đánh bại {DEFEATED_LEADER_RELATIONSHIP}. Suy cho cùng, ta sẽ không bình luận về khả năng chỉ huy của {?GENDER}nàng ta{?}hắn ta{\?}, nhưng có lẽ điều này không quá khó để tìm ra đáp án." />
+    <string id="r7yWwaY3" text="Ta nghe nói ngươi đã dũng cảm chống lại {VICTORIOUS_PARTY_LEADER} kể cả tới tận khi số lượng của quân địch đã hoàn toàn áp đảo ngươi thì bị đánh bại." />
     <string id="RGNIuSCM" text="Ta nghe nói ngươi đã đánh bại {DEFEATED_LEADER_RELATIONSHIP} trong trận chiến. Ta đánh giá cao một đối thủ có phẩm giá như ngươi." />
-    <string id="rINfrA70" text="Ngươi đã nổi lên chống lại {FIRST_NAME}. Bây giờ, hãy đón chờ kết cục của những kẻ phản bội đi." />
-    <string id="rlLqbDCQ" text="Ngươi làm hao tổn một lượng lớn của cải khi ngươi đột nhập vào đội quân của ta. Ta tự hỏi liệu ta có nên lấp đầy lại sự hao hụt ấy bằng cách bán những phần nội tạng của ngươi hay không." />
-    <string id="S28aK0oF" text="Ta yêu cầu, với sự danh dự của một thằng đàn ông, ngươi hãy thề rằng ngươi sẽ không công kích đội quân của ta thêm một lần nào nữa." />
+    <string id="rINfrA70" text="Ngươi đã phản bội lại {FIRST_NAME}. Bây giờ, hãy đón chờ kết cục của những kẻ phản bội đi." />
+    <string id="rlLqbDCQ" text="Ngươi làm hao tổn một lượng lớn của cải khi ngươi tiến đánh thương đội của ta. Ta tự hỏi liệu ta có nên lấp đầy lại sự hao hụt ấy bằng cách bán những phần nội tạng của ngươi hay không." />
+    <string id="S28aK0oF" text="Ta thỉnh cầu ngươi, với sự danh dự của một đấng nam nhi, dừng lại việc tập kích thương đội của ta." />
     <string id="SCvFN6Ap" text="Sự nổi loạn của ngươi để chống lại {FIRST_NAME} là một hành động phản quốc." />
     <string id="SM16wIcc" text="Cho nên ngươi đã giao thủ với lại tên lưu manh được gọi là {DEFEATED_PARTY_LEADER}, đồng thời cũng giành chiến thắng. Làm tốt lắm." />
     <string id="SoCaUHhH" text="Có một vài điều khiến ta không thể im lặng về... Ngươi đã phá vỡ lời thề của ngươi với {COMMENT_REFERENCE_HERO}. Điều này ta rất khó có thể chấp nhận được." />
-    <string id="tciR9VSr" text="Ta nghe nói ngươi đã chiến đấu {DEFEATED_LEADER}, và đã chiến thắng. {?GENDER}Nàng ta{?}Hắn ta{\?} mắc sai lầm để chúng ta phải trả giá bằng mạng sống mà những thằng đàn ông dũng cảm phải gánh chịu." />
-    <string id="tMET9a0Q" text="Ta thấy ngươi đã từng gây cản trở với một trong những đồng đội của ta... Ta không tử tế với những tên trộm. Có thể ta sẽ lấy đi đôi bàn tay và đôi mắt của ngươi để bồi thường cho những điều đó." />
+    <string id="tciR9VSr" text="Ta nghe nói ngươi đã tiến đánh {DEFEATED_LEADER}, và đã chiến thắng. Sai lầm của {?GENDER}nàng{?}hắn{\?} đã phải trả giá bằng rất nhiều tính mạng của những con người dũng cảm." />
+    <string id="tMET9a0Q" text="Ta nhìn thấy ngươi đã ra tay với một thương đội của ta... Ta không tử tế với những tên trộm. Có thể ta sẽ lấy đi đôi bàn tay và đôi mắt của ngươi để bồi thường cho những điều đó." />
     <string id="ucKrwFCj" text="Ta nghe nói rằng ngươi đã từ bỏ hiệu trung với {FIRST_NAME}. Dù sao thì, đó cũng là quyết định của ngươi." />
-    <string id="udMxMICB" text="Ta nghe nói ngươi đã cướp bóc của một đội quân dưới sự bảo hộ của ta. Ta sẽ cho rằng đó là một sự hiểu lầm." />
-    <string id="UKTXefOD" text="Ta nghe nói ngươi đã tuyên thệ hiệu trung với quân chủ của chúng ta, {FIRST_NAME}. Hãy chiến đấu hết mình để chống lại kẻ thù của chúng ta, tôn trọng đối thủ, và đừng phản bội ta, và rồi chúng ta sẽ ổn thôi." />
+    <string id="udMxMICB" text="Ta nghe nói ngươi đã cướp bóc của một thương đội dưới sự bảo hộ của ta. Ta sẽ cho rằng đó là một sự hiểu lầm." />
+    <string id="UKTXefOD" text="Ta nghe nói ngươi đã tuyên thệ hiệu trung với quân chủ của chúng ta, {FIRST_NAME}. Hãy chiến đấu hết mình để chống lại kẻ thù của chúng ta, tôn trọng cấp trên của ngươi, và đừng có chống lại ta, như vậy chúng ta sẽ ổn thôi." />
     <string id="VcXpFIrT" text="Hãy nhớ cách mà chúng ta đã quất {DEFEATED_PARTY_LEADER}, và biến chúng thành bữa tiệc cho những con quạ? Đó là một kỷ niệm ngọt ngào." />
-    <string id="VSyOVMge" text="Thay vì coi ngươi như một kẻ phản bội, ta sẽ cho rằng ngươi đã quá hèn hạ và dại dột để nhận ra rằng ngươi đã tấn công đội quân của ta chứ không phải kẻ thù." />
-    <string id="vxkoCCuc" text="Ta nghe nói ngươi sẽ tham gia cùng với đội quân của ta trong nhiệm vụ{FIRST_NAME}" />
-    <string id="W3F2HgTN" text="Ta nghe nói ngươi đã chiếm được thành của {SETTLEMENT_NAME}. Một cú đánh tốt!" />
-    <string id="WROObSl4" text="{SIDE1TROOP} Xúc phạm {SIDE2TROOP}." />
+    <string id="VSyOVMge" text="Thay vì coi ngươi như một kẻ phản bội, ta sẽ cho rằng ngươi đã quá hèn hạ và ngu xuẩn để nhận ra rằng ngươi đã tấn công thương đội của ta chứ không phải kẻ thù." />
+    <string id="vxkoCCuc" text="Ta nghe nói ngươi sẽ tham gia với chúng ta, cùng hiệu trung với {FIRST_NAME}" />
+    <string id="W3F2HgTN" text="Ta nghe nói ngươi đã chiếm được thành luỹ của {SETTLEMENT_NAME}. Một đòn đánh hay!" />
+    <string id="WROObSl4" text="{SIDE1TROOP} sỉ nhục {SIDE2TROOP}." />
     <string id="WZ2K83Z4" text="Ngươi đã phản bội lời thề trung thành với ta {PLAYER. LINK}, nhưng giờ thì sao, ông trời đã để ngươi rơi vào tay ta." />
     <string id="WzMjUSGv" text="Ta nghe nói ngươi đã đánh bại {DEFEATED_LEADER_RELATIONSHIP}. Ngươi là một kẻ đầy khôn ngoan, nhưng ta sẽ đưa ngươi về với đất và sẽ kết liễu cuộc đời của ngươi ngay bây giờ." />
-    <string id="x8WJb01D" text="Lần cuối chúng ta gặp nhau, ta không đố kỵ với chiến thắng của ngươi. Ta rất lấy làm phấn khích khi chúng ta không còn phải chiến đấu nữa." />
+    <string id="x8WJb01D" text="Lần trước chúng ta giao thủ, ta không đố kỵ với chiến thắng của ngươi. Ta rất lấy làm phấn khích khi chúng ta không còn phải đánh nhau nữa." />
     <string id="XLqklKR5" text="Ta nghe nói {VICTORIOUS_PARTY_LEADER} đã khiến ngươi ngã xuống. Người ta thường nói về những người anh hùng cuối cùng đã anh dũng hi sinh, nhưng với ta thất bại vẫn chỉ là thất bại." />
-    <string id="Xt1V4D6X" text="Ngươi đã vươn lên dành chiến thắng từ lần thi vũ khí cuối cùng của chúng ta. Ta chúc mừng ngươi, và mong chờ một cơ hội để ghi điểm." />
-    <string id="YEoEaMRJ" text="Ngươi hãy tránh xa ra {FIRST_NAME}." />
-    <string id="yjDRCuQx" text="Ta rất phấn khích vì chúng ta đã đi đúng theo lời thề với {COMMENT_REFERENCE_HERO}." />
-    <string id="YsUq0lPJ" text="Bất kể điều gì tiếp theo, ta sẽ không quên cách chúng ta đã chiến đấu để chống lại {DEFEATED_PARTY_LEADER}." />
-    <string id="yzxJBMJd" text="Ta nghe nói ngươi đã cướp bóc của một đội quân dưới sự bảo hộ của ta. Ta không hài lòng về điều đó." />
+    <string id="Xt1V4D6X" text="Lần trước cùng ta giao phong kịch liệt, ngươi may mắn dành chiến thắng. Chúc mừng ngươi, ta rất hy vọng rằng có thể lật ngược lại tỷ số." />
+    <string id="YEoEaMRJ" text="Ngươi hãy tránh {FIRST_NAME} xa ra." />
+    <string id="yjDRCuQx" text="Ta rất phấn khích vì chúng ta đã đi đúng theo lời hứa với {COMMENT_REFERENCE_HERO}." />
+    <string id="YsUq0lPJ" text="Bất kể điều gì xảy ra tiếp theo, ta sẽ không quên cách chúng ta đã kề vai tác chiến để chống lại {DEFEATED_PARTY_LEADER}." />
+    <string id="yzxJBMJd" text="Ta nghe nói ngươi đã cướp bóc của một thương đội dưới sự bảo hộ của ta. Ta không hài lòng về điều đó." />
     <string id="yZZx1WVQ" text="Ta nghe nói ngươi đã tuyên thệ hiệu trung với quân chủ của chúng ta, {FIRST_NAME}. Chiến đấu hết mình và ngươi sẽ nhận được phần thưởng xứng đáng. Bằng không phản bội chúng ta, ngươi sẽ phải lãnh hậu quả mà ngươi không bao giờ muốn nhắc lại đâu." />
     <string id="Z6XSaq8b" text="Lần cuối khi chúng ta gặp nhau, ngươi đã để lại hảo cảm trong ta. Nhưng ta đảm bảo với ngươi rằng điều này sẽ không xảy ra lần nữa!" />
-    <string id="z76zznAS" text="Chúc mừng cho lễ cưới của ngươi và {FIRST_NAME}.về cuộc hôn nhân của ngươi" />
+    <string id="z76zznAS" text="Chúc mừng cho hôn lễ của ngươi và {FIRST_NAME}." />
     <string id="zFfRLbxK" text="Đừng nghĩ rằng ta đã quên trận chiến chả mấy to tát của chúng ta. Bây giờ ta đã biết thủ đoạn của ngươi. Nếu thậm chí chúng ta có xảy ra xung đột một lần nữa, có lẽ, mọi thứ sẽ diễn ra theo một chiều hướng khác đấy." />
-    <string id="zTNNxMzz" text="Ta nghe nói ngươi đã tuyên thệ hiệu trung với quân chủ của chúng ta, {FIRST_NAME}. Nếu ta là hắn. ta sẽ không tin tưởng để cho ngươi quét sạch bãi chiến trường đâu." />
+    <string id="zTNNxMzz" text="Ta nghe nói ngươi đã tuyên thệ hiệu trung với quân chủ của chúng ta, {FIRST_NAME}. Nếu ta là hắn. ta ngay cả việc cho ngươi giặt quần áo hay rửa chén bát cũng không tin ngươi có thể làm tốt được." />
   </strings>
 </base>

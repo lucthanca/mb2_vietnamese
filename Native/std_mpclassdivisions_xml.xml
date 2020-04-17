@@ -4,15 +4,15 @@
     <tag language="Tiếng Việt" />
   </tags>
   <strings>
-    <string id="0e17RZrZ" text="Arbalest" />
-    <string id="0Uvkm46I" text="Grants Sword, effective at dueling and thrusting." />
-    <string id="0yGhTKey" text="Grants Extra Arrows." />
-    <string id="14Lfo4sB" text="Stronger Javelins" />
-    <string id="1dTipfgq" text="Replaces Voulge with Military Bill, a polearm." />
-    <string id="1nZaud4o" text="Replaces Menavlion with Long Menavlion, longer but slower." />
-    <string id="1xa1a0d2" text="Replaces Shield with a larger shield." />
-    <string id="25f3yj3M" text="Longer Sword" />
-    <string id="2bzFzemV" text="Heavier Crossbow" />
+    <string id="0e17RZrZ" text="Kình Nỗ" />
+    <string id="0Uvkm46I" text="Cấp Dữ Kiếm, hiệu quả khi đấu tay đôi hoặc đâm" />
+    <string id="0yGhTKey" text="Cấp Dữ Ngạch Ngoại Tiễn Thỉ" />
+    <string id="14Lfo4sB" text="Canh Cường Lực Tiêu Thương" />
+    <string id="1dTipfgq" text="Thay thế Phủ Thương bằng Câu Liềm Quân Dụng, một loại vũ khí cán dài." />
+    <string id="1nZaud4o" text="Thay thế Song Nhận Thương bằng Song Nhận Trường Thương, dài hơi nhưng tốc độ phạt cũng chậm hơn." />
+    <string id="1xa1a0d2" text="Thay thế Khiên ban đầu bằng Khiên dài hơn." />
+    <string id="25f3yj3M" text="Canh Trường Kiếm" />
+    <string id="2bzFzemV" text="Canh Trọng Nỗ" />
     <string id="2JZakvPJ" text="Replaces Menavlion with Heavy Menavlion, slower but deals more damage." />
     <string id="3ksDHRKT" text="Grants Eastern Long Spear, a two handed long spear." />
     <string id="4ckL9lJ8" text="Grants Pilas, longer, good for harrassing, can be used in melee, low in quantity." />

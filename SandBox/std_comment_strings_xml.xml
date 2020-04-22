@@ -34,18 +34,18 @@
     <string id="8x8kVUGX" text="Hãy đề cao quyền của người nghèo và lương thiện, góa phụ và trẻ mồ côi, and the Heavens will take note." />
     <string id="99gE1ZoY" text="Ta chính là {CONVERSATION_CHARACTER.LINK}, của {FACTION}." />
     <string id="9ZHhYooG" text="Còn nhớ cái cách mà ta đã đánh ngươi, một đấu một chứ? Ngươi có muốn biết thêm mùi nữa không?" />
-    <string id="a55SAS18" text="Chúng ta có ngươi là lợi thếWe have the advantage of you. Tuân thủ theo, và ngươi sẽ có được sự đối đãi xứng đáng.[ib:warrior][if:idle_angry]" />
+    <string id="a55SAS18" text="Chúng ta có ngươi là lợi thế. Tuân thủ theo, và ngươi sẽ có được sự đối đãi xứng đáng.[ib:warrior][if:idle_angry]" />
     <string id="a5LChqbr" text="Những thường dân của vùng đất này cần có người chăm lo cho họ. Đó là nơi mà Brotherhood chúng ta cần đến. Ngươi sẽ thấy bọn ta được gọi là những kẻ côn đồ hoặc kẻ cướp. Đừng có tin vào những lời đồn thổi đó." />
     <string id="a8584KD0" text="Ta chính là {CONVERSATION_CHARACTER.LINK}, của {CLAN_NAME}. Ta chắc chắn ngươi đã từng nghe tên của bang hội chúng ta trong sử thi thảo nguyên này. Chúng ta mang tên gọi của một trong mười đứa con của mẹ nói vĩ đại, mẹ của Khuzaits." />
     <string id="aaadHoIb" text="Có thể {?GENDER}nàng ta{?}hắn ta{\?} đè bẹp tất cả kẻ thù của {?GENDER}nàng ta{?}hắn ta{\?}!" />
     <string id="aagGt8pX" text="Quân chủ của ngươi" />
-    <string id="aFbkjgVe" text="Vậy,So, you weren't able to complete that task... Well, sometimes these things are out of our hands... and sometimes not. But let us not dwell on this." />
-    <string id="aIimfZZe" text="I've heard of you. They spoke of you as an impressive warrior. They had not mentioned that you were so, em, charming." />
-    <string id="atHFPCcK" text="It is good to meet you. Remember, there is no currency in this world more valuable than the weight of your word, so speak truthfully with me, and I shall do the same with you." />
-    <string id="auVAWUJ3" text="Know that if you ever cross me, you'll wind up as food for the ravens." />
-    <string id="AZf7kPgr" text="You are outmatched today. Give up  if not for your own sake, then think of your men![ib:warrior][if:idle_angry]" />
-    <string id="bAir72Sf" text="Stop! I yield![rf:angry][rb:trivial]" />
-    <string id="bbjLFWhP" text="I won our last duel, but you fought well. I wouldn't blame you if you wished for a rematch." />
+    <string id="aFbkjgVe" text="Vậy,ngươi đã không có khả năng hoàn thành nhiệm vụ đó... Chà, thỉnh thoảng những thứ này nằm ngoài tầm kiểm soát của chúng ta... và thỉnh thoảng thì không. Nhưng chúng ta không nên bận tâm về điều này." />
+    <string id="aIimfZZe" text="Ta đã nghe nói về ngươi. Họ đã nói về ngươi như một chiến binh ấn tượng. Họ đã không đề cập đến việc ngươi cũng là người,em, quyến rũ." />
+    <string id="atHFPCcK" text="Thật tốt khi gặp ngươi. Còn nhớ, không có bất sự đồn đoán nào trên thế giới này có giá trị hơn trọng lượng lời nói của ngươi, vì vậy hãy nói sự thật cho ta và ta sẽ làm điều tương tự với ngươi." />
+    <string id="auVAWUJ3" text="Biết rằng nếu ngươi mãi vượt mặt ta, ngươi sẽ là bữa tiệc cho những con quạ đấy." />
+    <string id="AZf7kPgr" text="Hôm nay ngươi thua. Từ bỏ đi - nếu như không vì bản thân mình cũng là vì người của ngươi![ib:warrior][if:idle_angry]" />
+    <string id="bAir72Sf" text="Dừng lại!Ta xin thua[rf:angry][rb:trivial]" />
+    <string id="bbjLFWhP" text="Ta đã thắng trong cuộc đấu tay đối cuối của chúng ta, nhưng ngươi đã chiến đấu rất tốt. Ta sẽ không phiền nếu ngươi muốn tái đấu lần nữa." />
     <string id="BbVpiTdi" text="You are, I hear, a man of the world, as they say. Tell me a bit about your journeys." />
     <string id="bc1YyTO4" text="Perhaps it will not be today, or tomorrow, but one way or the other I will see that you regret your decision." />
     <string id="BCfeuAX5" text="Am I? So refined is your cruelty, that you would rather see me free and humiliated, than in chains. Enjoy your triumph![if:happy][rb:very_positive]" />

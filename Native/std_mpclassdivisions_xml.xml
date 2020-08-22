@@ -5,213 +5,213 @@
   </tags>
   <strings>
     <string id="0e17RZrZ" text="Kình Nỗ" />
-    <string id="0Uvkm46I" text="Cấp Dữ Kiếm, hiệu quả khi đấu tay đôi hoặc đâm" />
-    <string id="0yGhTKey" text="Cấp Dữ Ngạch Ngoại Tiễn Thỉ" />
+    <string id="0Uvkm46I" text="Cấp cho Kiếm, hiệu quả khi đấu tay đôi hoặc đâm" />
+    <string id="0yGhTKey" text="Cấp cho Ngạch Ngoại Tiễn Thỉ" />
     <string id="14Lfo4sB" text="Canh Cường Lực Tiêu Thương" />
-    <string id="1dTipfgq" text="Thay thế Phủ Thương bằng Câu Liềm Quân Dụng, một loại vũ khí cán dài." />
+    <string id="1dTipfgq" text="Thay thế Phủ Thương bằng Câu Liêm Quân Dụng, một loại vũ khí cán dài." />
     <string id="1nZaud4o" text="Thay thế Song Nhận Thương bằng Song Nhận Trường Thương, dài hơi nhưng tốc độ phạt cũng chậm hơn." />
     <string id="1xa1a0d2" text="Thay thế Khiên ban đầu bằng Khiên dài hơn." />
     <string id="25f3yj3M" text="Canh Trường Kiếm" />
     <string id="2bzFzemV" text="Canh Trọng Nỗ" />
-    <string id="2JZakvPJ" text="Replaces Menavlion with Heavy Menavlion, slower but deals more damage." />
-    <string id="3ksDHRKT" text="Grants Eastern Long Spear, a two handed long spear." />
-    <string id="4ckL9lJ8" text="Grants Pilas, longer, good for harrassing, can be used in melee, low in quantity." />
-    <string id="4eFFdbbh" text="Replaces Voulge with Two Handed Sword, effective at dueling and thrusting, two handed." />
-    <string id="4wdgiTta" text="Sickle" />
-    <string id="5JQFx3EW" text="Replaces mount with a faster and more maneuverable horse." />
-    <string id="5pLEUc4t" text="Strong Arrows" />
-    <string id="5ydbUsFh" text="Throwing Spears" />
-    <string id="6bdcoGI1" text="Replaces mount with a faster and more maneuverable horse." />
-    <string id="6hwZwODh" text="Glaive" />
-    <string id="722U31od" text="Replaces mount with a more maneuverable, durable but slower horse that deals more charge damage." />
-    <string id="73DALTsR" text="Replaces Sickle with Hammer, effective against armored opponents." />
-    <string id="7lb73utt" text="Grants Strong Arrows, deals more damage." />
-    <string id="7LmUe8fQ" text="Menavlion" />
-    <string id="7MkoLtWC" text="Axe" />
-    <string id="7sWKjye0" text="Faster Horse" />
-    <string id="7tmdALxE" text="Faster Bolts" />
-    <string id="7xCZBa2h" text="Replaces Recurve Bow with Imperial Superior Bow, faster but less accurate." />
-    <string id="8nObGQqW" text="Rhomphaia" />
-    <string id="943pNa16" text="Light Shield" />
-    <string id="9aFg4Cb4" text="Grants Throwing Axes, provides ranged damage, effective against shields, low in quantity." />
-    <string id="9kGyIb8D" text="Range Javelins" />
-    <string id="9vYPOPbF" text="Replaces Higland Spear with Highland Long Spear, longer but deals less damage." />
-    <string id="a4Y00Bxz" text="Grants Lance, longer than spears but slower, couchable." />
-    <string id="a8ycVmwU" text="Bardiche" />
-    <string id="AAiawU42" text="Grants Lance, longer than spears, couchable." />
-    <string id="aJ3pbDTg" text="Replaces Hunting Bow with Imperial Superior Bow, faster but less accurate." />
-    <string id="aVGSZhCN" text="Pavise Shield" />
-    <string id="azkl5CZk" text="Replaces Recurve Bow with Composite Bow, deals more damage and accurate but slower." />
-    <string id="bDCbhzoh" text="Replaces Spear with Longer Spear." />
-    <string id="bDfKz5SZ" text="Sling" />
-    <string id="bfyqpwbJ" text="Replaces Two Handed Sword with Falx, longer and deals more damage but can't be thrusted." />
-    <string id="bGQ83Jtr" text="Longer Spear" />
-    <string id="BHXqTA0N" text="Replaces Flyssa with Kaskara, longer and deals more damage." />
-    <string id="bKDoNDhC" text="Replaces Sword with Heavy Mace, effective against armored opponents." />
-    <string id="bn1nJlH4" text="More throwing spears, effective in melee." />
-    <string id="bsabIdYm" text="Two Handed Axe" />
-    <string id="bwLknWjn" text="Replaces Javelins with Imperial Javelins, deals more damage, can be used in melee." />
-    <string id="bY9U7w1Q" text="Sword" />
-    <string id="bzCoIgk7" text="Military Bill" />
-    <string id="bzdCMVuG" text="Cavalry Mace" />
-    <string id="bzr6vtXi" text="Heavy Menavlion" />
-    <string id="C2XqmIAQ" text="Replaces Recurve Bow with Composite Bow, more accurate, deals more damage but slower." />
-    <string id="CaEBx7NK" text="Replaces Tabar with Bardiche, slower but deals more damage." />
-    <string id="cfSgK0nk" text="Agile Horse" />
-    <string id="CG5D5r2w" text="Replaces Sword with Mace, effective against armored opponents." />
-    <string id="chOIa3PO" text="Replaces Shield with a lighter shield, good for faster movement." />
-    <string id="CJo3mNsK" text="Provides stronger javelins." />
-    <string id="cMsadGUb" text="Pilas" />
-    <string id="CQBiJLgv" text="Camel" />
-    <string id="cRCkC36E" text="Short Sword" />
-    <string id="d7Z3ka1m" text="Better Bow" />
-    <string id="d8oFKRxa" text="Grants Throwing Spears, longer than spears, throwable, can be used in melee." />
-    <string id="D9XZcdid" text="Grants Franceskas, provides ranged damage, effective against shields, low in quantity." />
-    <string id="DCyOFcZI" text="Grants Billhook, a polearm." />
-    <string id="Dj64aJKQ" text="Billhook" />
-    <string id="dkSDZODz" text="Replaces Sword with Arming Sword, faster, effective at dueling and thrusting." />
-    <string id="DlKYZgA3" text="Improved Armor" />
-    <string id="dQEa2hZa" text="Long Spear" />
-    <string id="DZ2g8IZr" text="Replaces Two Handed Axe with Two Handed Maul. Effective against armored opponents, two handed." />
-    <string id="DZkbvhfq" text="Replaces Javelins with Jereeds, deals more damage, can be used in melee." />
-    <string id="EdLIa9Ds" text="Replaces Arrows with Stronger Arrows, deals more damage." />
-    <string id="EEEFVPLP" text="Replaces Axe with Sword, effective at dueling and thrusting." />
-    <string id="eQLORdgE" text="Extra Arrows" />
-    <string id="eyCVSK43" text="Heavy Lance" />
-    <string id="F49w1uD0" text="(TEMPORARY)Replaces Axe with Heavy Axe, deals more damage but shorter." />
-    <string id="FaW2RuA8" text="Extra Throwing Spears" />
-    <string id="FLBYsvxp" text="Long Sword" />
-    <string id="g3EFq1ld" text="Better Javelins" />
-    <string id="g7DvxQYg" text="Grants Heavy Scimitar, deals more damage, longer but slower." />
-    <string id="GN3IoRlp" text="Grants Javelins that deal more damage." />
-    <string id="gnb4493C" text="Replaces Sword with Club, effective against armored opponents." />
-    <string id="gQtU8qqy" text="Grants Axe, effective against shields." />
-    <string id="GsGJgGDE" text="Lance" />
-    <string id="h1aBRZRO" text="Grants Faster Bolts." />
-    <string id="h60wQVVX" text="Pike" />
-    <string id="H8MYgA6i" text="Longer Menavlion" />
-    <string id="HE8lvLcm" text="Replaces Sword with Glaive, a Khuzait polearm." />
-    <string id="hEEebqIY" text="Replaces Axe with Sword, faster, effective at dueling and thrusting." />
-    <string id="HoVaJ0BH" text="Two Handed Maul" />
-    <string id="HQ20qb3g" text="Replaces mount with a faster but less durable horse." />
-    <string id="hs39bbML" text="Stronger Bow" />
-    <string id="Hy967JNj" text="Replaces Hunting Bow with Hunting Longbow, deals more damage but slower." />
-    <string id="HZgjTUoY" text="Replaces your axe with sword, faster, effective at dueling and thrusting." />
-    <string id="i7OWTiQc" text="Stronger Shield" />
-    <string id="iNJr5HOM" text="Awl Pike" />
-    <string id="iSpXc3qQ" text="Grants Glaive, a Khuzait polearm, deadly on horseback." />
-    <string id="IsVZwswB" text="Replaces Hunting Bow with Recurve Bow, deals more damage, accurate but slower." />
-    <string id="IUsT27oV" text="Provides +9 armor." />
-    <string id="iYauUX6r" text="Grants Throwing Spears, longer than spears, throwable, can be used in melee, low in quantity." />
-    <string id="JbODbx5i" text="Grants Shield, makes blocking easier, effective against ranged units." />
-    <string id="JBVAeXx3" text="Pitchfork" />
-    <string id="JbWbiO6O" text="Bow and Arrows" />
-    <string id="Jd0Kq9lD" text="Shield" />
-    <string id="JfnVaE9D" text="Grants Pilas, good for harrassing, can be used in melee, low in quantity." />
-    <string id="jhey75nZ" text="Replaces Pickaxe with Highland Bastard Sword, effective at dueling and thrusting, two handed." />
-    <string id="JjRJs2Ue" text="Replaces Pickaxe with Two Handed Axe, extra effective against shields." />
-    <string id="jKYWiUZA" text="Replaces mount with a tougher, more maneuverable but slower horse that deals more charge damage." />
-    <string id="K1t2X1YF" text="Replaces Shield with a stronger and a bigger shield, increases durability." />
-    <string id="K1UFTirG" text="Light Crossbow" />
-    <string id="KBrDpNxO" text="Long Bow" />
-    <string id="KKWkfc2n" text="Grants Stronger Bolts." />
-    <string id="kS0LMJix" text="Grants Javelins, good for harrassing, can be used in melee." />
-    <string id="KWCsD0vW" text="Grants Cavalry Sword, good for harrassing, can be used in melee." />
-    <string id="kxNFecm2" text="Lighter Shield" />
-    <string id="KXwN1PW4" text="Great Axe" />
-    <string id="kYbMMbzD" text="Grants Pike, very effective against cavalry, longer than spears, can't used with shields." />
-    <string id="L01yAZlu" text="Replaces Sword with Hammer, effective against armored opponents, two handed." />
-    <string id="l2j9CAQn" text="Bastard Sword" />
-    <string id="l5GMT5AA" text="(TEMPORARY)Grants Javelins that can go much further." />
-    <string id="llneOWkU" text="Faster Sword" />
-    <string id="loPT6GUc" text="Grants Pavise Shield, makes blocking easier, effective against ranged units." />
-    <string id="LstE2rEG" text="Replaces Imperial Warhorse with War Courser, more maneuverable, faster." />
-    <string id="mcXoarZq" text="Franceskas" />
-    <string id="meWoLxtc" text="Replaces Sword with Axe, effective against shields." />
-    <string id="n3q8k0lB" text="Barding" />
-    <string id="n497RC1p" text="(TEMPORARY)Grants faster arrows." />
-    <string id="NiaLmb1S" text="Replaces Hunting Bow with Short Bow, deals more damage but slower." />
-    <string id="nSSxEIvF" text="(TEMPORARY) Grants a light shield, good for faster movement." />
-    <string id="o6eKX9h0" text="Replaces Axe with Mace, effective against armored opponents." />
-    <string id="okGD2Dbu" text="Replaces Hunting Bow with Recurve Bow, deals more damage but slower." />
-    <string id="OPcPYoHu" text="Throwing Axes" />
-    <string id="Oweratvx" text="Grants Spear, effective against cavalry and crowd control." />
-    <string id="oWv0kvwj" text="Strong Bolts" />
-    <string id="P4k9Lkpw" text="Replaces Hunting Bow with Light Crossbow, deals much more damage, low fire rate." />
-    <string id="p8XIZhbb" text="Replaces Short Spear with Long Spear, effective against cavalry and crowd control." />
-    <string id="pblXb1ae" text="Grants Mace, effective against armored opponents." />
-    <string id="pE1plFCL" text="Heavy Mace" />
-    <string id="PF7sPCYq" text="Javelins" />
-    <string id="PFTzVdJg" text="Provides +9 armor." />
-    <string id="PNZmPprx" text="Two Handed Sword" />
-    <string id="pyupZxJK" text="Kontos" />
-    <string id="q8n63o4y" text="Grants Awl Pike, very effective against cavalry, longer than spears, two handed." />
-    <string id="QLcP8bIs" text="Falx" />
-    <string id="QojyuDln" text="Grants Kontos, longer, deals more damage but slower." />
-    <string id="QqWMflbr" text="Grants Kaskara, a one handed sword effective at dueling and thrusting." />
-    <string id="Qs4VOXgE" text="Short Spear" />
-    <string id="R7TAImaC" text="Larger Shield" />
-    <string id="RV6BCPvg" text="Replaces Axe with a longer and heavier axe. Extra effective against shields." />
-    <string id="rzP3J3Kb" text="Replaces Falx with Rhomphaia, longer but deals less damage and slower." />
-    <string id="sagHGCh7" text="Replaces Long Spear with Kontos, longer, deals more damage but slower." />
-    <string id="sFJfF1Gb" text="Replaces Gladius with Spatha, longer and deals more damage." />
-    <string id="SjiFP0za" text="Replaces Club with Sword, effective at dueling and thrusting." />
-    <string id="SMws1ws6" text="Large Shield" />
-    <string id="snQeVgCJ" text="Replaces Axe with Heavy Axe, longer and deals more damage." />
-    <string id="sOARp3Dc" text="Grants Shield, makes blocking easier, effective against ranged units." />
-    <string id="SpTtirzT" text="Grants Mace, effective against armored opponents." />
-    <string id="sVOdabQr" text="Grants Pitchfork, effective against cavalry." />
-    <string id="t68bkisr" text="Hammer" />
-    <string id="tdRSQoPT" text="Grants stronger javelins." />
-    <string id="tFWBFpji" text="Replaces mount with a Camel, deals more charge damage, more maneuverable and durable but slower and can't jump." />
-    <string id="TK0GvrJR" text="Replaces Sword with Highland Longsword, deals more damage, longer but slower." />
-    <string id="tPtEhPzU" text="Replaces Crossbow with Arbalest, best in Calradia." />
-    <string id="tvIibabU" text="Grants Extra Bolts." />
-    <string id="tZgHdSOX" text="Half Barding" />
-    <string id="uKOn4IE6" text="Grants an additional quiver of Javelins." />
-    <string id="uNyHSwaL" text="Heavy Axe" />
-    <string id="uTfm0blH" text="Grants Short Bow, enables to shoot from horseback." />
-    <string id="UtJlbDuv" text="Replaces Recurve Bow with Imperial Superior Bow, faster." />
-    <string id="UTrNbIbI" text="Replaces Longsword with Highland Bastard Sword, effective at dueling and thrusting, two handed." />
-    <string id="uw9m5hav" text="Better Axe" />
-    <string id="Uwe3VHaN" text="Heavy Cavalry Sword" />
-    <string id="V2SKzX1e" text="Charger Horse" />
-    <string id="v61Qq3SH" text="Replaces Light Crossbow with a heavier Crossbow, better damage." />
-    <string id="V62I3vA5" text="Grants Shorter version of Menavlion, an imperial polearm." />
-    <string id="vBvDZCtw" text="Replaces Tabar with Two Handed Sword, effective at dueling and thrusting." />
-    <string id="VI4gQt8Q" text="Mace" />
-    <string id="vjvklXQ3" text="Grants Javelins, good for harrassing, can be used in melee." />
-    <string id="VL4olxdA" text="Grants Hunting Bow, enables to shoot from horseback." />
-    <string id="VR2SwarS" text="Tougher Horse" />
-    <string id="W4iKIM2s" text="Small Shield" />
-    <string id="wAFiQYpt" text="Replaces Hunting Bow with Fast Short Bow, better in every way." />
-    <string id="wdRsSuMN" text="Replaces Long Bow with Yeow Long Bow, deals more damage and accurate but slower." />
-    <string id="wdSrwKFE" text="Extra Bolts" />
-    <string id="wiBmTEGi" text="Replaces mount with a more durable horse." />
-    <string id="wv9g9Kyr" text="Faster Bow" />
-    <string id="WxMGCqPw" text="Replaces Sickle with Pickaxe, effective against shields." />
-    <string id="XLtAF1Km" text="Replaces Short Bow with Long Bow, deals more damage and accurate but slower." />
-    <string id="xqlMIG4I" text="Replaces Shield with a larger shield, increases durability." />
-    <string id="XSjXLikf" text="Extra Javelins" />
-    <string id="xSz6m21N" text="Club" />
-    <string id="xuad1OP3" text="Replaces mount with the most durable horse in the steppes." />
-    <string id="xUSR6O0X" text="Grants Cavalry Sword, longer and heavier." />
-    <string id="xWFW8jXw" text="Battle Axe" />
-    <string id="y4YWp1f1" text="Throwing Spear" />
-    <string id="YaakrC1m" text="Cavalry Sword" />
-    <string id="yDU7JFH4" text="(TEMPORARY)Grants Sling, provides ranged blunt damage, high in quantity low in damage with good accuracy." />
-    <string id="YF8DQVUT" text="Replaces your axe with Northern Two Handed Axe, stronger, extra effective against shields." />
-    <string id="YjKfKduC" text="Faster Arrows" />
-    <string id="ykaaB5gw" text="Stronger Long Bow" />
-    <string id="YoNYyLba" text="Spear" />
-    <string id="YqqhxGwH" text="Replaces Club with Sickle, capable of dealing decent damage and effective against shields." />
-    <string id="ZATaNNCu" text="Replaces mount with a more durable horse that deals more charge damage." />
-    <string id="zCqpSDcF" text="Grants Shorter version of Menavlion." />
-    <string id="Zh4upm1u" text="Replaces Mace with Sword, effective at dueling and thrusting." />
-    <string id="ZJweh5Oh" text="Bastard Axe" />
-    <string id="ZtKJgiRv" text="Grants Javelins, good for harrassing, can be used in melee." />
-    <string id="zv9NXIZR" text="Provides armor for your mount." />
-    <string id="ZvMcHde3" text="Pickaxe" />
-    <string id="ZZ9p2E2g" text="Replaces Shield with a stronger shield, increases durability." />
+    <string id="2JZakvPJ" text="Thay thế Song Nhận Thương bằng Trọng Hình Song Nhận Thương, Tốc độ khua tay chậm hơn." />
+    <string id="3ksDHRKT" text="Cấp cho Đông Phương Trường Mâu, một trường mâu hai tay." />
+    <string id="4ckL9lJ8" text="Cấp cho Đế Quốc Trọng Hình Đầu Mâu, dài hơn, thích hợp chiến thuật quấy rối, có thể dùng ở cận chiến, số lượng hơi ít." />
+    <string id="4eFFdbbh" text="Thay thế Song Phủ Thương bằng Song Thủ Kiếm, một thanh kiếm sử dụng hai tay thích hợp cho song đấu và đâm." />
+    <string id="4wdgiTta" text="Đoản Liêm" />
+    <string id="5JQFx3EW" text="Thay thế một toạ kỵ nhanh nhẹn hơn." />
+    <string id="5pLEUc4t" text="Canh Cường Lực Tiễn Thỉ" />
+    <string id="5ydbUsFh" text="Đầu Mâu" />
+    <string id="6bdcoGI1" text="Thay thế một toạ kỵ nhanh nhẹn hơn." />
+    <string id="6hwZwODh" text="Yển Nguyệt Đao" />
+    <string id="722U31od" text="Thay thế một toạ kỵ linh hoạt hơn, giáp dày hơn, dù là tốc độ có chậm hơn, nhưng sát thương khi húc địch càng cao hơn." />
+    <string id="73DALTsR" text="Đổi Liêm Đao thành Chiến Thuỳ, gây sát thương cao hơn với kẻ địch có giáp trâu." />
+    <string id="7lb73utt" text="Cấp cho càng nhiều Canh Cường Lực Tiễn Thỉ, gây càng nhiều sát thương." />
+    <string id="7LmUe8fQ" text="Song Nhận Thương" />
+    <string id="7MkoLtWC" text="Rìu" />
+    <string id="7sWKjye0" text="Canh Khoái Mã" />
+    <string id="7tmdALxE" text="Canh Khoái Tiễn Thỉ" />
+    <string id="7xCZBa2h" text="Đổi Phản Khúc Cung bằng Đế Quốc Cường Cung, tốc bắn nhanh nhưng độ chính xác khá thấp." />
+    <string id="8nObGQqW" text="Trường Bính Nghịch Nhận Đao" />
+    <string id="943pNa16" text="Canh Khinh Thuẫn Bài" />
+    <string id="9aFg4Cb4" text="Cấp cho Đầu Trịch Phủ, thích hợp sát thương tầm xa, dùng để đánh hiệu quả với địch có khiên chắn, nhưng số lượng lại khá thấp." />
+    <string id="9kGyIb8D" text="Viễn Trình Tiêu Thương" />
+    <string id="9vYPOPbF" text="Thay thế Cao Địa Mâu bằng Cao Địa Trường Mâu, dài hơi nhưng sát thương thấp hơn." />
+    <string id="a4Y00Bxz" text="Cấp cho Kỵ Thương, dài hơn Trường Mâu nhưng tốc độ vung chậm hơn, có thể dùng để (giá thương trùng thứ) giữ thương và gây sát thương khi lao về phía trước trúng kẻ địch." />
+    <string id="a8ycVmwU" text="Nguyệt Nhận Phủ" />
+    <string id="AAiawU42" text="Cấp cho Kỵ Thương, dài hơn Trường Mâu, có thể dùng để (giá thương trùng thứ) giữ thương và gây sát thương khi lao về phía trước trúng kẻ địch." />
+    <string id="aJ3pbDTg" text="Đổi Phản Khúc Cung bằng Đế Quốc Cường Cung, tốc bắn nhanh nhưng độ chính xác khá thấp." />
+    <string id="aVGSZhCN" text="Cự Thuẫn" />
+    <string id="azkl5CZk" text="Thay Thế Phản Khúc Cung bằng Phục Hợp Cung, sát thương cùng độ chính xác cao hơn nhưng tốc độ lại chậm hơn." />
+    <string id="bDCbhzoh" text="Thay Thế Trường Mâu bằng Canh Trường Trường Mâu." />
+    <string id="bDfKz5SZ" text="Trịch Thạch" />
+    <string id="bfyqpwbJ" text="Thay Thế Song Thủ Kiếm bằng Trường Liêm, dài hơn, sát thương cao hơn, nhưng lại không thể đâm." />
+    <string id="bGQ83Jtr" text="Canh Trường Trường Mâu" />
+    <string id="BHXqTA0N" text="Thay Thế Phất Lai Tát Kiếm bằng Bộ Lạc Kiếm, dài hơn và sát thương cao hơn." />
+    <string id="bKDoNDhC" text="Thay Thế Kiếm bằng Trọng Chuỳ, thích hợp để phá giáp đối phương." />
+    <string id="bn1nJlH4" text="Càng nhiều đầu mâu, cận chiến càng hiệu quả." />
+    <string id="bsabIdYm" text="Song Thủ Phủ" />
+    <string id="bwLknWjn" text="Thay Thế Tiêu Thương bằng Đế Quốc Tiêu Thương, sát thương cao hơn, có thể dùng cận chiến." />
+    <string id="bY9U7w1Q" text="Kiếm" />
+    <string id="bzCoIgk7" text="Quân Dụng Câu Liêm" />
+    <string id="bzdCMVuG" text="Kỵ Binh Chuỳ" />
+    <string id="bzr6vtXi" text="Trọng Hình Song Nhận Thương" />
+    <string id="C2XqmIAQ" text="Thay Thế Phản Khúc Cung bằng Phục Hợp Cung, chính xác cao hơn, nhiều sát thương hơn nhưng chậm hơn." />
+    <string id="CaEBx7NK" text="Thay Thế Tháp Ba Nhĩ Chiến Phủ bằng Nguyệt Nhận Phủ, tốc độ chậm hơn nhưng sát thương cao hơn." />
+    <string id="cfSgK0nk" text="Tấn Điệp Mã" />
+    <string id="CG5D5r2w" text="Thay Thế Kiếm bằng Chiến Chuỳ, hiệu quả gây sát thương cao hơn với giáp kẻ địch." />
+    <string id="chOIa3PO" text="Thay Thế Khiên bằng một cái khiên nhẹ hơn, di chuyển nhanh hơn." />
+    <string id="CJo3mNsK" text="Thu được tiêu thương mạnh hơn." />
+    <string id="cMsadGUb" text="Đế Quốc Trọng Hình Đầu Mâu" />
+    <string id="CQBiJLgv" text="Lạc Đà" />
+    <string id="cRCkC36E" text="Đoản Kiếm" />
+    <string id="d7Z3ka1m" text="Cung Tốt Hơn" />
+    <string id="d8oFKRxa" text="Cấp cho Đầu mâu, dài hơn trường mâu, có thể ném và dùng cận chiến." />
+    <string id="D9XZcdid" text="Cấp cho Đầu Trịch Phủ, sát thương tầm xa, đối chiến lại khiên có hiệu quả, nhưng số lượng hơi ít." />
+    <string id="DCyOFcZI" text="Cấp cho Câu Liêm, một vũ khí cán dài." />
+    <string id="Dj64aJKQ" text="Câu Liêm" />
+    <string id="dkSDZODz" text="Thay Thế Kiếm bằng Vũ Trang Kiếm, tốc độ nhanh, hiệu quả khi song đấu hoặc đâm." />
+    <string id="DlKYZgA3" text="Gia Cường Khôi Giáp" />
+    <string id="dQEa2hZa" text="Long Trường Mâu" />
+    <string id="DZ2g8IZr" text="Thay Thế Song Thủ Phủ bằng Song Thủ Chuỳ. HiệU quả chiến đấu với kẻ địch có giáp mạnh, vũ khí hai tay." />
+    <string id="DZkbvhfq" text="Thay Thế Tiêu Thương bằng A Tắc Lai Tiêu Thương, gây sát thương cao hơn, có thể dùng cận chiến." />
+    <string id="EdLIa9Ds" text="Thay Thế Tiễn Thỉ bằng Canh Cường Tiễn Thỉ, sát thương cao hơn." />
+    <string id="EEEFVPLP" text="Thay Thế Rìu bằng Kiếm, hiệu quả khi song đấu hoặc đâm." />
+    <string id="eQLORdgE" text="Ngạch Ngoại Tiễn Thỉ" />
+    <string id="eyCVSK43" text="Trọng Hình Kỵ Thương" />
+    <string id="F49w1uD0" text="(TẠM THỜI)Thay Thế Rìu bằng Trọng Hình Phủ, gây sát thương cao hơn nhưng mà ngắn hơn." />
+    <string id="FaW2RuA8" text="Cấp cho Ngạch Ngoại Đầu Mâu" />
+    <string id="FLBYsvxp" text="Trường Kiếm" />
+    <string id="g3EFq1ld" text="Tiêu Thương Tốt Hơn" />
+    <string id="g7DvxQYg" text="Cấp cho Trọng Hình Liêm, sát thương nhiều hơn, dài hơn nhưng chậm hơn." />
+    <string id="GN3IoRlp" text="Cấp cho Tiêu Thương tăng sát thương." />
+    <string id="gnb4493C" text="Thay Thế Kiếm bằng Đoản Quyền Trượng, hiệu quả công giáp kẻ địch." />
+    <string id="gQtU8qqy" text="Cấp cho Rìu, hiệu quả chống lại Khiên." />
+    <string id="GsGJgGDE" text="Kỵ Thương" />
+    <string id="h1aBRZRO" text="Cấp cho Canh Khoái Nỗ Thỉ." />
+    <string id="h60wQVVX" text="Trường Thương" />
+    <string id="H8MYgA6i" text="Canh Trường Song Nhận Thương" />
+    <string id="HE8lvLcm" text="Thay Thế Kiếm bằng Yển Nguyệt Đao, một vũ khí cán dài của Khố Trại Đặc." />
+    <string id="hEEebqIY" text="Thay Thế Rìu bằng Kiếm, nhanh hơn, hiệu quả trong song đấu và đâm." />
+    <string id="HoVaJ0BH" text="Song Thủ Chuỳ" />
+    <string id="HQ20qb3g" text="Thay Thế tạo kỵ bằng một con nhanh hơn nhưng giáp nhẹ hơn." />
+    <string id="hs39bbML" text="Canh Cường Lực Cung" />
+    <string id="Hy967JNj" text="Thay Thế Liệp Cung bằng Thú Liệp Trường Cung, gây nhiều sát thương hơn, nhưng tốc độ gắn tên chậm hơn." />
+    <string id="HZgjTUoY" text="Thay Thế rìu bằng kiếm, nhanh hơn, hiệu quả khi song đấu hoặc đâm thọt." />
+    <string id="i7OWTiQc" text="Canh Cường Thuẫn Bài" />
+    <string id="iNJr5HOM" text="Chuỳ Đầu Thương" />
+    <string id="iSpXc3qQ" text="Cấp cho Yển Nguyệt Đao, một vũ khí cán dài của Khố Trại Đặc, sử dụng trên lưng ngựa càng là trí mạng." />
+    <string id="IsVZwswB" text="Thay Thế Liệp Cung bằng Phản Khúc Cung, sát thương cao hơn, chính xác hơn nhưng tốc độ lên tên chậm hơn." />
+    <string id="IUsT27oV" text="Thêm +9 giáp." />
+    <string id="iYauUX6r" text="Cấp cho Đầu Mâu, dài hơn trường mâu, có thể ném, có thể dùng ở cận chiến, nhưng số lượng lại hơi ít." />
+    <string id="JbODbx5i" text="Cấp cho Khiên, đỡ đòn dễ dàng hơn, hiệu quả chống đỡ được các đơn vị quân xạ chiến." />
+    <string id="JBVAeXx3" text="Thảo Xoa" />
+    <string id="JbWbiO6O" text="Cung và Tên" />
+    <string id="Jd0Kq9lD" text="Khiên" />
+    <string id="JfnVaE9D" text="Cấp cho Đế Quốc Trọng Hình Đầu Mâu, thích hợp chiến thuật quấy rối, có thể dùng ở cận chiến, số lượng hơi ít." />
+    <string id="jhey75nZ" text="Thay Thế Búa Chim bằng Cao Địa Thủ Bán Kiếm, hiệu quả song đấu và đâm thọt, sử dụng hai tay." />
+    <string id="JjRJs2Ue" text="Thay Thế Búa Chim bằng Song Thủ Phủ, hiệu quả tăng thêm khi công phá khiên." />
+    <string id="jKYWiUZA" text="Thay Thế toạ kỵ bằng 1 con linh hoạt và giáp dày hơn, mặc dù tốc độ chậm hơn nhưng sát thương khi xung đột (húc qua địch) cao hơn." />
+    <string id="K1t2X1YF" text="Thay Thế khiên bằng một chiếc lớn và mạnh hơn, tăng độ bền." />
+    <string id="K1UFTirG" text="Khinh Nỗ" />
+    <string id="KBrDpNxO" text="Trường Cung" />
+    <string id="KKWkfc2n" text="Cấp cho Nỗ Thỉ Mạnh Hơn." />
+    <string id="kS0LMJix" text="Cấp cho Tiêu Thương, hiệu quả chiến thuật quấy rồi, có thể dùng ở cận chiến." />
+    <string id="KWCsD0vW" text="Cấp cho Kỵ Binh Kiếm, thích hợp chiến thuật quấy rồi, có thể dùng ở cận chiến." />
+    <string id="kxNFecm2" text="Canh Khinh Thuẫn Bài" />
+    <string id="KXwN1PW4" text="Cự Phủ" />
+    <string id="kYbMMbzD" text="Cấp cho Trường Thương, rất hiệu quả đối chiến kỵ binh, dài hơn trường mâu , không thể sử dụng với khiên." />
+    <string id="L01yAZlu" text="Thay Thế Kiếm bằng Chiến Chuỳ, hiệu quả đánh giáp kẻ địch, sử dụng hai tay." />
+    <string id="l2j9CAQn" text="Thủ Bán Kiếm" />
+    <string id="l5GMT5AA" text="(TẠM THỜI)Cấp cho Tiêu Thương ném xa hơn." />
+    <string id="llneOWkU" text="Canh Khoái Kiếm" />
+    <string id="loPT6GUc" text="Cấp cho Cự Thuẫn, đỡ đòn dễ dàng hơn, hiệu quả chống lại các đơn vị xạ chiến." />
+    <string id="LstE2rEG" text="Thay Thế Đế Quốc Chiến Mã bằng Tuấn Mã, linh hoạt hơn, nhanh hơn." />
+    <string id="mcXoarZq" text="Đầu Trịch Phủ" />
+    <string id="meWoLxtc" text="Thay Thế Kiếm bằng Rìu, hiệu quả chống lại khiên." />
+    <string id="n3q8k0lB" text="Mã Thất Khải Giáp" />
+    <string id="n497RC1p" text="(TẠM THỜI)Cấp cho mũi tên nhanh hơn." />
+    <string id="NiaLmb1S" text="Thay Thế Liệp Cung bằng Đoản Cung, sát thương gây ra cao hơn nhưng lên tiễn chậm hơn." />
+    <string id="nSSxEIvF" text="(TẠM THỜI) Cấp cho a khinh thuẫn, tốc độ di chuyển nhanh hơn." />
+    <string id="o6eKX9h0" text="Thay Thế Rìu bằng Chiến Chuỳ, hiệu quả đối chiến với giáp kẻ địch." />
+    <string id="okGD2Dbu" text="Thay Thế Liệp Cung bằng Phản Khúc Cung, sát thương cao hơn nhưng lên tiễn chậm hơn." />
+    <string id="OPcPYoHu" text="Phi Phủ" />
+    <string id="Oweratvx" text="Cấp cho Trường Mâu, hiệu quả vô cùng hữu hiệu khi đối chiến kỵ binh cùng kẻ địch số lượng lớn." />
+    <string id="oWv0kvwj" text="Cường Lực Nỗ Thỉ" />
+    <string id="P4k9Lkpw" text="Thay Thế Liệp Cung bằng Khinh Nỗ, sát thương cao hơn, tốc bắn giảm." />
+    <string id="p8XIZhbb" text="Thay Thế Đoản Mâu bằng Trường Mâu, hiệu quả vô cùng hữu hiệu khi đối chiến kỵ binh cùng kẻ địch số lượng lớn." />
+    <string id="pblXb1ae" text="Cấp cho Chiến Chuỳ, hiệu quả gây sát thương cao hơn với giáp kẻ địch." />
+    <string id="pE1plFCL" text="Trọng Chuỳ" />
+    <string id="PF7sPCYq" text="Tiêu Thương" />
+    <string id="PFTzVdJg" text="Thêm +9 giáp." />
+    <string id="PNZmPprx" text="Song Thủ Kiếm" />
+    <string id="pyupZxJK" text="Kỵ Mâu" />
+    <string id="q8n63o4y" text="Cấp cho Chuỳ Đầu Thương, vô cùng hữu hiệu đối chiến kỵ binh, dài hơn trường mâu, sử dụng hai tay." />
+    <string id="QLcP8bIs" text="Trường Liêm" />
+    <string id="QojyuDln" text="Cấp cho Kỵ Mâu, dài hơn, nhiều sát thương hơn nhưng chậm hơn." />
+    <string id="QqWMflbr" text="Cấp cho Bộ Lạc Kiếm, một thanh kiếm sử dụng một tay hiệu quả hữu hiệu khi song đấu và đâm thọt." />
+    <string id="Qs4VOXgE" text="Đoản Mâu" />
+    <string id="R7TAImaC" text="Canh Đại Thuẫn Bài" />
+    <string id="RV6BCPvg" text="Thay Thế Rìu bằng một cái dài và nặng hơn. Tăng hiệu quả đối chiến với khiên." />
+    <string id="rzP3J3Kb" text="Thay Thế Trường Liêm bằng Trường Bính Nghịch Nhận Đao, dài hơn nhưng sát thương ít và chậm hơn." />
+    <string id="sagHGCh7" text="Thay Thế Long Trường Mâu bằng Kỵ Mâu, dài hơn, gây sát thương cao hơn nhưng chậm hơn." />
+    <string id="sFJfF1Gb" text="Thay Thế Gladius bằng Spatha, dài hơn và gây sát thương cao hơn." />
+    <string id="SjiFP0za" text="Thay Thế Quyền Trượng bằng Sword, hiệu quả hữu hiệu khi song đấu và đâm thọt." />
+    <string id="SMws1ws6" text="Canh Đại Thuẫn Bài" />
+    <string id="snQeVgCJ" text="Thay Thế Rìu bằng Trọng Hình Phủ, dài hơn và gây sát thương cao hơn." />
+    <string id="sOARp3Dc" text="Cấp cho Khiên, đỡ đòn dễ dàng hơn, hiệu quả đối chiến lại các đơn vị xạ chiến." />
+    <string id="SpTtirzT" text="Cấp cho Chiến Chuỳ, hữu hiệu chống lại với giáp của kẻ địch." />
+    <string id="sVOdabQr" text="Cấp cho Thảo Xoa, hữu hiệu đối chiến kỵ binh." />
+    <string id="t68bkisr" text="Chiến Chuỳ" />
+    <string id="tdRSQoPT" text="Cấp cho cường lực tiêu thương." />
+    <string id="tFWBFpji" text="Thay Thế ngựa bằng a Lạc Đà, gây sát thương khi đâm, lao vào địch lớn hơn, linh hoạt và bền bỉ hơn nhưng chậm hơn và không thể nhảy." />
+    <string id="TK0GvrJR" text="Thay Thế Kiếm bằng Cao Địa Kiếm, gây sát thương cao hơn, dài hơn nhưng chậm hơn." />
+    <string id="tPtEhPzU" text="Thay Thế Nỗ bằng Kình Nỗ, mạnh nhất trên Tạp Lạp Địch Á." />
+    <string id="tvIibabU" text="Cấp cho Ngạch Ngoại Nỗ Thỉ." />
+    <string id="tZgHdSOX" text="Bán Thân Mã Khải" />
+    <string id="uKOn4IE6" text="Cấp thêm số lượng ngoài định mức cho Tiêu Thương." />
+    <string id="uNyHSwaL" text="Trọng Hình Phủ" />
+    <string id="uTfm0blH" text="Cấp cho Đoản Cung, có thể dùng trên lưng ngựa." />
+    <string id="UtJlbDuv" text="Thay Thế Phản Khúc Cung bằng Đế Quốc Cường Cung, tốc bắn nhanh nhưng độ chính xác thấp." />
+    <string id="UTrNbIbI" text="Thay Thế Trường Kiếm bằng Cao Địa Thủ Bán Kiếm, hiệu quả hữu hiệu khi song đấu và đâm thọt, sử dụng hai tay." />
+    <string id="uw9m5hav" text="Rìu Tốt Hơn" />
+    <string id="Uwe3VHaN" text="Trọng Kỵ Binh Kiếm" />
+    <string id="V2SKzX1e" text="Quân Mã" />
+    <string id="v61Qq3SH" text="Thay Thế Khinh Nỗ bằng một chiếc nặng hơn, sát thương cao hơn." />
+    <string id="V62I3vA5" text="Cấp cho Thiên Đoản Song Nhận Thương, một vũ khí cán dài của Đế Quốc." />
+    <string id="vBvDZCtw" text="Thay Thế Tháp Ba Nhĩ Chiến Phủ bằng Song Thủ Kiếm, hiệu quả hữu hiệu khi song đấu và đâm thọt." />
+    <string id="VI4gQt8Q" text="Chiến Chuỳ" />
+    <string id="vjvklXQ3" text="Cấp cho Tiêu Thương, hiệu quả chiến thuật quấy rối, có thể dùng cận chiến." />
+    <string id="VL4olxdA" text="Cấp cho Liệp Cung, có thể bắn trên lưng ngựa." />
+    <string id="VR2SwarS" text="Canh Cường Mã" />
+    <string id="W4iKIM2s" text="Tiểu Thuẫn" />
+    <string id="wAFiQYpt" text="Thay Thế Liệp Cung bằng Tốc Xạ Cung, toàn phương diện đều được đề tăng." />
+    <string id="wdRsSuMN" text="Thay Thế Trường Cung bằng Tử Xam Trường Cung, gây sát thương cao hơn và độ chính xác cao nhưng chậm hơn." />
+    <string id="wdSrwKFE" text="Ngạch Ngoại Nỗ Thỉ" />
+    <string id="wiBmTEGi" text="Thay Thế toạ kỵ bằng một con nhanh và chiến giáp dày hơn." />
+    <string id="wv9g9Kyr" text="Tốc Xạ Cung" />
+    <string id="WxMGCqPw" text="Thay Thế Đoản Liêm bằng Búa Chim, hữu hiệu đối chiến với khiên." />
+    <string id="XLtAF1Km" text="Thay Thế Đoản Cung bằng Trường Cung, gây sát thương cao hơn và độ chính xác cao nhưng chậm hơn." />
+    <string id="xqlMIG4I" text="Thay Thế Khiên bằng một tấm to hơn, tăng độ bền." />
+    <string id="XSjXLikf" text="Canh Đa Tiêu Thương" />
+    <string id="xSz6m21N" text="Quyền Trượng" />
+    <string id="xuad1OP3" text="Thay Thế toạ kỵ bằng một con có chiến giáp dày nhất." />
+    <string id="xUSR6O0X" text="Cấp cho Kỵ Binh Kiếm, dài hơn và nặng hơn." />
+    <string id="xWFW8jXw" text="Chiến Phủ" />
+    <string id="y4YWp1f1" text="Đầu Mâu" />
+    <string id="YaakrC1m" text="Kỵ Binh Kiếm" />
+    <string id="yDU7JFH4" text="(TẠM THỜI)Cấp cho Trịch Thạch, có thể cung cấp khả năng đánh ngất từ xa, số lượng nhiều mà độ chính xác thì thấp." />
+    <string id="YF8DQVUT" text="Thay Thế rìu của bạn bằng Bắc Phương Song Thủ Phủ, mạnh hơn, tăng hiệu quả đối chiến khiên." />
+    <string id="YjKfKduC" text="Canh Khoái Tiễn Thỉ" />
+    <string id="ykaaB5gw" text="Canh Cường Lực Trường Cung" />
+    <string id="YoNYyLba" text="Trường Mâu" />
+    <string id="YqqhxGwH" text="Thay Thế Đoản Bổng bằng Đoản Liêm, có thể gây sát thương tốt hơn, hữu hiệu đối chiến khiên." />
+    <string id="ZATaNNCu" text="Thay Thế ngựa bằng một con có hộ giáp càng dày để gây sát thương khi đâm, lao vào địch lớn hơn." />
+    <string id="zCqpSDcF" text="Cấp cho Thiên Đoản Song Nhận Thương." />
+    <string id="Zh4upm1u" text="Thay Thế Chiến Chuỳ bằng Kiếm, hiệu quả hữu hiệu khi song đấu và đâm thọt." />
+    <string id="ZJweh5Oh" text="Thủ Bán Phủ" />
+    <string id="ZtKJgiRv" text="Cấp cho Tiêu Thương, hiệu quả chiến thuật quấy rối, có thể dùng cận chiến." />
+    <string id="zv9NXIZR" text="Cung cấp hộ giáp cho toạ kỵ của bạn." />
+    <string id="ZvMcHde3" text="Búa Chim Quân Dụng" />
+    <string id="ZZ9p2E2g" text="Thay Thế Khiên bằng một tấm mạnh hơn, tăng độ bền." />
   </strings>
 </base>

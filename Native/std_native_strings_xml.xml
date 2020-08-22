@@ -4,130 +4,130 @@
     <tag language="Tiếng Việt" />
   </tags>
   <strings>
-    <string id="01zQKaF3" text="Eye Shape" />
-    <string id="034LYlKi" text="Face Walls" />
-    <string id="05w8Tl7n" text="Steppe" />
-    <string id="0cpbEvsG" text="Old Face" />
-    <string id="0DBQGaka" text="Delivered couched lance damage!" />
-    <string id="0nRbr6Z9" text="North America" />
-    <string id="0P89VyAQ" text="Face Asymmetry" />
-    <string id="0WHQKap4" text="Equipment Selection Time Limit (seconds)" />
-    <string id="0xJ3qIlJ" text="Jaw Line" />
-    <string id="1fFnE9Vk" text="Europe" />
-    <string id="1GFrsDRm" text="Poll Accept Threshold" />
-    <string id="1gU5rDws" text="Allow Polls To Ban Players" />
-    <string id="1Ndyb5I1" text="Flag Removal Time (seconds)" />
-    <string id="1siBGYlP" text="Cheekbone Width" />
-    <string id="1zveWQFg" text="Go to matchmaking tab and select a region in order to queue for a battle" />
-    <string id="22MOa4Fc" text="Eye Outer Height" />
-    <string id="23INS6nf" text="Password Required" />
-    <string id="26SJhCRD" text="Replace With" />
-    <string id="2blpQ3OQ" text="Markings" />
-    <string id="2d0H47C8" text="Eye To Eye Distance" />
-    <string id="2G3QpSDk" text="Lips concave/convex" />
-    <string id="2QzgefNF" text="Face Weight" />
-    <string id="2Rf2ChRD" text="Eyebrow Depth" />
-    <string id="2uynGJbP" text="Transfering Troops" />
-    <string id="39kMNdA5" text="Flag Removal" />
-    <string id="3AInGztr" text="Torso" />
-    <string id="3APdsKEi" text="Throwing Knive" />
-    <string id="3aX5gXmJ" text="Skin Color" />
-    <string id="3Kkya96j" text="Leg" />
-    <string id="3kqFHkZz" text="Lip Thickness" />
-    <string id="3syV6ymi" text="Blunt" />
-    <string id="3ydKbDmI" text="{PLAY_TIME} minutes" />
-    <string id="3ZzxddkE" text="Game Password" />
-    <string id="43L45sjx" text="Number of Bots Per Formation" />
-    <string id="4DcNDein" text="Map Time Limit (minutes)" />
-    <string id="4Dd2xgPm" text="Weight" />
-    <string id="4PrfimcK" text="Badge" />
-    <string id="4wLU6s4S" text="Abdomen" />
-    <string id="5anoN5EJ" text="Hone your combat skills in this chaotic and classic team-based game mode against other players." />
-    <string id="5LpufKs7" text="Follow Me" />
-    <string id="5mSKBidd" text="Nose Shape" />
-    <string id="5odwu8qB" text="Ranked" />
-    <string id="5rj7xQE4" text="Bow" />
-    <string id="5tbWdY1j" text="Avatar" />
-    <string id="5vZW8IJ5" text="Swap with {ITEM_NAME}" />
-    <string id="621DbiOw" text="Nose Asymetry" />
-    <string id="64n3piBf" text="Total Games" />
-    <string id="6DBVzw9r" text="Build" />
-    <string id="6yZnboe6" text="Eye Socket Size" />
-    <string id="74tYdiOb" text="Select your troops wisely according to your team's needs. Troop counts are determined by troop strength." />
-    <string id="77arWi0m" text="Eye Inner Height" />
-    <string id="7BlOJvyo" text="Mouth Width" />
-    <string id="7lvexPjZ" text="Plain" />
-    <string id="7MkoLtWC" text="Axe" />
+    <string id="01zQKaF3" text="Hình Dạng Mắt" />
+    <string id="034LYlKi" text="Tường Ngăn Cao Ngang Ngực" />
+    <string id="05w8Tl7n" text="Thảo Nguyên" />
+    <string id="0cpbEvsG" text="Khuôn Mặt Cũ" />
+    <string id="0DBQGaka" text="Gây sát thương với kỵ thương!" />
+    <string id="0nRbr6Z9" text="Bắc Mỹ" />
+    <string id="0P89VyAQ" text="Mặt Không Đối Xứng" />
+    <string id="0WHQKap4" text="Hạn Chế Thời Gian Lựa Chọn Trang Bị (giây)" />
+    <string id="0xJ3qIlJ" text="Hàm Dưới" />
+    <string id="1fFnE9Vk" text="Châu Âu" />
+    <string id="1GFrsDRm" text="Ngưỡng Phiếu Chấp Nhận" />
+    <string id="1gU5rDws" text="Cho Phép Bỏ Phiếu Cấm Người chơi" />
+    <string id="1Ndyb5I1" text="Thời Gian Gỡ Cờ (giây)" />
+    <string id="1siBGYlP" text="Độ Rộng Gò Má" />
+    <string id="1zveWQFg" text="Chọn tab ghép trận, chọn một vị trí bắt đầu để dàn quân và chiến đấu" />
+    <string id="22MOa4Fc" text="Chiều Cao Khoé Mắt Ngoài" />
+    <string id="23INS6nf" text="Mật Khẩu Là Bắt Buộc" />
+    <string id="26SJhCRD" text="Thay Thế Bởi" />
+    <string id="2blpQ3OQ" text="Đánh Dấu" />
+    <string id="2d0H47C8" text="Khoảng Cách Mắt" />
+    <string id="2G3QpSDk" text="Môi Lồi/Lõm" />
+    <string id="2QzgefNF" text="Trọng Lượng Mặt" />
+    <string id="2Rf2ChRD" text="Chiều Sâu Lông Mày" />
+    <string id="2uynGJbP" text="Chuyển Quân" />
+    <string id="39kMNdA5" text="Gỡ Cờ" />
+    <string id="3AInGztr" text="Thân Trên" />
+    <string id="3APdsKEi" text="Phi Đao" />
+    <string id="3aX5gXmJ" text="Màu Da" />
+    <string id="3Kkya96j" text="Chân" />
+    <string id="3kqFHkZz" text="Độ Dày Môi" />
+    <string id="3syV6ymi" text="Đánh NgấT" />
+    <string id="3ydKbDmI" text="{PLAY_TIME} phút" />
+    <string id="3ZzxddkE" text="Mật Khẩu Game" />
+    <string id="43L45sjx" text="Số Bot trong mỗi bên đội hình" />
+    <string id="4DcNDein" text="Bản Đồ Giới Hạn Thời Gian (phút)" />
+    <string id="4Dd2xgPm" text="Trọng Lượng" />
+    <string id="4PrfimcK" text="Huy HiệU" />
+    <string id="4wLU6s4S" text="Bụng" />
+    <string id="5anoN5EJ" text="Rèn luyện khả năng chiến đấu của ngươi bằng chế độ hỗn chiến hoặc cổ điển với những người chơi khác." />
+    <string id="5LpufKs7" text="Theo Ta" />
+    <string id="5mSKBidd" text="Hình Dạng Mũi" />
+    <string id="5odwu8qB" text="Xếp Hạng" />
+    <string id="5rj7xQE4" text="Cung" />
+    <string id="5tbWdY1j" text="Ảnh Đại Diện" />
+    <string id="5vZW8IJ5" text="Thay thê bằng {ITEM_NAME}" />
+    <string id="621DbiOw" text="Mũi Không Đối Xứng" />
+    <string id="64n3piBf" text="Tổng Trận Đấu" />
+    <string id="6DBVzw9r" text="Kiến Tạo" />
+    <string id="6yZnboe6" text="Kích Cỡ Hốc Mắt" />
+    <string id="74tYdiOb" text="Lựa chọn binh chủng một cách khôn ngoan theo đội ngũ của ngươi cần. Thực lực của binh chủng quyết định tới số lượng binh chủng." />
+    <string id="77arWi0m" text="Độ Cao Trong Khoé Mắt" />
+    <string id="7BlOJvyo" text="Độ Rộng MiệNg" />
+    <string id="7lvexPjZ" text="Thông Thường" />
+    <string id="7MkoLtWC" text="Rìu" />
     <string id="7qySRF2T" text="Ping" />
-    <string id="7snGCl6z" text="Face Ranged Siege Units" />
-    <string id="880uOrte" text="Terrain" />
-    <string id="8o1lZcjR" text="Brow Outer Height" />
-    <string id="8sG5bTtK" text="Respawn Period" />
-    <string id="9aboazgu" text="Line" />
-    <string id="9TGLirQf" text="Circle" />
-    <string id="9Ts5zKIj" text="Eyes" />
-    <string id="a2xfNmqa" text="At Lobby" />
-    <string id="a8nb5HVc" text="Brow Middle Height" />
-    <string id="aAD1iOuH" text="Top Mouth Size" />
-    <string id="AbEh2y8o" text="Save And Exit" />
-    <string id="aDA9PWFT" text="Advance" />
-    <string id="aDabgVpn" text="Character Customization" />
-    <string id="adyGICWc" text="Chamber Blocked!" />
-    <string id="AEcTBnkz" text="Change Clothing" />
-    <string id="aGTgzoqW" text="Allow Polls To Kick Players" />
-    <string id="ahiBhAqU" text="Armor" />
-    <string id="aM3TlRIy" text="{SHORTCUT} Transfer" />
-    <string id="AmbKQ7LT" text="Transfer" />
-    <string id="auDOtbza" text="Culture Team 1" />
-    <string id="Ayrvf5yp" text="Kill" />
-    <string id="aZVxHbwH" text="Killed by {TROOP_NAME}" />
-    <string id="b0L0jbIa" text="Eye Position" />
-    <string id="b74zosgq" text="Nose Size" />
-    <string id="bAPQFzcW" text="Projectile Damage" />
-    <string id="bbYwqrvo" text="Jaw Shape" />
-    <string id="bc4MrqLA" text="{SHORTCUT} Horses" />
-    <string id="BFWD0pCE" text="Friendly Fire Ranged Damage Friend" />
-    <string id="bjcixGIE" text="Team" />
-    <string id="bjJkW9dO" text="View Profile" />
-    <string id="BJMPBcDn" text="Second Assist" />
-    <string id="bkysJj7F" text="Siege Weapon" />
-    <string id="BMPrnHpK" text="Nostril Size" />
-    <string id="bnfUdx3O" text="Center Height" />
-    <string id="BQzP1ivS" text="Face Ratio" />
-    <string id="BrjpmaJH" text="Games Lost" />
-    <string id="brk0f05B" text="Head Scaling" />
-    <string id="bTpn4bZ8" text="Brow Inner Height" />
-    <string id="BuLdsBpQ" text="Free For All" />
-    <string id="bV75iwKa" text="Save" />
-    <string id="bXIrqxKc" text="Min Number Of Players To Start Game" />
-    <string id="bY9U7w1Q" text="Sword" />
-    <string id="bYCfMbYk" text="Change Your Team" />
-    <string id="c1zu1b3M" text="You've been removed from the party." />
-    <string id="c2tGH5II" text="Warmup Time Limit (minutes)" />
-    <string id="cBZ6OlKW" text="Javelin" />
-    <string id="ccROnOY3" text="Received couched lance damage!" />
-    <string id="CFI2aDtg" text="Mount Armor" />
-    <string id="cJ5emwNF" text="Assist" />
-    <string id="CjPiabbn" text="Fire At Will" />
-    <string id="CJr1T7jh" text="Admin Password" />
+    <string id="7snGCl6z" text="Đối mặt với khí giới tầm xa" />
+    <string id="880uOrte" text="Địa Hình" />
+    <string id="8o1lZcjR" text="Chiều Cao Lông Mày Bên Ngoài" />
+    <string id="8sG5bTtK" text="Thời Gian Hồi Sinh" />
+    <string id="9aboazgu" text="Hàng" />
+    <string id="9TGLirQf" text="Vòng Tròn" />
+    <string id="9Ts5zKIj" text="Mắt" />
+    <string id="a2xfNmqa" text="Tại Sảnh" />
+    <string id="a8nb5HVc" text="Độ Cao Lông Mày Trung Tâm" />
+    <string id="aAD1iOuH" text="Kích Cỡ Miệng Trên" />
+    <string id="AbEh2y8o" text="Lưu Và Lượn" />
+    <string id="aDA9PWFT" text="Tiến Lên" />
+    <string id="aDabgVpn" text="Tuỳ Chỉnh Nhân Vật" />
+    <string id="adyGICWc" text="Phòng Đã Bị Khoá!" />
+    <string id="AEcTBnkz" text="Thay Y Phục" />
+    <string id="aGTgzoqW" text="Cho Phép bỏ phiếu Kick người chơi" />
+    <string id="ahiBhAqU" text="Giáp" />
+    <string id="aM3TlRIy" text="{SHORTCUT} Di chuyển" />
+    <string id="AmbKQ7LT" text="Di chuyển" />
+    <string id="auDOtbza" text="Văn Hoá Đội 1" />
+    <string id="Ayrvf5yp" text="Giết" />
+    <string id="aZVxHbwH" text="Bị {TROOP_NAME} giết" />
+    <string id="b0L0jbIa" text="Vị Trí Mắt" />
+    <string id="b74zosgq" text="Kích Cỡ Mũi" />
+    <string id="bAPQFzcW" text="Sát Thương Vật Bắn" />
+    <string id="bbYwqrvo" text="Hình Dạng Cằm" />
+    <string id="bc4MrqLA" text="{SHORTCUT} Ngựa" />
+    <string id="BFWD0pCE" text="Quân Xạ Kích Đồng Minh Bắn Trúng Quân Đồng Minh" />
+    <string id="bjcixGIE" text="Đội" />
+    <string id="bjJkW9dO" text="Xem Thông Tin Cá Nhân" />
+    <string id="BJMPBcDn" text="Hỗ Trợ Thứ Hai" />
+    <string id="bkysJj7F" text="Vũ Khí Công Thành" />
+    <string id="BMPrnHpK" text="Kích Cỡ Lỗ Mũi" />
+    <string id="bnfUdx3O" text="Chiều Cao Trung Tâm" />
+    <string id="BQzP1ivS" text="Tỷ Lệ Mặt" />
+    <string id="BrjpmaJH" text="Trận Chiến Thất Bại" />
+    <string id="brk0f05B" text="Tỷ Lệ Đầu" />
+    <string id="bTpn4bZ8" text="Độ Cao Lông Mày Viền Trong" />
+    <string id="BuLdsBpQ" text="Hỗn Chiến" />
+    <string id="bV75iwKa" text="Lưu" />
+    <string id="bXIrqxKc" text="Số Người Chơi Tối Thiểu Để Bắt Đầu Game" />
+    <string id="bY9U7w1Q" text="Kiếm" />
+    <string id="bYCfMbYk" text="Đổi team của ngươi" />
+    <string id="c1zu1b3M" text="Ngươi đã bị loại khỏi tổ đội." />
+    <string id="c2tGH5II" text="Giới Hạn Thời Gian Khởi Động (phút)" />
+    <string id="cBZ6OlKW" text="Giáo" />
+    <string id="ccROnOY3" text="Bị sát thương bởi ngựa lao!" />
+    <string id="CFI2aDtg" text="Gíap Ngựa" />
+    <string id="cJ5emwNF" text="Trợ Giúp" />
+    <string id="CjPiabbn" text="Bắn Tự Do" />
+    <string id="CJr1T7jh" text="Mật Khẩu Quản Trị" />
     <string id="cK5DE88I" text="N/A" />
-    <string id="CKtZ7bES" text="Reach the score point limit of the map as a team or score more points than the enemy team until the map runs out of time." />
-    <string id="Cl3TziQE" text="Your mount received {DAMAGE} fall damage." />
-    <string id="CoxEyDa8" text="Gauntlet" />
-    <string id="cPbHqGrI" text="Kick Player" />
-    <string id="d3RJm2zW" text="Jaw Height" />
-    <string id="DdOgvhsV" text="Kick" />
-    <string id="DHlVSaZW" text="Relative movement speed: {SPEED} m/s" />
-    <string id="DKqLY1aJ" text="Equip" />
-    <string id="dojUqbv8" text="Nose Length" />
-    <string id="dRlTmdKR" text="System" />
-    <string id="DU9SofaW" text="Cut" />
-    <string id="dxlkHhw5" text="Games Won" />
-    <string id="Dxmq32qW" text="Charge" />
-    <string id="dZ4xp6Lu" text="Temple Width" />
-    <string id="e0KdfaNe" text="Save As" />
-    <string id="E3tCWX7w" text="Square" />
-    <string id="ecUwABe2" text="Desert" />
+    <string id="CKtZ7bES" text="Đạt tới điểm tổng của trận đấu, hoặc là số điểm cao hơn team địch khi thời gian trận đấu kết thúc." />
+    <string id="Cl3TziQE" text="Ngựa của ngươi bị {DAMAGE} sát thương khi rơi xuống." />
+    <string id="CoxEyDa8" text="Bao Tay" />
+    <string id="cPbHqGrI" text="Đá Người Chơi" />
+    <string id="d3RJm2zW" text="Độ Cao Cằm" />
+    <string id="DdOgvhsV" text="Đá" />
+    <string id="DHlVSaZW" text="Tốc độ di chuyển tương đối: {SPEED} m/s" />
+    <string id="DKqLY1aJ" text="Trang bị" />
+    <string id="dojUqbv8" text="Chiều dài mũi" />
+    <string id="dRlTmdKR" text="Hệ thống" />
+    <string id="DU9SofaW" text="Cắt" />
+    <string id="dxlkHhw5" text="Trận Đấu Giành Thắng Lợi" />
+    <string id="Dxmq32qW" text="Tấn Công" />
+    <string id="dZ4xp6Lu" text="Độ Rộng Thái Dương" />
+    <string id="e0KdfaNe" text="Lưu Như" />
+    <string id="E3tCWX7w" text="Vuông" />
+    <string id="ecUwABe2" text="Sa mạc" />
     <string id="eEf7hE4r" text="Scatter" />
     <string id="EmVbbIUc" text="Return" />
     <string id="EUHaR98k" text="Report" />
@@ -206,7 +206,7 @@
     <string id="M1RCJ9DM" text="Third Assist" />
     <string id="m3zVR2UH" text="Show Mouse: [{KEY_NAME}]" />
     <string id="m5UdbzHr" text="No Region Selected" />
-    <string id="MciIqod6" text="Couch Lance" />
+    <string id="MciIqod6" text="Couch Kỵ Thương" />
     <string id="MH9Pi3ao" text="Face Direction" />
     <string id="mjhOYJWg" text="Quiver is empty." />
     <string id="MnM0L4AV" text="Not In Multiplayer" />
@@ -312,7 +312,7 @@
     <string id="V4iU0wRv" text="Gold" />
     <string id="V6BAHTnv" text="Culture Team 2" />
     <string id="VbeHEAsa" text="Retreat" />
-    <string id="VI4gQt8Q" text="Mace" />
+    <string id="VI4gQt8Q" text="Chiến Chuỳ" />
     <string id="vkEzdL3k" text="Change game type or scene" />
     <string id="vLjgcdgB" text="Snow" />
     <string id="vo5NpcUS" text="Top Lip Shape" />
@@ -353,7 +353,7 @@
     <string id="yClOSxT8" text="Nose Definition" />
     <string id="yfa7tpbK" text="All" />
     <string id="YhDDXj0I" text="Canyon" />
-    <string id="YoNYyLba" text="Spear" />
+    <string id="YoNYyLba" text="Trường Mâu" />
     <string id="yQtzabbe" text="Đóng" />
     <string id="YRymCbaa" text="Got crushed through!" />
     <string id="Yvjap05b" text="Movement Speed" />

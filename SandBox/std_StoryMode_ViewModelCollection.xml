@@ -1,13 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
   <tags>
-    <tag language="Tiếng Việt" />
+    <tag language="TiếngViệt" />
   </tags>
   <strings>
     <string id="8eYtra7T" text="Xác định độ khó của trò chơi" />
     <string id="fz2kQjFS" text="Chọn văn hoá cho nhân vật của bạn: " />
     <string id="K6GYskvJ" text="Văn Hoá:" />
-    <string id="kek1czyb" text="Bạn chuẩn bị cùng anh trai mình lên đương với nhiệm vụ phục thù và giải cứu. Đây chính là nhân vật của bạn. Chọn 'Kết Thúc' nếu bạn đã sẵn sàng hoặc 'trở lại' để thực hiện các thay đổi khác." />
+    <string id="kek1czyb" text="Bạn chuẩn bị cùng anh trai mình lên đường với nhiệm vụ phục thù và giải cứu. Đây chính là nhân vật của bạn. Chọn 'Kết Thúc' nếu bạn đã sẵn sàng hoặc 'trở lại' để thực hiện các thay đổi khác." />
     <string id="MaHMOzL2" text="Văn Hoá Nhân Vật" />
     <string id="mHVmrwRQ" text="Người đời sẽ gọi bạn là gì?" />
     <string id="PUjDWe5j" text="Văn Hoá" />

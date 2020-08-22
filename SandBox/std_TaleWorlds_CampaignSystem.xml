@@ -604,7 +604,7 @@
     <string id="APSE3Q6r" text="What? No... I cannot, I cannot agree." />
     <string id="apuNQC2W" text="What can I do for you?" />
     <string id="aPuzEGof" text="Army cohesion decay decreased." />
-    <string id="aqAewkGj" text="{FIRST_NAME} the Hammer" />
+    <string id="aqAewkGj" text="{FIRST_NAME} the Chiến Chuỳ" />
     <string id="aQAI99d4" text="Declaring War On {KINGDOM_NAME}" />
     <string id="aqCj9dhC" text="There is no need to defend. Siege their settlements!" />
     <string id="aQduWCrg" text="Max difficulty of siege engine that can be built: {a0}" />
@@ -673,7 +673,7 @@
     <string id="b7c5Q3BY" text="Character can refine two units of fine steel into one unit of Thamaskene steel, and one unit of crude iron as by-product." />
     <string id="b7UHp4J9" text="Leave the siege" />
     <string id="b7W48wVD" text="Empire Construction Expert" />
-    <string id="b9gnSzrG" text="Camel Ranch" />
+    <string id="b9gnSzrG" text="Lạc Đà Ranch" />
     <string id="b9ty57rJ" text="Faction Leader" />
     <string id="baeO5Zkk" text="{TITLE}... {GRIEVANCE_SHORT_DESCRIPTION}" />
     <string id="BAGQhsQA" text="Bonus 10% healing rate increase to the party when mobile on main map." />
@@ -986,7 +986,7 @@
     <string id="DR0giDPe" text="Crossbows" />
     <string id="DR2aK4aQ" text="I respect our ancient laws and traditions. I don't want to find myself at odds with you." />
     <string id="driH06vI" text="I need more recruits in {SETTLEMENT}'s garrison. Since I'll be elsewhere... maybe you can recruit {NUMBER_OF_TROOP_TO_BE_RECRUITED} {TROOP_TYPE} and bring them to the garrison for me?" />
-    <string id="drLxFmla" text="Hammer &amp; Anvil" />
+    <string id="drLxFmla" text="Chiến Chuỳ &amp; Anvil" />
     <string id="ds294zxi" text="Anything else?" />
     <string id="dsNV3sgp" text="Builder" />
     <string id="dspQKych" text="{NAME} the Ripper" />
@@ -1688,7 +1688,7 @@
     <string id="L4Se89I6" text="Refuse him, wait for a better offer." />
     <string id="l4UuWHba" text="Food Rationing" />
     <string id="l549ODcw" text="Sorry. I can't do that right now." />
-    <string id="l5kDEI6N" text="Imperial Towns" />
+    <string id="l5kDEI6N" text="Đế Quốc Towns" />
     <string id="l5mzerEh" text="{FIRST_NAME} the Cargomaster" />
     <string id="l5YipTe3" text="The {SETTLEMENT} is under siege. {SIEGE_LEADER} is commanding the siege." />
     <string id="L700FNht" text="Delivered {RAW_MATERIAL}" />
@@ -2571,7 +2571,7 @@
     <string id="Ua6CNLBZ" text="Village" />
     <string id="uaGEbQyJ" text="Daily Death Probability with Health Advise Perk" />
     <string id="UaSddsa2" text="My decision is final." />
-    <string id="UaZSa5mY" text="Imperial Fire" />
+    <string id="UaZSa5mY" text="Đế Quốc Fire" />
     <string id="uBcBuDKV" text="It's no worse than taking {QUEST_GIVER.NAME}'s silver in the first place for this task. Do think it over." />
     <string id="uBcEUdxu" text="Ownership of the fief should remain as it is" />
     <string id="UbxBYp60" text="Tax Collector" />

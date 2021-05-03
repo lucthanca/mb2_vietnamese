@@ -4,185 +4,336 @@
     <tag language="Tiếng Việt" />
   </tags>
   <strings>
-    <string id="0647tsif" text="Profile" />
-    <string id="06V7fEV4" text="Press ESC to go back" />
+    <string id="06V7fEV4" text="Ấn ESC để trở lại" />
     <string id="2Q6Mm9Jo" text="Tuỳ chọn Tay Cầm" />
     <string id="2zcrC0h1" text="Gameplay" />
-    <string id="3CpNUnVl" text="Cancel" />
-    <string id="3CsACce8" text="Exit" />
-    <string id="4Dd2xgPm" text="Weight" />
+    <string id="3CpNUnVl" text="Huỷ bỏ" />
+    <string id="3CsACce8" text="Thoát" />
+    <string id="4Dd2xgPm" text="Nặng" />
     <string id="4NaOKslb" text="-" />
-    <string id="4OGDnOVE" text="with {OPPONENT_NAME}" />
-    <string id="5baU17n0" text="Matchmaking feature is currently disabled" />
-    <string id="5k4dxUEJ" text="Troops" />
-    <string id="5Pea977J" text="Faction: " />
-    <string id="5UJJLzaL" text="Players searching with your criteria: " />
-    <string id="5Z0pvuNL" text="Level {LEVEL}" />
-    <string id="61isYVW0" text="Player {USER_NAME} is not found" />
-    <string id="6GSXsdeX" text="Speed" />
-    <string id="6MQaCah5" text="Join a Game" />
-    <string id="6Pjb3Rya" text="Polls are not enabled" />
-    <string id="6syoutpV" text="From {WHISPER_TARGET}" />
-    <string id="74PKmRWJ" text="Flip Hair" />
+    <string id="4OGDnOVE" text="với {OPPONENT_NAME}" />
+    <string id="5baU17n0" text="Ghép trận đang bị không kích hoạt" />
+    <string id="5k4dxUEJ" text="Lính" />
+    <string id="5Pea977J" text="Phe:" />
+    <string id="5Z0pvuNL" text="Cấp {LEVEL}" />
+    <string id="61isYVW0" text="Không tìm thấy người chơi {USER_NAME}" />
+    <string id="6GSXsdeX" text="Tốc độ" />
+    <string id="6MQaCah5" text="Vào game" />
+    <string id="6Pjb3Rya" text="Bỏ phiếu không được bật" />
+    <string id="6syoutpV" text="Từ {WHISPER_TARGET}" />
+    <string id="74PKmRWJ" text="Giật tóc" />
     <string id="7qySRF2T" text="Ping" />
-    <string id="8nJFaJio" text="Password" />
-    <string id="AaAcmalE" text="You've been invited to join a party by" />
-    <string id="aB4Md0if" text="Has players" />
-    <string id="ahiBhAqU" text="Armor" />
-    <string id="aO3avkK9" text="Matchmaking Disabled" />
+    <string id="8nJFaJio" text="Mật khẩu" />
+    <string id="AaAcmalE" text="Bạn được mời tham gia nhóm bởi" />
+    <string id="aB4Md0if" text="Có người chơi" />
+    <string id="ahiBhAqU" text="Giáp" />
+    <string id="aO3avkK9" text="Ghép trận tắt" />
     <string id="ApD0xQXT" text="{STR1}: {STR2}" />
-    <string id="aRzlp5XH" text="CREATE" />
-    <string id="aVixswW5" text="Team Selection" />
-    <string id="b31ITmm0" text="Stack Amnt." />
-    <string id="b9PT1Yxc" text="Select a game type" />
-    <string id="BAaS5Dkc" text="Apply" />
-    <string id="bIcFZT6L" text="Eyebrow Type" />
-    <string id="bON4Kn6B" text="Auto Assign" />
-    <string id="BrYUHFsg" text="CHOOSE GAME" />
+    <string id="aRzlp5XH" text="TẠO" />
+    <string id="aVixswW5" text="Chọn Đội" />
+    <string id="b31ITmm0" text="Số lượng đạn." />
+    <string id="b9PT1Yxc" text="Chọn kiểu game" />
+    <string id="BAaS5Dkc" text="Áp dụng" />
+    <string id="bIcFZT6L" text="Kiểu lông mày" />
+    <string id="bON4Kn6B" text="Tự ghép" />
+    <string id="BrYUHFsg" text="CHỌN GAME" />
     <string id="bsiRNJtk" text="{NAME}:" />
-    <string id="cDzWYQrz" text="Reset to default settings?" />
-    <string id="chfTxqZg" text="Invalid command." />
+    <string id="cDzWYQrz" text="Khôi phục về cài đặt mặc định?" />
+    <string id="chfTxqZg" text="Lệnh không khả thi. " />
     <string id="cK5DE88I" text="N/A" />
-    <string id="cLJdeUWz" text="Height:" />
-    <string id="D0TbQm4r" text="BREACHED" />
-    <string id="d5SNB0HV" text="Pick {ITEM_NAME}" />
-    <string id="DAVb2Pzg" text="Charge Dmg." />
-    <string id="Dbkx4v90" text="ROUND LOST" />
-    <string id="DdOgvhsV" text="Kick" />
-    <string id="DKqLY1aJ" text="Equip" />
-    <string id="DmaP2qaR" text="Skin Type" />
-    <string id="dMdmyb3Y" text="Password Protected" />
-    <string id="DoDZGYf6" text="Select a poll type" />
-    <string id="DQvGNQ0g" text="There isn't any unit under command." />
-    <string id="eCOJSSUH" text="({BOT_COUNT} Bots)" />
+    <string id="cLJdeUWz" text="Cao:" />
+    <string id="D0TbQm4r" text="VI PHẠM" />
+    <string id="d5SNB0HV" text="Nhặt {ITEM_NAME}" />
+    <string id="DAVb2Pzg" text="Xung đột sát thương." />
+    <string id="Dbkx4v90" text="VÒNG BẠI" />
+    <string id="DKqLY1aJ" text="Trang bị" />
+    <string id="DmaP2qaR" text="Kiểu Da" />
+    <string id="dMdmyb3Y" text="Mật khẩu được bảo vệ" />
+    <string id="DoDZGYf6" text="Chọn một loại bỏ phiếu" />
+    <string id="DQvGNQ0g" text="Không có bất kỳ đơn vị nào dưới quyền chỉ huy. " />
+    <string id="eCOJSSUH" text="({BOT_COUNT} Máy)" />
     <string id="eGuQKRhb" text="You are leaving the area!" />
-    <string id="Etjqamlh" text="{PLAYER_COUNT} Players" />
-    <string id="EUAKPHek" text="Build:" />
+    <string id="Etjqamlh" text="{PLAYER_COUNT} Người chơi" />
+    <string id="EUAKPHek" text="Khổ:" />
     <string id="F7dBjl83" text="Tính năng tạo Trận Đánh Tuỳ Chỉnh hiện không khả dụng" />
-    <string id="FD7EQDmW" text="Looking for game" />
-    <string id="ffjTMejn" text="Stats" />
+    <string id="FD7EQDmW" text="Tìm kiếm trận đấu" />
+    <string id="ffjTMejn" text="Thống kê" />
     <string id="fM9E7frB" text="Hiệu Năng" />
-    <string id="FRSGOfUJ" text="Toggle include Combat Log" />
-    <string id="ftoSCQ0x" text="Length" />
-    <string id="g1lgiwn1" text="Not Logged In" />
-    <string id="G6hYIR5k" text="Voice Pitch:" />
-    <string id="gcl2duJH" text="Reset your badge" />
-    <string id="GGseMDd3" text="Durability" />
-    <string id="GMhOZGnb" text="Cannot issue order while dead." />
-    <string id="GmU1to3Y" text="Statistics" />
-    <string id="gqNxq11A" text="Objectives" />
-    <string id="GXosklej" text="Casual" />
-    <string id="gzdNEM76" text="Create a Game" />
-    <string id="H1emUb6k" text="Age:" />
-    <string id="hazebV8x" text="Customize Character" />
-    <string id="hbwp3g3k" text="+{FRIEND_COUNT}\n{?PLURAL}friends{?}friend{\?}" />
-    <string id="Hp2wp3et" text="Accept (F1)" />
-    <string id="HXxNfncd" text="End of Battle" />
+    <string id="FRSGOfUJ" text="Bật tát nhật ký chiến đấu" />
+    <string id="ftoSCQ0x" text="Dài" />
+    <string id="g1lgiwn1" text="Chưa đăng nhập" />
+    <string id="G6hYIR5k" text="Độ cao giọng nói:" />
+    <string id="gcl2duJH" text="Thiết lập lại huy hiệu của bạn" />
+    <string id="GGseMDd3" text="Độ bền" />
+    <string id="GMhOZGnb" text="Không thể ra lệnh khi đã chết." />
+    <string id="GmU1to3Y" text="Thống kê" />
+    <string id="gqNxq11A" text="Mục tiêu" />
+    <string id="GXosklej" text="Nhàn nhã" />
+    <string id="gzdNEM76" text="Tạo Game" />
+    <string id="H1emUb6k" text="Tuổi:" />
+    <string id="hazebV8x" text="Tuỳ chỉnh nhân vật" />
+    <string id="hbwp3g3k" text="+{FRIEND_COUNT}{newline}bạn bè" />
+    <string id="Hp2wp3et" text="Đồng ý (F1)" />
+    <string id="HXxNfncd" text="Chiến đấu kết thúc" />
     <string id="i0OEsfLt" text="Trận Đánh Tuỳ Chỉnh Đã Bị Tắt" />
     <string id="IBEJPlEj" text="Home" />
-    <string id="Ie9I2Bha" text="Thrust Dmg." />
-    <string id="iKtIhlbo" text="Rounds" />
-    <string id="IlQnJsUp" text="Flags Captured:" />
-    <string id="iLUiaRsj" text="Your" />
-    <string id="iNqucBor" text="Logging In" />
-    <string id="J0vjDOFO" text="Thrust Spd." />
-    <string id="Jd44GGJW" text="{TEAM} team had the upper hand at timeout" />
-    <string id="JKCounzE" text="Video" />
-    <string id="JPimShCw" text="Game Type" />
-    <string id="jy9orOJz" text="Play" />
-    <string id="jZ6GblZu" text="Favorite" />
-    <string id="K1Gb5a5Q" text="You need to run the game with Anti-cheat" />
-    <string id="K9XhWUQi" text="Reject (F2)" />
-    <string id="kftE5nvv" text="Horse Armor" />
-    <string id="kG0xuyfE" text="Armory" />
-    <string id="koX9okuG" text="None" />
-    <string id="l2CNxPXG" text="Teeth Type" />
-    <string id="LlrlE199" text="You can still deploy siege engines.\nBegin anyway?" />
-    <string id="LrE2cUnG" text="Currently Disabled" />
-    <string id="lugGPVOb" text="Login" />
-    <string id="lWDq0Uss" text="JOIN" />
-    <string id="macpKFaG" text="Voice" />
-    <string id="mAxXKaXp" text="Reset" />
+    <string id="Ie9I2Bha" text="Sát thương đâm." />
+    <string id="iKtIhlbo" text="Vòng" />
+    <string id="IlQnJsUp" text="Cờ đã cướp:" />
+    <string id="iLUiaRsj" text="Bên ta" />
+    <string id="iNqucBor" text="Đang đăng nhập" />
+    <string id="J0vjDOFO" text="Tốc độ đâm" />
+    <string id="Jd44GGJW" text="Đội {TEAM} đã chiếm thế thượng phong vào lúc hết giờ " />
+    <string id="JPimShCw" text="Kiểu game" />
+    <string id="jy9orOJz" text="Bắt đầu" />
+    <string id="jZ6GblZu" text="Ưa thích" />
+    <string id="K1Gb5a5Q" text="Bạn cần chạy game với Anti-cheat" />
+    <string id="K9XhWUQi" text="Từ chối (F2)" />
+    <string id="kftE5nvv" text="Giáp ngựa" />
+    <string id="kG0xuyfE" text="Kho quân giới" />
+    <string id="koX9okuG" text="Không" />
+    <string id="l2CNxPXG" text="Kiểu răng" />
+    <string id="LlrlE199" text="Vẫn có thể bố trí các khí giới công thành, {newline}Vẫn bắt đầu?" />
+    <string id="LrE2cUnG" text="Hiện đang tắt" />
+    <string id="lugGPVOb" text="Đăng nhập" />
+    <string id="lWDq0Uss" text="VÀO" />
+    <string id="macpKFaG" text="Giọng nói" />
+    <string id="mAxXKaXp" text="Đặt lại" />
     <string id="meFS5F4V" text="-{DAMAGE}" />
-    <string id="Met1U45t" text="Mouse and Keyboard" />
-    <string id="MsAb6hed" text="{TEAM} team was wiped out" />
-    <string id="NaZ6xg33" text="Couldn't find an applicable server to join." />
-    <string id="nFvVw68B" text="Invite to Party" />
-    <string id="NJolh9ye" text="Recent Games" />
-    <string id="NLKmdNbt" text="Search" />
+    <string id="MsAb6hed" text="{TEAM} toàn quân bị diệt" />
+    <string id="NaZ6xg33" text="Không thể tìm thấy một máy chủ thích hợp để tham gia. " />
+    <string id="nFvVw68B" text="Mời tham gia nhóm" />
+    <string id="NJolh9ye" text="Game gần đây" />
+    <string id="NLKmdNbt" text="Tìm kiếm" />
     <string id="NqarFr4P" text="Tuỳ Chọn" />
     <string id="NUSH5bJu" text="{EXPERIENCE} kinh nghiệm để lên cấp" />
-    <string id="oBbiVeKE" text="Hit Points" />
-    <string id="oHaWR73d" text="Ok" />
-    <string id="oibdTnXP" text="Handling" />
-    <string id="OSoAVlqc" text="Equipped" />
-    <string id="OVcoYxj1" text="Server Name" />
-    <string id="OwqFpPwa" text="Filters" />
-    <string id="P7moPm3F" text="Set as party leader" />
-    <string id="pguhTmXw" text="Battle Results" />
-    <string id="pSheKLB4" text="Spectator" />
-    <string id="Q50X65NB" text="Classes" />
-    <string id="qaycA9YY" text="Total Commendations:" />
-    <string id="QDNcl3DH" text="Party Invitation" />
-    <string id="qe46yXVJ" text="LOCKED FOR BALANCE" />
-    <string id="qFPBhVh4" text="Refresh" />
-    <string id="QfTt7YRB" text="Fire Rate" />
-    <string id="qXxpITdc" text="Eye Color:" />
-    <string id="R28ac5ij" text="{NUMBER} Players" />
-    <string id="r5WzivPb" text="Round Time" />
-    <string id="Rc95Kq8r" text="Please wait..." />
-    <string id="RCuCoVgd" text="ROUND WON" />
-    <string id="RfXJdNye" text="Players" />
-    <string id="rg7OuWS2" text="Maneuver" />
-    <string id="RNgWFLIO" text="Swing Dmg." />
-    <string id="Rzor6tbG" text="Skins" />
-    <string id="S2bKbhTc" text="AUTO FIND GAME" />
-    <string id="s31DnnAf" text="Damage" />
-    <string id="saZ1OvPt" text="You can press the login button to establish connection" />
-    <string id="SKjI2a8V" text="Leave from party" />
-    <string id="SoQcsslF" text="CURRENT TEAM" />
-    <string id="sPmQz21k" text="Enemy" />
-    <string id="SxxxusWS" text="Select a player to kick" />
-    <string id="TAnabTdy" text="Accuracy" />
-    <string id="tFLLx4J4" text="Most Played Classes" />
-    <string id="tjioq56N" text="Friend List" />
-    <string id="TxphX8Uk" text="Deployment" />
-    <string id="TzYWE9tA" text=" No Recent Games Found" />
-    <string id="U4dzbzNb" text="Please wait while you are being connected to the server" />
-    <string id="uNBpT3vs" text="Total players searching: " />
-    <string id="uUoSmCBS" text="In Bannerlord" />
-    <string id="uvwLriAX" text="Use [{KEY_NAME}] to toggle the scoreboard" />
-    <string id="UYnLfaCY" text="Purchase" />
-    <string id="V305MaOP" text="Online" />
-    <string id="v6J8ILV3" text="No password" />
-    <string id="VOTau449" text="Locked" />
-    <string id="vZTWMqUp" text="Only party leaders can take action on other party members" />
-    <string id="w2yV4Wib" text="Poll Rejected" />
-    <string id="W4DLzPSb" text="Server not full" />
-    <string id="w9m11T1y" text="Map" />
-    <string id="wGjQgQlY" text="Next Game begins in:" />
-    <string id="WiNRdfsm" text="Done" />
-    <string id="wkIVxzV6" text="Restart" />
-    <string id="WOQZBmMx" text="Servers" />
-    <string id="wTtyFa89" text="PLAY" />
-    <string id="wuKqRvc3" text="Game: {GAME_TYPES}  |  Region: {REGIONS}" />
-    <string id="wwr4V1jm" text="Select a player to ban" />
-    <string id="xebFLnH2" text="Audio" />
-    <string id="XJTX8w8M" text="Warmup Phase - {GAME_MODE}\nWaiting for players to join" />
-    <string id="XLHkPwbb" text="Select a game map" />
-    <string id="xTv4tCbZ" text="Everybody!! Listen to me" />
-    <string id="Y94H6XnK" text="Accept" />
-    <string id="yA45PqFc" text="FIND GAME" />
-    <string id="YAaAlbkX" text="Avg. Playtime" />
-    <string id="yJsE4Ayo" text="Swing Spd." />
-    <string id="yjyJgRVt" text="{TEAM} team ran out of morale" />
-    <string id="YK3nXtoM" text="Friends" />
-    <string id="yS7PvrTD" text="OK" />
-    <string id="yUpH2mQ4" text="Ammo" />
-    <string id="zBld61ck" text="Weight:" />
-    <string id="zfN0N8xN" text="Total Time Played:" />
-    <string id="zMbYCQa5" text="Average Score:" />
-    <string id="Zv1lg272" text="Offline" />
-    <string id="zxBBzoTH" text="Duel {DUEL_NAME} is starting in {DUEL_REMAINING_TIME} seconds." />
+    <string id="oBbiVeKE" text="HP" />
+    <string id="oHaWR73d" text="Được" />
+    <string id="oibdTnXP" text="Điều khiển" />
+    <string id="OSoAVlqc" text="Đã trang bị" />
+    <string id="OVcoYxj1" text="Tên Máy chủ" />
+    <string id="OwqFpPwa" text="Bộ lọc" />
+    <string id="P7moPm3F" text="Đặt làm đội trưởng" />
+    <string id="pguhTmXw" text="Kết quả chiến đấu" />
+    <string id="pSheKLB4" text="Người xem" />
+    <string id="Q50X65NB" text="Binh chủng" />
+    <string id="qaycA9YY" text="Tổng thưởng:" />
+    <string id="QDNcl3DH" text="Yêu cầu vào đội" />
+    <string id="qe46yXVJ" text="KHOÁ ĐỂ CÂN BẰNG" />
+    <string id="qFPBhVh4" text="Làm mới" />
+    <string id="QfTt7YRB" text="Tốc bắn" />
+    <string id="qXxpITdc" text="Màu mắt:" />
+    <string id="R28ac5ij" text="{NUMBER} người chơi" />
+    <string id="r5WzivPb" text="Thời gian vòng đấu" />
+    <string id="Rc95Kq8r" text="Vui lòng chờ" />
+    <string id="RCuCoVgd" text="CHIẾN THẮNG" />
+    <string id="RfXJdNye" text="Người chơi" />
+    <string id="rg7OuWS2" text="Điều động" />
+    <string id="RNgWFLIO" text="Sát thương vung" />
+    <string id="Rzor6tbG" text="Da" />
+    <string id="S2bKbhTc" text="TỰ TÌM GAME" />
+    <string id="s31DnnAf" text="Sát thương" />
+    <string id="saZ1OvPt" text="Bạn có thể nhấn nút đăng nhập để thiết lập kết nối " />
+    <string id="SKjI2a8V" text="Rời khỏi nhóm" />
+    <string id="SoQcsslF" text="ĐỘI HIỆN TẠI" />
+    <string id="sPmQz21k" text="Kẻ địch" />
+    <string id="SxxxusWS" text="Chọn một người chơi để kích" />
+    <string id="TAnabTdy" text="Chính xác" />
+    <string id="tFLLx4J4" text="Các lớp binh chủng được chơi nhiều" />
+    <string id="tjioq56N" text="Danh sách bạn bè" />
+    <string id="TxphX8Uk" text="Bố trí" />
+    <string id="TzYWE9tA" text="Không có game nào chơi gần đây" />
+    <string id="U4dzbzNb" text="Vui lòng chờ khi kết nối tới máy chủ" />
+    <string id="uUoSmCBS" text="Đang trong game" />
+    <string id="UYnLfaCY" text="Mua" />
+    <string id="V305MaOP" text="Trực tuyến" />
+    <string id="v6J8ILV3" text="Không có mật khẩu" />
+    <string id="VOTau449" text="Khoá" />
+    <string id="vZTWMqUp" text="Chỉ có trưởng nhóm mới có quyền thao tác với các thành viên nhóm" />
+    <string id="w2yV4Wib" text="Từ chối bỏ phiếu" />
+    <string id="W4DLzPSb" text="Máy chủ chưa đầy" />
+    <string id="w9m11T1y" text="Bản đồ" />
+    <string id="wGjQgQlY" text="Game tiếp bắt đầu trong:" />
+    <string id="WiNRdfsm" text="Xong" />
+    <string id="wkIVxzV6" text="Khởi động lại" />
+    <string id="WOQZBmMx" text="Máy chủ" />
+    <string id="wTtyFa89" text="BẮT ĐẦU" />
+    <string id="wuKqRvc3" text="Game: {GAME_TYPES}  |  Khu Vực: {REGIONS}" />
+    <string id="wwr4V1jm" text="Chọn một người chơi để ban" />
+    <string id="xebFLnH2" text="Âm thanh" />
+    <string id="XJTX8w8M" text="Giai đoạn khởi động- {GAME_MODE}\nChờ đợi người chơi khác tham gia" />
+    <string id="XLHkPwbb" text="Chọn một bản đồ" />
+    <string id="xTv4tCbZ" text="Toàn quân!! Nghe lệnh" />
+    <string id="Y94H6XnK" text="Chấp nhận" />
+    <string id="yA45PqFc" text="TÌM GAME" />
+    <string id="YAaAlbkX" text="Thời gian chơi trung bình" />
+    <string id="yJsE4Ayo" text="Tốc độ vung" />
+    <string id="yjyJgRVt" text="{TEAM} sĩ khí sụp đổ" />
+    <string id="YK3nXtoM" text="Bạn bè" />
+    <string id="yS7PvrTD" text="Ô Kê" />
+    <string id="yUpH2mQ4" text="Đạn" />
+    <string id="zBld61ck" text="Nặng:" />
+    <string id="zfN0N8xN" text="Tổng thời gian đã chơi: " />
+    <string id="zMbYCQa5" text="Tổng Điểm:" />
+    <string id="Zv1lg272" text="Ngoại tuyến " />
+    <string id="zxBBzoTH" text="Quyết đấu với {DUEL_NAME} bắt đầu trong {DUEL_REMAINING_TIME} giây." />
+    <string id="08KLQa3P" text="Đợi các thành viên trong nhóm" />
+    <string id="0af2iQvw" text="Gia tộc không có thông báo nào" />
+    <string id="0B27RrYJ" text="Ba Đán Ni Á" />
+    <string id="18yFEEIL" text="Thời gian ước tính" />
+    <string id="1hnq3Kb1" text="Bạn có chắc chắn muốn đặt lại tất cả các thuộc tính không? Các thay đổi của bạn sẽ bị mất. " />
+    <string id="1pwQgr04" text="Yêu cầu ghép trận" />
+    <string id="2YIVRuRa" text="Xoá bạn" />
+    <string id="3sRdGQou" text="Rời khỏi" />
+    <string id="4gCU2ykB" text="Đặt lại tất cả các phím về mặc định" />
+    <string id="4PrfimcK" text="Huy Hiệu" />
+    <string id="4ZE6i9nW" text="Rời khỏi gia tộc" />
+    <string id="5coyTZOI" text="Bắt đầu game!" />
+    <string id="5Ixsvn3s" text="Bật tắt bảng điểm" />
+    <string id="64x6Ie21" text="Mời vào game" />
+    <string id="65oGXBYQ" text="Tạo" />
+    <string id="67hsZZor" text="Bạn có muốn rời khỏi gia tộc?" />
+    <string id="76HlhP7r" text="Bạn phải giao quyền lãnh đạo cho một người khác mới có thể rời đi" />
+    <string id="7KWjQwp3" text="ID Lãnh Chúa" />
+    <string id="7R0i82Nw" text="Thay đổi văn chương" />
+    <string id="89t1Bap8" text="Gia tộc này muốn tham gia vào trò chơi gia tộc bạn đã tạo." />
+    <string id="8OkPHu4f" text="Không" />
+    <string id="8pLf56db" text="Chờ đợi gia tộc đối thủ" />
+    <string id="942B3LfA" text="Từ chối lời mời kết bạn" />
+    <string id="9jdHEa0N" text="Lời mời kết bạn" />
+    <string id="a9TcHtVw" text="Phe B" />
+    <string id="aalbxe7z" text="Quy mô quân đoàn" />
+    <string id="aeouhelq" text="Đúng" />
+    <string id="Agtv9l7S" text="Tên đã tồn tại" />
+    <string id="aseraifaction" text="A Tắc Lai" />
+    <string id="aWzdkfvn" text="Bạn hiện tại không là thành viên hoặc không sở hữu một gia tộc nào. Bạn cần tạo nhóm gồm các thành viên chưa có gia tộc để tạo gia tộc của bạn." />
+    <string id="aZnS9ECC" text="Mời" />
+    <string id="AZSbwcG5" text="Tắt Âm toàn bộ" />
+    <string id="b2aqL7T2" text="Thất bại" />
+    <string id="BANC61K5" text="Nhân vật trước đó" />
+    <string id="bExIl1A2" text="Độ dài tên không hợp lệ" />
+    <string id="bfQLwMUp" text="Gia tộc" />
+    <string id="BrjpmaJH" text="Thất bại" />
+    <string id="BSUteZmt" text="Đồng ý lời mời kết bạn" />
+    <string id="BXI1ObU8" text="Đề thăng thành gia tộc chưởng sự" />
+    <string id="bynNUfSr" text="Nhóm của bạn không đủ thành viên để tạo gia tộc." />
+    <string id="c0ZdKSkn" text="Đang chờ" />
+    <string id="C7OHivNl" text="Bạn của bạn &amp;lt;a style=&amp;quot;Strong&amp;quot;&amp;gt;&amp;lt;b&amp;gt;{PLAYER_NAME}&amp;lt;/b&amp;gt;&amp;lt;/a&amp;gt; muốn mời người chơi bên dưới vào nhóm của bạn." />
+    <string id="clxT9H4T" text="Nhập tên của bạn" />
+    <string id="CW2JkWzC" text="Bạn có chắc chắn muốn xóa thông báo này không? " />
+    <string id="cw5QyeRU" text="Lý do báo cáo" />
+    <string id="d7ysGcsN" text="Xoá bạn" />
+    <string id="D9zIAw9y" text="Lời mời gia tộc" />
+    <string id="DXczLzml" text="Trạng thái" />
+    <string id="dxlkHhw5" text="Chiến thắng" />
+    <string id="ECb8IPbA" text="Tạo Gia Tộc" />
+    <string id="eeJcVeQG" text="Kết thúc " />
+    <string id="empirefaction" text="Đế Quốc" />
+    <string id="enhza8zr" text="Phe" />
+    <string id="eQPSEUml" text="Đã từ bỏ" />
+    <string id="FgaORzy5" text="Đã từ chối" />
+    <string id="FhnKJODX" text="Phe A" />
+    <string id="FjmxNxZJ" text="Thẻ có các ký tự không hợp lệ trong đó " />
+    <string id="FjwRsf1C" text="Ngoã Lan Địch Á" />
+    <string id="fLddxLjh" text="Mời vào gia tộc" />
+    <string id="g5W32uf4" text="Nhập thông báo của bạn" />
+    <string id="gamevideo" text="Video" />
+    <string id="gGa3ZhqN" text="Người chơi này sẽ tự động bị tắt tiếng" />
+    <string id="gowlLS2b" text="Hạ cấp khỏi gia tộc chưởng sự" />
+    <string id="graphics_option" text="Đồ Hoạ" />
+    <string id="GRpGNYHW" text="Đề thăng thành gia tộc tộc trưởng" />
+    <string id="hiKTvBgF" text="Bạn có chắc chắn muốn đặt lại các thay đổi đã thực hiện trong tab này không? Các thay đổi của bạn sẽ bị mất. " />
+    <string id="hometab" text="Home" />
+    <string id="hPbppi6E" text="Không ở Sảnh" />
+    <string id="iCaRFZpG" text="cùng với những người chơi này " />
+    <string id="iPx4jep6" text="Hiệu quả phơi sáng" />
+    <string id="IS4SifJG" text="Thắng" />
+    <string id="iwugyB6z" text="{USERNAME}#{USERID}" />
+    <string id="j35pgljM" text="Chọn phe" />
+    <string id="j4F7tTzy" text="Gia tộc" />
+    <string id="j5pLIV91" text="Focus Start" />
+    <string id="jQJbU9Wl" text="Tìm kiếm trận đấu" />
+    <string id="JTMegIk4" text="đã đồng ý" />
+    <string id="JY2pBVHQ" text="Thông báo" />
+    <string id="K2gwwMCB" text="Bạn phải là tộc trưởng gia tộc và tất cả các người chơi khác phải cùng gia tộc với bạn" />
+    <string id="k7fJ7TF0" text="Ít nhất phải là " />
+    <string id="kF3b8cH1" text="Tạo Gia Tộc" />
+    <string id="klkYFik9" text="Bạn đã báo cáo người chơi này" />
+    <string id="L3DJHTdY" text="Nhập ID Lãnh Chúa" />
+    <string id="L6eaNe2q" text="Bạn có chắc chắn muốn loại {MEMBER_NAME} khỏi nhóm không? " />
+    <string id="lBn2pSBL" text="Thành viên" />
+    <string id="lGbrWyEe" text="Huỷ bỏ yêu cầu kết bạn" />
+    <string id="LI0v8Zrr" text="ID Lãnh Chúa của bạn là" />
+    <string id="lO1hok44" text="Tên có ký tự không hợp lệ trong đó " />
+    <string id="mFMPj9zg" text="Tìm kiếm trận đấu" />
+    <string id="MjnlWhih" text="Độ dài thẻ không hợp lệ " />
+    <string id="MS4Ng2iw" text="Bạn có chắc chắn muốn đề thăng {MEMBER_NAME} thành gia tộc chưởng sự không?" />
+    <string id="nqYaiEo2" text="Huy hiệu của tôi" />
+    <string id="NwiYsUwm" text="Gia tộc không có mô tả" />
+    <string id="nWJGjCgy" text="ký tự" />
+    <string id="oeSrXaKt" text="Bạn cần hạ cấp một chưởng sự" />
+    <string id="oFWcihyW" text="Giải tán gia tộc" />
+    <string id="OiWquyWY" text="Bạn phải là trưởng nhóm để tạo một gia tộc" />
+    <string id="oMiNaY1E" text="Người đăng" />
+    <string id="OUvFT99g" text="Thẻ" />
+    <string id="overall_option" text="Chỉnh thể" />
+    <string id="oyVeCtlg" text="Bảnh danh sách" />
+    <string id="ozREO8ev" text="Thay đổi ID Lãnh Chúa" />
+    <string id="P1MybNr7" text="Xoá thông báo" />
+    <string id="P5Z9owOy" text="Văn Chương" />
+    <string id="partykick" text="Kích" />
+    <string id="PDdh1sBj" text="Tên" />
+    <string id="peUP9ZZj" text="Bạn có chắc không? Bạn đã thực hiện một số thay đổi và chúng sẽ bị mất. " />
+    <string id="photomodefocus" text="Lấy nét" />
+    <string id="PjO7oY16" text="Tư Đặc Cát Á" />
+    <string id="Po8jNaXb" text="Chỉ có thể chứa các chữ cái " />
+    <string id="pSb1P6ZA" text="Bạn có chắc chắn muốn giáng cấp {MEMBER_NAME} khỏi gia tộc chưởng sự không?" />
+    <string id="Pwi1YCjH" text="Sao chép ID Lãnh Chúa" />
+    <string id="q2Y7aHSF" text="Đề xuất mời" />
+    <string id="q37arODj" text="Thêm bạn bè bằng ID" />
+    <string id="q7VcSSbp" text="Chọn Văn Chương" />
+    <string id="qa9aOxLm" text="Bạn muốn gia nhập vào gia tộc này?" />
+    <string id="qmNeO8FG" text="Thiết lập phím" />
+    <string id="qTYsYJ9V" text="Gửi" />
+    <string id="QvDxB57o" text="{STR1} | {STR2}" />
+    <string id="rLozutts" text="Yêu cầu kết bạn" />
+    <string id="RN6zHak0" text="Người chơi" />
+    <string id="RPCjrF5X" text="Bạn phải chọn phe" />
+    <string id="RVIKFCno" text="Đặt về Mặc Định" />
+    <string id="rWm5udCd" text="Bạn phải nhập một ID hợp lệ" />
+    <string id="RzROgBkv" text="Mời vào nhóm" />
+    <string id="S8pZEPni" text="Kích khỏi Gia Tộc" />
+    <string id="socialtab" text="Xã Giao" />
+    <string id="SrfYbg3x" text="Tộc Trưởng" />
+    <string id="SyklU5aP" text="Thông Tin" />
+    <string id="sZLd6VHi" text="Khố Tái Đặc" />
+    <string id="SzRVIPeZ" text="Mở Âm toàn bộ" />
+    <string id="tC9C8TLi" text="Thêm bạn" />
+    <string id="tTwQsP6j" text="Người chơi không tồn tại" />
+    <string id="UfK6ztFl" text="Gia tộc Tranh Tài" />
+    <string id="ulzyykHO" text="Thẻ đã tồn tại" />
+    <string id="uOrwqeQl" text="Bạn phải chọn biểu tượng Văn Chương" />
+    <string id="uoVKchoC" text="Vùng" />
+    <string id="uTXYEAOg" text="[{STR}]" />
+    <string id="UwkpJq9N" text="Thêm bạn" />
+    <string id="V2lpn6dc" text="Yêu cầu đổi ID của bạn đã được gửi thành công." />
+    <string id="v4hVLpap" text="Mời người chơi vào Gia Tộc" />
+    <string id="VFqoa6vD" text="Bạn muốn mời người chơi này vào nhóm không?" />
+    <string id="vGF5S2hE" text="Bảng xếp hạng " />
+    <string id="vW1VgmaP" text="Bạn có muốn giải tán gia tộc?" />
+    <string id="wJ70SgtB" text="Đề xuất người chơi này tham gia nhóm " />
+    <string id="wNAl9o4A" text="Bạn đã nhận được lời mời từ:" />
+    <string id="wnMT7R0K" text="Yêu cầu đang chờ" />
+    <string id="xkV9g4le" text="Bạn có chấp nhận họ là đối thủ của mình không? " />
+    <string id="xXSFaGW8" text="Giải tán" />
+    <string id="YjbNtFcw" text="Thao tác này sẽ đặt lại TẤT CẢ các phím về trạng thái mặc định của chúng. Bạn sẽ không thể hoàn tác hành động này.{newline} {newline}Bạn chắc không?" />
+    <string id="yQtzabbe" text="Đóng" />
+    <string id="Z0TW2cub" text="Bạn chắc chắn muốn đề thăng {MEMBER_NAME} thành tộc trưởng? bạn sẽ mất đi địa vị tộc trưởng." />
+    <string id="ZAejS7WF" text="Chọn một người chơi để mời vào gia tộc" />
+    <string id="zEMWM4h3" text="Đã trong gia tộc" />
+    <string id="znKxunbQ" text="Nhân vật tiếp theo" />
+    <string id="zravuI1b" text="Nhập thông tin gia tộc" />
+    <string id="zSXXfnYY" text="Thay đổi phe" />
+    <string id="ZYF2t1VI" text="Chưởng sự" />
   </strings>
 </base>

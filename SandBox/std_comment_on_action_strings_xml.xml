@@ -5,7 +5,7 @@
   </tags>
   <strings>
     <string id="00fZGqbJ" text="Một ngày làm việc chăm chỉ đã qua {ENEMY_SETTLEMENT}. Chúng thật sự đáng giá." />
-    <string id="2AsFNABs" text="Mỗi khi chúng ta hạ gục một đội cường đạo. Ta lại nghĩ, nếu như vận mệnh phát sinh điểm sai lầm mà ta làm không tốt thì sớm muộn cũng sẽ trở thành đám cường đạo kia." />
+    <string id="2AsFNABs" text="Mỗi khi chúng ta hạ gục một đội cường đạo. Ta lại nghĩ nếu như chúng ta không may mắn mà làm không tốt, kết cục cũng sẽ giống mấy tên cường đạo kia." />
     <string id="2R19RV70" text="Ta nghe nói ngươi đã chiếm được {SETTLEMENT_NAME}." />
     <string id="2zjTq6N8" text="Ta nghe nói ngươi đã đánh bại {DEFEATED_LEADER_RELATIONSHIP} trong trận chiến. Ta sẽ không giả vờ rằng ta đã rất đau lòng khi nghe thấy điều đó." />
     <string id="3CKuk4Nj" text="Ta nghe nói rằng ngươi đã tuyên bố từ bỏ hiệu trung với {FIRST_NAME}. Mong rằng chúng ta sẽ không phải binh đao gặp mặt." />
@@ -97,7 +97,7 @@
     <string id="RGNIuSCM" text="Ta nghe nói ngươi đã đánh bại {DEFEATED_LEADER_RELATIONSHIP} trong trận chiến. Ta đánh giá cao một đối thủ có phẩm giá như ngươi." />
     <string id="rINfrA70" text="Ngươi đã phản bội lại {FIRST_NAME}. Bây giờ, hãy đón chờ kết cục của những kẻ phản bội đi." />
     <string id="rlLqbDCQ" text="Ngươi làm hao tổn một lượng lớn của cải khi ngươi tiến đánh thương đội của ta. Ta tự hỏi liệu ta có nên lấp đầy lại sự hao hụt ấy bằng cách bán những phần nội tạng của ngươi hay không." />
-    <string id="S28aK0oF" text="Ta thỉnh cầu ngươi, với sự danh dự của một đấng nam nhi, dừng lại việc tập kích thương đội của ta." />
+    <string id="S28aK0oF" text="Ta xin ngươi, với sự danh dự của một đấng nam nhi, dừng lại việc tập kích thương đội của ta." />
     <string id="SCvFN6Ap" text="Sự nổi loạn của ngươi để chống lại {FIRST_NAME} là một hành động phản quốc." />
     <string id="SM16wIcc" text="Cho nên ngươi đã giao thủ với lại tên lưu manh được gọi là {DEFEATED_PARTY_LEADER}, đồng thời cũng giành chiến thắng. Làm tốt lắm." />
     <string id="SoCaUHhH" text="Có một vài điều khiến ta không thể im lặng về... Ngươi đã phá vỡ lời thề của ngươi với {COMMENT_REFERENCE_HERO}. Điều này ta rất khó có thể chấp nhận được." />
@@ -125,5 +125,16 @@
     <string id="z76zznAS" text="Chúc mừng cho hôn lễ của ngươi và {FIRST_NAME}." />
     <string id="zFfRLbxK" text="Đừng nghĩ rằng ta đã quên trận chiến chả mấy to tát của chúng ta. Bây giờ ta đã biết thủ đoạn của ngươi. Nếu thậm chí chúng ta có xảy ra xung đột một lần nữa, có lẽ, mọi thứ sẽ diễn ra theo một chiều hướng khác đấy." />
     <string id="zTNNxMzz" text="Ta nghe nói ngươi đã tuyên thệ hiệu trung với quân chủ của chúng ta, {FIRST_NAME}. Nếu ta là hắn. ta ngay cả việc cho ngươi giặt quần áo hay rửa chén bát cũng không tin ngươi có thể làm tốt được." />
+    <string id="53MDeyby" text="Được thôi... Mấy tên cường đạo đó cũng không gây cho chúng ta quá nhiều rắc rối." />
+    <string id="9aS4em4L" text="Ta nghe nói dạo gần đây bắt được mấy tên cường đạo quanh đây. Ta phải nói là &amp;apos;làm rất tốt&amp;apos;, ta thấy là những tên thương nhân khác quanh đây cũng sẽ cảm thấy vậy. Chỉ có dọn sạch lũ sâu bọ đó trên dường, thương mại mới có thể hoạt động bình thường được." />
+    <string id="LZlTOKIH" text="Ta nghe nói dạo gần đây ngươi bắt mất tên cường đạo xung quanh đây. Là một thương nhân, ta mười phần cảm kích hành động đó của ngươi, cuối cùng thì con đường cũng trở nên an toàn hơn. Hy vọng những kẻ tuyệt vọng khác sẽ không dấn thân mạo hiểm mà lâm vào con đường đạo tặc đó." />
+    <string id="3Ksb1Hlu" text="Không tệ... Chiếm lại {ENEMY_SETTLEMENT}... Việc này cũng không quá đáng sợ như ta từng nghĩ." />
+    <string id="cVgKHCqa" text="Ta còn nhớ lần trước cùng minh hữu giao chiến với ngươi, trận đó đánh rất hay." />
+    <string id="FaQ02Yet" text="Ta vĩnh viễn không quên được trận chiến ở {ENEMY_SETTLEMENT}... Một trận ác chiến, nhưng cũng cực kỳ vẻ vang." />
+    <string id="Iz9jimvM" text="Ta vĩnh viễn không quên được việc {ENEMY_SETTLEMENT} thất thủ.. Tất cả các cuộc vây thành đều đáng sợ, dù cho thắng lợi cũng vậy." />
+    <string id="QD7wWIdW" text="Ngươi có còn nhớ ta đã mang những anh em của ngươi giết đến máu tưới đỏ đất không? Ta vẫn nhớ rất rõ ràng đó." />
+    <string id="rUda85FW" text="Ngươi đã cướp {SETTLEMENT_NAME} khỏi tay chúng ta, chúng ta sẽ vĩnh viễn không quên." />
+    <string id="tUc0CIs4" text="Ta vĩnh viễn sẽ không quên việc chúng ta đã xông phá trận địa ở {ENEMY_SETTLEMENT}, đem quân thủ thành trảm tận giết tuyệt như nào." />
+    <string id="WobMdST8" text="Ta còn nhớ lần trước đụng mặt, người của ngươi đánh rất khá." />
   </strings>
 </base>

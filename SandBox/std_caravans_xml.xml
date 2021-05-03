@@ -4,13 +4,13 @@
     <tag language="Tiếng Việt" />
   </tags>
   <strings>
-    <string id="7bjyJDaK" text="Player Faction Mercenaries Leader" />
-    <string id="EsJ3Drv7" text="Sturgia Mercenaries Leader" />
-    <string id="GIRpmax8" text="Aserai Mercenaries Leader" />
-    <string id="jHVTqyI4" text="Empire Mercenaries Leader" />
-    <string id="ugbfHGZ3" text="World Mercenaries Leader" />
-    <string id="VPis3atP" text="Khuzait Mercenaries Leader" />
-    <string id="XhbgteUK" text="Vlandia Mercenaries Leader" />
-    <string id="y6E1CTsv" text="Battania Mercenaries Leader" />
+    <string id="7bjyJDaK" text="Thủ Lĩnh Lính Đánh Thuê Phe Người Chơi" />
+    <string id="EsJ3Drv7" text="Thủ Lĩnh Lính Đánh Thuê Tư Đặc Cát Á" />
+    <string id="GIRpmax8" text="Thủ Lĩnh Lính Đánh Thuê A Tắc Laii" />
+    <string id="jHVTqyI4" text="Thủ Lĩnh Lính Đánh Thuê Đế Quốc" />
+    <string id="ugbfHGZ3" text="Thủ Lĩnh Lính Đánh Thuê Thế Giới" />
+    <string id="VPis3atP" text="Thủ Lĩnh Lính Đánh Thuê Khố Tái Đặc" />
+    <string id="XhbgteUK" text="Thủ Lĩnh Lính Đánh Thuê Ngoã Lan Địch Á" />
+    <string id="y6E1CTsv" text="Thủ Lĩnh Lính Đánh Thuê Ba Đán Ni Á" />
   </strings>
 </base>

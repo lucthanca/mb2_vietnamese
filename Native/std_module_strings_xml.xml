@@ -1,5 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <ver>1.5.9</ver>
   <tags>
     <tag language="Tiếng Việt" />
   </tags>
@@ -39,12 +40,9 @@
     <string id="1klXxZFS" text="Ta là phu nhân của {TOWNS}." />
     <string id="1Llb4gGw" text="Hoàn Thành" />
     <string id="1MStGeRa" text="Số đối thủ đã đánh bại: {BEATEN_OPPONENT_COUNT}" />
-    <string id="1NbY2O5q" text="Khoá" />
     <string id="1o1TyPib" text="Vượt Giới Hạn Số Đồng Bạn" />
-    <string id="1oeak0OC" text="Rèn" />
     <string id="1PwQxaOu" text="Công tác chuẩn bị giải đấu đang được tiến hành. Phần thưởng là {ITEM}." />
     <string id="1pxLpZ4r" text="Sách lược:" />
-    <string id="1sJcKkVP" text="Thủ Vệ" />
     <string id="1wHTYnxh" text="Ngươi đã ủng hộ mưu đồ chống đối lại Đế Quốc!" />
     <string id="1wkANMRC" text="Kế hoạch của chúng ta là tìm cách giữ vững thông đạo nhỏ hẹp này." />
     <string id="1XVvU23F" text="Không thể dùng văn bản trong clipboard như một key thuộc tính được!" />
@@ -99,10 +97,9 @@
     <string id="3tJq5QyQ" text="{HEALTHY_NUM}+{WOUNDED_NUM} thương binh" />
     <string id="3TXGG01D" text="Ngươi rất tinh mắt nha, thưa {?PLAYER.GENDER}phu nhân{?}tiên sinh{\?}. Bọn tiểu tử của ta biết cầm tiền và ngậm miệng như nào.[rb:very_positive]" />
     <string id="3uR8wLko" text="quân chủ của chúng ta {REFERING_HERO.LINK}" />
-    <string id="3V0bvyLC" text="{STR1}{STR2}" />
     <string id="3vT6TQmF" text="{PLAYER.LINK}, ngươi đang ở trong {SIDE_STRING} {CLASS_NAME}." />
     <string id="3wS4uOvU" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} và {?}{\?}{TROOP_NAMES_END} {?IS_PLURAL}đang{?}đang{\?} du kích từ phía sau." />
-    <string id="3xeuA9VP" text="+{TROOP_AMOUNT} chi bộ đội{?ISPLURAL}{?} {\?} vào điểm định cư" />
+    <string id="3xeuA9VP" text="+{TROOP_AMOUNT} chi bộ đội{?ISPLURAL}{?} {\?} vào thành" />
     <string id="3xIv2cP9" text="Thủ vững bãi đất cao" />
     <string id="3XsOeE2v" text="Ngươi sẽ {?PAY_OR_GET}nhận{?}phải trả{\?} {TRADE_AMOUNT}{GOLD_ICON}" />
     <string id="3ZRTekjS" text="Găng Tay" />
@@ -128,7 +125,6 @@
     <string id="4ol7MhA5" text="Ngươi đã bị kẻ địch vây khốn. Nhưng các binh sĩ của ngươi cũng không cách nào tác chiến." />
     <string id="4rRsmX8i" text="Tốt. Đôi khi thì không nên tát ao bắt cá (vơ vét bằng hết, chỉ thấy cái lợi trước mắt, không chú ý đến lợi ích lâu dài)." />
     <string id="4Skg9QhO" text="Máy Ném Đá dùng sức nặng" />
-    <string id="4smaJqhw" text="Chiếm Đoạt" />
     <string id="4WD0kJSR" text="A... Ngươi tốt nhất đừng giở mánh khoé với chúng ta." />
     <string id="4wYguFLZ" text="Giải quyết vấn đề" />
     <string id="4Y5T7wp1" text="Không thể đá thành viên trong gia đình ra khỏi Gia Tộc." />
@@ -174,7 +170,6 @@
     <string id="6SFktFH3" text="Giáp Trung Bình" />
     <string id="6Xl9F8Oa" text="Thành Trấn Thương Điếm" />
     <string id="6XYG7bux" text="Ngươi sắp tiêu tốn {AMOUNT}{INFLUENCE_ICON}" />
-    <string id="6z2a8bgF" text="&lt;b&gt;Nỗ Pháo&lt;/b&gt;{NEWLINE}THỨ TỰ NỖ PHÁO CẦN LÀM." />
     <string id="72Rasm5f" text="Chúng ta chẳng có gì cả - không tiền bạc, không hàng hoá." />
     <string id="77aNVVE0" text="Ban thưởng Danh Vọng" />
     <string id="77SdNt8C" text="Đối thủ đã tạo rào cản chống lại ngươi, số lượng quân cờ của ngươi còn lại quá ít. Ngươi thua!" />
@@ -196,13 +191,12 @@
     <string id="7llkDelg" text="Quyết Định của Vương Quốc" />
     <string id="7mRN2br0" text="Quyền chỉ huy của đội hình mới đã được trao cho {HERO_NAME}." />
     <string id="7MWaMaez" text="Đồ đạc của chúng ta đây: {ITEM_LIST}. Lấy đi, nhưng phải tha chúng ta một mạng." />
-    <string id="7nNi6vnV" text="Anh hùng thật tốtTODO_TODO_TODO_TODO_TODO_TODO_TODO_TODO_TODO_TODO_TODO_TODO_TODO_TODO_TODO_TODO_TODO_TODO_TODO_TODO" />
     <string id="7oJ9gIeT" text="Thương nhân không có đủ tiền." />
     <string id="7sUhWG0E" text="Sát thương Đâm: " />
     <string id="7sZMMYbe" text="Phe Cánh Nhỏ" />
     <string id="7t1daAel" text="Đây là quyết định sai lầm, bạn à.[if:idle_furious][ib:aggressive][rb:very_negative]" />
     <string id="7vdgxtwo" text="IV" />
-    <string id="7vrdpDFK" text="&lt;b&gt;Máy Ném Đá&lt;/b&gt;{NEWLINE}Ném đá với một khoảng cách nhất định thông qua sử dụng xây thừng xoắn. {NEWLINE}Có hiệu quả với tường thành, khí giới công thành của kẻ địch và những người điều khiển chúng." />
+    <string id="7vrdpDFK" text="&amp;lt;b&amp;gt;Máy Ném Đá&amp;lt;/b&amp;gt;{NEWLINE}Ném đá với một khoảng cách nhất định thông qua sử dụng xây thừng xoắn. {NEWLINE}Có hiệu quả với tường thành, khí giới công thành của kẻ địch và những người điều khiển chúng." />
     <string id="7WFFCVMa" text="Đặc thù" />
     <string id="7xFRFV0P" text="Hình thành một vòng phòng ngự." />
     <string id="7Xynf4IA" text="Giáp Tay" />
@@ -210,7 +204,7 @@
     <string id="80hwCw7B" text="-{BONUS_AMOUNT}% nhân số dân binh bị giảm đi khi xảy ra phản loạn" />
     <string id="83Yt9rbK" text="Công Phá" />
     <string id="87qtKk4K" text="Xem vòng đấu" />
-    <string id="893hzVCQ" text="&lt;b&gt;Máy Ném Đá Lửa&lt;/b&gt;{NEWLINE}Ném những bình chứa đầy lửa của Hy Lạp. Uy lực trí mạng của máy ném đá kết hợp cùng hoả diễm." />
+    <string id="893hzVCQ" text="&amp;lt;b&amp;gt;Máy Ném Đá Lửa&amp;lt;/b&amp;gt;{NEWLINE}Ném những bình chứa đầy lửa của Hy Lạp. Uy lực trí mạng của máy ném đá kết hợp cùng hoả diễm." />
     <string id="8apwrVjc" text="Đội Ngũ Bổ Sung Của Gia Tộc" />
     <string id="8B7V0qdT" text="Ngươi chiến bại rồi!" />
     <string id="8bSHlWBL" text="Thành trấn hiện tại không có giải đấu nào." />
@@ -228,7 +222,6 @@
     <string id="8ucLajpU" text="Rìu Một Tay" />
     <string id="8UFjXbbW" text="Tập kích cánh sườn{?IS_GENERAL_SIDE}{?} từ phía bên {SIDE_STRING} {\?}" />
     <string id="8w0aaDbn" text="Sắt" />
-    <string id="8XM8CHIm" text="anh-em-rể" />
     <string id="8ZZgNNaY" text="{USE_KEY}" />
     <string id="923438xA" text="Rất tốt, {PLAYER.LINK}, rất tốt. Ngươi đã đánh bại không ít hơn {OPPONENT_COUNT} đối thủ. Dũng khí của ngươi, khiến cho dân chúng rất ưa thích. Đương nhiên rồi, ngươi thắng được {PRIZE}{GOLD_ICON} tiền thưởng." />
     <string id="929Lxhde" text="Ngươi sẽ mất {INFLUENCE_COST} điểm ảnh hưởng nếu như ngươi huỷ bỏ quân đoàn." />
@@ -272,7 +265,6 @@
     <string id="abV5bff6" text="Ngươi bắt tù binh một con cờ." />
     <string id="aCkzVUCR" text="Điểm Sinh Mệnh: " />
     <string id="aCP5ZBbp" text="Quan Hệ:" />
-    <string id="ad5oQNIB" text="+{BONUS_AMOUNT} độ phồn vinh" />
     <string id="aDA9PWFT" text="Tiến lên" />
     <string id="ADJBbfbQ" text="Lông" />
     <string id="ADJQa8am" text="Lính đánh thuê không thể giúp đỡ các gia tộc khác." />
@@ -282,9 +274,8 @@
     <string id="af4G3RYV" text=" (trận chiến)" />
     <string id="agIbuP9a" text="Này! Vết thương trên người ngươi thật là không nhẹ. Nhưng cũng đừng lo lắng; mỗi người đều biết đôi khi đều bị đánh ra sức một trận. Quan trọng là sau khi tỉnh lại, phủi bụi trên người rồi lại đánh tiếp. Đây mới là việc một nhà vô địch nên làm." />
     <string id="agkgu85j" text="Ngươi đã tới {SETTLEMENT}, có thể bắt đầu vây công." />
-    <string id="aGNfjmsz" text="&lt;b&gt;Thang&lt;/b&gt;" />
+    <string id="aGNfjmsz" text="&amp;lt;b&amp;gt;Thang&amp;lt;/b&amp;gt;" />
     <string id="aGSMGMfn" text="Thiện Ác:" />
-    <string id="agVxUuWK" text="Chị-em-dâu cũ" />
     <string id="agYpWI9u" text="Tỷ Lệ Thành Công" />
     <string id="aH4KnzBu" text="Cẩn Thận" />
     <string id="ahiBhAqU" text="Giáp" />
@@ -297,7 +288,6 @@
     <string id="aiX4b5kS" text="Nhiệm Vụ Đã Hoàn Thành" />
     <string id="AIYWSAyK" text="Kiếm lợi từ buôn bán. Tổ chức các thương đội." />
     <string id="aJoNj6JX" text="Sử dụng vũ khí ngắn hai tay tác chiến" />
-    <string id="aJQQnshf" text="Thuế Dân Số:" />
     <string id="aJXhsjmT" text="Hế lu, người qua đường. Hoặc là ngươi ngoan ngoãn giao đồ vật ra, hoặc là chúng ta đem xương sọ ngươi ném vào cát nuôi sói!" />
     <string id="ajZTZoXQ" text="Song Thủ Chuỳ" />
     <string id="AkgIYqHT" text="tô đan na" />
@@ -320,7 +310,6 @@
     <string id="aTLrmbVL" text="Cấp IV" />
     <string id="aUNYlvbN" text="Ngươi đã tới {SETTLEMENT}, có thể bắt đầu tập kích. Một vài dân cư nơi đó đã tập trung lại và chống cự lại ngươi." />
     <string id="AUOio5Tu" text="Giá Trị Mặc Định Mỗi Ngày" />
-    <string id="auUJW0WU" text="chị-em-dâu" />
     <string id="AVoWvlue" text="{RANK} ({NUMBER})" />
     <string id="AVQUGwTg" text="Kinh tế của thành trấn này ở mức trung bình." />
     <string id="awQrcrt2" text="Đồ Gốm" />
@@ -337,7 +326,6 @@
     <string id="b5t34yLX" text="Yên Ngựa" />
     <string id="b6biU4f1" text="Tạo Đội Ngũ Mới" />
     <string id="B6g1ukB7" text="Cấp I" />
-    <string id="b6zBcSp2" text="Thành trấn này đang tưng bừng phát triển. Vách tường, đường đi cùng nhà cửa đều được duy trì rất tốt." />
     <string id="b778BvfW" text="Vật phẩm này đặt hơn {PERCENTAGE}% so với giá bình quân" />
     <string id="b7aDfCR9" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} và {?}{\?}{TROOP_NAMES_END} {?IS_PLURAL}đang{?}đang{\?} phòng ngự." />
     <string id="b7bWCXbk" text="Chạy ngay đi. Chú cừu nhỏ. Cẩn thận đàn sói bên ngoài đó nha." />
@@ -356,11 +344,10 @@
     <string id="bdQBpUba" text="Ngươi thật tốt. Không cho chúng ta tay không mà về." />
     <string id="BE1scex6" text="Lợi Nhuận Công Xưởng Mỗi Ngày" />
     <string id="bF7HmNGQ" text="Khố Tái Đặc Hãn Quốc" />
-    <string id="bfIEbq8b" text="Ngươi có thể tạo một chi quân đoàn bằng việc chọn các thành viên từ danh sách bên trái. Sau khi hoàn tất, chọn &quot;Xong&quot;." />
+    <string id="bfIEbq8b" text="Ngươi có thể tạo một chi quân đoàn bằng việc chọn các thành viên từ danh sách bên trái. Sau khi hoàn tất, chọn &amp;quot;Xong&amp;quot;." />
     <string id="bFpLKvcS" text="Khả Hãn" />
     <string id="bfQLwMUp" text="Gia Tộc" />
     <string id="BfQrnvpC" text="Tạo Quân Đoàn" />
-    <string id="bfsJfrtk" text="{LEFT}{RIGHT}" />
     <string id="BftxIurV" text="Ngươi cần giải quyết cái quyết định {DECISION_NAME}." />
     <string id="bg6x6Hbv" text="Đầu Khôi" />
     <string id="Bg83jhCR" text="Cái tiểu trấn này rõ ràng là đang trải qua thời kỳ khó khăn." />
@@ -373,7 +360,6 @@
     <string id="bj0Ko5uX" text="Tạp Lạp Đức Đế Quốc đang bước vào suy tàn. Thậm chí trước khi hoàng đế A Lôi Ni Khoa Tư bị ám sát, vương quốc đã từng thống nhất này đã bị chiến tranh chính trị xâu xé. Bây giờ, các phe cánh đang tuyên chiến công khai. Nhưng mà, người Tạp Lạp Đức kiên cường vô cùng. Kỹ thuật của bọn họ so với các nước lân cận tân tiến hơn, tinh thông về các công trình họ không chỉ thể hiện ở kênh mương cao, kiến trúc xinh đẹp và tường thành to lớn. Bọn còn là những chuyên gia trong việc vây công thành trì." />
     <string id="bJ5SzaXp" text="Bị thương" />
     <string id="bjxBjKH2" text="phu nhân của tôi" />
-    <string id="bjzVPXtf" text="Đề Nghị" />
     <string id="BkB9aOhw" text="Không thể truy cập vào cửa sổ chỉnh sửa cờ hiệu lúc này!" />
     <string id="bkysJj7F" text="Công Thành Khí" />
     <string id="BlidMNGT" text="Quan hệ" />
@@ -424,7 +410,6 @@
     <string id="C6n2tZlQ" text="đồng minh của ta {REFERING_HERO.LINK}" />
     <string id="c7bVbjD7" text="Như điều ngươi muốn. Từ giờ ta sẽ chiến đấu vì ngươi." />
     <string id="C9EDof32" text="Không có quân đoàn được chọn" />
-    <string id="C9pxqWY8" text="Đơn vị của bạn dự kỳ là: {BEHAVIOUR_NAME_BEGIN}{?IS_PLURAL} và {?}{\?}{BEHAVIOUR_NAME_END}{?IS_GENERAL_SIDE} từ {SIDE_STRING}{?}{\?}" />
     <string id="caadBNhn" text="Tháp Công Thành (Cấp 3)" />
     <string id="caFEBWSY" text="Đối thủ đã đánh bại ngươi. Ngươi thua." />
     <string id="cAgI2lPn" text="Tổng Đốc của {SETTLEMENT_NAME}" />
@@ -458,7 +443,6 @@
     <string id="CthDdsb6" text="Người Thắng" />
     <string id="cThSwxbP" text="Không thể hành quyết một nhân vật không phải một tướng" />
     <string id="CXUXk5ai" text="đế quốc" />
-    <string id="CXZAakQ3" text="&lt;b&gt;Hoả Diễm Thạch Nỗ&lt;/b&gt;{NEWLINE}TODO FIRE CATAPULT DESC." />
     <string id="cyPGadJ6" text="Tự Động Bố Trí" />
     <string id="CyTa1Z5d" text="{TEXT} [{HOTKEY}]" />
     <string id="CZqZGAVB" text="Đề Nghị Bị Từ Chối!" />
@@ -471,7 +455,6 @@
     <string id="D9WJXQ9Z" text="Từ chối" />
     <string id="DaE0N37L" text="Nhân Sĩ" />
     <string id="dbdliaP3" text="thê tử của ta {REFERING_HERO.LINK}" />
-    <string id="DbHLHwkX" text="Dung Luyện" />
     <string id="DBU4VaIl" text="Phe Cường Đạo" />
     <string id="dc24lBcV" text="Vũ Khí Cận Chiến IV" />
     <string id="DdXZHifm" text="Tăng {ATTRIBUTE_NAME} có thể giúp ngươi dễ dàng học các kỹ năng tương ứng, cũng tăng giới hạn khả năng học kỹ năng đó." />
@@ -496,7 +479,7 @@
     <string id="DqJG7bvh" text="Vượt quá sức chứa" />
     <string id="dQRdP9eQ" text="Gặp gỡ" />
     <string id="DRaJ7hoz" text="Người thắng là" />
-    <string id="Dtcv8XNu" text="&lt;b&gt;Tháp Công Thành&lt;/b&gt;{NEWLINE}Được dùng để lên thành. Tốt hơn so với dùng thang" />
+    <string id="Dtcv8XNu" text="&amp;lt;b&amp;gt;Tháp Công Thành&amp;lt;/b&amp;gt;{NEWLINE}Được dùng để lên thành. Tốt hơn so với dùng thang" />
     <string id="DtKKtcws" text="Chú ý tốc độ của bộ đội ngươi đã giảm xuống, bởi vì ngươi mang theo quá nhiều đồ. {newline}Để tăng tốc, ngươi nên bỏ bớt trọng lượng mang theo. {newline}Có thể tăng tải trọng của bộ đội bằng cách chiêu mộ thêm đội ngũ hoặc mua ngựa, lạc đà." />
     <string id="DTRwTvT4" text="Kỵ Xạ chiến đấu" />
     <string id="DTt1aeSj" text="{?IS_POSITIVE}+{?}-{\?}{ITEM_AMOUNT} {ITEM_TYPE}" />
@@ -512,7 +495,7 @@
     <string id="dyLYsWPf" text="Đảm bảo sự hiện diện của Thiên Phú được gia tăng" />
     <string id="dyY3hkH1" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} và {?}{\?}{TROOP_NAMES_END} {?IS_PLURAL}đang{?}đang{\?} phát động công kích vào {?IS_PLURAL}các đội hình khác nhau{?}một đội hình{\?} của quân địch." />
     <string id="Dzntsudy" text="Ngươi gây ra {AMOUNT} {DAMAGE_TYPE} sát thương cho {VICTIM_NAME} ({LOST_HP_PERCENTAGE}% HP)." />
-    <string id="E05lmb5n" text="Quan hệ của ngươi và {HERO_NAME} sẽ &lt;a style=&quot;DecreaseStyle&quot; &gt;&lt;b&gt;giảm&lt;/b&gt;&lt;/a&gt;" />
+    <string id="E05lmb5n" text="Quan hệ của ngươi và {HERO_NAME} sẽ &amp;lt;a style=&amp;quot;DecreaseStyle&amp;quot; &amp;gt;&amp;lt;b&amp;gt;giảm&amp;lt;/b&amp;gt;&amp;lt;/a&amp;gt;" />
     <string id="E1OwmQFb" text="Trở lại" />
     <string id="e1tZ4kEY" text="Tất cả vật phẩm" />
     <string id="e4OPfBqt" text="Bỏ phiếu trắng" />
@@ -530,7 +513,7 @@
     <string id="eEmbb1MR" text="Sản xuất" />
     <string id="EHkzaZBi" text="Giải thi đấu của {SETTLEMENT_NAME}" />
     <string id="eIws123Z" text="Giáp chân" />
-    <string id="ejhFyhyx" text="&lt;b&gt;Tháp Công Thành&lt;/b&gt;&lt;br&gt;{NEWLINE}Mang người tiến công đến độ cao bằng với tường thành, tăng tỷ lệ thắng với bên thủ." />
+    <string id="ejhFyhyx" text="&amp;lt;b&amp;gt;Tháp Công Thành&amp;lt;/b&amp;gt;&amp;lt;br&amp;gt;{NEWLINE}Mang người tiến công đến độ cao bằng với tường thành, tăng tỷ lệ thắng với bên thủ." />
     <string id="eKwhGmbI" text="Sau khi đội ngũ nhận được {XP_AMOUNT} kinh nghiệM, sẽ có một thành viên trong đội ngũ có thể được nâng cấp." />
     <string id="elhSbQfW" text="đồng tộc của ta {REFERING_HERO.LINK}" />
     <string id="ELsDFwAD" text="Rượu bồ đào" />
@@ -577,8 +560,8 @@
     <string id="Fa2nKXxI" text="Tổng Đốc" />
     <string id="faYiCHXK" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} và {?}{\?}{TROOP_NAMES_END} {?IS_PLURAL}đang{?}đang{\?} tiến vào tầm bắn." />
     <string id="FbcC2loc" text="Ngươi bị đánh bất tỉnh nhân sự, đối thủ của ngươi đã dành chiến thắng!" />
-    <string id="fd35ahzV" text="&lt;b&gt;Hoả Nỗ Bào&lt;/b&gt;{NEWLINE}Bắn một mũi tên nỏ có mũi nhọn được tẩm thấu dầu hắc.{NEWLINE}Có thể gây sát thương hoả lực cho khí giới công thành và các kiến trúc bằng gỗ của đối phương, {NEWLINE}gây sát thương trí mạng với binh sĩ." />
-    <string id="FD9abtTo" text="Nếu ngươi đánh cuộc 100&lt;img src=&quot;Icons\Coin@2x&quot;&gt; và chiến thắng, ngươi sẽ nhận được {NORMALIZED_EXPECTED_GOLD}&lt;img src=&quot;Icons\Coin@2x&quot;&gt;" />
+    <string id="fd35ahzV" text="&amp;lt;b&amp;gt;Hoả Nỗ Bào&amp;lt;/b&amp;gt;{NEWLINE}Bắn một mũi tên nỏ có mũi nhọn được tẩm thấu dầu hắc.{NEWLINE}Có thể gây sát thương hoả lực cho khí giới công thành và các kiến trúc bằng gỗ của đối phương, {NEWLINE}gây sát thương trí mạng với binh sĩ." />
+    <string id="FD9abtTo" text="Nếu ngươi đánh cuộc 100&amp;lt;img src=&amp;quot;Icons\Coin@2x&amp;quot;&amp;gt; và chiến thắng, ngươi sẽ nhận được {NORMALIZED_EXPECTED_GOLD}&amp;lt;img src=&amp;quot;Icons\Coin@2x&amp;quot;&amp;gt;" />
     <string id="fEqd7jXj" text="{EFFECT_NAME}: +{NUM}" />
     <string id="fEu5S6Bd" text="Khoảng cách" />
     <string id="fEXuXAl1" text="Sĩ Khí Quân Đoàn : {ARMY_MORALE}{newline}{ARMY_MORALE_ITEMS}" />
@@ -603,14 +586,12 @@
     <string id="FRuzuVyO" text="Không có Gia Tộc nào được chọn" />
     <string id="FRZfpryn" text="Đưa ra đề nghị đem điểm định cư này giao cho người khác" />
     <string id="FS78CuPs" text="Các kỹ năng liên quan tới thuộc tính {ATTRIBUTE_NAME} là:" />
-    <string id="FUNm7dHv" text="Quý tộc của {FACTION}" />
     <string id="FVEvjlis" text="Vượt quá giới hạn quy mô bộ đội" />
-    <string id="FvlyWloX" text="Thôn trang này đang bừng bừng phát triển. Các bao tải lương thực đầy căng cùng với xe ngựa chứng minh được sự phì nhiêu của đồng ruộng." />
     <string id="FvYhaE3z" text="Cờ Hiệu" />
     <string id="fwbD1Jqo" text="Mua" />
     <string id="FwlZRESM" text="+{BONUS_AMOUNT} dân binh tăng thêm" />
     <string id="fWwYUOVs" text="Chúng ta sẽ tiếp nhận thù lao của ngươi" />
-    <string id="FxoVjLvl" text="Khiên&amp;Tầm xa" />
+    <string id="FxoVjLvl" text="Khiên&amp;amp;Tầm xa" />
     <string id="FxPzcyLN" text="{SUPPORTERNAME} đang ủng hộ {CANDIDATENAME}" />
     <string id="FZBqNCvd" text="không ai" />
     <string id="G0AWk1rX" text="Thang" />
@@ -624,7 +605,7 @@
     <string id="gAX49b7b" text="Ngươi lập lên rào chắn lại đối thủ. Nhưng các quân cờ còn lại của hai bên tương đồng nhau. Hoà!" />
     <string id="GAzaM1RC" text="Có thể giết mổ để lấy thịt và da" />
     <string id="GbbGlcMZ" text="Quân cờ có thể di chuyển dọc hoặc ngang, nhưng không thể nhảy vượt qua khỏi quân cờ khác. {newline}Quân cờ không thể di chuyển trên hoặc qua ô trung tâm. Một khi vua rời khỏi ô này, nó cũng không thể vượt qua ô đó nữa." />
-    <string id="GbWWelfl" text="Ngựa&amp;Yên Ngựa" />
+    <string id="GbWWelfl" text="Ngựa&amp;amp;Yên Ngựa" />
     <string id="GD4aQgl7" text="Cừu" />
     <string id="gdraqMso" text="Ngươi đang ở bên ngoài {SETTLEMENT_NAME}. Ngươi không thể tiến vào." />
     <string id="GDugjWao" text="Đây là {MONEY}{GOLD_ICON}. Lấy đi và để chúng ta đi." />
@@ -664,10 +645,9 @@
     <string id="H0o13D7a" text="Cửa hàng" />
     <string id="H1emUb6k" text="Tuổi:" />
     <string id="H4rAiNlf" text="Ngươi đặt cược {BET_AMOUNT} cho bản thân và đã dành chiến thắng. Đây là phần thưởng của ngươi {REWARD_AMOUNT}{GOLD_ICON}." />
-    <string id="h55xdL1l" text="Vũ Kỳ" />
     <string id="h60wQVVX" text="Trường Thương" />
     <string id="h6AJXR2e" text="Ngươi muốn rút lui bộ đội của mình?" />
-    <string id="H9y9dLao" text="Ngươi có thể đặt cược để tăng phần thưởng nhận lại được. Mỗi một lượt, tỷ lệ cược sẽ khác nhau, mỗi lần ngươi có thể đặt {MAX_AMOUNT}&lt;img src=&quot;Icons\Coin@2x&quot;&gt;." />
+    <string id="H9y9dLao" text="Ngươi có thể đặt cược để tăng phần thưởng nhận lại được. Mỗi một lượt, tỷ lệ cược sẽ khác nhau, mỗi lần ngươi có thể đặt {MAX_AMOUNT}&amp;lt;img src=&amp;quot;Icons\Coin@2x&amp;quot;&amp;gt;." />
     <string id="haax8kMa" text="Giáo dài" />
     <string id="hAgZBZP8" text="Bỏ phiếu trắng" />
     <string id="haLX0kbG" text="Nhấp để tiếp tục" />
@@ -680,7 +660,6 @@
     <string id="HEQ2zEei" text="Hoàn tác" />
     <string id="hEWuE0Ch" text="Ngươi là quan chỉ huy. Ngươi có thể ra lệnh cho tất cả các đội hình trong trận chiến." />
     <string id="hfSW9FTN" text="Vũ Khí Tầm Xa V" />
-    <string id="HGBuP0wy" text="Sau khi tên tù binh này nhận được {CONFORMITY_AMOUNT} điểm phục tùng, một tù binh nữa sẽ có thể được chiêu mộ. Mỗi giờ các tù binh sẽ nhận được {CONFORMITY_PER_HOUR} điểm phục tùng." />
     <string id="HiSzYWeh" text="Bia" />
     <string id="hJypvWMR" text="Tinh Luyện" />
     <string id="HkfY3Ds5" text="Giáp Thân" />
@@ -695,12 +674,11 @@
     <string id="ho5EndaV" text="Quyết Định" />
     <string id="HP9wMk1T" text="Không thể truy cập cửa sổ bộ đội lúc này!" />
     <string id="HPe7HaZx" text="Đang bán tù binh" />
-    <string id="hpNFob32" text="Thành trấn này rất nghèo. Dân chúng cũng không đầy đủ dinh dưỡng." />
     <string id="hqIIEur1" text="Ngươi đã gặp phải {ARMY}." />
     <string id="hSsS5xAa" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} và {?}{\?}{TROOP_NAMES_END} {?IS_PLURAL}đang{?}đang{\?} chời đợi các khí giới công thành khác tới." />
     <string id="HuCClZqT" text="Lương" />
     <string id="hVmamTJX" text="Tiêu hao lương thực đa dạng để tăng sĩ khí bộ đội (Quan Hậu Cần). Phát triển kinh tế và xây dựng các hạng mục tại địa điểm hiện tại (Tổng Đốc). Dành chút thời gian ở điểm định cư của ngươi (Lãnh Tụ Gia Tộc)." />
-    <string id="HWSKCne0" text="Tăng tốc độ hạng mục xây dựng trong một ngày lên 2 lần tiêu hao 500&lt;img src=&quot;Icons\Coin@2x&quot;&gt;" />
+    <string id="HWSKCne0" text="Tăng tốc độ hạng mục xây dựng trong một ngày lên 2 lần tiêu hao 500&amp;lt;img src=&amp;quot;Icons\Coin@2x&amp;quot;&amp;gt;" />
     <string id="Hx47TGrA" text="Khó" />
     <string id="hYgmzZJX" text="Ngân lượng" />
     <string id="HYVQKIhh" text="Quân Phòng Thủ" />
@@ -715,15 +693,13 @@
     <string id="i4g81l3E" text="Quan hệ: {NUM}" />
     <string id="I8xMpWxO" text="To gan" />
     <string id="IagYTD5O" text="Phồn vinh" />
-    <string id="IBEJPlEj" text="Nhà" />
     <string id="IbGNaL0H" text="{HERO.LINK}   Cấp: {LEVEL}" />
     <string id="IbkODMHV" text="Tìm kiếm tung tích và các chỗ ẩn náu. Đi xuyên qua những địa hình gập ghềnh. (Trinh Sát)" />
     <string id="IcgVKFxZ" text="Người Thống Trị" />
     <string id="iCirZbD8" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} và {?}{\?}{TROOP_NAMES_END} {?IS_PLURAL}đang{?}đang{\?} xạ kích từ trên tường thành." />
     <string id="icmyseoo" text="Đại nhân," />
     <string id="IcQ2doLo" text="x{QUANTITY}" />
-    <string id="id62me1x" text="Ấn &quot;Vây công&quot;" />
-    <string id="IdUKVyoF" text="{JOB_NAME}{FIRST_NAME}" />
+    <string id="id62me1x" text="Ấn &amp;quot;Vây công&amp;quot;" />
     <string id="IF7zS5ia" text="Đã đạt giới hạn tù binh. {newline}Ngươi sẽ tạm thời giữ những tù binh đó, nhưng sau một đoạn thời gian ngắn, bọn chúng ta trốn thoát khỏi quân đội của ngươi. Tốc độ hành quân cũng sẽ bị chậm lại. {newline}Ngươi chắc chắn chứ?" />
     <string id="iFg5N7r3" text="Vũ Khí Một Tay" />
     <string id="Igoid3sR" text="Đề nghị trục xuất gia tộc này ra khỏi Vương Quốc" />
@@ -794,7 +770,7 @@
     <string id="jIcGy6gI" text="{LEFT} : {RIGHT}" />
     <string id="jiKRLWD4" text="Hiển thị trong Bách Khoa Toàn Thư" />
     <string id="JkpSoFQ8" text="Thương vong gây ra" />
-    <string id="JkVV4vUs" text="Nhấp vào nút 'nói chuyện' để bắt đầu cuộc hội thoại" />
+    <string id="JkVV4vUs" text="Nhấp vào nút &amp;apos;nói chuyện&amp;apos; để bắt đầu cuộc hội thoại" />
     <string id="jlgjLDo7" text="Đồn trú quân" />
     <string id="JnoB0RZ4" text="Hành quyết {?DYING_HERO_GENDER}Nàng{?}Hắn{\?}" />
     <string id="jnTQbSsH" text="Ngươi thấy mọi người trong thôn tập kết lại chống lại ngươi. Ngươi muốn làm gì?" />
@@ -843,7 +819,6 @@
     <string id="Khr5yETv" text="Người A Tắc Lai là cư dân sa mạc Nạp Cáp Tư, một hỗn hợp người du mục Bối Đô Nhân và nông dân định cư tại ốc đảo. Bọn họ nổi tiếng nhờ kỵ thuật và kiến thức về nhiều quốc gia, nhất là y học, những kiến thức này có được là nhờ vào những con đường thương mại sinh lời nhất trên đại lục. Mỗi gia tộc đều lấy huyết thống của mình làm kiêu ngạo, và miệt thị các gia tộc khác, nhưng khi bọn họ được một lãnh tụ quyết đoán đoàn kết lại, liền trở thành một lực lượng trọng yếu ở phía Nam." />
     <string id="kIAsKjp1" text="Chào mừng tới Chiến Mã và Thanh Gươm: Lãnh Chúa phiên bản thử nghiệm! {newline}Phiên bản thử nghiệm này giới thiệu đặc điểm các tính năng trong trò chơi! {newline}Ngươi có thể tự do giải quyết vấn đề, chinh phục các điểm định cư, quản lý thành thị, tham gia giải thi đấu, giao thương hoặc chỉ là đi lại trong thế giới trò chơi. {newline}Hãy chơi game vui vẻ! Nếu như có bất kỳ câu hỏi nào, xin đừng do dự, tuỳ ý đặt câu hỏi." />
     <string id="KiJd6Xik" text="Di chuyển" />
-    <string id="kiOst6DH" text="Đế Quốc" />
     <string id="KiVCv1Bx" text="Vây công {SETTLEMENT_NAME}" />
     <string id="KJDqOGEU" text="Kế hoạch của chúng ta là điều chỉnh lại đội hình, chờ ngày khác tái chiến." />
     <string id="KkaVpLXd" text="Đem chính sách này ra biểu quyết" />
@@ -887,10 +862,8 @@
     <string id="LBy6YDMV" text="Tập hợp lại" />
     <string id="Lc1vIEnM" text="Sói và Cừu di chuyển dọc giống nhau trên bàn cờ, mỗi ô một lượt." />
     <string id="LEC8NhCV" text="Chính Sách" />
-    <string id="lfkwsa5f" text="Theo Dõi" />
     <string id="lfMgaBiJ" text="Muốn chúng ta không giết ngươi, tốt nhất đừng có lãng phí thời gian của chúng ta." />
     <string id="Lg3zeoYi" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} và {?}{\?}{TROOP_NAMES_END} {?IS_PLURAL}đang{?}đang{\?} bảo vệ {#IS_LEFT}{#}cánh trái{#}nhiều cánh{\#}{?IS_MIDDLE}cánh giữa{?}{\?}{?IS_RIGHT}cánh phải{?}{\?}{#IS_LEFT}{#}{#}{\#}." />
-    <string id="lGTHPRP8" text="Điểm định cư này rất tốtTODO_TODO_TODO_TODO_TODO_TODO_TODO_TODO_TODO_TODO_TODO_TODO_TODO_TODO_TODO_TODO_TODO_TODO_TODO_TODO" />
     <string id="lh1yhgXw" text="Trang Bị Ngựa V" />
     <string id="lihYjOSc" text="chiếc." />
     <string id="lj8XH6O7" text="Không thể truy cập cửa sổ Vương Quốc lúc này!" />
@@ -912,15 +885,11 @@
     <string id="LvM8vCxX" text="Lái Buôn Giải Thi Đấu" />
     <string id="LwfILaRH" text="Ngựa" />
     <string id="lxLTCX5j" text="Nghề Nghiệp:" />
-    <string id="lXRzWrGo" text="Quý Tộc" />
     <string id="LymKjMLk" text=" Thủ hạ của ngươi vừa mới gia nhập vào bộ đội của ngươi" />
     <string id="lZ1IDnpP" text="Đưa Hết" />
     <string id="LZhRP3PM" text="Chờ khí giới công thành khác hoàn thành" />
-    <string id="LZjdxXex" text="Thôn trang nghèo rớt mồng tơi. Mọi người dinh dưỡng không đầy đủ. Gia súc đều sinh bệnh thấp thỏm sắp chết. Đồng ruộc bị cỏ dại lấp đầy vì là không có ai tới trồng trọt chúng." />
     <string id="Lzmtqif5" text="Quy mô quân đoàn" />
     <string id="lznqF0oO" text="Giải tán" />
-    <string id="M00MeRJD" text="Bông" />
-    <string id="M03MNN3T" text="Thành Xỉ" />
     <string id="M2b5mtAE" text="Đồng Bạn của" />
     <string id="m2YKBbdI" text="Xin chào mấy chú cừu non. Chúng ta là sói trên núi, muốn chiếm một chút thời gian của ngươi ..." />
     <string id="m6A7RLby" text="Xảo Trá" />
@@ -941,13 +910,11 @@
     <string id="MfnYoLdc" text="Chi phí" />
     <string id="MGv4Uabd" text="Ngươi đặt {BET_AMOUNT} cho chính mình nhưng ngươi đã chiến bại." />
     <string id="mGWrSJLE" text="Ngươi không thể giải tán một quân đoàn khi nó đang ở trong một sự kiện diễn ra trên bản đồ." />
-    <string id="MH6ebguQ" text="Đơn vị rất tốtTODO_TODO_TODO_TODO_TODO_TODO_TODO_TODO_TODO_TODO_TODO_TODO_TODO_TODO_TODO_TODO_TODO_TODO_TODO_TODO" />
     <string id="MHJCuM3N" text="Dừng! Bàn chân thối của ngươi làm ô uế lên thánh địa truyền đời của chúng ta. Ngươi nói xem ta lên làm gì với ngươi đây?" />
     <string id="mieKgbp8" text="Xạ Tốc mỗi ngày" />
     <string id="mIt6k9Rs" text="{ATTACKER} là {STATE} {DEFENDER}" />
     <string id="mJB7knQo" text="Rút lui" />
     <string id="mJE0o9Zi" text="Đồn trú Quân" />
-    <string id="mKwTaD83" text="Tài chính" />
     <string id="MLmHSSg0" text="Trọng Kỵ Binh" />
     <string id="MmNF7sW7" text="Những quân cờ chỉ có thể di chuyển thông qua việc bắt những quân cờ từ đối thủ của ngươi. {newline}Việc bắt tù binh được hoàn thành khi nhảy vuông góc qua một hoặc nhiều quân cờ của đối phương." />
     <string id="Mms9bbhY" text="{DAY_NUM} {?DAY_NUM==1}ngày{?}ngày{\?}" />
@@ -971,7 +938,6 @@
     <string id="MxG4217V" text="Thôn dân" />
     <string id="MxmOWsHj" text="Bách khoa toàn thư" />
     <string id="mXxVf2rb" text="Thư Tịch" />
-    <string id="mz8PnI3s" text="Trúng xương: {BONE}." />
     <string id="mZR7eYHa" text="Khiên I" />
     <string id="N0MCVBXb" text="Thôi đi" />
     <string id="n3cjEB0X" text="Công cụ" />
@@ -982,7 +948,6 @@
     <string id="N6QTvjMf" text="Tù binh" />
     <string id="N7w6zi0F" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} và {?}{\?}{TROOP_NAMES_END} {?IS_PLURAL}đang{?}đang{\?} lùi lại." />
     <string id="N84HlDaV" text="{NUMBER_OF} {ITEM} ({AMOUNT}{GOLD_ICON})" />
-    <string id="NaNMRPv4" text="A Tắc Lai" />
     <string id="NaorUInI" text="Các đội ngũ không đủ lực lượng" />
     <string id="nbBgbwM2" text="Trong hàng ngũ: {NUMBER}" />
     <string id="NBv29XpJ" text="Ngươi không thể giải tán quân đoàn khi ngươi đang ở trong đó" />
@@ -1003,7 +968,6 @@
     <string id="nNDdo3I9" text="Kiếm Một Tay" />
     <string id="nnr8sANN" text="{PARTY_LIST_TAG}({COUNT} + {WEAK_COUNT}w)" />
     <string id="nNRKCYpR" text="Vùng đất xung quanh khu thuộc địa" />
-    <string id="NNxRRbaq" text="Ngươi có muốn gia nhập gia tộc của ta?TODO_TODO_TODO_TODO_TODO_TODO_TODO_TODO_TODO_TODO_TODO_TODO_TODO_TODO_TODO_TODO_TODO_TODO_TODO_TODO" />
     <string id="NnZ5w9zm" text="{NUM1} ({NUM2})" />
     <string id="NqarFr4P" text="Tuỳ Chọn" />
     <string id="NQbqtEqP" text="Giá: {COUNT}" />
@@ -1023,11 +987,9 @@
     <string id="O3dhjtOS" text="Giáp đầu" />
     <string id="o5ho2Txg" text="Lực ngưng tụ quân đoàn" />
     <string id="O69Vhqxk" text="Vậy ngươi định cho chúng ta bao nhiêu?" />
-    <string id="O6IcvFoO" text="&lt;b&gt;Hoả Diễm Nỗ Pháo&lt;/b&gt;{NEWLINE}TODO FIRE ONAGER DESC." />
     <string id="o7I8qayN" text="Ha! Không có gì bằng việc ăn một đấm vào bụng để biết rằng mình còn sống hay không? Ngươi thành công đánh bại {OPPONENT_COUNT} đối thủ. Không tồi, thế nhưng dù vậy ngươi vẫn không nhận được chút tiền thưởng nào. Giờ nếu như ta là ngươi, ta sẽ quay lại đó và nói cho mọi người biết là ta có thể làm gì ..." />
     <string id="O8TpGSDA" text="Thiên Nga Nhung" />
     <string id="O9xpd5bn" text="một vị nam tước phu nhân" />
-    <string id="obHSBrTV" text="Phe cánh này rất tốtTODO_TODO_TODO_TODO_TODO_TODO_TODO_TODO_TODO_TODO_TODO_TODO_TODO_TODO_TODO_TODO_TODO_TODO_TODO_TODO" />
     <string id="ObTSCxra" text="Phong thần" />
     <string id="OBXNbvkK" text="Khi ngươi cố gắng cưỡng ép thôn dân cung cấp vật phẩm, một nhóm trong số họ đã tụ tập lại để chống lại ngươi. Nếu cùng chiến đấu với họ thì chính là tuyên chuyến với lại {KINGDOM}." />
     <string id="OCGaTxac" text="Phần thưởng giải thi đấu" />
@@ -1045,7 +1007,6 @@
     <string id="OiCCv0EL" text="Thôn trang này đang trong thời kỳ khó khăn. Nông cụ thành phế phẩm. Các bụi cây, cỏ dại đã chiếm hầu hết các phần ngoài của các ruộng đồng." />
     <string id="OikiOJgf" text="Ngươi tìm thấy mảnh cờ hiệu thứ 2!" />
     <string id="oiSW6MyB" text="Giáp Ngực" />
-    <string id="OJbpmlXu" text="Tầm xa" />
     <string id="OJmC1Ckc" text="Đối thủ còn lại: {REMAINING_OPPONENT_COUNT}" />
     <string id="okH55fbn" text="Quân tiếp viện phe đồng minh đã tới!" />
     <string id="OKUTPdaa" text="Cấp" />
@@ -1102,7 +1063,6 @@
     <string id="PJEuE208" text="Dân binh:" />
     <string id="PJNW1UWK" text="Điếm chủ" />
     <string id="pJR9zz06" text="Các quân sĩ đã sẵn sàng để nâng cấp sẽ được đánh dấu bằng một biểu tượng đặc biệt. {newlin}{newline}Một số chi còn có các 2 nhánh khác để ngươi chọn." />
-    <string id="pkyASW0A" text="Quân Đội / Đã Đạt Giới Hạn" />
     <string id="pLZeP6L6" text="Công kích tường thành{?IS_GENERAL_SIDE}{?} từ bên {SIDE_STRING}{\?}" />
     <string id="pm0yiOmv" text="Nhận được: {DENAR_AMOUNT}{GOLD_ICON}" />
     <string id="PMnSk81U" text="Nói như vậy thì ngươi muốn đánh nhau hả, con cừu non. Vậy thì hãy ta có thể làm gì với sừng của ngươi." />
@@ -1139,7 +1099,7 @@
     <string id="Q3KrMlLd" text="XUNG PHONG!" />
     <string id="q3mOBLFn" text="Lựa chọn kỹ năng sở trường" />
     <string id="Q67Wys0i" text="Tuần tra xung quanh {SETTLEMENT_NAME}" />
-    <string id="Q7ONA10T" text="&lt;b&gt;Máy Bắn Đá&lt;/b&gt;{NEWLINE}Độ chính xác không cao, nhưng có sức phá huỷ tường thành." />
+    <string id="Q7ONA10T" text="&amp;lt;b&amp;gt;Máy Bắn Đá&amp;lt;/b&amp;gt;{NEWLINE}Độ chính xác không cao, nhưng có sức phá huỷ tường thành." />
     <string id="Q8mI3b4K" text="Không Có Chính Sách Được Chọn" />
     <string id="QA8Gm9PY" text="Hôm nay trời nóng nhể? Đánh nhau thì không vui lắm. Thôi thì đem những gì chúng ta muốn giao ra thì chúng ta sẽ rời đi." />
     <string id="qaDIU0XC" text="Vương Quốc Ba Đán Ni Á" />
@@ -1164,9 +1124,8 @@
     <string id="qgHblOq4" text="Ngươi phát hiện mai phục." />
     <string id="qgL4P2vO" text="Thành trấn này rất phồn vinh. Nhìn qua thấy mọi người ăn rất no, sinh hoạt cũng tương đối thoải mái dễ chịu." />
     <string id="QgUej8DP" text="Không có nhiệm vụ nào" />
-    <string id="qhhLVJAC" text="&lt;b&gt;Sẵn sàng&lt;/b&gt;" />
+    <string id="qhhLVJAC" text="&amp;lt;b&amp;gt;Sẵn sàng&amp;lt;/b&amp;gt;" />
     <string id="qIvDX0JR" text="Trung tâm" />
-    <string id="Qk6aHGNO" text="Ấn 'Alt' để xem thêm." />
     <string id="QLM6DWHB" text="Nhiệm vụ hiện có" />
     <string id="qlw2LWgu" text="Tiến vào phạm vi" />
     <string id="qM8daraD" text="Tổng điểm kỹ năng: {CURRENT_SKILL_POINTS}" />
@@ -1179,7 +1138,7 @@
     <string id="QPoA6vvx" text="Thu nhập" />
     <string id="qQLh6S2w" text="SP {CURRENTAMOUNT}/{TARGETAMOUNT}" />
     <string id="qR0s1VvE" text="Ngươi nghe thấy một số phàn nàn về giá cả, thương nhâm tham lam, nhưng cũng không nhiều hơn bình thường là mấy." />
-    <string id="QrfyFfk0" text="Ấn &quot;Chọn hành động đối địch&quot;" />
+    <string id="QrfyFfk0" text="Ấn &amp;quot;Chọn hành động đối địch&amp;quot;" />
     <string id="qRqnrtdX" text="Người sở hữu" />
     <string id="qsh0I4Rm" text="Đối thủ của ngươi ném ra {DICE_ROLL}." />
     <string id="qSi4DlT4" text="Lương thực" />
@@ -1188,7 +1147,7 @@
     <string id="qtII2HbK" text="Giàu có" />
     <string id="qtmj7h2r" text="  0" />
     <string id="qUtYks66" text="Quân đoàn của {ARMY_LEADER.LINK} đang tập kết gần {SETTLEMENT_NAME}." />
-    <string id="QVChn4mG" text="Lương thực cũng là mặt hàng thương mại. Ngươi có thể tìm thấy dễ dàng các mặt hàng này bằng bộ lọc &quot;Hạng mục&quot;." />
+    <string id="QVChn4mG" text="Lương thực cũng là mặt hàng thương mại. Ngươi có thể tìm thấy dễ dàng các mặt hàng này bằng bộ lọc &amp;quot;Hạng mục&amp;quot;." />
     <string id="QWqvGa1P" text="Bò" />
     <string id="r312jCKr" text="Đưa Đàm Phán Hoà Bình" />
     <string id="R4eS65oX" text="Các thôn dân phẫn nộ cầm lấy công cụ của họ và chuẩn bị đối kháng ngươi. Nếu như ngươi còn tiếp tục, đánh nhau không phải bàn luôn." />
@@ -1208,8 +1167,7 @@
     <string id="RGqPxabq" text="Quyền lực" />
     <string id="RiXlbtfl" text="k" />
     <string id="RiZ9lNAe" text="Cấp độ tường thành" />
-    <string id="rjf2HVhf" text="&lt;b&gt;Máy Bắn Đá&lt;/b&gt;{NEWLINE}TODO BRICOLE DESC." />
-    <string id="RjgBIYvH" text="&lt;b&gt;Chuỳ Công Thành Đã Cải Tiến&lt;/b&gt;{NEWLINE}Được dùng để phá cổng thành. Tốt hơn so với loại bình thường." />
+    <string id="RjgBIYvH" text="&amp;lt;b&amp;gt;Chuỳ Công Thành Đã Cải Tiến&amp;lt;/b&amp;gt;{NEWLINE}Được dùng để phá cổng thành. Tốt hơn so với loại bình thường." />
     <string id="RJJ1Pbjk" text="Lính đánh thuê của {FACTION}" />
     <string id="RKyiu5MH" text="Có lẽ ta với ngươi có thể giao dịch." />
     <string id="rmSkXZlp" text="Giải đấu kết thúc. {TOURNAMENT_FINAL_OPPONENT} đã chiến thắng vì đánh bại ngươi trong trận chung kết." />
@@ -1245,7 +1203,6 @@
     <string id="SeQ0Q7r6" text="Đang tiến hành vấn đề" />
     <string id="sfcbd6QS" text="Ngươi hiện tại đã đạt được {CURRENT_PROGRESS} điểm, tổng cộng cần {TARGET_PROGRESS} điểm để có thể hoàn thành lần thuyết phục này." />
     <string id="SFddKpPz" text="Keo Kiệt" />
-    <string id="sffGeQ1g" text="Quả" />
     <string id="SFg3xgCM" text="Gần" />
     <string id="sFpNAqHs" text="Từ bi" />
     <string id="Sj9Ux8jS" text="Tan tác" />
@@ -1267,8 +1224,7 @@
     <string id="SyklU5aP" text="Thông tin" />
     <string id="SYm7rgCX" text="{COMPANION.LINK} đã rời khỏi đội ngũ của ngươi." />
     <string id="sZLd6VHi" text="Khố Tái Đặc" />
-    <string id="T0aULilA" text="&lt;b&gt;Chàng Chuỳ Cải Tiến&lt;/b&gt;{NEWLINE}Dùng để phá cổng thành. Tốt hơn chỉ dùng Thang" />
-    <string id="t2baaTrL" text="Bố Chồng Cũ hoặc Công Công" />
+    <string id="T0aULilA" text="&amp;lt;b&amp;gt;Chàng Chuỳ Cải Tiến&amp;lt;/b&amp;gt;{NEWLINE}Dùng để phá cổng thành. Tốt hơn chỉ dùng Thang" />
     <string id="T3JJ7aIV" text="Cưỡi ngựa di chuyển trên bản đồ với tốc độ cao. Tác chiến trên lưng ngựa sẽ thêm tốc độ gia tăng" />
     <string id="t3tq0eoW" text="Quân đội" />
     <string id="T592iYI4" text="Ngươi ném ra một {DICE_ROLL}." />
@@ -1330,12 +1286,10 @@
     <string id="uCikaIoq" text="Tuyệt quá. Ngươi xem, các huynh đệ của ta và ta chẳng phải cái gì mà người tàn nhẫn cả. Nhưng cũng có chút lòng tham, cái đó lại chẳng cách nào kiềm chế được, cho nên là ngươi phải hào phóng một chút nha.[ib:hip][rb:trivial]" />
     <string id="UckVajhO" text="Danh vọng thu được: + {RENOWN}" />
     <string id="ucyy9Sc5" text="{LEFT} / {RIGHT}" />
-    <string id="Ue3JhJvE" text="Ngoài Định Mức Hộ Giáp" />
     <string id="ufnnUxKb" text="Da" />
     <string id="uFuDwaYp" text="{HOUR} {?PLURAL}giờ{?}giờ{\?}" />
     <string id="ug4LiPbb" text="Vũ Khí Tầm Xa IV" />
     <string id="ugJfuabA" text="Kỵ Xạ Thủ" />
-    <string id="uGM8DWrm" text="Cưỡi" />
     <string id="UgMbCUMO" text="cha của ta {REFERING_HERO.LINK}" />
     <string id="ugX2RRDY" text="Ta đã bị bắt và bị giữ để đòi tiền chuộc" />
     <string id="Uh057UUb" text="Phổ Lỗ Khắc" />
@@ -1343,7 +1297,6 @@
     <string id="uinDitbl" text="Chúng ta phải công phá tường thành." />
     <string id="UIqPXN62" text="Sử dụng vũ khí dùng để ném để tấn công kẻ địch." />
     <string id="UjL7jVYF" text="Sĩ Khí" />
-    <string id="ULawYXl6" text="Mẹ Vợ Cũ hoặc Bà Bà" />
     <string id="um1Z5swc" text="nữ sĩ {REFERING_HERO.LINK}" />
     <string id="Umb8XsZH" text="Đâm" />
     <string id="uN5gwV05" text="Đã Chết" />
@@ -1411,7 +1364,7 @@
     <string id="vt1IbBFt" text="Ngươi đã phát hiện ra một quân đoàn. Cẩn thận chút." />
     <string id="vvabqi2w" text="Thương Đội" />
     <string id="Vvo92lyj" text="nam bộ đế quốc" />
-    <string id="VvpPbvpm" text="You can call other lords to your banner. Click on the highlighted army icon on the lower right to do so." />
+    <string id="VvpPbvpm" text="Ngươi có thể triệu tập những lãnh chúa khác tới dưới cờ của ngươi. Click vào icon Quân Đoàn góc dưới phải để tiến hành" />
     <string id="vvXTnr8i" text="Khai trừ khỏi gia tộc" />
     <string id="vw1bbcww" text="Chiến đấu phía sau quân đồng minh {TARGET_FORMATION}" />
     <string id="Vw7BUXvw" text="Hậu đãi" />
@@ -1421,12 +1374,10 @@
     <string id="vy8jlHl4" text="h" />
     <string id="VyJMWO8a" text="{GOLD_AMOUNT}{GOLD_ICON} bỏ ra." />
     <string id="VyPwh1CT" text="Đưa Tướng Lĩnh về Quân Đội" />
-    <string id="vZaL7fqv" text="+{BONUS_AMOUNT} sĩ khí" />
     <string id="vZzDCjDr" text="Hiện không có ai tình nguyện để chiêu mộ." />
     <string id="W1seGc3t" text="Bao đựng tên" />
-    <string id="w2j9LGvZ" text="Quy mô mục tiêu" />
     <string id="W2WXkiAh" text="Thục Kim Môi Giới" />
-    <string id="w3v2S03V" text="Quan hệ của ngươi và {HERO_NAME} sẽ &lt;a style=&quot;IncreaseStyle&quot; &gt;&lt;b&gt;tăng&lt;/b&gt;&lt;/a&gt;" />
+    <string id="w3v2S03V" text="Quan hệ của ngươi và {HERO_NAME} sẽ &amp;lt;a style=&amp;quot;IncreaseStyle&amp;quot; &amp;gt;&amp;lt;b&amp;gt;tăng&amp;lt;/b&amp;gt;&amp;lt;/a&amp;gt;" />
     <string id="W4iKIM2s" text="Khiên Nhỏ" />
     <string id="W5gPypVY" text="Dùng tiệm rèn để rèn đúc vũ khí, tinh luyện nguyên liệu và dung luyện vũ khí dư thừa." />
     <string id="w758X31N" text="Vật phẩm" />
@@ -1440,12 +1391,10 @@
     <string id="wib91252" text="Chức Nghiệp: {PROFESSION}" />
     <string id="WiNRdfsm" text="Xong" />
     <string id="wjb4tZDX" text="Cấp: {LEVEL}" />
-    <string id="wJn42hTq" text="Sở trưởng với ảnh hưởng trú quân" />
     <string id="wjuieMsE" text="Đối thủ của ngươi đánh trúng gây được 1 điểm!" />
     <string id="wKbafI9r" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} và {?}{\?}{TROOP_NAMES_END} {?IS_PLURAL}đang{?}đang{\?} bắn từ trên tháp công thành." />
     <string id="wKgpciSx" text="{AMOUNT}{INFLUENCE_ICON}" />
     <string id="wNjhpOOM" text="Áp dụng thay đổi" />
-    <string id="WqBAgeCy" text="nhạc mẫu" />
     <string id="wrbea2oa" text="Tên nỏ" />
     <string id="wshehbFu" text="Lính đánh thuê không thể giải tán quân đoàn." />
     <string id="WSk5Sibs" text="Pho mát" />
@@ -1483,14 +1432,12 @@
     <string id="xHc1xhG8" text="Tiêu diệt kẻ địch trong lâu đài." />
     <string id="XJ6EG3Pa" text="+{BONUS_AMOUNT} thêm vào kho lương" />
     <string id="xKa6TwEX" text="Đang ở tại {SETTLEMENT_NAME}" />
-    <string id="xMwyMGtc" text="Anh rể trước kia" />
     <string id="XnsAbUE3" text="Giải tán" />
     <string id="xo2zvOir" text="Đối thủ của ngươi không thể di chuyển nữa. Bỏ lượt." />
-    <string id="xORASoex" text="Ngươi có thể kích vào nút &quot;+&quot; để tăng 10 điểm ngưng tụ. Cần chú ý là tăng độ ngưng tụ thì sẽ cần tiêu hao điểm ảnh hưởng." />
+    <string id="xORASoex" text="Ngươi có thể kích vào nút &amp;quot;+&amp;quot; để tăng 10 điểm ngưng tụ. Cần chú ý là tăng độ ngưng tụ thì sẽ cần tiêu hao điểm ảnh hưởng." />
     <string id="xq62HAIO" text="Bảo vệ{?IS_GENERAL_SIDE}{?} {SIDE_STRING}{\?} cánh của quân đồng minh {TARGET_FORMATION}" />
     <string id="xqN16a4k" text="Cờ bàn" />
     <string id="XqV3x4i3" text="Căn cứ vào lựa chọn, tuỳ chọn đó sẽ tiến hành nỗ lực thuyết phục tới giai đoạn kế tiếp." />
-    <string id="xs0MpdCM" text="Rèn" />
     <string id="XseYJYka" text="Quản lý" />
     <string id="xsIU28Za" text="Ngon! Không còn phải ngủ trên đá lạnh và ăn mấy con sóc gầy nữa rồi." />
     <string id="xSjgt7fs" text="Mùa Xuân {DAY}, {YEAR}" />
@@ -1520,7 +1467,6 @@
     <string id="YbabzW3H" text="Ngươi đã ngồi tù ở {SETTLEMENT_NAME} trong {NUMBER_OF_DAYS} {?PLURAL}ngày{?}ngày{\?}." />
     <string id="YbB2IpTR" text="Quan hệ của ngươi và {HERO.NAME} đã giảm {MAGNITUDE} điểm và xuống còn {VALUE}." />
     <string id="yBnwGiuB" text="Lãnh Chúa" />
-    <string id="Ybvu10zM" text="Vây công" />
     <string id="yCEMiKjB" text="Chọn {SELECTION} của ngươi" />
     <string id="YCYwPPlJ" text="Tắt toàn bộ hướng dẫn" />
     <string id="YDYnuBmC" text="Nhiều người chơi" />
@@ -1555,7 +1501,7 @@
     <string id="ySlVPZyF" text="Khi ngươi đang có ý định cưỡng ép trai tráng trong thôn gia nhập quân đội, một số thôn dân đã tiến hành chống cự lại ngươi. Đánh với họ chính là ngươi đang tuyên chiến với {KINGDOM}." />
     <string id="YSM0lxns" text="Chi phí" />
     <string id="ytlsMCCn" text="{DESERTER_COUNT} {?PLURAL}quân{?}quân{\?} đã rời bỏ khỏi {PARTY}." />
-    <string id="ytYPOCZ8" text="{NUMBER}% đã hoàn thành" />
+    <string id="ytYPOCZ8" text="Đã hoàn thành {NUMBER}%" />
     <string id="YukbQgHJ" text="Tốc bắn bắn ra: " />
     <string id="yUo269Us" text="Cảm ơn sự giúp đỡ của ngươi. Chúng ta vẫn chưa chính thức giới thiệu một chút, ngươi tên gì vậy?" />
     <string id="YVGtcLHF" text="Kỵ Binh" />
@@ -1588,12 +1534,10 @@
     <string id="zfCoeglY" text="Âm Nhạc Gia" />
     <string id="zg0q1aqD" text="Ngươi không thể giải tán bộ đội trú quân" />
     <string id="Zg5Zmgui" text="Chúng ta đang từ {TOWN} trở lại thôn trang của chúng ta." />
-    <string id="zgRwrWSC" text="Tỉ lệ thanh toán" />
     <string id="ZhiB1EOM" text="Tù binh tại {SETTLEMENT_NAME}" />
     <string id="ZlJIpfWg" text="Tốc độ tăng thêm: {SPEED_BONUS}%." />
     <string id="ZMdOAbTd" text="Quân Tấn Công" />
     <string id="zMMqgxb1" text="Loại" />
-    <string id="ZMmuaC7a" text="&lt;b&gt;Xe bắn đá&lt;/b&gt;{NEWLINE}TODO CATAPULT DESC." />
     <string id="zN9iNaIW" text="Đang cướp đoạt thôn trang" />
     <string id="zNekjGmR" text="Chiêu mộ tù binh" />
     <string id="zNEvBr6R" text="Lượt của ngươi" />
@@ -1603,7 +1547,7 @@
     <string id="zo5hQfll" text="Sói thắng khi loại bỏ 5 chú Cừu khỏi bảng.{newline}{newline}Cừu thắng khi có thể chặn đường đi của Sói." />
     <string id="zpaLDTI4" text="Trả tiền, và ngươi có thể đi qua." />
     <string id="ZPaw3WuO" text="Người Ngoã Lan Địch Á là hậu duệ của những nhà thám hiểm tới từ phương Tây, sinh hoạt dưới  sự thống trị của Đế Quốc trong nhiều thế kỷ trước khi thành lập vương quốc độc lập. Rồi theo sự suy tàn của hoàng quyền, bọn họ đã phát triển thành một xã hội phong kiến có tổ chức tốt, lãnh đạo bởi một đám quý tộc hiếu chiến, thích chiến đấu với trường mâu và kỵ thương trên lưng ngựa." />
-    <string id="zqihwKAs" text="&lt;b&gt;Nỗ Pháo&lt;/b&gt;{NEWLINE}Bắn tên nỏ với sát thương trí mạng. Hữu hiệu đối kháng kỵ binh." />
+    <string id="zqihwKAs" text="&amp;lt;b&amp;gt;Nỗ Pháo&amp;lt;/b&amp;gt;{NEWLINE}Bắn tên nỏ với sát thương trí mạng. Hữu hiệu đối kháng kỵ binh." />
     <string id="ZqWOb1jM" text="Ngươi đang ở bên ngoài {SETTLEMENT_NAME}. Ngươi không thể tiến vào vì ngươi đang bị {FACTION_TERM} try nã." />
     <string id="ZR2bAa1p" text="Khinh Kỵ Binh" />
     <string id="ZuLa12aT" text="Vậy thì đúng rồi... Chúng ta chính là những tên mà ngươi không trêu chọc nổi đâu đấy." />
@@ -1621,5 +1565,114 @@
     <string id="ZXXNrvvg" text="Người chơi thắng khi đối thủ trên tay hoặc trên bàn cờ không còn quân cờ nào." />
     <string id="zyp2VGt4" text="Có nhiệm vũ" />
     <string id="zzUk6ZaA" text="Rời đi" />
+    <string id="uFDiRV1Z" text="（{PRIMARY_ROLE}）" />
+    <string id="JAFIo7cM" text=":" />
+    <string id="nAaT19CC" text="{?RULER.GENDER}Quan chấp chính{?}Quan chấp chính{\?} {RULER.NAME}" />
+    <string id="X4qO3jBf" text="{?RULER.GENDER}Nữ Bá Tước{?}Bá Tước{\?} {RULER.NAME}" />
+    <string id="veiFupWz" text="{?RULER.GENDER}Nữ Nam Tước{?}Nam Tước{\?} {RULER.NAME}" />
+    <string id="jM9KGCIa" text="{?RULER.GENDER}Thân Vương{?}Thân Vương{\?} {RULER.NAME}" />
+    <string id="7pAZatbz" text="{?RULER.GENDER}Nữ Hoàng{?}Hoàng Đế{\?} {RULER.NAME}" />
+    <string id="nojcK4ia" text="{?RULER.GENDER}Đại Thân Vương{?}Đại Thân Vương{\?} {RULER.NAME}" />
+    <string id="lb13ceVM" text="{?RULER.GENDER}Nữ Hoàng Tối Cao{?}Hoàng Đế Tối Cao{\?} {RULER.NAME}" />
+    <string id="lqm9PfF1" text="{RULER.NAME}{?RULER.GENDER}Nữ Tước{?}Công Tước{\?}" />
+    <string id="7MSuWxaY" text="{CHILD. NAME} đã {CHILD. AGE} tuổi rồi, đây là lúc mà {? CHILD. GENDER} con bé {? } thằng bé {\? } cần một chút chỉ dẫn từ bạn." />
+    <string id="Nfm5lLWv" text="{CHILD. NAME} rất cần sự chú ý của bạn ngay bây giờ!" />
+    <string id="DaX6bsaD" text="{CLAN_PARTY_NAME} bị {ENEMY_PARTY_NAME} gần {SETTLEMENT_NAME} tấn công" />
+    <string id="h8Bcd7NE" text="{FACTION} Tuyển Cử Người Cầm Quyền" />
+    <string id="U7etPQA2" text="{JOB_NAME}{HERO.FIRSTNAME}" />
+    <string id="8c8NDpAd" text="{HERO.NAME} đã thu được đặc điểm {TRAIT_NAME}." />
+    <string id="BbYFboh2" text="{RULER.NAME} {?RULER.GENDER}Bá Cơ{?}Bá Khắc{\?}" />
+    <string id="4U6x48yQ" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} và {?}{\?}{TROOP_NAMES_END} đang dẫn đầu trận chiến." />
+    <string id="KafFddmO" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} và {?}{\?}{TROOP_NAMES_END} đang bảo vệ tướng lĩnh." />
+    <string id="vqHDX6hf" text="+{BONUS_AMOUNT} điểm Độ Trung Thành của thành thị" />
+    <string id="a6zaA9Um" text="+{BONUS_AMOUNT} dân binh của thành thị" />
+    <string id="ki5DqTtC" text="+{BONUS_AMOUNT} điểm phồn vinh của thành thị" />
+    <string id="kVLfRWjE" text="+{BONUS_AMOUNT}% miễn giảm tiền lương cho quân đồn trú." />
+    <string id="1XE7yeaP" text="Tù binh sau khi thu được {CONFORMITY_AMOUNT} độ phục tùng, khi đủ độ thì có thể chiêu mộ hắn." />
+    <string id="u3c9M8vx" text="một vị quan Chấp Chính" />
+    <string id="aseraifaction" text="A Tắc Lai" />
+    <string id="aseraimembers" text="A Tắc Lai" />
+    <string id="NqtTPVzn" text="Thuộc tính" />
+    <string id="Z8LeI4ho" text="Bảo Tiêu" />
+    <string id="husbandbrotherinlaw" text="anh em rể" />
+    <string id="wifebrotherinlaw" text="anh em vợ" />
+    <string id="owTlJjJc" text="Anh em thông gia" />
+    <string id="G5yvspkZ" text="Không thể rút lui, song đấu vẫn đang tiến hành!" />
+    <string id="captainasleader" text="Đội trưởng" />
+    <string id="hVZo7xdk" text="Pháo đài" />
+    <string id="FdTd3yIx" text="Những thay đổi của bạn không thể được áp dụng. Bạn có muốn đặt lại và thay đổi màn hình không?" />
+    <string id="If65Vm9h" text="Giáo Dục Con Cái" />
+    <string id="izKWEAbY" text="Gia tộc không có thêm bất cứ thu nhập nào" />
+    <string id="fQ2RLaOa" text="Gia tộc không sở hữu bất kỳ mảnh đất phong nào" />
+    <string id="PYaUEZzn" text="Đề xuất Tuyên Chiến (Ủng hộ: {SUPPORT}%)" />
+    <string id="ioKwRFcj" text="Đề xuất Hoà Bình (Ủng hộ: {SUPPORT}%)" />
+    <string id="RdsbyNE2" text="Đề xuât Hoà Bình, mỗi ngày giao nộp {TRIBUTE} cống kim. (ủng hộ: {SUPPORT}%)" />
+    <string id="NaAA5kjG" text="Đề xuât Hoà Bình, mỗi ngày tiếp nhận {TRIBUTE} cống kim. (ủng hộ: {SUPPORT}%)" />
+    <string id="pMb8Pe12" text="Con dâu" />
+    <string id="oTGDxKW7" text="Tuyên Chiến với {FACTION}" />
+    <string id="Txbga7jx" text="Quân thủ thành xuất quân nghênh chiến, tiến công tới doanh địa của bạn" />
+    <string id="empiremembers" text="Đế Quốc" />
+    <string id="engineeringskill" text="Kỹ Thuật" />
+    <string id="husbandfatherinlaw" text="bố chồng" />
+    <string id="wifefatherinlaw" text="bố vợ" />
+    <string id="gamefinance" text="Tài Chính" />
+    <string id="forgeverb" text="Rèn" />
+    <string id="exhusbandbrotherinlaw" text="Anh em rể trước kia" />
+    <string id="exwifebrotherinlaw" text="Anh em vợ trước kia" />
+    <string id="exhusbandfatherinlaw" text="Bố chồng trước kia" />
+    <string id="exwifefatherinlaw" text="Bố vợ trước kia" />
+    <string id="exhusbandmotherinlaw" text="Mẹ chồng trước kia" />
+    <string id="exwifemotherinlaw" text="Mẹ vợ trước kia" />
+    <string id="exhusbandsisterinlaw" text="Chị dâu trước kia" />
+    <string id="exwifesisterinlaw" text="Em vợ trước kia" />
+    <string id="8byRf9zO" text="Thông thường" />
+    <string id="giftverb" text="Tặng" />
+    <string id="guardnoun" text="Vệ Sĩ" />
+    <string id="aZrbxdat" text="Giữ [{KEY_NAME}] để thực hiện nhanh" />
+    <string id="homesettlement" text="Quê hương" />
+    <string id="hometab" text="Trang chủ" />
+    <string id="XCz81XYm" text="Đầu vào" />
+    <string id="lockverb" text="Khoá" />
+    <string id="fEJQcb4U" text="Tình hình Độ Trung Thành" />
+    <string id="dd7Owiys" text="Ngưng chiến với {FACTION}" />
+    <string id="JKH59XNp" text="Y Thuật" />
+    <string id="husbandmotherinlaw" text="Mẹ chồng" />
+    <string id="wifemotherinlaw" text="Mẹ vợ" />
+    <string id="mountnoun" text="Toạ kỵ" />
+    <string id="5siAbi69" text="Vũ Kỳ" />
+    <string id="8mBT44QK" text="Quý tộc của {FACTION}" />
+    <string id="ErnykQEH" text="Đầu ra" />
+    <string id="tnZ7BfO9" text="Đề nghị hoà bình" />
+    <string id="K5uR5HVX" text="Ấn  &amp;apos;{EXTEND_KEY}&amp;apos; để xem thêm thông tin." />
+    <string id="policypropose" text="Đề nghị" />
+    <string id="rangedtroop" text="Tầm Xa" />
+    <string id="Vqu67a3b" text="Tơ thô {@Plural}cuộn tơ{\@}" />
+    <string id="rHSjMjWX" text="Giải Quyết Quyết Định" />
+    <string id="XgioIHv6" text="Giải quyết các quyết định còn tồn tại" />
+    <string id="d5RAufbd" text="Chức Vị" />
+    <string id="LJ6Krlbr" text="Trinh Sát" />
+    <string id="ljcHO6PW" text="Tình hình Độ Trị An" />
+    <string id="zE6OFPRu" text="Thuế thành thị" />
+    <string id="siegeevent" text="Vây công" />
+    <string id="husbandsisterinlaw" text="chị dâu" />
+    <string id="wifesisterinlaw" text="em vợ" />
+    <string id="IQ4bSdf5" text="Chị em thông gia" />
+    <string id="smeltverb" text="Dung luyện" />
+    <string id="smithingverb" text="Rèn" />
+    <string id="bh9U2fsZ" text="Con rể" />
+    <string id="s2vaPUdG" text="Giá Mâu" />
+    <string id="rqWJL27J" text="Tổng tiền" />
+    <string id="ebbyLN2i" text="Thành trấn" />
+    <string id="settlementtrack" text="Định vị" />
+    <string id="GmcgoiGy" text="Giao dịch" />
+    <string id="5pGjYBFn" text="Cống kim thu được" />
+    <string id="toK51MD4" text="Đến thăm" />
+    <string id="0amC7X1h" text="Tuyên Chiến" />
+    <string id="NbgeKwVr" text="Công Xưởng" />
+    <string id="uhcIXeba" text="Bạn đang bỏ các vật phẩm. Chắc chứ?" />
+    <string id="rGNrtXSx" text="Bạn đã tới pháo đài {SETTLEMENT} để chống cự lại quân địch tiến công." />
+    <string id="bdJtVxQp" text="Bạn sẽ {?PAY_OR_GET}thu được{?}tiêu hao{\?} {TRADE_AMOUNT}{INFLUENCE_ICON}" />
+    <string id="PvrRFwHM" text="Sĩ khí sẽ {?PAY_OR_GET}tăng{?}giảm{\?} {TRADE_AMOUNT}{MORALE_ICON}" />
+    <string id="haRRjDmy" text="Bạn sẽ dùng {TRADE_AMOUNT} con ngựa cho việc nâng cấp." />
   </strings>
 </base>

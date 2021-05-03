@@ -1,10 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <ver>1.5.9</ver>
   <tags>
     <tag language="Tiếng Việt" />
   </tags>
   <strings>
-    <string id="03YrcAtx" text="Phúc Bì Song Thủ ác Bính " />
+    <string id="03YrcAtx" text="Phúc Bì Song Thủ ác Bính" />
     <string id="0gteBOD7" text="Nguyệt Nhận Phủ đầu" />
     <string id="0kP9bf7n" text="Liêm đao Bính" />
     <string id="0LJtoZtW" text="Khắc ấn Loan đao Câu Hình Hộ Thủ" />
@@ -90,7 +91,7 @@
     <string id="8gW1o7iH" text="Tây Phương Biện Trạng Phối Trọng Khối " />
     <string id="8OaZSfaZ" text="Phân đoạn Thô Bì Vũ Trang Kiếm ác Bả" />
     <string id="8olqutaL" text="Bắc Phương Phân đoạn Song Thủ ác Bả" />
-    <string id="8S6ZYPFD" text="Viên đầu ưu Chất Cương đoản Phủ đầu" />
+    <string id="8S6ZYPFD" text="Viên Đầu Ưu Chất Cương đoản Phủ đầu" />
     <string id="8T7gNbfM" text="Toản Khổng Khoan đầu Diệp Mâu Nhận" />
     <string id="8x9klENe" text="Phân đoạn Mão Tiếp Cường Hóa ác Bính" />
     <string id="8yb60cDi" text="Đào Hoa Tâm Mộc Trường Mâu ác Bính" />
@@ -321,7 +322,6 @@
     <string id="JanWod6k" text="Trách Hộ Thủ" />
     <string id="JbP7zdes" text="Nam Phương Tiêm đầu Hộ Thủ " />
     <string id="JCYmlrKF" text="Cương Chế Cường Hóa Chùy ác Bính" />
-    <string id="JdboLXbG" text="Chùy đầu" />
     <string id="JfRydy7M" text="Tích Trạng Phách đao Hộ Thủ " />
     <string id="jfyCVJya" text="Huyền Thiết Song Thủ ác Bính" />
     <string id="JIj91e96" text="Khỏa Bì Song Thủ ác Bính" />
@@ -438,7 +438,7 @@
     <string id="NzjHzhwC" text="Viên đầu Bảo Thạch Hộ Thủ " />
     <string id="o2kFafbu" text="Đông Phương Cương Chế Chùy đầu" />
     <string id="O2kPKeuK" text="Thác Kim Vũ Trang Kiếm Nhận" />
-    <string id="OBeOZ27b" text="Yển Nguyệt đao Nhận" />
+    <string id="OBeOZ27b" text="Yển Nguyệt Đao Nhận" />
     <string id="oGPHQt1J" text="Song Thủ Phách đao Cao ác Bính " />
     <string id="OHHpwD0F" text="Trực đao Nhận" />
     <string id="OHl66gsX" text="Đồng Sức Chủy Thủ Hộ Thủ" />
@@ -635,7 +635,6 @@
     <string id="Y4tIQnS4" text="Giản Dịch đoản Mâu đầu" />
     <string id="y5A3HGua" text="Ưu Chất Cương Chế Phái Lạp Mạch ân đao Nhận" />
     <string id="ybjDbw8p" text="Tượng Mộc Chùy Trường ác Bính" />
-    <string id="ybk4YYeV" text="Toản Khổng đan Thủ Phủ đầu" />
     <string id="yD9v5GS0" text="Trang Sức Tùng Mộc ác Bính" />
     <string id="YDG2spCf" text="Đông Phương Quý Tộc Bì Cách ác Bính" />
     <string id="yFm0f44p" text="Tây Phương Tiêm đầu Hộ Thủ " />

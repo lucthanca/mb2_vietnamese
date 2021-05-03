@@ -4,7 +4,6 @@
     <tag language="Tiếng Việt" />
   </tags>
   <strings>
-    <string id="0xC75dN6" text="Quân Địch" />
     <string id="1cnJtNTt" text="({KEY}) Kéo" />
     <string id="1CPdu9K0" text="Đá" />
     <string id="3PP01vFv" text="Tránh xa vũ khí này ra." />
@@ -37,8 +36,11 @@
     <string id="PNg2Rb4p" text="{PEER_NAME} sẽ bị đá{IS_BANNED}" />
     <string id="pzfbPbWW" text="Cự Thạch" />
     <string id="rwZAZSvX" text="({KEY}) Di Chuyển" />
-    <string id="sSJSTe5p" text="Quân Đội Người Chơi" />
     <string id="TJj71hPO" text="({KEY}) Đóng" />
     <string id="wY1qP2qj" text="({KEY}) Lựa Chọn" />
+    <string id="EgTUzWUz" text="Tên không thể để trống!" />
+    <string id="MbXatV1Q" text="Ngắt kết nối" />
+    <string id="oPOa77dI" text="Đã đăng xuất" />
+    <string id="oZrVNUOk" text="Lỗi" />
   </strings>
 </base>

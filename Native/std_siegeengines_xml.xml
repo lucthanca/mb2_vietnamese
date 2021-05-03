@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="Tiếng Việt" />
+  </tags>
+  <strings>
+    <string id="0bPqoNk9" text="Xe Bắn Đá là một vũ khí công thành mạnh mẽ, có thể đặt trên tháp." />
+    <string id="1bbdz9iS" text="Xe Bắn Đá có hiệu quả chống lại các khí giới công thành của đối phương, cũng có thể phá huỷ tường thành." />
+    <string id="4lS8cX6c" text="Nỏ Pháo Lửa giống với Nỏ Pháo thông thường, nhưng mũi tên lửa có hiệu quả hơn với khí giới công thành của đối phương." />
+    <string id="4Skg9QhO" text="Máy Ném Đá Đối Trọng" />
+    <string id="6UPgDokE" text="Công Thành Tháp Tiến Giai" />
+    <string id="8VUZPA6Q" text="Một phiên bản Công Thành Chuỳ nâng cấp." />
+    <string id="9dKklwiv" text="Thang công thành kết cấu đơn giản, dễ chế tạo, nhưng không có khả năng bảo vệ bên công." />
+    <string id="abbALYlp" text="Nỏ Pháo" />
+    <string id="atA20r4C" text="Nỏ Pháo có tác dụng nhắm vào xạ binh của quân địch, cũng có thể giết địch từ vị trí rất xa." />
+    <string id="CbnswkEa" text="Xe Bắn Đá có hiệu quả với khí giới công thành của đối phương, cũng có thể phá huỷ tường thành." />
+    <string id="Ew11a1Tx" text="Xe Bắn Đá" />
+    <string id="G0AWk1rX" text="Thang Công Thành" />
+    <string id="GPESFoWD" text="Xe Bắn Đá" />
+    <string id="hhHcHGrO" text="Công Thành Tháp chắc chắn hơn. có bệ bắn cho cung thủ." />
+    <string id="iLD5Lkto" text="Xe Bắn Đá Lửa" />
+    <string id="jWjnpW52" text="Tháp công thành có thể tiếp cận các bức thành mà không bị trúng tên cũng như giảm lợi thế về độ cao của quân phòng thủ." />
+    <string id="lFl5Ai1a" text="Máy Ném Đá Lửa" />
+    <string id="MaBSSg7I" text="Công Thành Chuỳ" />
+    <string id="NeWvHjCw" text="Nỏ Pháo Lửa" />
+    <string id="nM3ENTEW" text="Xe Bắn Đá Lửa giống với Xe Bắn Đá, nhưng dùng đạn lửa thì sát thương sẽ cao hơn đối với khí giới công thành của kẻ địch." />
+    <string id="pa3E7810" text="Chuẩn bị vây công" />
+    <string id="S6odGUh9" text="Xe Bắn Đá Lửa có tác dụng chống lại các khí giới vây công của đối phương cũng như tường thành, đồng thời còn có thể bắn ra các đạn đá lửa." />
+    <string id="TlP31w8l" text="Xe bắn đá" />
+    <string id="U9MJaX7f" text="Công Thành Chuỳ có thể dùng để phá cổng thành, giúp quân lính tiến vào trong." />
+    <string id="UP0EKlfK" text="Máy Ném Đá Đối Trọng mất thời gian để xây dựng và thiết lập,  nhưng có đủ thời gian thì có thể biến hàng phòng thủ của đối phương thành đống đổ nát." />
+    <string id="uvUHbHoW" text="Bắn Ném Đá Lửa sử dụng đá được bọc lửa thay vì đá thường, hiệu quả chống lại khí giới công thành và sát thương lính." />
+    <string id="Wg2P3acK" text="Xe Bắn Đá Lửa" />
+    <string id="xaHELVnx" text="Tháp Công Thành" />
+    <string id="xBygO7kH" text="Đào hào, san địa hình, thiết lập các vị trí, sẵn sàng cho cuộc tấn công." />
+    <string id="zt0bVSsU" text="Công Thành Chuỳ Cải Tiến" />
+  </strings>
+</base>

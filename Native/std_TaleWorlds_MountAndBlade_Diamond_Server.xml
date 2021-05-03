@@ -1,47 +1,175 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
   <tags>
-    <tag language="Tiếng Việt" />
+    <tag language="English" />
   </tags>
   <strings>
-    <string id="0W4dgUho" text="Banned from game until {BANNEDUNTIL}, Reason: {BANREASON}" />
-    <string id="2xOyWxIo" text="Player is not a party member." />
-    <string id="4XDu4Qcd" text="Only party leader can kick players from the party." />
-    <string id="5kgkZo2o" text="Player you tried to kick is not in your party!" />
-    <string id="91cJB1tP" text="Player {INVITEDPLAYER} is already in party." />
-    <string id="aFQa3pQt" text="You have to be in lobby to promote another player to party leader." />
-    <string id="ah4Pm8wU" text="You must be at lobby to disband your party![Temporary]" />
-    <string id="bcdU2DHW" text="Player {INVITEE} invited to your party by {INVITER}." />
-    <string id="bivF3RXY" text="You cannot promote yourself" />
-    <string id="BwBR7TJB" text="No one left in your party and it has been disbanded!" />
-    <string id="caMylVF7" text="Cannot queue to battle because no enabled game types are selected." />
-    <string id="E2ILp86t" text="Cannot queue to battle because region is not available." />
-    <string id="efpifbtd" text="You must be at lobby to invite someone to your party!" />
-    <string id="emx7txM9" text="Member promotion action can only be performed by the party leader." />
-    <string id="fD2SyeA7" text="You cannot invite yourself to party." />
-    <string id="GZXVxl3E" text="{PLAYERNAME} disconnected. Your party invitation is no longer valid." />
-    <string id="i5ZTTTZw" text="Player {INVITEDPLAYER} is not at lobby." />
-    <string id="jP2hUg7H" text="You are not in a party!" />
-    <string id="kY2oXMng" text="Could not login." />
-    <string id="l6a9vI9z" text="Only party leader can invite other players." />
-    <string id="mcAG0eHJ" text="You must be at lobby to kick someone from your party![Temporary]" />
-    <string id="MepGBJMQ" text="Player you attempted to promote could not be found" />
-    <string id="mvQKpHXH" text="Your party is full." />
-    <string id="nJ7aEkRt" text="You are invited to party by {PLAYERNAME}." />
-    <string id="nw7r2S5z" text="Selected disabled game type(s): {GAMETYPES}." />
-    <string id="OByu0fjQ" text="Cannot queue to battle because not all players are ready in your party." />
-    <string id="olLwOWf8" text="Cannot queue to battle because not all players are using anti-cheat." />
-    <string id="p5K0ATtZ" text="Could not destroy your old session." />
-    <string id="pehfmZvM" text="Player {PLAYERNAME} was promoted to party leader." />
-    <string id="Pn13ZKwI" text="Your party has been disbanded!" />
-    <string id="Rj8RhD7F" text="Failed" />
-    <string id="Tauk2JzA" text="Version mismatch, Server Version: {SERVERVERSION} - Your Version: {CLIENTVERSION}." />
-    <string id="TpBDiSBp" text="{PLAYERNAME} was assigned party leader." />
-    <string id="VDDm5bqb" text="You can only invite players running the game with Anti-cheat." />
-    <string id="w8WiqZT3" text="You must run the game with Anti-cheat to join or create a party!" />
-    <string id="wNubP2BF" text="Only party leader can queue for games." />
-    <string id="xMa4QqvL" text="Current players in party: {PLAYERS}" />
-    <string id="ysfEQO6c" text="Player not found" />
-    <string id="zyDyPr4I" text="Player you tried to promote is not in your party." />
+    <string id="0auJT5XB" text="Không hợp lệ." />
+    <string id="0kNoZUjm" text="Bạn phải trong một đội mới nhìn được danh sách gia tộc." />
+    <string id="0MDEP0jy" text="Bạn không thể mời chính mình " />
+    <string id="0W4dgUho" text="Bị ban cho đến {BANNEDUNTIL}, Lý do: {BANREASON}" />
+    <string id="0XY1VKVB" text="Đội của bạn không đủ điều kiện để tham gia trò chơi gia tộc." />
+    <string id="0y5Noakb" text="Bạn đã chấp nhận yêu cầu kết bạn " />
+    <string id="1UQf3p3c" text="Đã thay đổi phe phái thành công. " />
+    <string id="214JTH4p" text="Bạn phải là trưởng nhóm để xóa vai trò chưởng sự của ai đó. " />
+    <string id="29Zi8mbz" text="Người chơi ở trong một gia tộc khác." />
+    <string id="2addADLo" text="Không tìm thấy người chơi." />
+    <string id="2HaPlivW" text="{PLAYERNAME} đã từ chối lời mời tham gia gia tộc. " />
+    <string id="2o6DMRDU" text="Người chơi này không phải là một chưởng sự. " />
+    <string id="2xOyWxIo" text="Người chơi không phải là một thành viên trong nhóm. " />
+    <string id="3EOP6yhO" text="Bạn đã bị đá bởi anti-cheat. Lý do: {KICKREASON} " />
+    <string id="3NxaSDgg" text="Bạn không phải là một chưởng sự. " />
+    <string id="4lNl8zS2" text="Bạn không thể đề nghị ai đó tham gia nhóm với tư cách là trưởng nhóm." />
+    <string id="4XDu4Qcd" text="Chỉ người đứng đầu nhóm mới có thể đuổi người chơi khỏi nhóm. " />
+    <string id="541adTbO" text="Bạn phải ở sảnh để tiêu diệt một gia tộc. " />
+    <string id="57dvnv3v" text="Người chơi bị xóa khỏi gia tộc. " />
+    <string id="5f2XMbJp" text="Bạn phải ở sảnh để đá một người nào đó từ gia tộc của bạn. " />
+    <string id="5kgkZo2o" text="Người chơi bạn đã cố gắng đá không có trong nhóm của bạn!" />
+    <string id="6cMSAe2Z" text="Không thể báo cáo người chơi. Không thể tìm thấy người chơi." />
+    <string id="8O8XqtqZ" text="Bạn phải có mặt tại sảnh để xóa thông báo của gia tộc." />
+    <string id="91cJB1tP" text="Người chơi {INVITEDPLAYER} đã tham gia nhóm. " />
+    <string id="963x2S0a" text="Đã xoá hảo hữu." />
+    <string id="9uUOpV6r" text="Bạn phải ở sảnh để thêm thông báo." />
+    <string id="AAnoAhox" text="Không thể thay đổi chế độ trò chơi đã chọn " />
+    <string id="aFQa3pQt" text="Bạn phải ở sảnh để thăng cấp một người chơi khác lên vị trí trưởng nhóm." />
+    <string id="ah4Pm8wU" text="Bạn phải có mặt tại sảnh để giải tán nhóm!" />
+    <string id="AIgw3aFG" text="Không thể tham gia hàng đợi vì có một vài người chơi bị cấm tham gia ghép trận." />
+    <string id="Ajw0d4dW" text="Sai mật khẩu." />
+    <string id="APQ0kNVj" text="Thẻ gia tộc không hợp lệ." />
+    <string id="b5zLPqyM" text="Người chơi được mời tham gia trò chơi " />
+    <string id="b72mIrOl" text="Bạn phải tham gia nhóm để tạo một gia tộc." />
+    <string id="baHOuMTb" text="Đã thêm thông báo thành công. " />
+    <string id="bB5p8KpK" text="Gia tộc văn chương không hợp lệ." />
+    <string id="bcdU2DHW" text="Người chơi {INVITEE} được {INVITER} mời tham gia nhóm của bạn." />
+    <string id="BDVYCAdP" text="Người chơi được mời không ở sảnh. " />
+    <string id="bivF3RXY" text="Bạn không thể thay đổi trưởng nhóm khi đang trong quá trình tạo gia tộc. " />
+    <string id="bMLqfPRv" text="Bạn không ở trong một gia tộc. " />
+    <string id="BwBR7TJB" text="Không còn ai trong nhóm của bạn và nó đã bị giải tán!" />
+    <string id="bXhuyedw" text="Bạn phải là tộc trưởng hoặc chưởng sự để đá ai đó." />
+    <string id="BYv1Laa4" text="Bạn phải ở trong một gia tộc để thêm thông báo.\" />
+    <string id="ca5nyktO" text="Nhưng bạn không ở trong một gia tộc. " />
+    <string id="caMylVF7" text="Không thể xếp hàng để tham gia trận chiến vì không có loại trò chơi nào được bật được chọn. " />
+    <string id="cBY4Mymw" text="Đã báo cáo người chơi. " />
+    <string id="d4eShU5x" text="{PLAYER} đã chấp nhận yêu cầu kết bạn của bạn " />
+    <string id="dabogDDj" text="Các bạn đã là bạn bè" />
+    <string id="DAhyeheV" text="Bạn phải có mặt tại sảnh để thay đổi văn bản thông tin gia tộc. " />
+    <string id="dbLB0tuT" text="Chia sẻ gia đình không được phép." />
+    <string id="dDF2wZGu" text="{PLAYER} declined your friend request" />
+    <string id="dHlxVbMw" text="Bạn đã ở trong một gia tộc. " />
+    <string id="Dmz3JLyp" text="Người chơi được mời vào gia tộc. " />
+    <string id="dUddJ8jQ" text="Bạn phải là tộc trưởng hoặc chưởng sự để thay đổi phe." />
+    <string id="E2ILp86t" text="Không thể tham gia hàng đợi vì khu vực không khả dụng. " />
+    <string id="e4KkGrbh" text="Chỉ có thủ lĩnh hoặc chưởng sự của tộc mới có thể xóa thông báo. " />
+    <string id="e9LrrgAH" text="Thông cáo không tồn tại.&#xA;" />
+    <string id="efpifbtd" text="Bạn phải ở sảnh để mời ai đó vào nhóm!" />
+    <string id="emx7txM9" text="Việc tăng cấp thành viên chỉ có thể được thực hiện bởi trưởng nhóm. " />
+    <string id="eozBcVaB" text="Bạn không thể tự tăng cấp bản thân thành chưởng sự gia tộc." />
+    <string id="f4iavKkb" text="Bạn bị khoá mõm cho tới khi {MUTEDUNTIL}, Lý do: {MUTEREASON}" />
+    <string id="fD2SyeA7" text="Bạn không thể mời chính bản thân mình vào nhóm. " />
+    <string id="fN1SCUwa" text="Người chơi {SUGGESTEDPLAYER} được đề xuất để được mời tham gia nhóm. " />
+    <string id="fZC7pBba" text="Bạn chỉ có thể đề xuất người chơi, mà người đó phải chạy game với Anti-cheat." />
+    <string id="gPnHnLMe" text="Bạn phải có mặt tại sảnh để mời ai đó vào gia tộc. " />
+    <string id="gXkTPJ8w" text="Người chơi {SUGGESTEDPLAYER} đã tham gia một gia tộc." />
+    <string id="GZXVxl3E" text="{PLAYERNAME} đã bị ngắt kết nối. Lời mời tham gia nhóm của bạn không còn hợp lệ." />
+    <string id="hav7yZyB" text="Không có văn bản nào được nhập. " />
+    <string id="HKzZOfac" text="Ngươi chơi đã được đề thăng thành tộc trưởng." />
+    <string id="hqK9565f" text="Loại trò chơi không hợp lệ. " />
+    <string id="HSBbIVKB" text="Người chơi đã được đề thăng thành công lên làm gia tộc chưởng sự." />
+    <string id="hsJt9Iaa" text="Bạn phải có mặt tại sảnh để xem danh sách trò chơi gia tộc. " />
+    <string id="i3sq6BMI" text="Bạn phải có mặt tại sảnh để chỉnh sửa thông báo của gia tộc" />
+    <string id="i5ZTTTZw" text="Người chơi {INVITEDPLAYER} không ở sảnh. " />
+    <string id="IDi4QTTc" text="Bạn phải là tộc trưởng hoặc chưởng sự để thêm thông báo. " />
+    <string id="iG72AMy8" text="Văn bản thông tin đã được thay đổi thành công. " />
+    <string id="JgdLtL2O" text="Người chơi được mời đã ở trong một gia tộc. " />
+    <string id="JiaOl6MR" text="Bạn phải là tộc trưởng hoặc chưởng sự mới có thể thay đổi gia tộc thông cáo." />
+    <string id="jl8MYbLR" text="Yêu cầu kết bạn của bạn được chuyển tiếp đến {PLAYER}. " />
+    <string id="jP2hUg7H" text="Bạn không ở trong một nhóm!" />
+    <string id="K0mSh8Hw" text="Nhóm của bạn không có đủ người chơi để tạo gia tộc." />
+    <string id="KCtYUaag" text="Bạn đã gửi một yêu cầu " />
+    <string id="kGkBHfpR" text="Người chơi đã được mời vào gia tộc khác. " />
+    <string id="KLaW0bOz" text="Bạn phải ở sảnh để tạo gia tộc." />
+    <string id="kTiV7Hzl" text="Bạn phải ở sảnh. " />
+    <string id="kY2oXMng" text="Không đăng nhập được." />
+    <string id="l6a9vI9z" text="Chỉ trưởng nhóm mới có thể mời những người chơi khác." />
+    <string id="LbUlhYVa" text="Bạn phải có mặt tại sảnh để đề xuất ai đó vào nhóm mình." />
+    <string id="LjwYbHFL" text="Bạn phải là tộc trưởng mới có thể đề thăng ai đó." />
+    <string id="LnYKBQ0Q" text="Bạn phải là tộc trưởng hoặc chưởng sự mới có thể thay đổi văn chương." />
+    <string id="lVWJRrvx" text="Trò chơi đã bị huỷ bởi {PLAYERNAME}" />
+    <string id="M8x38ZZZ" text="Người chơi không thuộc gia tộc của bạn." />
+    <string id="mcAG0eHJ" text="Bạn phải ở sảnh để loại ai đó khỏi nhóm của bạn! [Tạm thời]" />
+    <string id="mdH4S8Kx" text="Bạn phải ở trong một nhóm để đề xuất một người nào đó vào nhóm của bạn." />
+    <string id="MepGBJMQ" text="Không tìm thấy người chơi bạn muốn đề thăng." />
+    <string id="MgGvnobq" text="Bản đồ đã chọn không có sẵn. " />
+    <string id="MowSn4ch" text="Không tìm thấy game." />
+    <string id="Mp9I9aqd" text="Bạn phải ở trong một gia tộc mới có thể thay đổi thông tin gia tộc." />
+    <string id="mvQKpHXH" text="Nhóm của bạn đã đầy." />
+    <string id="n1MdWtck" text="Bạn giờ là bạn với {PLAYER}" />
+    <string id="nJ7aEkRt" text="Bạn được {PLAYERNAME} mời tham gia nhóm." />
+    <string id="nlYK3i5a" text="Tên gia tộc không hợp lệ." />
+    <string id="nQWwqDmn" text="Bạn đã nhận được lời mời kết bạn từ {PLAYER} " />
+    <string id="nw7r2S5z" text="(Các) loại trò chơi bị vô hiệu hóa đã chọn: {GAMETYPES}. " />
+    <string id="nZlu3Moe" text="Rời khỏi gia tộc." />
+    <string id="o7aafEKw" text="Bạn phải là tộc trưởng để có thể chỉ định ai đó là chưởng sự." />
+    <string id="OByu0fjQ" text="Không thể tham gia hàng đợi vì tất cả người chơi trong nhóm chưa sẵn sàng." />
+    <string id="OfCk5NMA" text="Phe phái gia tộc không hợp lệ." />
+    <string id="oFfMEy1S" text="Không thể tìm thấy yêu cầu kết bạn " />
+    <string id="olLwOWf8" text="Không thể tham gia hàng đợi vì không phải tất cả ngươi chơi đều đang sử dụng anti-cheat." />
+    <string id="OpXyfrcb" text="Bạn không thể bổ nhiệm cao hơn" />
+    <string id="OsRgBZq2" text="Bạn phải tham gia một nhóm mới có thể tạo gia tộc." />
+    <string id="P0aRStg4" text="Không thể tham gia hàng đợi vì bạn bị cấm ghép trận." />
+    <string id="P3JTNI9P" text="Bạn không thể tự đề thăng mình thành trưởng tộc." />
+    <string id="p5K0ATtZ" text="Không thể hủy phiên cũ của bạn. " />
+    <string id="pehfmZvM" text="Người chơi {PLAYERNAME} đã được thăng cấp thành trưởng nhóm." />
+    <string id="pKNTLYQP" text="Văn bản không được dài hơn {MAX_LENGTH} ký tự. " />
+    <string id="Pn13ZKwI" text="Nhóm đã bị giải tán!" />
+    <string id="pP4w0TQa" text="Chỉ tộc trưởng hoặc chưởng sự mới có thể thay đổi thông cáo." />
+    <string id="qHGkxNWJ" text="Văn chương gia tộc không hợp lệ." />
+    <string id="QHnxKHkV" text="Bạn không ở trong một nhóm." />
+    <string id="qoto9N7y" text="Không tìm thấy hảo hữu này" />
+    <string id="rfaIXasP" text="Thay đổi gia tộc văn chương thành công." />
+    <string id="rI8gE2Qh" text="Đã xoá thông báo thành công." />
+    <string id="Rj8RhD7F" text="Thất bại" />
+    <string id="rkxTEFGp" text="Người chơi không online" />
+    <string id="RV60avUq" text="Bạn phải là trưởng nhóm để tạo một trò chơi gia tộc." />
+    <string id="S7Y5Suho" text="Bạn không thể đề xuất chính bản thân tham gia nhóm." />
+    <string id="sa138Btz" text="Bạn phải tạo một trò chơi gia tộc để huỷ bỏ nó." />
+    <string id="SfBU7exM" text="Bạn phải ở trong một gia tộc để tạo một trò chơi gia tộc. " />
+    <string id="SIT1tREw" text="Bạn không thể thêm chính mình làm bạn" />
+    <string id="sov81CZ5" text="ID Lãnh Chúa của bạn đã được cập nhật thành công" />
+    <string id="SvHP9TXr" text="Người chơi chưa sẵn sàng." />
+    <string id="T96cPmJT" text="Trò chơi gia tộc không còn tồn tại." />
+    <string id="Tauk2JzA" text="Phiên bản không khớp, Phiên bản máy chủ: {SERVERVERSION} - Phiên bản của bạn: {CLIENTVERSION}. " />
+    <string id="TKv0vF7H" text="Bạn phải ở sảnh để thay đổi gia tộc văn chương." />
+    <string id="TpBDiSBp" text="{PLAYERNAME} đã được chỉ định thành trưởng nhóm." />
+    <string id="TPCm8PRy" text="Bạn không phải là trưởng nhóm." />
+    <string id="TuORvMMq" text="Tên chưởng sự." />
+    <string id="UcUqJcr9" text="Bạn không thể mời một người chơi trực tuyến vào trò chơi " />
+    <string id="ujLHwcn8" text="Người chơi {SUGGESTEDPLAYER} không ở sảnh." />
+    <string id="UMNzrvvJ" text="Bạn bị tham gia ghép trận trong {PUNISHMENT DURATION} giây." />
+    <string id="uqqqWl6f" text="Nhóm không đủ điều kiện tham gia trò chơi gia tộc." />
+    <string id="VaWafSkY" text="Bạn phải ở sảnh để tạo một trò chơi gia tộc." />
+    <string id="VDDm5bqb" text="Bạn chỉ có thể mời những người chơi đang chạy trò chơi với Anti-cheat. " />
+    <string id="voOrIr0b" text="{PLAYERNAME} đã chấp nhận lời mời gia nhập. " />
+    <string id="vVAzWAGc" text="Bạn phải là tộc trưởng mới có thể giải tán gia tộc." />
+    <string id="vXJFMikj" text="Bạn phải là tộc trưởng hoặc chưởng sự mới có thể mời ai đó vào gia tộc." />
+    <string id="w8WiqZT3" text="Bạn phải chạy trò chơi với Anti-cheat để tham gia hoặc tạo nhóm! " />
+    <string id="wNubP2BF" text="Chỉ có trưởng nhóm mới có thể tham gia tìm trận đấu." />
+    <string id="WppypzjS" text="Bạn phải ở sảnh để thay đổi phe phái gia tộc." />
+    <string id="X6N9nSn0" text="Bạn không được phép đăng nhập vào máy chủ này. Vui lòng thử các máy chủ công cộng chính thức. " />
+    <string id="Xb6TEi3o" text="Bạn đã từ chối yêu cầu kết bạn " />
+    <string id="XgQQPZsn" text="Bạn không thể tự mời chính mình. " />
+    <string id="xHqjCamt" text="Không thể báo cáo người chơi. Trò chơi không thể được tìm thấy." />
+    <string id="xMa4QqvL" text="Số người hiện tại trong nhóm: {PLAYERS}" />
+    <string id="y0dKQ8pL" text="Thông báo đã thay đổi thành công. " />
+    <string id="YF0irfDl" text="hông thể tìm thấy người chơi " />
+    <string id="yfbK8Eae" text="Người chơi không thuộc gia tộc của bạn" />
+    <string id="YGfHWmNS" text="Không thể thay đổi vùng" />
+    <string id="yQyozBBX" text="Nhóm của bạn không đủ điều kiện để tạo trò chơi gia tộc. " />
+    <string id="ysfEQO6c" text="Không tìm thấy người chơi" />
+    <string id="yzbtGJ5G" text="Bạn không được phép thực hiện hành động này. " />
+    <string id="z40g0BmW" text="Không thể cập nhật ID Lãnh Chúa" />
+    <string id="z4kZU2kf" text="Đã tước bỏ chức vị chưởng sự của người chơi." />
+    <string id="ZtktMXDw" text="Bạn không ở trong một gia tộc." />
+    <string id="zyDyPr4I" text="Người chơi bạn muốn đề thăng lên không có trong nhóm của bạn." />
   </strings>
 </base>

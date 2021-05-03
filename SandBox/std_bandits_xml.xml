@@ -4,27 +4,27 @@
     <tag language="Tiếng Việt" />
   </tags>
   <strings>
-    <string id="0Ikzzm71" text="hilu phuong Sea Raider Chief" />
-    <string id="0qDNS83n" text="Nomad Bandit" />
-    <string id="9laVlEH9" text="Hillmen" />
-    <string id="Awc23bFS" text="Marauder" />
-    <string id="Bg63YFnh" text="Steppe Bandit Boss" />
-    <string id="C1Fkzdvu" text="Sea Raider Boss" />
-    <string id="C8DE6L73" text="Deserter" />
-    <string id="cbnvgVhH" text="Raider" />
-    <string id="cdbSCr6G" text="Harami" />
-    <string id="dc2qxanZ" text="Forest Bandit Boss" />
-    <string id="dq2cP8h0" text="Sea Raider" />
-    <string id="HadsURl8" text="Bushwacker" />
-    <string id="Nr8NkHXU" text="Sea Raider Warrior" />
-    <string id="P6Md9DpR" text="Highwayman" />
-    <string id="Q2V4uQrr" text="Desert Bandit Boss" />
-    <string id="sFgODQ1q" text="Forest Bandit" />
-    <string id="uOAnHN47" text="Bedouin Rover" />
-    <string id="urUwa4bf" text="Looter" />
-    <string id="ZA4bgJ5V" text="Steppe Bandit" />
-    <string id="ziOBJSzR" text="Mountain Bandit Boss" />
-    <string id="ZKdiaaFo" text="Brigand" />
-    <string id="ZxmBdWTu" text="Freebooter" />
+    <string id="0Ikzzm71" text="Hải Khấu Đầu Tử" />
+    <string id="0qDNS83n" text="Du Mục Cường Đạo" />
+    <string id="9laVlEH9" text="Sơn Tặc" />
+    <string id="Awc23bFS" text="Lỗ Lược Giả" />
+    <string id="Bg63YFnh" text="Thảo Nguyên Mã Phỉ Đầu Lĩnh" />
+    <string id="C1Fkzdvu" text="Cướp Biển Đầu Lĩnh" />
+    <string id="C8DE6L73" text="Đào Binh" />
+    <string id="cbnvgVhH" text="Lược Tập Giả" />
+    <string id="cdbSCr6G" text="Cáp Lạp Mễ" />
+    <string id="dc2qxanZ" text="Sâm Lâm Cường Đạo Đầu Lĩnh" />
+    <string id="dq2cP8h0" text="Cướp Biển" />
+    <string id="HadsURl8" text="Kẻ Phục Kích" />
+    <string id="Nr8NkHXU" text="Hải Khấu Dũng Sĩ" />
+    <string id="P6Md9DpR" text="Cường Đạo Chặn Đường" />
+    <string id="Q2V4uQrr" text="Đầu Lĩnh Cường Đạo Sa Mạc" />
+    <string id="sFgODQ1q" text="Sâm Lâm Cường Đạo" />
+    <string id="uOAnHN47" text="Dân lưu lạc Bối Đô Nhân" />
+    <string id="urUwa4bf" text="Giặc Cướp" />
+    <string id="ZA4bgJ5V" text="Thảo Nguyên Mã Phỉ" />
+    <string id="ziOBJSzR" text="Thủ Lĩnh Sơn Tặc" />
+    <string id="ZKdiaaFo" text="Thổ Phỉ" />
+    <string id="ZxmBdWTu" text="Kiếp Lược Giả" />
   </strings>
 </base>

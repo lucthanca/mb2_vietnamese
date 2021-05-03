@@ -5,74 +5,76 @@
   </tags>
   <strings>
     <string id="2wclahIJ" text="Ném" />
-    <string id="4kvKQuXM" text="Da thú" />
+    <string id="4kvKQuXM" text="Da thú{@Plural}đầy một xe da thú{\@}" />
     <string id="5rj7xQE4" text="Cung" />
-    <string id="7HvtT8bm" text="Thép tôi" />
-    <string id="81YLbLok" text="Experience with the darker side of human life. You can tell when a guard wants a bribe, you know how to intimidate someone, and have a good sense of what you can and can't get away with." />
-    <string id="8w0aaDbn" text="Sắt" />
-    <string id="97EmbcHQ" text="The ability to inspire. You can fill individuals with confidence and stir up enthusiasm and courage in larger groups." />
-    <string id="abxndmIh" text="Xã hội" />
+    <string id="7HvtT8bm" text="Thép tôi{@Plural}xe Thép tôi {\@}" />
+    <string id="81YLbLok" text="Trải nghiệm các mặt tối của cuộc sống. Có thể nhận biết được khi nào cảnh vệ muốn ăn hối lộ, hiểu được cách đe doạ người khác, và biết được mình có thể hoặc không thể làm cái gì." />
+    <string id="8w0aaDbn" text="Sắt{@Plural}một xe sắt{\@}" />
+    <string id="97EmbcHQ" text="Khả năng khích lệ. Có thể giúp cho người ta tràn ngập tự tin, khơi dậy sự nhiệt tình, dũng khí trong nhóm." />
     <string id="Aj3zqQq4" text="Không có sẵn" />
-    <string id="azjMBa86" text="Thép chất lượng cao" />
+    <string id="azjMBa86" text="Thép chất lượng cao{@Plural}xe Thép chất lượng cao{\@}" />
     <string id="Bn7IsMpu" text="TRÍ LỰC" />
     <string id="bVD9j0wI" text="Thể lực, tốc độ và sự cân bằng." />
     <string id="d2ApwXJr" text="CHỊU ĐỰNG" />
-    <string id="EGeY1gfs" text="MỊ LỰC" />
-    <string id="eoLbkhsY" text="Mastery of fighting with two-handed weapons of average length such as bigger axes and swords." />
-    <string id="ExjMoUiT" text="Hardwood" />
-    <string id="FLf5J3su" text="Familarity with bows and physical conditioning to shoot with them effectively." />
-    <string id="FQOFDrAu" text="Your judgment of how troops will perform in contact. This allows you to make a good prediction of when an unorthodox tactic will work, and when it won't." />
-    <string id="GmcgoiGy" text="Trade" />
-    <string id="gOpodlt1" text="Crude Iron" />
-    <string id="H9Zamrao" text="The ability to control a horse, to keep your balance when it moves suddenly or unexpectedly, as well as general knowledge of horses, including their care and breeding." />
-    <string id="haax8kMa" text="Polearm" />
-    <string id="haV3nLYA" text="Knowledge of operating and maintaining crossbows." />
-    <string id="hbaMnpVR" text="Knowledge of how to make things that can withstand powerful forces without collapsing. Useful for building both structures and the devices that knock them down." />
-    <string id="HsLfmEmb" text="Leadership" />
-    <string id="HuXafdmR" text="CTR" />
-    <string id="igg5sEh3" text="Knowledge of how to staunch bleeding, to set broken bones, to remove embedded weapons and clean wounds to prevent infection, and to apply poultices to relieve pain and soothe inflammation." />
-    <string id="iKmXX7i3" text="Mastery of the spear, lance, staff and other polearms, both one-handed and two-handed." />
-    <string id="iQadPYNe" text="Charcoal" />
-    <string id="Itv3fgJm" text="Grain" />
-    <string id="jJ9sLOLb" text="Vigor represents the ability to move with speed and force. It's important for melee combat." />
-    <string id="JKH59XNp" text="Medicine" />
-    <string id="JZM1mQvb" text="Cunning" />
-    <string id="K8rCOQUZ" text="Endurance is the ability to perform taxing physical activity for a long time." />
-    <string id="kmBxaJZd" text="Knowledge of how to scan the wilderness for life. You can follow tracks, spot movement in the undergrowth, and spot an enemy across the valley from a flash of light on spearpoints or a dustcloud." />
-    <string id="kvOavzcs" text="Endurance" />
-    <string id="Kw6BkhIf" text="Iron Ore" />
-    <string id="LJ6Krlbr" text="Scouting" />
-    <string id="LmwhFv5p" text="Meat" />
-    <string id="lsJMCkZy" text="Familiarity with the most common goods in the marketplace and their prices, as well as the ability to spot defective goods or tell if you've been shortchanged in quantity" />
-    <string id="m8o51fc7" text="Tactics" />
-    <string id="n3cjEB0X" text="Tools" />
-    <string id="NwTpATW5" text="Mastery of throwing projectiles accurately and with power." />
-    <string id="p9i3zRm9" text="Riding" />
-    <string id="PCZ23wvW" text="Engineering" />
-    <string id="PHoxdReD" text="SOC" />
-    <string id="PiHpR4QL" text="One Handed" />
-    <string id="qwEJSBaH" text="Your knowledge of what makes a settlement prosper. This helps you to manage an estate or administer a town." />
-    <string id="skZS2UlW" text="Athletics" />
-    <string id="sOrJoxiC" text="Intelligence" />
-    <string id="t78atYqH" text="Two Handed" />
-    <string id="TeUtEGV0" text="Intelligence represents aptitude for reading and theoretical learning." />
-    <string id="tH6Ooj0P" text="CNG" />
-    <string id="TTWL7RLe" text="Crossbow" />
-    <string id="UfuLKuaI" text="Steel" />
-    <string id="Uz1HHeKg" text="Crafted Random Weapon" />
-    <string id="uZhHh7pm" text="Crafted {CURR_TEMPLATE_NAME}" />
-    <string id="V0ZMJ0PX" text="Roguery" />
-    <string id="VajIVjkc" text="The ability to make a person like and trust you. You can make a good guess at people's motivations and the kinds of arguments to which they'll respond." />
-    <string id="Ve8xoa3i" text="VIG" />
-    <string id="vLVAfcta" text="Thamaskene Steel" />
-    <string id="vx0OCvaj" text="Control represents the ability to use strength without sacrificing precision. It's necessary for using ranged weapons." />
-    <string id="XMDTt96y" text="Social is the ability to understand people's motivations and to sway them." />
-    <string id="xs0MpdCM" text="Smithing" />
-    <string id="xWbkjccP" text="The knowledge of how to forge metal, match handle to blade, turn poles, sew scales, and other skills useful in the assembly of weapons and armor" />
-    <string id="yEkSSqIm" text="Mastery of fighting with one-handed weapons either with a shield or without." />
-    <string id="Ymw2PKBo" text="Steward" />
-    <string id="YO5LUfiO" text="Cunning is the ability to predict what other people will do, and to outwit their plans." />
-    <string id="YWkdD7Ki" text="Vigor" />
-    <string id="zfRqM4mr" text="Control" />
+    <string id="EGeY1gfs" text="Mị Lực" />
+    <string id="eoLbkhsY" text="Thành thạo chiến đấu sử dụng vũ khí hai tay có chiều dài trung bình như rìu và kiếm lớn." />
+    <string id="ExjMoUiT" text="Ngạnh Mộc{@Plural}ngạnh mộc thô{\@}" />
+    <string id="FLf5J3su" text="Làm quen với cung và các điều kiện vật lý để bắn chung một cách hiệu quả." />
+    <string id="FQOFDrAu" text="Phán đoán được binh lính trong chiến đấu sẽ như nào. Từ đó có thể dự đoán được khi nào nên dùng sách lược nào cho hiệu quả hoặc không." />
+    <string id="GmcgoiGy" text="Buôn Bán" />
+    <string id="gOpodlt1" text="Gang{@Plural}một xe gang{\@}" />
+    <string id="H9Zamrao" text="Năng lực khống chế một con ngựa, giữ chúng cân bằng khi di chuyển một cách bất ngờ, cũng như kiến thức chung về chúng bao gồm chăm sóc nuôi dưỡng." />
+    <string id="haax8kMa" text="Cán Dài" />
+    <string id="haV3nLYA" text="Kiến thức vận hành và bảo dưỡng nỏ" />
+    <string id="hbaMnpVR" text="Kiến thức về việc chế tạo những vật chịu được lực mạnh mà không bị sụp đổ. Hữu ích khi xây dựng công trình kiến trúc hoặc khí giới công thành." />
+    <string id="HsLfmEmb" text="Lãnh Đạo" />
+    <string id="HuXafdmR" text="ĐIỀU KHIỂN" />
+    <string id="igg5sEh3" text="Kiến thức về cầm máu, cố định xương gãy, loại bỏ vũ khí khỏi vết thương và làm sạc chúng để ngăn nhiễm trùng, đồng thời biết áp dụng thuốc đắp để giảm đau và làm dịu viêm." />
+    <string id="iKmXX7i3" text="Thông thạo giáo, thương, trượng và các loại vũ khí khác cả một tay và hai tay." />
+    <string id="iQadPYNe" text="Than củi{@Plural}thành xe than củi{\@}" />
+    <string id="Itv3fgJm" text="Ngũ Cốc{@Plural}một xe ngũ cốc{\@}" />
+    <string id="jJ9sLOLb" text="Hoạt lực là năng lực di chuyển với tốc độ và lực lượng. Quan trọng với chiến đấu cận chiến." />
+    <string id="JKH59XNp" text="Y Thuật" />
+    <string id="JZM1mQvb" text="Xảo Trá" />
+    <string id="K8rCOQUZ" text="Sức Chịu Đựng là năng lực thực hiện các hoạt động tốn thể lực trong một thời gian dài." />
+    <string id="kmBxaJZd" text="Kiến thức sinh sống hoang dã. Bạn có thể theo dấu, phát hiện các chuyển động trong bụi rậm, phát hiện kẻ thù thông qua ánh mặt trời phản chiếu trên mũi giáo hoặc một đám cây bụi." />
+    <string id="kvOavzcs" text="Sức Chịu Đựng" />
+    <string id="Kw6BkhIf" text="Quặng Sắt{@Plural}một xe quặng sắt{\@}" />
+    <string id="LJ6Krlbr" text="Trinh Sát" />
+    <string id="LmwhFv5p" text="Thịt{@Plural}đầy một xe thịt{\@}" />
+    <string id="lsJMCkZy" text="Quen thuộc với hàng hoá phổ biến trên thị trường và giá cả của chúng, cũng như phát hiện hàng hoá đểu hoặc mình có bị mua hụt về số lượng không." />
+    <string id="m8o51fc7" text="Chiến Thuật" />
+    <string id="n3cjEB0X" text="Công cụ{@Plural}xe công cụ{\@}" />
+    <string id="NwTpATW5" text="Thông thạo ném một cách chính xác và mạnh mẽ." />
+    <string id="p9i3zRm9" text="Kỵ Thuật" />
+    <string id="PHoxdReD" text="XÃ GIAO" />
+    <string id="PiHpR4QL" text="Một Tay" />
+    <string id="skZS2UlW" text="Chạy" />
+    <string id="sOrJoxiC" text="Trí lực" />
+    <string id="t78atYqH" text="Hai Tay" />
+    <string id="TeUtEGV0" text="Trí Lực đại diện cho việc đọc và học tập." />
+    <string id="tH6Ooj0P" text="XẢOTRÁ" />
+    <string id="TTWL7RLe" text="Nỏ" />
+    <string id="UfuLKuaI" text="Thép{@Plural}một xe thép{\@}" />
+    <string id="Uz1HHeKg" text="Chế Tạo Vũ Khí Ngẫu Nhiên" />
+    <string id="uZhHh7pm" text="{CURR_TEMPLATE_NAME} Được Chế Tạo" />
+    <string id="V0ZMJ0PX" text="Lưu Manh" />
+    <string id="VajIVjkc" text="Năng lực giúp một người nào đó thích và tín nhiệm bạn. Bạn có thể phỏng đoán chính xác về lời nói của mọi người cũng như khi tranh luận sẽ đáp lại như nào." />
+    <string id="Ve8xoa3i" text="HOẠT LỰC" />
+    <string id="vLVAfcta" text="Thép Tinh Luyện{@Plural}một xe Thép Tinh Luyện{\@}" />
+    <string id="vx0OCvaj" text="Điều Khiển là năng lực sử dụng lực mà không bị giảm độ chính xác. Không thể thiếu khi sử dụng vũ khí tầm xa." />
+    <string id="XMDTt96y" text="Xã Giao là năng lực hiểu việc thuyết phục người khác." />
+    <string id="xWbkjccP" text="Hiểu được cách rèn đúc kim loại, như nào thì khớp cán dao và lưỡi dao, khâu giáp như nào, cùng với các kỹ năng khác trong việc lắp ráp vũ khí, áo ráp." />
+    <string id="yEkSSqIm" text="Thành thạo chiến đấu sử dụng vũ khí 1 tay có khiên hoặc không." />
+    <string id="YO5LUfiO" text="Xảo Trá là năng lực có thể dự đoán được những hành động của người khác và lường gạt kế hoạch của họ." />
+    <string id="YWkdD7Ki" text="Hoạt Lực" />
+    <string id="2K0iVRkW" text="Khả năng tổ chức tập thể và quản lý hậu cần. Điều này có thể trợ giúp bạn điều hành một điền trang hoặc quản lý thành trấn và còn có thể tăng quy mô quân đội mà bạn lãnh đạo hoặc là ở cái mà bạn đang đảm nhận Quan Hậu Cần." />
+    <string id="controlskill" text="Điều khiển" />
+    <string id="engineeringskill" text="Kỹ Thuật" />
+    <string id="smithingskill" text="Rèn Đúc" />
+    <string id="socialskill" text="Xã Giao" />
+    <string id="stewardskill" text="Quản Lý" />
+    <string id="ZBmz4niK" text="và" />
+    <string id="ZvZN6UkU" text="Rác" />
   </strings>
 </base>

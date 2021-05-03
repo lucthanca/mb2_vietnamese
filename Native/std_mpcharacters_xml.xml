@@ -4,52 +4,48 @@
     <tag language="Tiếng Việt" />
   </tags>
   <strings>
-    <string id="09gOOa0h" text="Ranger" />
-    <string id="1sJcKkVP" text="Guard" />
-    <string id="4C4WiTb2" text="Varyag" />
-    <string id="6aqDcMPr" text="Max Armor (55)" />
-    <string id="8qg72H8Z" text="Tribal Warrior" />
-    <string id="afhXdjBU" text="Nomad" />
-    <string id="bHx8jaeI" text="Warrior" />
-    <string id="CAYZDsAj" text="Legionary" />
-    <string id="cbnvgVhH" text="Raider" />
-    <string id="Cp7dI87a" text="Vanguard" />
-    <string id="DMxJJWxt" text="Recruit" />
-    <string id="Dq1sCO1y" text="Arbelist" />
+    <string id="09gOOa0h" text="Xạ Thủ Du Kích" />
+    <string id="4C4WiTb2" text="Ngoã Lương Cách" />
+    <string id="8qg72H8Z" text="Chiến Binh Bộ Lạc" />
+    <string id="afhXdjBU" text="Dân Du Mục" />
+    <string id="bHx8jaeI" text="Chiến Binh" />
+    <string id="CAYZDsAj" text="Quân Đoàn Bộ Binh" />
+    <string id="cbnvgVhH" text="Kẻ Cướp" />
+    <string id="Cp7dI87a" text="Kỵ Binh Tiên Phong" />
+    <string id="DMxJJWxt" text="Lính Chiêu Mộ" />
+    <string id="Dq1sCO1y" text="Kình Nỗ Thủ" />
     <string id="eFWJjaBC" text="Multiplayer Character" />
     <string id="eIk6jaOG" text="Trường Mâu Bộ Binh" />
-    <string id="eM1qFKNs" text="Sharpshooter" />
-    <string id="eU0uANvZ" text="Mounted Archer" />
-    <string id="fS5BIf3J" text="Oathsworn" />
-    <string id="ft6QaIms" text="Cataphract" />
-    <string id="g9VIbA9s" text="Sergeant" />
-    <string id="gLlheMwd" text="Peasant Levy" />
-    <string id="gytrdYMU" text="Mamluke" />
-    <string id="hchDYAKL" text="Lancer" />
-    <string id="HCzbW0hE" text="Clan Warrior" />
-    <string id="ieiqOaZp" text="Archer" />
-    <string id="ixqTFMVA" text="Mounted Warrior" />
-    <string id="j5I7tYSd" text="Fiann" />
-    <string id="k1Xr4rKn" text="Druzhinnik" />
-    <string id="lar4lfKR" text="Khan's Guard" />
-    <string id="LLKreyq7" text="Wildling" />
-    <string id="LNfQk4MM" text="Min Armor (0)" />
-    <string id="My0a4Miq" text="Voulgier" />
-    <string id="naBbiK9v" text="Rabble" />
-    <string id="NJRUb0C1" text="Palatine Guard" />
-    <string id="nt7wUxIa" text="Beduin" />
-    <string id="PoY2Vh7K" text="Steppe Bow" />
-    <string id="q1tbZIR9" text="Higher Average Armor (37)" />
-    <string id="rdIGpLLh" text="Courser" />
-    <string id="RjjIbn4V" text="Veteran" />
-    <string id="RssJTUpL" text="Berserker" />
-    <string id="s9oED1IR" text="Skirmisher" />
-    <string id="Tm3CY9tC" text="Lower Average Armor (12)" />
-    <string id="TNQaD5p2" text="Archer Militia" />
-    <string id="WtEoXblx" text="Knight" />
-    <string id="XeXJAB6a" text="Menavlion Infantry" />
-    <string id="xnDWqYKW" text="Hunter" />
-    <string id="yDiWi6SO" text="Savage" />
-    <string id="ZKdiaaFo" text="Brigand" />
+    <string id="eM1qFKNs" text="Thần Xạ Thủ" />
+    <string id="eU0uANvZ" text="Kỵ Xạ" />
+    <string id="fS5BIf3J" text="Thề Ước Giả" />
+    <string id="ft6QaIms" text="Thiết Kỵ Hạng Nặng" />
+    <string id="g9VIbA9s" text="Quân Sĩ" />
+    <string id="gLlheMwd" text="Nông Dân Chiêu Mộ" />
+    <string id="gytrdYMU" text="Người Lính Nô Lệ" />
+    <string id="hchDYAKL" text="Thương Kỵ Binh" />
+    <string id="HCzbW0hE" text="Dũng Sĩ Bộ Lạc" />
+    <string id="ieiqOaZp" text="Xạ Thủ" />
+    <string id="ixqTFMVA" text="Dũng Sĩ Kỵ Binh" />
+    <string id="j5I7tYSd" text="Chiến binh Fian" />
+    <string id="k1Xr4rKn" text="Thân Vệ Kỵ Binh" />
+    <string id="lar4lfKR" text="Khả Hãn Thân Vệ" />
+    <string id="LLKreyq7" text="Người Hoang Dã" />
+    <string id="My0a4Miq" text="Phủ Thương Thủ" />
+    <string id="naBbiK9v" text="Quân Hỗn Tạp" />
+    <string id="NJRUb0C1" text="Cấm Vệ Xạ Thủ" />
+    <string id="nt7wUxIa" text="Kỵ Thủ Beduin" />
+    <string id="RssJTUpL" text="Cuồng Chiến Sĩ" />
+    <string id="s9oED1IR" text="Lính Du Kích" />
+    <string id="TNQaD5p2" text="Xạ Thủ Dân Binh" />
+    <string id="WtEoXblx" text="Kỵ Sĩ" />
+    <string id="XeXJAB6a" text="Song Nhận Thương Binh" />
+    <string id="yDiWi6SO" text="Người Man Dợ" />
+    <string id="ZKdiaaFo" text="Thổ Phỉ" />
+    <string id="coursercavalryman" text="Kỵ Binh Hạng Nhẹ" />
+    <string id="guardnoun" text="Vệ Sĩ" />
+    <string id="huntertroop" text="Thợ Săn" />
+    <string id="steppebowtroop" text="Thảo Nguyên Cung Thủ" />
+    <string id="veterantroop" text="Xạ Thủ Thâm Niên" />
   </strings>
 </base>

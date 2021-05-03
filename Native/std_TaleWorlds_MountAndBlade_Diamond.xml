@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="Tiếng Việt" />
+  </tags>
+  <strings>
+    <string id="3cWg0cWt" text="Không thể kết nối tới máy chủ." />
+    <string id="63X8LERm" text="Không nhận được kết quả đăng nhập từ máy chủ." />
+    <string id="6doiovtH" text="Phòng Chat có sẵn: {CHATROOMS}" />
+    <string id="dnKQbXIZ" text="Không thể báo cáo người chơi: Trò chơi không tồn tại. " />
+    <string id="gAeQdLU5" text="Không lấy được dữ liệu truy cập từ nền tảng " />
+    <string id="i4MNr0bo" text="Đã ngắt kết nối với sảnh. " />
+    <string id="ivKntfNA" text="Đã yêu cầu tham gia, đang chờ phản hồi của máy chủ " />
+    <string id="JO37PkfW" text="Dịch vụ nền tảng của bạn chưa được khởi tạo. " />
+    <string id="taPBAd4c" text="Lệnh không được bắt đầu bằng /" />
+    <string id="YOYvBVu1" text="Không tìm thấy phòng chat nào phù hợp {COMMAND}" />
+  </strings>
+</base>

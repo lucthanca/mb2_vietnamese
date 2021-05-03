@@ -1,10 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <ver>1.5.9</ver>
   <tags>
     <tag language="Tiếng Việt" />
   </tags>
   <strings>
-    <string id="3FdaOPBi" text="{ITEMNAME} - Nám Đen" />
+    <string id="3FdaOPBi" text="{ITEMNAME} - Cháy Đen" />
     <string id="3JaHZA3Y" text="{ITEMNAME} - Túi Lớn" />
     <string id="4nprSS1a" text="{ITEMNAME} - Linh Hoạt" />
     <string id="582QaBL6" text="{ITEMNAME} - Nhẹ" />
@@ -24,7 +25,7 @@
     <string id="CAP1BUjL" text="{ITEMNAME} - Tôi Cứng" />
     <string id="CCKZv6GM" text="{ITEMNAME} - Có Lỗ Hổng" />
     <string id="dXjbxaKQ" text="{ITEMNAME} - Thối Rữa" />
-    <string id="eb4miTUB" text="{ITEMNAME} - Uốn Cong" />
+    <string id="eb4miTUB" text="{ITEMNAME} - Bị Cong" />
     <string id="fdgcpipH" text="{ITEMNAME} - Cân Bằng" />
     <string id="geUpgQI5" text="{ITEMNAME} - Dỏm" />
     <string id="H30eaZdf" text="{ITEMNAME} - Nặng" />
@@ -42,5 +43,6 @@
     <string id="WK5y3PyJ" text="{ITEMNAME} - Nhạy Bén" />
     <string id="xeb1b5PQ" text="{ITEMNAME} - Ưu Chất" />
     <string id="zbs4c6sG" text="{ITEMNAME} - Gia Cường" />
+    <string id="y3TvYqhG" text="{ITEMNAME} - Cũ" />
   </strings>
 </base>

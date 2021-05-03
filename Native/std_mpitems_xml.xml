@@ -5,7 +5,6 @@
   </tags>
   <strings>
     <string id="07OrsbVH" text="Ngạnh Nỗ Thỉ" />
-    <string id="0bE9MxK4" text="Nam Phương Bao đầu Cân" />
     <string id="0e17RZrZ" text="Kình Nỗ" />
     <string id="0JCBp5i8" text="Bắc Phương Phách Sài Phủ" />
     <string id="0n0JmWv0" text="Nam Phương Phi Phủ" />
@@ -13,41 +12,33 @@
     <string id="0Pxq8UqX" text="Cao địa đấu Bồng" />
     <string id="0rzKQbWy" text="Thảo Nguyên Bán Thân Mã Khải" />
     <string id="0SsLGsXk" text="Điền Sung Trường Bào" />
-    <string id="12PL4971" text="Bắc Phương Trát Giáp" />
     <string id="1A57qBlx" text="Cao địa Trường Mâu" />
     <string id="1aotLA6v" text="Cao địa Trường Thương" />
     <string id="1bdDdwub" text="Đái Liên Giáp Hộ Tị Khôi" />
     <string id="1BKD07ab" text="Đế Quốc Kỵ Binh Ngoa" />
-    <string id="1blLtbDf" text="Nam Phương Ti Trù Phục" />
     <string id="1CPdu9K0" text="Thạch đầu" />
     <string id="1cYka5tR" text="Vô Tụ Mao Bì Ngoại Sáo" />
-    <string id="1Fdtj39w" text="Đái đầu Cân Vũ Mao Thập Tự Khôi" />
     <string id="1GpTOIqU" text="Đái điền Sung đầu Cân Oa Khôi" />
     <string id="1LHNLYqc" text="Trọng Hình Loan đao" />
     <string id="1pjTjmHR" text="MP Trắc Thí Trường Can Vũ Khí" />
     <string id="1RMTBWks" text="Đông Phương Trường Thương" />
     <string id="1tABvwsL" text="Trường Phái Lạp Mạch ân Quân đao" />
-    <string id="1UZGbygw" text="Đế Quốc Trường Nhuyễn Khải Giáp" />
     <string id="1X2X0Qe4" text="Bách Bố Mã" />
     <string id="1yzNGUJH" text="Đế Quốc Phủ" />
     <string id="2AcfBbCR" text="Quân Dụng đoản Bào" />
     <string id="2BlJHSeu" text="Đế Quốc Bì Giáp" />
     <string id="2fvdbfVL" text="Tây Phương Kỵ Binh Tranh Thuẫn" />
     <string id="2iaLi16f" text="Cao địa Thú Bì Khôi" />
-    <string id="2K0o7NK9" text="Nam Phương Trát Giáp" />
     <string id="2K1Zv4iv" text="empire_warrior_padded_armor_a" />
     <string id="2KHcAWiq" text="Sa Mạc Bố Liêu đầu Cân" />
     <string id="2m1kWsao" text="Đái Bạc Thú Bì Bì Cách Tương đinh Khôi" />
     <string id="2Q0m5CG0" text="Sa Mạc Bố Chế Vãn Cụ" />
     <string id="2qisE5ys" text="Đái điền Sung Mạo Oa Khôi" />
-    <string id="2VYmGLC6" text="Bắc Phương Bì Mạo" />
     <string id="2XEbqNQz" text="Đế Quốc Trang Sức Tí Khải" />
     <string id="2xvB6XQP" text="Thảo Nguyên Tráng Mã" />
-    <string id="3BGHFFsL" text="Bắc Phương điền Sung Y" />
     <string id="3bqwOJ8z" text="Phiên Mao Bì Mạo" />
     <string id="3DV3GoHb" text="Tiêm đỉnh Khôi đái Liên Giáp" />
     <string id="3eb3ZyiU" text="Cường Cung" />
-    <string id="3hOPlGlS" text="Đế Quốc đái Bì Cách Ngoại Sáo Nhuyễn Khải Giáp" />
     <string id="3iq3rOh8" text="Đái Vũ Trang đầu Cân Oa Khôi" />
     <string id="3TAnl7hb" text="Đông Phương Trang Sức Thuẫn" />
     <string id="3Wzhxkn1" text="Oa" />
@@ -59,7 +50,6 @@
     <string id="4AfHO0BA" text="Vô Tụ Thú Bì Tương đinh Giáp" />
     <string id="4BfbPgkY" text="Đái điền Sung Mạo Viên đỉnh Hộ Tí Khôi" />
     <string id="4CPxahsU" text="Đông Phương Kỵ Binh Chùy" />
-    <string id="4DiJ8dfj" text="Tây Phương Thủ Bán Phủ" />
     <string id="4gNT4MYk" text="Thú Liệp Tiễn" />
     <string id="4KYF5iCd" text="Đa Tằng Bì Cách đoản Bào" />
     <string id="4n6n3KL7" text="Sa Mạc đầu Sức" />
@@ -71,7 +61,6 @@
     <string id="4YxbZlbi" text="Triền Bố Hài" />
     <string id="5bEHZ2z1" text="Đế Quốc Hộ Mục Khôi" />
     <string id="5DVBFbLV" text="Quý Tộc Cự Kiếm" />
-    <string id="5h1qpdoa" text="Đế Quốc Bảng đái Nhuyễn Khải Giáp" />
     <string id="5n4rWI9T" text="Tiêm Thứ Khôi đái Diện Cụ" />
     <string id="5yG2BA6e" text="Đái Liên Giáp Lan đức Mạn Khôi" />
     <string id="5YGP047h" text="Phái Lạp Mạch ân Quân đao" />
@@ -79,7 +68,6 @@
     <string id="6Db7aDbF" text="Nỗ Pháo Tiễn Thỉ" />
     <string id="6hwZwODh" text="Yển Nguyệt đao" />
     <string id="6n44BIll" text="Đái đầu Cân Tiêm đỉnh Khôi" />
-    <string id="6qaNQAND" text="Đông Phương Trát Giáp" />
     <string id="6YCbEaHK" text="Bắc Phương Viên Thuẫn" />
     <string id="73U5RElj" text="Mao Bì Mạo" />
     <string id="7b8Cwogx" text="Vũ Trang Y" />
@@ -88,9 +76,7 @@
     <string id="7LmUe8fQ" text="Song Nhận Thương" />
     <string id="7R8r1WvR" text="Liên Cơ Trắc Thí Song Thủ Phủ" />
     <string id="7rhZlXdO" text="Thú Liệp Trường Cung" />
-    <string id="7yGwvnUA" text="Bắc Phương đoản Bào" />
     <string id="7zIWNagP" text="Trọng Hình Y Nhĩ đức Loan đao" />
-    <string id="8cM840mh" text="Bắc Phương Hào Hoa đoản Bào" />
     <string id="8DnJls9z" text="Thảo Nguyên Bì Hộ Tí" />
     <string id="8hDoWBIa" text="Bình Dân Sấn Sam" />
     <string id="8kUwD98O" text="Đế Quốc Tương đinh điều Văn Hộ Kiên" />
@@ -98,12 +84,9 @@
     <string id="8NnYlbbI" text="Bắc Phương Kiếm" />
     <string id="8nObGQqW" text="Trường Bính Nghịch Nhận đao" />
     <string id="8qwg1gr3" text="Cựu Kỵ Binh Tranh Hình Thuẫn" />
-    <string id="8r0Z9Hyb" text="Nam Phương Thải Bào" />
-    <string id="8R6kpH2J" text="Nam Phương đái Liên Giáp Trường Bào" />
     <string id="8SNS2wF9" text="Đầu Cân" />
     <string id="8tHbqjmB" text="Hữu Diêm Mao Bì đâu Mạo" />
     <string id="8uBew3nD" text="Tương đinh Hộ Tí" />
-    <string id="8ulJswRY" text="Giáp Bản Bì Cách Ngoại Sáo" />
     <string id="8UMQ8ocB" text="Đông Phương Kỵ Binh Thuẫn" />
     <string id="927d3urB" text="Mộc Chế Thỏa Viên Thuẫn" />
     <string id="9BENgwRK" text="Đái Hoa Biên Bố Oa Khôi" />
@@ -113,7 +96,6 @@
     <string id="9Eyd2qGo" text="Cường Hóa Nhu Cách Ngoa" />
     <string id="9FgxK9se" text="Cao đầu Khôi" />
     <string id="9Gsusawm" text="Tây Phương Phủ" />
-    <string id="9Hr4oEvw" text="Đế Quốc đái Bì Cách Oa Khôi" />
     <string id="9NW9y1ll" text="MP Trắc Thí Chùy" />
     <string id="9pD32UdV" text="Cao địa Chùy" />
     <string id="9rJ9KpJV" text="Đái Liên Giáp Bì Cách Vũ Sức Giáp Thiết Khôi" />
@@ -123,12 +105,10 @@
     <string id="a1BGHdaU" text="Hộ Vệ Bảng Tí" />
     <string id="a3vHlztg" text="Giáp Bản điều Văn Tí Khải" />
     <string id="a4hyzv3f" text="Dã Mã" />
-    <string id="a71fiml4" text="Đế Quốc Trát Giáp" />
     <string id="a8ycVmwU" text="Nguyệt Nhận Phủ" />
     <string id="AB1mV5Pg" text="Đái đầu Cân Oa Khôi" />
     <string id="acufJvyn" text="Song Nhận Trường Thương" />
     <string id="AdafHtud" text="Đái Liên Giáp Diêm đầu Khôi" />
-    <string id="aGkXbDlr" text="Tây Phương Liên Giáp Sấn Sam" />
     <string id="agqzAXa9" text="Đái điền Sung đầu Cân Già Diện Khôi" />
     <string id="aGvBKCG8" text="Lang đầu" />
     <string id="aGxtOTB8" text="Cao địa Phủ" />
@@ -139,18 +119,12 @@
     <string id="aO4o9a30" text="Đông Phương Trường Thương" />
     <string id="AO5LPmQf" text="Trọng Hình Kỵ Mâu" />
     <string id="AobNdBBU" text="Liêm Giới điền Sung Giáp" />
-    <string id="aPa3Cp4l" text="Đế Quốc Bì Cách đầu Cân" />
-    <string id="aq8lbNZo" text="Hạ Lạp Thức Nam Phương Khôi" />
     <string id="ArPvuBYK" text="Biên Chức đầu Cân" />
     <string id="at1BEdaS" text="Nam Phương Quý Tộc Kiếm" />
-    <string id="aufKSKLa" text="Nam Phương điền Sung Y" />
-    <string id="Auwoehal" text="Cao địa Chiến Tranh Lĩnh Chủ Giáp" />
-    <string id="av4ncLDl" text="Đế Quốc Phụ Binh Giáp" />
     <string id="aVGSZhCN" text="Cự Thuẫn" />
     <string id="AWlrtbep" text="Bắc Phương Ngư Xoa" />
     <string id="aYoIrpe0" text="Liên Giáp Hộ Thối" />
     <string id="b1pqUQju" text="Đái điền Sung Bố Phân đoạn Viên đỉnh Khôi" />
-    <string id="B8eDrNXG" text="Nam Phương Kỵ Binh Giáp" />
     <string id="B8p6E8GJ" text="Tháp Ba Nhĩ Chiến Phủ" />
     <string id="bABqOxfT" text="Bắc Phương Cự Mâu" />
     <string id="BavVxSoC" text="Liêm Giới Thải Sắc Phục" />
@@ -163,7 +137,6 @@
     <string id="Bl72Ribb" text="Bì Cách điền Sung Hộ Kiên" />
     <string id="BLeQnEKZ" text="Bì Ngoa" />
     <string id="bQXR1jzG" text="Đông Phương Quý Tộc Khôi đái Hộ Cảnh" />
-    <string id="brLFIN46" text="Cao địa Chiến Tranh Lĩnh Chủ Hộ Oản" />
     <string id="Bruzcqbm" text="Trọng Hình Yển Nguyệt đao" />
     <string id="brvgn9Ja" text="Đông Phương Văn đức Nhĩ đầu Khôi" />
     <string id="bT3veT4T" text="Nam Phương Trọng Hình Kỵ Thương" />
@@ -179,7 +152,6 @@
     <string id="bzr6vtXi" text="Trọng Hình Song Nhận Thương" />
     <string id="bzrVXGAl" text="Đái Bì Cách Vũ Sức đồng Thập Tự Khôi" />
     <string id="bZSQpada" text="Đế Quốc Trọng Chùy" />
-    <string id="C7oo0zAY" text="Đông Phương Thảo Nguyên Trường Bào" />
     <string id="c7UNJSNi" text="Biên Chế Bì Cách Hộ Kiên" />
     <string id="c7zSVihV" text="Tây Phương Lân Liên Giáp" />
     <string id="cCaHNMwf" text="Cao địa Bảng Thối" />
@@ -187,7 +159,6 @@
     <string id="CgG2aRyh" text="Lân Giáp Bán Thân Mã Khải" />
     <string id="CJCatm7j" text="Khinh Hình Tượng Mộc Tranh Hình Thuẫn" />
     <string id="CLYcnUra" text="Yêu đái Bì Cách Hung Giáp" />
-    <string id="Cp5aIHqR" text="Bắc Phương Trát Giáp Bối Tâm" />
     <string id="cQMDVJnE" text="Đế Quốc Chiến Phủ" />
     <string id="CtJPuRDa" text="Điền Sung Bì đái Ngoại Sáo" />
     <string id="CtzzoSBc" text="Huynh đệ Hội Song Thủ đoản Phủ" />
@@ -200,27 +171,21 @@
     <string id="Dc4ia4m9" text="Điền Sung Mạo" />
     <string id="dIdtdMFN" text="Cao địa Xích Hậu Thuẫn" />
     <string id="Dj64aJKQ" text="Câu Liêm" />
-    <string id="DJjCCQ59" text="Ba đan Ni á Dã Man Nhân Giáp" />
     <string id="dK4f8ArH" text="Đế Quốc Trường Can Vũ Khí" />
     <string id="DnhVJl4d" text="Trường Sa Mạc Bào" />
     <string id="DoiwC1Qa" text="Liên Giáp Mã Khố" />
     <string id="DOYS7dmq" text="Bảng đái Bì Cách Hộ Oản" />
     <string id="dPQGxmJ7" text="Cường Hóa Liên Giáp Thủ Sáo" />
-    <string id="dRLIr22v" text="Đế Quốc Phùng Chế Bì Giáp" />
     <string id="dS4zm0UT" text="Đái Vũ Trang Y Tương đinh Bì Giáp" />
     <string id="DScCbmoS" text="Ba Thản Ni á Quý Tộc Hộ Oản" />
     <string id="DToSF1ls" text="Bắc Phương Kỵ Binh Thuẫn" />
-    <string id="DuLFJbXJ" text="Đông Phương Bì Giáp đái Yêu đái" />
     <string id="dVekhkIU" text="Đái đoản Bào Mao Bì Ngoại Sáo" />
     <string id="DWDJ7j4a" text="Nam Phương Trát Giáp" />
     <string id="dWr3nuBq" text="Gia Cường Thiết Biên Tranh Thuẫn" />
     <string id="dx8dw22j" text="Đông Phương Mâu" />
     <string id="ea9Z9v5W" text="Bắc Phương Kỵ Binh Kiếm" />
-    <string id="EELLBAbX" text="Cao địa Lân Giáp" />
-    <string id="EfRKaKs0" text="Thảo Nguyên Mao Bì Vãn Cụ" />
     <string id="efW2XbK8" text="Ai Mễ Nhĩ đầu Khôi" />
     <string id="EKhkmlb6" text="Bắc Phương đoản Kiếm" />
-    <string id="ekTny86c" text="Đế Quốc đái Bì Cách Trát Giáp" />
     <string id="enrylba2" text="Đông Phương đoản Mâu" />
     <string id="EOz0edW4" text="Thảo Nguyên đầu Khôi" />
     <string id="EpkGO9qE" text="Kim Thuộc Cán Thảo Xoa" />
@@ -231,7 +196,6 @@
     <string id="eWf7bFGo" text="Bảng đái Mao Bì Giáp" />
     <string id="EWR2MNeM" text="Đái Liên Giáp Hộ Tị Khôi" />
     <string id="ewSpZ10R" text="Thô Chế điền Sung Mạo" />
-    <string id="EXasg15J" text="Bắc Phương điền Sung Nhuyễn Khải Giáp" />
     <string id="EXLY9mEb" text="Cường Hóa đại Viên Thuẫn" />
     <string id="F4xD8gjJ" text="Đầu Trịch Phủ" />
     <string id="F9HQABfN" text="Cường Hóa Liễu điều Phương Thuẫn" />
@@ -242,13 +206,11 @@
     <string id="FHakBPXw" text="Liên Giáp Sam" />
     <string id="fjel40xl" text="Cao địa Kỵ Binh Kiếm" />
     <string id="fk42FxCE" text="Đa Tằng Trường Bào" />
-    <string id="FlikwkEx" text="Đế Quốc Bảng đái Phụ Binh Giáp" />
     <string id="FmN4ryxu" text="Cự Kiếm" />
     <string id="FOx5vZSJ" text="Hùng Bì Giáp" />
     <string id="fpC9oEyj" text="Bắc Phương Trường Mâu" />
     <string id="fptsl0Qn" text="Đái Giáp Bản Bì Cách Quần" />
     <string id="FsDZC8Yl" text="Đái Liên Giáp Toàn Phúc Thức đầu Khôi" />
-    <string id="FSGtJ7eX" text="Đái Bì Giáp Trọng Hình Hộ Tị Khôi" />
     <string id="fUmehyHq" text="Biên Chức Bì Cách Hộ Oản" />
     <string id="FWFDkjBk" text="Đái đầu Cân Hộ Tị Khôi" />
     <string id="FyXM8Iob" text="Sa Mạc Bố Kiên điếm" />
@@ -263,14 +225,12 @@
     <string id="GNdVXMue" text="Vi Cân" />
     <string id="Goloz0Vm" text="Cự Hình Lạc đà" />
     <string id="gqbjCBld" text="Bắc Phương Phi Phủ" />
-    <string id="gSaKwztg" text="Cao địa Quý Tộc Hộ Oản" />
     <string id="gT8WENO3" text="Cao Khôi Lỗi" />
     <string id="gTptIfxY" text="Sa Mạc Mạo" />
     <string id="GTWUtUFj" text="Liên Thức Vãn Cụ" />
     <string id="gUTqDROO" text="Phong Bế Thức đầu Cân" />
     <string id="gXbmGrGL" text="Đế Quốc Trang Sức Ngoa" />
     <string id="GXmDq2KR" text="Hùng đầu Sức" />
-    <string id="h3vqV5Qy" text="Bắc Phương Bì Cách Chiến Bào" />
     <string id="H41qKfaL" text="Cao địa Vũ Sức Quý Tộc Khôi" />
     <string id="h5kfaD4v" text="Quân Mã" />
     <string id="h6UXvU3B" text="Đái đầu Cân Viên đỉnh Hộ Tị Khôi" />
@@ -279,19 +239,13 @@
     <string id="hE8s9bpP" text="Khúc Diện Viên Thuẫn" />
     <string id="hELN8VXv" text="Phá Trường Bào" />
     <string id="HEsETRqw" text="Cường Hóa Kỵ Binh Tranh Hình Thuẫn" />
-    <string id="HG2emvr7" text="Đái Yêu đái Nam Phương Trường Bào" />
     <string id="hGYfXIWN" text="Khinh Hình Tiêu Thương" />
-    <string id="hhprIQti" text="Đái Bì Cách Yêu đái Nam Phương Trường Bào" />
     <string id="hj563EZr" text="Tương đinh Viên Thuẫn" />
     <string id="HKRGEXqy" text="Du Kích Liên Giáp" />
-    <string id="Hm61IBcT" text="Nam Phương Lưu Tô Trường Bào" />
-    <string id="ho4bsI3Q" text="Đế Quốc Lân Giáp" />
     <string id="hRHPPQQP" text="Bao đầu Cân" />
     <string id="hTRaPvRa" text="Cao địa Bì Ngoa" />
     <string id="hXijcZyp" text="Thô Bố đoản Ngoại Sáo" />
     <string id="I1faIdpc" text="Brawler" />
-    <string id="i4CfsNGd" text="Đế Quốc Liên Giáp Bối Tâm" />
-    <string id="i8S2PJB4" text="Cao địa Thủ Sáo" />
     <string id="I8zNQS7i" text="Huynh đệ Hội Song Thủ Phủ" />
     <string id="iAWzr8Q0" text="Đái Liên Giáp điều Văn Bì Giáp" />
     <string id="iBxPawkl" text="Tây Phương Quân Dụng đoản Liêm" />
@@ -305,12 +259,9 @@
     <string id="iNJr5HOM" text="Trùy đầu Thương" />
     <string id="iPfZpGHK" text="Trọng Hình Thỏa Viên Thuẫn" />
     <string id="IPyPb4Dp" text="Bắc Phương Hộ Mục Khôi" />
-    <string id="Isioqvt9" text="Cao địa Phục" />
     <string id="isuBaIqQ" text="Thiết Biên Tranh Hình Thuẫn" />
     <string id="Ita1lG33" text="Bì Cách Bao Biên Tranh Hình Thuẫn" />
     <string id="ITUNob5T" text="Đế Quốc đái Liên Giáp Trọng Hình Hộ Tị Khôi" />
-    <string id="ITvet7CV" text="Nam Phương đầu Khôi" />
-    <string id="ItZt3amR" text="Đông Phương đái Liên Giáp đồng Trát Giáp" />
     <string id="IuD9SaQM" text="Thô Bố Liên Y Quần" />
     <string id="iuh5gSaL" text="Tây Phương Chùy" />
     <string id="iVataLxL" text="Đái điền Sung Bào Bì Giáp" />
@@ -331,23 +282,17 @@
     <string id="jIwjYOVj" text="Phá Cựu Bảng Tí" />
     <string id="jjHpXY4d" text="Mao Bì đâu Mạo" />
     <string id="JjLQ2VdT" text="Đái điền Sung đầu Cân Viên đỉnh Hộ Tị Khôi" />
-    <string id="JK7uQLqb" text="Bắc Phương Bì Cách Bối Tâm" />
     <string id="JkLoAelJ" text="Liên Giáp Hộ Kiên" />
     <string id="JKRQ8RDA" text="Điều Văn Gia Hậu Bố Giáp" />
-    <string id="jLkVVTJh" text="Đông Phương Giáp Bản Bì Cách Hộ Tí" />
     <string id="jOosomBp" text="Thú Liệp Nỗ Thỉ" />
     <string id="joroqAbR" text="Phất Lai Tát Kiếm" />
     <string id="Jpt1WvTM" text="Đái đầu Cân Hộ Vệ Oa Khôi" />
-    <string id="JslRu3rX" text="Thô Tháo đông Phương Bì Giáp" />
     <string id="JTrZ8ugB" text="Đế Quốc đái Liên Giáp Oa Khôi" />
     <string id="K1UFTirG" text="Khinh Nỗ" />
     <string id="K2xGw3Oo" text="Ải Khôi Lỗi" />
-    <string id="kanUXCLc" text="Cao địa Thôn Dân đoản Bào" />
-    <string id="KaZY0Ixp" text="Cao địa đoản Bào" />
     <string id="KBrDpNxO" text="Trường Cung" />
     <string id="Kd5lgqee" text="Đái Liên Giáp Vũ Sức Thiết Biên Thập Tự Khôi" />
     <string id="Kgnm0FkE" text="Bì Hài" />
-    <string id="KHFQdxvL" text="Trọng Hình Bắc Phương đoản Bào" />
     <string id="KIxX6dH2" text="Liên Giáp Sấn Lý Thô Tháo Bì Mao" />
     <string id="Kj68cfhA" text="Đế Quốc Bạc Phiến Hộ Kiên" />
     <string id="KKWEkA4P" text="Thô Tháo Hùng Bì" />
@@ -364,13 +309,11 @@
     <string id="l69aXkKH" text="Thôi Xoa" />
     <string id="L8ymiEab" text="Bắc Phương Song Thủ Phủ" />
     <string id="l91l1TJo" text="Thải Sắc đầu Cân" />
-    <string id="LaKFAU1V" text="Đái Bì Cách đế Quốc Liên Giáp" />
     <string id="Lbm7asY3" text="Phiến Hình Trường Thuẫn" />
     <string id="lbVB6KPl" text="Đâu Mạo" />
     <string id="Ldqb9oAF" text="Cao địa Chiến Tranh Lĩnh Chủ Kiên Giáp" />
     <string id="LgftnHPs" text="Biên Chức Bì Cách Bối Tâm" />
     <string id="lIJ1EVBh" text="Bì Cách Thủ Sáo" />
-    <string id="ln6ZboT7" text="Bắc Phương Phá Cựu Bì Giáp" />
     <string id="loHYOJA9" text="Bắc Phương đái Liên Giáp Khai Diện Lĩnh Chủ Khôi" />
     <string id="LOPavWRp" text="Bảng Thối Hài" />
     <string id="lPjU7YbH" text="Nam Phương Song Thủ Kiếm" />
@@ -378,7 +321,6 @@
     <string id="LQAbI9bm" text="Tây Phương Thủ Bán Trường Kiếm" />
     <string id="lspv3mUE" text="Thảo Nguyên Tương đinh Mã Khải" />
     <string id="Lt8nT1hb" text="Trát Giáp Hộ Kiên" />
-    <string id="LWbJKKK1" text="Bắc Phương Quý Tộc Vãn Cụ" />
     <string id="LwxELoZL" text="Cao địa Bán Lân Giáp Vãn Cụ" />
     <string id="lwxOPEPx" text="Đế Quốc đoản Kiếm" />
     <string id="lZ93DOrn" text="Vô Tụ điền Sung Ngoại Sáo" />
@@ -389,21 +331,15 @@
     <string id="maYSspDY" text="Đái đế Quốc Bố Viên Oa Khôi" />
     <string id="Mb1hQRyT" text="Sa Mạc Thỏa Viên Thuẫn" />
     <string id="Mb9DaXHm" text="Cao địa Song Thủ Kiếm" />
-    <string id="Mc6IC6UM" text="Đái Khấu Dã Nhân Giáp" />
     <string id="mDHMOUdx" text="Bộ Binh Liễu điều Thuẫn" />
-    <string id="mFbFEOVz" text="Bắc Phương Mao Bì Mạo" />
     <string id="mkoMUmLh" text="Thô Bố Bối Tâm" />
     <string id="MKT5IzWm" text="Trường Tụ Hậu Bào" />
     <string id="mlJKNbbn" text="Bì Cách đầu Cân" />
-    <string id="mMGfhc3M" text="Cao địa Quý Tộc Giáp" />
-    <string id="MnJvp0Tq" text="mp_light_armor" />
     <string id="MPyugmha" text="Cao địa Tiêm Thứ Chùy" />
     <string id="MQ8LCvCE" text="Bảng Bố đoản Bào" />
-    <string id="Mr06Juj5" text="Đông Phương Bì Phùng Ngoại Sáo" />
     <string id="mRGIxvYh" text="Đái Liên Giáp Viên đỉnh Hộ Tị Khôi" />
     <string id="mScuLsnl" text="Tử Sam Trường Cung" />
     <string id="MUdwS6jH" text="Thái Nhã Nhĩ Tráng Mã" />
-    <string id="MvvlKO0U" text="Đái Bì Cách Vũ Sức Thiết Thập Tự Khôi" />
     <string id="mXQsNAmZ" text="Trùy đầu Tiễn" />
     <string id="n6EbRo6h" text="Bắc Phương Kỵ Binh Phủ" />
     <string id="ndfDy5B8" text="Khẩn Thực đích Bao đầu Cân" />
@@ -412,26 +348,19 @@
     <string id="NKZ0P4aU" text="Tây Phương Trường Kỵ Thương" />
     <string id="nmLZEjYg" text="Liên Cơ Trắc Thí Song Thủ Chùy" />
     <string id="nPSYRs2Q" text="Trắc Thí Trường Thương" />
-    <string id="Nqa2maO2" text="Biên Chức Bì Cách Ngoại Sáo" />
     <string id="NSo8tGhT" text="Cao địa Kỵ Thương" />
     <string id="NTPmtaaN" text="Đái Liên Giáp Hồng Sắc Ngoại Sáo" />
-    <string id="NUHzapSv" text="Á Ma đoản Bào" />
+    <string id="NUHzapSv" text="Ma Chế Thúc Yêu Trường Y" />
     <string id="NUmDuEqI" text="Đế Quốc Kỵ Thừa Vãn Cụ" />
-    <string id="NVV1j1E4" text="Tây Phương Nhuyễn Khải Giáp" />
-    <string id="o0ZuY9Ux" text="Tây Phương Bì Cách Ngoại Sáo" />
-    <string id="o24Fpzvu" text="Thảo Nguyên Tương đinh Bì Giáp" />
     <string id="O37kzdXO" text="Khinh Hình Mã Cụ" />
     <string id="O4agNHhn" text="Bá Bá Nhĩ Tấn Tiệp Mã" />
     <string id="OEbGMbG2" text="Cao địa Lân Giáp Kỵ Thừa Vãn Cụ" />
     <string id="oEJnxsQ1" text="Triền Tí đái" />
     <string id="OeKwbpM7" text="Thảo Nguyên Lữ Hành Mã" />
     <string id="oEvhhNNR" text="Kỵ Binh Bì Ngoa" />
-    <string id="OEyuUWji" text="Đông Phương Bảng Tí" />
     <string id="OGqTKRVm" text="Trúc Kỵ Thương" />
-    <string id="oGVGhYeP" text="Đông Phương Thảo Nguyên Hộ Giáp" />
     <string id="oH8iFEv7" text="Phiên Biên Thành Trấn Ngoa" />
     <string id="OhEQUMk0" text="Khoan Phiến Hình Thuẫn" />
-    <string id="ojhEwC8M" text="Bắc Phương đái Liên Giáp đồng Trát Giáp" />
     <string id="oknFNEOC" text="Bắc Phương Phủ" />
     <string id="OL1oJ9j5" text="Đái Nhĩ ải Chủng Mã" />
     <string id="olamAwhb" text="Đái Bao đầu Bố Hộ Tị Khôi" />
@@ -444,7 +373,6 @@
     <string id="p2EYQDBl" text="Nam Phương Kỵ Binh Chùy" />
     <string id="p6NIgRpk" text="Thô Chế Thú Bì Mạo" />
     <string id="P8GrNSkF" text="Đái Liên Giáp Phân đoạn Viên đỉnh Khôi" />
-    <string id="p949oNWk" text="Đái Liên Giáp Bản Giáp Y" />
     <string id="pEaYQqG9" text="Liễu điều Phương Hình Thuẫn" />
     <string id="PF7sPCYq" text="Tiêu Thương" />
     <string id="PL5SG9hI" text="Bì Cách Lân Giáp" />
@@ -461,9 +389,7 @@
     <string id="Q2PseaBn" text="Đa Tằng Nam Phương Trường Bào" />
     <string id="q4iQapMS" text="Cao địa Kỵ Binh Thuẫn" />
     <string id="Q50hfNjW" text="Thú Bì Bạc đầu Cân" />
-    <string id="QaKohN0V" text="Đế Quốc đái điều Văn Bì Cách Liên Giáp" />
     <string id="QaysED62" text="Quyển Bố đoản Bào" />
-    <string id="Qazvdg1P" text="Đế Quốc Bố đầu Cân" />
     <string id="qc0P0b2r" text="Đái Liên Giáp Hộ Mục Khôi" />
     <string id="qEcDWNci" text="Đảo Thứ Tiễn" />
     <string id="qFL0VxZX" text="Hoa Biên đầu Cân" />
@@ -471,34 +397,25 @@
     <string id="QLcP8bIs" text="Trường Liêm" />
     <string id="qN1W8SlD" text="Tây Phương Kỵ Binh Chùy" />
     <string id="qo8hwDNU" text="Thô Chế Mao Bì Giáp" />
-    <string id="qOfuxNxR" text="Nam Phương Tương đinh Bì Ngoại Sáo" />
     <string id="qPtTeXv7" text="Tây Phương Kỵ Binh Kiếm" />
     <string id="qsVRoGUv" text="Lộ Kiểm đầu Cân" />
     <string id="qT6jIu3v" text="Mao Bì Quần Phối đoản Bào" />
     <string id="QUGDr6Te" text="Loan đao" />
     <string id="QVGL3eB0" text="Khai Phóng Thức Sa Mạc đầu Khôi" />
     <string id="qVj5NqrL" text="Đái điền Sung Mạo Toàn Phúc Thức đầu Khôi" />
-    <string id="qw2oyv1j" text="Lâm địa Liên Giáp" />
-    <string id="QX2pp6jX" text="Đế Quốc đái đoản Quần Nhuyễn Khải Giáp" />
     <string id="QxzcuhmA" text="Báo Bì" />
     <string id="r07M9xbT" text="Trọng Hình Nỗ" />
     <string id="r8arrfux" text="Nam Phương Mâu" />
     <string id="rabNzmeh" text="Đông Phương Trường Mâu" />
     <string id="radJHwRW" text="Trọng Hình Kỵ Binh Tranh Hình Thuẫn" />
     <string id="RCq6DcvS" text="Bắc Phương Trường Mâu" />
-    <string id="rdIGpLLh" text="Tuấn Mã" />
     <string id="RF7uVEGp" text="Trúc Mâu" />
-    <string id="rifv0h0H" text="Bắc Phương Kỵ Binh Tranh Hình Thuẫn" />
-    <string id="rOpxDHXL" text="Đông Phương Bì Cách Trát Giáp" />
     <string id="RsIImqXA" text="Đông Phương Bộ Binh đoản Bổng" />
     <string id="RTIzskq1" text="Đái Toàn Liên Giáp Lan đức Mạn Khôi" />
     <string id="RtlqkbZ9" text="Liên Cơ Trắc Thí Phủ" />
-    <string id="RWKafLdU" text="Đông Phương Khúc Diện Ngoa Tử" />
     <string id="rzhIJ8Yh" text="Triêu Thánh đâu Mạo" />
-    <string id="S0IkfoDo" text="Đông Phương Giáp Bản Bì Giáp" />
     <string id="S9htzkbe" text="Thương Nhân Mạo" />
     <string id="Se3La8Aq" text="Nam Phương Trọng Hình Chùy" />
-    <string id="sfPB9ro3" text="Bắc Phương Trang Sức Liên Giáp Sam" />
     <string id="SGa04hNj" text="Tây Phương Trọng Hình Kỵ Thương" />
     <string id="SHZ0P7Iu" text="Điền Sung Bì Mạo" />
     <string id="siuuhU6b" text="Đế Quốc đái Liên Giáp đồng Hộ Tị Khôi" />
@@ -526,7 +443,6 @@
     <string id="tMwsE9IR" text="Bảng Thối Bì Ngoa" />
     <string id="TpjbgasA" text="Bắc Phương Quân Phiệt đầu Khôi" />
     <string id="tpQLvMSM" text="Đái Liên Giáp Hộ Tị Khôi" />
-    <string id="TsGFHbqp" text="Nam Phương Lân Giáp" />
     <string id="TTWL7RLe" text="Thập Tự Nỗ" />
     <string id="tUrtBG0y" text="Nam Phương Chùy" />
     <string id="TV02bZ4t" text="Phá Cựu Kỵ Binh Tranh Hình Thuẫn" />
@@ -537,27 +453,21 @@
     <string id="TziEtAIK" text="Ngõa Lan địch á Liên Giáp" />
     <string id="u2QRZy2x" text="Liên Cơ Trắc Thí Kiếm" />
     <string id="U4n0uSlg" text="Khẩn Phược đầu Cân" />
-    <string id="u6c9yIXF" text="Nam Phương điền Sung Trường Bào" />
     <string id="U8QfF3Gw" text="Dương Mao Trường Bào" />
     <string id="ubplQTXa" text="Nam Phương Hoàn Liên Kiên Giáp" />
-    <string id="uDrT6v7a" text="Tây Phương Bố Y" />
     <string id="uEcbnd5D" text="Viên Thuẫn" />
     <string id="uEPRE33m" text="Thô Chế Bảng Hộ Oản" />
     <string id="uF4IqQIK" text="Bộ Lạc Kiếm" />
     <string id="UG8aeEQH" text="Đế Quốc Chiến Mã" />
     <string id="UHcXARc6" text="Y Nhĩ đức Loan đao" />
-    <string id="ukQCN90m" text="Đông Phương Bì Cách Ngoa" />
     <string id="uLpnmNkZ" text="Bì Mạo" />
     <string id="umnHnAqH" text="Đông Phương Phi Mâu" />
     <string id="UoHZGyZa" text="Đái Diện Cụ đầu Khôi" />
     <string id="uqO6e6vN" text="Tranh Hình Thuẫn" />
     <string id="uUGAMReu" text="Ưu Chất Trấn Dân Ngoa" />
-    <string id="UvJDlhMq" text="Đông Phương Mạo Tử" />
     <string id="uvmmBd41" text="Sa Mạc Bao Thiết Viên Thuẫn" />
     <string id="UvOa4elc" text="Lục Sắc đâu Mạo" />
-    <string id="UWPEu577" text="Bắc Phương đồng Hộ Oản" />
     <string id="UxTD6XGA" text="Khỏa đầu Vi Cân" />
-    <string id="uZ1sIlSQ" text="Đông Phương Giáp Bản Bì Cách Bối Tâm" />
     <string id="v1CIJWs1" text="Cao địa Tiêu Thương" />
     <string id="v23z53yg" text="Hộ Tị Khôi" />
     <string id="v3lIxLvX" text="Đế Quốc Trọng Hình đầu Mâu" />
@@ -574,26 +484,18 @@
     <string id="vh1x8VWw" text="Đế Quốc Chùy" />
     <string id="VIVfoHRj" text="Hôi Mộc đầu Mâu" />
     <string id="vK7J7ci5" text="Tây Phương đoản Kiếm" />
-    <string id="VMqzvfDO" text="Đông Phương Bảng đái Trát Giáp" />
-    <string id="vNNMGllv" text="Bắc Phương Giáp Bản Thủ Sáo" />
     <string id="vOStJZya" text="Đa Nhân Liên Cơ Trọng Giáp" />
-    <string id="VRP5Q4mU" text="Nam Phương Hoàn Giáp" />
-    <string id="VrZJfOFN" text="Cao địa Phi đao" />
     <string id="vsavMoLZ" text="Đái điền Sung Bố Phân đoạn Viên đỉnh Khôi" />
     <string id="VSMpadvq" text="Mao Bì Giáp" />
-    <string id="vU1ibFrY" text="Đông Phương Gia Cường Giáp" />
     <string id="vw9qbiER" text="Thảo Nguyên Vãn Cụ" />
     <string id="vwVFF1XJ" text="Cao địa Mao Bì Ngoa" />
     <string id="VXER7AbJ" text="Đế Quốc Lĩnh Chủ Khôi" />
     <string id="VXg9zMvW" text="Tây Phương Vũ Trang Trường Kiếm" />
     <string id="VylHwqVq" text="Đái Hoa Biên đầu Cân Phân đoạn Viên đỉnh Khôi" />
-    <string id="VyOsYv8J" text="Nam Phương Trường Bào" />
     <string id="w6j8Oaai" text="Gia Giáp Khoan Tùng đoản Khố" />
     <string id="WahziEXA" text="Khỏa Bì Ngoa" />
     <string id="wBfGpcCO" text="Đái điền Sung Bố Oa Khôi" />
     <string id="wEfZyccm" text="Đái đầu Cân Phúc Diện Khôi" />
-    <string id="wEJAab0A" text="Bắc Phương Mạo" />
-    <string id="WH7bbK6G" text="Tây Phương điền Sung Ngoại Sáo" />
     <string id="whvMZZba" text="Hộ Thức điền Sung Hộ Tí" />
     <string id="WiPJqTXv" text="Phong Bế Thức Sa Mạc đầu Khôi" />
     <string id="wKucIANJ" text="Đái Bố Liêu Bì Cách Ngoại Sáo" />
@@ -603,7 +505,6 @@
     <string id="WOzcBg62" text="Bắc Phương Cường Hóa Ngư Xoa" />
     <string id="wrM9Km0n" text="Cao địa Kỵ Thừa Vãn Cụ" />
     <string id="WrwO8xsN" text="Phùng Chế Bì Cách Hộ Kiên" />
-    <string id="WST7ftTa" text="Bắc Phương Bản Giáp Y" />
     <string id="wSUN0Dmo" text="Trọng Giáp Khôi Lỗi" />
     <string id="WsUvpBwM" text="Tốc Xạ đoản Cung" />
     <string id="WvDZMmaj" text="Du Mục đầu Khôi" />
@@ -613,43 +514,32 @@
     <string id="X1Wn0sBa" text="Đái Thô Lân Bì Cách Tương đinh Khôi" />
     <string id="X68QNK1C" text="Cao địa Song Thủ Phạt Mộc Phủ" />
     <string id="xa7KRSCy" text="Phùng Chế Bì Cách Bối Tâm" />
-    <string id="XazcYatD" text="Đế Quốc Hộ Tị Khôi" />
     <string id="xb2tMFSz" text="Đoản Cung" />
     <string id="xBLOuqFO" text="Trường Phi Phong Trắc Thí" />
     <string id="xGhFPu4d" text="Bắc Phương Trọng Phủ" />
     <string id="XGX6DbFL" text="Giáp Bản Trát Giáp Tí Khải" />
     <string id="XH9f3yOX" text="Đái đoản Bào Mao Bì Ngoại Sáo" />
-    <string id="xjrQHxnO" text="Bắc Phương Kỵ Thương" />
     <string id="xl5MgK49" text="Tư đặc Cát á Trọng Hình Kỵ Binh đầu Khôi" />
-    <string id="xnDWqYKW" text="Liệp Mã" />
     <string id="XOC81pVz" text="Đái Liên Giáp Phong Bế Thức Sa Mạc đầu Khôi" />
     <string id="xODbCO6k" text="Phục Hợp Cung" />
     <string id="XoISdMVx" text="Đông Phương Quý Tộc Bì Mao đầu Khôi" />
-    <string id="XOvg9rbg" text="Nam Phương Xạ Thủ Hộ Giáp" />
     <string id="xS7m37o7" text="Đái Liên Giáp Tiêm đỉnh Khôi" />
     <string id="Xs8a5YxN" text="Nam Phương Lĩnh Chủ đầu Khôi" />
-    <string id="XTqplCsv" text="Bắc Phương Liên Giáp Sam" />
     <string id="XU9WgcIO" text="Cường Hóa Nhữu Cách Giáp" />
     <string id="xUKpvFej" text="Tây Phương Chiến Chùy" />
     <string id="XXkrprRu" text="Cao địa Trường Kiếm" />
-    <string id="xYUHruEl" text="Cao địa đâu Mạo" />
-    <string id="XZAAz7NX" text="Đế Quốc đoản Bào" />
     <string id="y0BbwZST" text="Cao địa Quý Tộc Song Thủ Kiếm" />
     <string id="y3oIzUEp" text="Đái Kiên điếm đoản Bào" />
     <string id="y3RNBGtv" text="Đế Quốc Kỵ Binh Chùy" />
     <string id="y9uMjAKT" text="Gia Cường Nhữu Cách Hộ Kiên" />
     <string id="YAOfXanz" text="Bắc Phương Lĩnh Chủ Khôi" />
     <string id="YAYhozbN" text="Thảo Nguyên Mã" />
-    <string id="ybpZdt9S" text="Bắc Phương đa Tằng Y" />
     <string id="YDibTDob" text="Cao địa Vương Quan Khôi" />
     <string id="YEUFtX4G" text="Lang Bì Kiên Giáp" />
-    <string id="YfB0SJqY" text="Đái Liên Giáp Chiến Bào" />
-    <string id="yFjmkALW" text="Bắc Phương đái Liên Giáp Bì Cách Chiến Bào" />
     <string id="ygfhbfr0" text="Tiêm Thứ Khôi" />
     <string id="Yh7Dorsr" text="Điều Văn Bì Cách Mã Cụ" />
     <string id="yMi4ijgI" text="Du Mục điền Sung đâu Mạo" />
     <string id="Yms2FQ7g" text="Bán Liên Giáp Mã Khải" />
-    <string id="YMtHkAUj" text="Đông Phương Hậu Ngoại Sáo" />
     <string id="YNkPRmSj" text="Bắc Phương Chùy" />
     <string id="yOaVS5AH" text="Bắc Phương đái Tích Khôi" />
     <string id="yPeC0Vgs" text="Nạp Cáp Tát Mã" />
@@ -670,11 +560,137 @@
     <string id="zKJtr0MV" text="Mã Khắc Bố Mã" />
     <string id="zmEnxUpL" text="Đế Quốc Lân Giáp Mã Khải" />
     <string id="zNoDVcHg" text="Khoái Bộ Mã" />
-    <string id="ZOoxd36t" text="Cao địa Dong Binh Giáp" />
     <string id="ZRDoABz9" text="Vũ Sức Bì Mao đầu Khôi" />
     <string id="ZV1bKLUn" text="Đái Cách Oa Khôi" />
     <string id="ZvMcHde3" text="Búa Chim" />
     <string id="Zx4h7jDy" text="Khinh Giáp Khôi Lỗi" />
     <string id="zZ2G7uIO" text="Đái Liên Giáp Oa Khôi" />
+    <string id="0a6Vz7wi" text="Bì Tráo Bào" />
+    <string id="1BXuUR3s" text="Bộ Binh Trường Nhuyễn Giáp" />
+    <string id="1jX7yxSW" text="Nặc Đức Thị Vệ Liên Giáp Sấn Sam" />
+    <string id="28KBiS2H" text="Bắc Phương Trát Giáp Hộ Kiên" />
+    <string id="2cSOn9qb" text="Nhuyễn Giáp Sấn Liên Giáp" />
+    <string id="2N0ZP2GB" text="Đầu Cân Hộ Mạo Phối Khôi" />
+    <string id="3lauB1HH" text="Đồng Trát Giáp Bối Tâm Sấn Nhuyễn Giáp" />
+    <string id="3UxfT9Bu" text="Triền Khoả Bì Mạo" />
+    <string id="3WdXljdt" text="Cường Tráng Nạp Cát Tát Mã" />
+    <string id="4aFPp5hj" text="Hình Mâu Dục Thuẫn Hạng Nhẹ" />
+    <string id="4B2i8oxo" text="Kính Diện Yêu Đái Ngoại Sáo" />
+    <string id="4eOHPops" text="Trần Cựu Lân Giáp" />
+    <string id="4HcrY0S2" text="Mao Biên Bì Thủ Sáo" />
+    <string id="6XxiMU52" text="Bì Tráo Bào Sấn Liên Giáp" />
+    <string id="7566s7pt" text="Bộ Binh Liên Giáp Sấn Điều Trạng Bì Cách" />
+    <string id="7EAEIUIY" text="Trọng Hình Hoàn Giáp" />
+    <string id="84gnexLb" text="Ngựa Sa Mạc" />
+    <string id="8bH8n3Aq" text="Khinh Hình Phiến Hình Trường Thuẫn" />
+    <string id="8Oi89KRn" text="Bắc Phương Khinh Hình Vãn Cụ" />
+    <string id="8oKVhtth" text="Đáp Khấu Bố Diện Thiết Giáp" />
+    <string id="9aehD627" text="Xa Hoa Thúc Yêu Y" />
+    <string id="AIu3kKvz" text="Lữ Hành Mã" />
+    <string id="aOwcs7Un" text="Viên Đỉnh Oa Khôi Sấn Bì Cách" />
+    <string id="aQN4Dlx2" text="Trọng Hình Vũ Trang Y" />
+    <string id="b2EDkbhD" text="Triền Khoả Vũ Trang Hộ Thủ" />
+    <string id="bAidg8fV" text="Triền Khoả Vũ Trang Hộ Thủ" />
+    <string id="BbhGL8XT" text="Bố Diện Thiếp Giáp Bối Tâm" />
+    <string id="bDWgG7Jc" text="Hoàng Đồng Hộ Oản" />
+    <string id="bKBa7ahF" text="Giản Dịch Trường Bào" />
+    <string id="BryUh6yQ" text="Cương Mạo" />
+    <string id="ByxdPJzA" text="Già Nhĩ Mao Bì Mạo" />
+    <string id="C8bVbM65" text="Thúc yêu Y Phối Bì Bối Tâm" />
+    <string id="CAO0bycV" text="Trọng Hình Thúc Yêu Y" />
+    <string id="CBUdkmIw" text="Thải Sắc Trường Sam" />
+    <string id="CcWpkREW" text="Trọng Hình Liên Giáp Sấn Sam Phối Khoan Yêu Đái" />
+    <string id="cEhDJAQp" text="Bộ Binh Nhuyễn Giáp Phối Quần" />
+    <string id="CgIRDDbe" text="Bắc Phương Trường Kỵ Thương" />
+    <string id="cjH1WFwy" text="Mao Biên Mạo" />
+    <string id="cjhhuTZD" text="Ngạnh Bì Trát Giáp" />
+    <string id="CLTk2CMs" text="Bảng Đái Bộ Binh Nhuyễn Giáp" />
+    <string id="cMdtLfGB" text="Lưu Tô Bào" />
+    <string id="courserhorse" text="Tuấn Mã" />
+    <string id="Csfcw8G7" text="Lạp Tháp Bì Cách" />
+    <string id="D9JrTpwU" text="Loan Ngoa" />
+    <string id="FDEIHpIN" text="Kính Diện Bố Diện Thiết Giáp" />
+    <string id="fwxHsC1h" text="Đoản Nhuyễn Giáp Sấn Thúc Yêu Y" />
+    <string id="g5BPd0Oc" text="Bố Chế Hộ Mạo" />
+    <string id="G8FQ2exX" text="Cường Hóa Giáp Bản Thủ Sáo" />
+    <string id="GrfnpDxu" text="Cao Địa Phi Phủ" />
+    <string id="GTaxqBcv" text="Phụ Binh Giáp" />
+    <string id="GzgUzrFY" text="Liên Giáp Sấn Sam" />
+    <string id="h9PP7EWc" text="Già Cảnh Mạo" />
+    <string id="hunterhorse" text="Liệp Mã" />
+    <string id="HVJ9ax8Z" text="Thảo Nguyên Bào" />
+    <string id="hXB6gvD2" text="Ngạnh Bì Trát Giáp Sấn Sam" />
+    <string id="HXNb6Cqz" text="Xa Hoa Trường Sam Phối Thúc Yêu Đái" />
+    <string id="I0vRCZ7U" text="Lân Giáp Quân Phiệt Hộ Oản" />
+    <string id="iauvbwL3" text="Hộ Vệ Cung" />
+    <string id="ilLE877K" text="Thảo Nguyên Mao Bì Mã An" />
+    <string id="iOmTEMNm" text="Khinh Bộ Binh Điền Sung Ngoại Sáo" />
+    <string id="IOt4KTHs" text="Đại Lục Kỵ Thừa Mã" />
+    <string id="j1pFE61w" text="Lâm Địa Bố Giáp" />
+    <string id="j2IVY6G6" text="Thô Chế Thú Bì Giáp" />
+    <string id="jimBaHvz" text="Cường Hóa Bì Giáp" />
+    <string id="Jt0Mcn4D" text="Dã Man Nhân Giáp" />
+    <string id="k71X3WNK" text="Bào Sấn Liên Giáp Sam" />
+    <string id="KdbHrcQx" text="Thúc Yêu Đoản Y" />
+    <string id="Kr8b1bxY" text="Bộ Binh Liên Giáp Bối Tâm" />
+    <string id="KVG0Tzaa" text="Cường Hóa Kính Diện Giáp" />
+    <string id="l5JDrvbW" text="Cách Văn Thúc Yêu Y" />
+    <string id="l5PPS5lG" text="Bộ Binh Liên Giáp Sấn Bì Giáp" />
+    <string id="LMo6MaQS" text="Cụ Trang Kỵ Binh Trát Giáp" />
+    <string id="luoXhz19" text="Trọng Hình Trát Giáp Bối Tâm" />
+    <string id="lZZOQsxc" text="Thô Tháo Kỵ Binh Mã An" />
+    <string id="mbT1uNPa" text="Chủy Thủ" />
+    <string id="MnmUBlbL" text="Cao Địa Thuẫn" />
+    <string id="mVAaWp5U" text="Đế Quốc Quân Mã" />
+    <string id="mvTueU1y" text="Giáp Bản Bì Hộ Tí" />
+    <string id="NeZZLy5y" text="Bắc Phương Trọng Hình Kỵ Thương" />
+    <string id="nsBhTk5h" text="Đông Phương Trường Kỵ Thương" />
+    <string id="NTaol1uQ" text="Hoàn Giáp" />
+    <string id="OJIRIm4j" text="Giản Dịch Bố Chế Thúc Yêu Y" />
+    <string id="OvlG2Vu1" text="Thô Tháo Bố Diện Thiết Giáp" />
+    <string id="p9cQARqf" text="Danh Môn Liên Giáp" />
+    <string id="PeozdF9h" text="Phùng Chế Ngạnh Bì Ngoại Sáo" />
+    <string id="PHNZn23Q" text="Hoàng Đồng Trát Giáp Sấn Liên Giáp" />
+    <string id="przGGaVm" text="Đồng Chế Cường Hóa Cao Địa Đại Thuẫn" />
+    <string id="PtfbqMeg" text="Bố Diện Thiết Giáp Sấn Liên Giáp" />
+    <string id="QArSPrAV" text="Bắc Phương Tranh Hình Thuẫn" />
+    <string id="Qd0tQLpA" text="Tương Đinh Bì Giáp" />
+    <string id="qH5VV8In" text="Thôn Dân Bì Cách Thúc Yêu Y" />
+    <string id="qPOqj2u0" text="Trát Giáp" />
+    <string id="QtuZSbG9" text="Vũ Sức Thập Tự Khôi Sấn Hộ Mạo" />
+    <string id="QzAvlan7" text="Điền Sung Đoản Bào" />
+    <string id="ROlomxau" text="Trọng Hình Hoàng Đồng Trát Giáp Sấn Liên Giáp" />
+    <string id="rSEXAMUx" text="Quân Đoàn Khôi" />
+    <string id="S1XL4KJh" text="Xa Hoa Hậu Ngoại Sáo" />
+    <string id="sAml91Z3" text="Xa Hoa Bố Diện Thiết Giáp" />
+    <string id="sturgianhunterhorse" text="Tư Đặc Cát Á Liệp Mã" />
+    <string id="sZsOeSQ4" text="Kỵ Binh Song Nhận Thương" />
+    <string id="T2POVRtg" text="Bảng Đái Phụ Binh Giáp" />
+    <string id="tG1Q8r2u" text="Thương Kỵ Binh Trát Giáp" />
+    <string id="TwuAVsCn" text="Mao Bì Mạo" />
+    <string id="UC2XfY7V" text="Bố Chế Phong Mạo" />
+    <string id="v4THTk5O" text="Trường Sam Phối Bì Yêu Đái" />
+    <string id="vCywYDmp" text="Khinh Hình Điền Sung Giáp" />
+    <string id="veB9S1OI" text="Mẫn Tiệp Đích Đái Nhĩ Ải Chủng Mã" />
+    <string id="vimhFdZp" text="Trọng Hình Tị Hộ Khôi Sấn Bì Cách" />
+    <string id="VkRIefyW" text="Xa Hoa Lân Giáp" />
+    <string id="VQSdhQE3" text="Trọng Hình Lân Giáp Sấn Liên Giáp Sam" />
+    <string id="vsI4M5oq" text="Thiết Chế Cường Hóa Cao Địa Đại Thuẫn" />
+    <string id="w4RuDABQ" text="Bản Giáp Y" />
+    <string id="W58TN2g5" text="Ngõa Lương Cách Thúc Yêu Y" />
+    <string id="wE7RWmIF" text="Dã Trư Bì Ngoại Sáo" />
+    <string id="WLJOnehi" text="Cường Hóa Hậu Thúc Yêu Y" />
+    <string id="wWqavjat" text="Khinh Hình Gia Trường Điền Sung Giáp" />
+    <string id="x3lcf2Do" text="Xa Hoa Trát Giáp Bối Tâm Sấn Bì Giáp" />
+    <string id="XiwTesky" text="Ti Trù Trường Sam" />
+    <string id="XkL1Re8b" text="Tương Đinh Bì Ngoại Sáo" />
+    <string id="XNQPPIaA" text="Bộ Binh Nhuyễn Giáp Sấn Bì Giáp Khắc" />
+    <string id="XNW3zyfZ" text="Quân Phiệt Lân Giáp" />
+    <string id="xQUi0F0k" text="Điều Văn Ngoại Sáo" />
+    <string id="YxglkaXU" text="Bạch Tráo Bào Sấn Liên Giáp Sam" />
+    <string id="z7oMeRl3" text="Hậu Bố Diện Thiết Giáp Bối Tâm" />
+    <string id="ZJweh5Oh" text="Thủ Bán Phủ" />
+    <string id="ZOa7p47T" text="Thảo Nguyên Loan Ngoa" />
+    <string id="ZqTFQeai" text="Bì Cách Thúc Yêu Y" />
   </strings>
 </base>

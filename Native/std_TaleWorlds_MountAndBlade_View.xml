@@ -4,12 +4,18 @@
     <tag language="Tiếng Việt" />
   </tags>
   <strings>
-    <string id="2ZarUUbw" text="{KILLERPLAYERNAME} has killed {KILLEDPLAYERNAME}!" />
-    <string id="9CnRKZOb" text="{KILLEDPLAYERNAME} has died!" />
-    <string id="NqarFr4P" text="Tuỳ Chọn" />
+    <string id="2ZarUUbw" text="{KILLERPLAYERNAME} đã giết {KILLEDPLAYERNAME}!" />
+    <string id="9CnRKZOb" text="{KILLEDPLAYERNAME} đã chết" />
+    <string id="NqarFr4P" text="Cài Đặt" />
     <string id="ODQmOrIw" text="Danh Đề" />
     <string id="xsC8Ierj" text="({BATTLE_COMBATANT})" />
     <string id="YbpzLHzk" text="Thoát Game" />
     <string id="YDYnuBmC" text="Chế Độ Online" />
+    <string id="5VIbo2Cb" text="Không thể thiết lập kết nối với máy chủ sảnh. Kiểm tra kết nối internet của bạn và thử lại. " />
+    <string id="bUh0x6rA" text="Trình biên tập" />
+    <string id="cNELF924" text="Chế độ multiplayer không khả dụng" />
+    <string id="dismissnotification" text="Huỷ bỏ" />
+    <string id="ksq1IBh3" text="Không có kết nối" />
+    <string id="pwoSPHEU" text="Chế độ multiplayer không khả dụng với tài khoản của bạn." />
   </strings>
 </base>

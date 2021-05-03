@@ -4,37 +4,40 @@
     <tag language="Tiếng Việt" />
   </tags>
   <strings>
-    <string id="074YAjOk" text="You are kicked due to inactivity" />
-    <string id="2SEofGth" text="Change Team" />
-    <string id="4mMySbxI" text="Unspecified error" />
-    <string id="a0IHtkoa" text="You are kicked by game host" />
-    <string id="AbEh2y8o" text="Save And Exit" />
-    <string id="aKjpbRP5" text="Unknown reason" />
-    <string id="bV75iwKa" text="Lưu" />
-    <string id="e0KdfaNe" text="Lưu như" />
-    <string id="EzeFJo65" text="You have been disconnected from server!" />
-    <string id="hvaDkG4w" text="Press any key." />
-    <string id="InGwtrWt" text="Quit" />
-    <string id="ivKntfNA" text="Already requested to join, waiting for server response" />
-    <string id="IzJ7f5SQ" text="Server capacity is full" />
-    <string id="JluTW3Qw" text="Game Ended" />
-    <string id="JQVixeQs" text="Couldn't access game server" />
-    <string id="KRNdlbkq" text="Custom game is ending" />
-    <string id="Mm1Kb1bS" text="Incorrect password" />
-    <string id="mO9bh5sy" text="Couldn't join custom game" />
+    <string id="074YAjOk" text="Bạn đã bị kick vì treo" />
+    <string id="2SEofGth" text="Thay đổi đội" />
+    <string id="4mMySbxI" text="Lỗi không xác định" />
+    <string id="a0IHtkoa" text="Bạn bị kick bởi chủ phòng" />
+    <string id="aKjpbRP5" text="Nguyên nhân không rõ" />
+    <string id="EzeFJo65" text="Bạn bị ngắt kết nối với máy chủ!" />
+    <string id="hvaDkG4w" text="Ấn phím bất kỳ." />
+    <string id="InGwtrWt" text="Thoát" />
+    <string id="ivKntfNA" text="Đã yêu cầu tham gia, đang chờ phản hồi của máy chủ " />
+    <string id="IzJ7f5SQ" text="Máy chủ đầy" />
+    <string id="JluTW3Qw" text="Trò chơi kết thúc" />
+    <string id="JQVixeQs" text="Không thể truy cập máy chủ trò chơi" />
+    <string id="KRNdlbkq" text="Game tuỳ chỉnh đã kết thúc" />
+    <string id="Mm1Kb1bS" text="Sai mật khẩu" />
+    <string id="mO9bh5sy" text="Không thể tham gia game tuỳ chỉnh" />
     <string id="n4UUrd1p" text="Đã sử dụng" />
     <string id="NqarFr4P" text="Tuỳ Chọn" />
-    <string id="OhF7NqSb" text="You are banned from game by poll" />
-    <string id="RamV6yLM" text="Exit to Main Menu" />
-    <string id="RGzyUTzm" text="Formation arrangement switching to {ARRANGEMENT_ORDER}" />
-    <string id="srAJw3Tg" text="Player is banned from server" />
-    <string id="T8IniCKU" text="Game server is not available" />
-    <string id="tKSxGy5p" text="Server not responding" />
-    <string id="vkpMgobZ" text="Game server error" />
-    <string id="wbFB3N72" text="You are kicked from game by poll" />
-    <string id="wLpJEkKY" text="Battle Server Crashed" />
-    <string id="WvGviFgt" text="Your connection with the server timed out" />
-    <string id="XnsAbUE3" text="Dismiss" />
+    <string id="OhF7NqSb" text="Bạn đã bị bỏ phiếu ban" />
+    <string id="RamV6yLM" text="Thoát ra Main menu" />
+    <string id="RGzyUTzm" text="Thay đổi bố trí đội hình thành {ARRANGEMENT_ORDER}" />
+    <string id="srAJw3Tg" text="Người chơi bị ban khỏi server" />
+    <string id="T8IniCKU" text="Máy chủ trò chơi không khả dụng " />
+    <string id="tKSxGy5p" text="Máy chủ không phản hồi" />
+    <string id="vkpMgobZ" text="Máy chủ lỗi" />
+    <string id="wbFB3N72" text="Bạn bị bỏ phiếu kick" />
+    <string id="wLpJEkKY" text="Máy chủ bị sự cố" />
+    <string id="WvGviFgt" text="Kết nối của bạn với máy chủ đã hết thời gian chờ " />
     <string id="XzZFhRwr" text="Trở lại game" />
+    <string id="1e12bdjj" text="Ảnh chụp màn hình đã được lưu trong {PATH} " />
+    <string id="dismissnotification" text="Huỷ bỏ" />
+    <string id="HzWaGn3y" text="Có người chơi không chạy game với Anti-cheat" />
+    <string id="lxq6SaQn" text="Bạn có muốn thoát?" />
+    <string id="tlsmbvQX" text="Có người chơi chưa sẵn sàng để vào" />
+    <string id="TR1B2RWB" text="Bạn bị anti-cheat đá" />
+    <string id="VklN5Wm6" text="Chế độ Chụp Ảnh" />
   </strings>
 </base>

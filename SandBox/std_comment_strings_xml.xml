@@ -29,7 +29,7 @@
     <string id="80C0gWJ4" text="Vua của Ngoã Lan Địch Á" />
     <string id="86aQkXpV" text="Tốt lắm - Ta sẽ thử thách lòng can đảm của ngươi!" />
     <string id="8eLXNZ7U" text="Thật tốt khi biết được ai là đối thủ." />
-    <string id="8GDgJCB4" text="Bạn ơi, nếu như ngươi đang ở đây tìm kiếm những chiến sĩ cứng cỏi cường tráng nhất. &amp;amp;amp;apos;Dã Trư Binh Đoàn&amp;amp;amp;apos; chúng ta là một lựa chọn đúng đắn đó. Những kẻ biết đánh nhau nhất tại Ngoã Lan Địch Á đều dưới trướng chúng ta. Phải biết là nếu ngươi không thuê chúng ta, thì kẻ địch của ngươi cũng có thể nha." />
+    <string id="8GDgJCB4" text="Bạn ơi, nếu như ngươi đang ở đây tìm kiếm những chiến sĩ cứng cỏi cường tráng nhất. &amp;amp;amp;amp;apos;Dã Trư Binh Đoàn&amp;amp;amp;amp;apos; chúng ta là một lựa chọn đúng đắn đó. Những kẻ biết đánh nhau nhất tại Ngoã Lan Địch Á đều dưới trướng chúng ta. Phải biết là nếu ngươi không thuê chúng ta, thì kẻ địch của ngươi cũng có thể nha." />
     <string id="8WLSZRZc" text="Tốt lắm. Đề xuất của ngươi là gì?" />
     <string id="8x8kVUGX" text="Hãy đề cao quyền của người nghèo và lương thiện, góa phụ và trẻ mồ côi, và Trời Cao chắc chắn sẽ chú ý tới." />
     <string id="99gE1ZoY" text="Ta chính là {CONVERSATION_CHARACTER.LINK}, của {FACTION}." />
@@ -74,7 +74,7 @@
     <string id="DRzsgjsD" text="Ta là {CONVERSATION_CHARACTER.LINK}, của gia tộc {CLAN_NAME}, một trong những gia tộc hiển hách nhất Đế Quốc." />
     <string id="dvpbyoAQ" text="Ta đã nghe qua về ngươi. Cuối cùng cũng gặp được ngươi. Ngươi nghe nói giống như một {?PLAYER.GENDER}nữ tử{?}nam tử{\?} rất ưu tú để làm quen. Vậy thi thoảng chúng ta hãy cùng nhau tâm sự đi. " />
     <string id="DxuuarNT" text="Ta biết tên ngươi -- Từ đánh giá của bọn họ thì ta tin là cũng có rất nhiều quả phụ cũng biết tên ngươi. Nhưng việc này không liên quan tới ta." />
-    <string id="ELtT9ctL" text="Ngươi có thể cũng đã từng nghe qua &amp;amp;lt;Hộ Thuẫn Huynh Đệ Hội&amp;amp;gt;. Trên chiến trường chúng ta có thể nói là số một. Thù lao của chúng ta đúng với giá trị năng lực của chúng ta. Nhưng một khi đã cầm tiền của ngươi, chúng ta nhất định sẽ thề sống chết tuân thủ khế ước. Nếu mà bắt buộc, chúng ta có thể vì ngươi mà quên mình." />
+    <string id="ELtT9ctL" text="Ngươi có thể cũng đã từng nghe qua &amp;amp;amp;lt;Hộ Thuẫn Huynh Đệ Hội&amp;amp;amp;gt;. Trên chiến trường chúng ta có thể nói là số một. Thù lao của chúng ta đúng với giá trị năng lực của chúng ta. Nhưng một khi đã cầm tiền của ngươi, chúng ta nhất định sẽ thề sống chết tuân thủ khế ước. Nếu mà bắt buộc, chúng ta có thể vì ngươi mà quên mình." />
     <string id="EXgm5Utx" text="Nguyện cho {?GENDER}nàng{?}ngài{\?} ấy trường thọ!" />
     <string id="eyxfHmCU" text="Ta là {CONVERSATION_CHARACTER.LINK} của gia tộc {CLAN_NAME}. Gia thế của chúng ta đã phục vụ cho quốc vương của Phất Lan Địch Á trong nhiều đời." />
     <string id="f2eZL7w5" text="Ta nghĩ là ta có nghĩa vụ phải cho ngươi một cơ hội cầu xin tha mạng. Vậy thì ngươi có đồng ý đầu hàng không?[ib:warrior][if:idle_angry]" />
@@ -103,7 +103,7 @@
     <string id="iepWkkfA" text="Nữ sĩ" />
     <string id="ieVRr359" text="Ta sẽ nhớ tên của ngươi." />
     <string id="iM76GPzK" text="Ta rất thích nghe ý kiến chính trực của một người {?PLAYER.GENDER}phụ nữ{?}đàn ông{\?}. Nói cách khác, nếu ngươi không phải là người như vậy, thì xin đừng làm phiền ta." />
-    <string id="iOnsulPb" text="Ngươi có thể đã nghe qua về chúng ta. Mọi người đều gọi chúng ta là &amp;amp;lt;Hoả Diễm Dư Tẫn&amp;amp;gt; (Tro tàn của ngọn lửa). Nhiều thế hệ trước, thượng thiên đã gợi ý chúng ta chuẩn bị cho một cuộc đại thanh tẩy. Từ đó về sau, chúng ta vẫn cháy âm ỉ yên lặng. Chỉ là, khi ngày định mệnh đó đến, chúng ta với ngọn lửa phẫn nộ chính nghĩa, sẽ thiêu đốt hết tất cả." />
+    <string id="iOnsulPb" text="Ngươi có thể đã nghe qua về chúng ta. Mọi người đều gọi chúng ta là &amp;amp;amp;lt;Hoả Diễm Dư Tẫn&amp;amp;amp;gt; (Tro tàn của ngọn lửa). Nhiều thế hệ trước, thượng thiên đã gợi ý chúng ta chuẩn bị cho một cuộc đại thanh tẩy. Từ đó về sau, chúng ta vẫn cháy âm ỉ yên lặng. Chỉ là, khi ngày định mệnh đó đến, chúng ta với ngọn lửa phẫn nộ chính nghĩa, sẽ thiêu đốt hết tất cả." />
     <string id="itfE84jd" text="Song quyền nan địch tứ thủ, bỏ cuộc đi. Hoặc ngươi vẫn muốn đánh, được thôi. Dù sao chết trên chiến trận cũng là một chuyện tốt đẹp. [ib:warrior][if:idle_angry]" />
     <string id="IuSH0tcp" text="{FIRST_NAME} vẫn luôn tận chức tận trách đối với ta, mà ta dự định cũng sẽ có qua có lại với {?GENDER}cô{?}hắn{\?} ta." />
     <string id="J0wLOV3u" text="Ta biết là nhiệm vụ ta giao cho ngươi không dễ dàng gì... Được rồi, không nói chuyện đó nữa..." />
@@ -111,120 +111,120 @@
     <string id="JcdmntiC" text="A, đúng vậy, theo như đánh giá của bọn họ về ngươi, ta có thể tưởng tượng ra một ngươi mang trên mình lưỡi đao vẫn còn đang dính máu của kẻ thù, chứ không phải một người phong độ mị lực như vậy." />
     <string id="JJAWbuNT" text="Ta là {CONVERSATION_CHARACTER. LINK} của {CLAN_NAME}. Bọn họ nói, vào thời kỳ anh hùng, tổ tiên của ta là một trong những người ngồi trên kim sắc thuyền từ phía tây tới mảnh đất này. Dĩ nhiên, nếu ngươi tin rằng mỗi cái người trên thuyền mà ngươi nghe nói tới này đều ở đấy, bọn họ sớm đã bị lật thuyền rồi." />
     <string id="JkHvOVlo" text="Ta sẽ ghi nhớ lại tên của ngươi. Đừng vì ta không hữu hảo mà oán giận, thế giới này nguy hiểm đầy rẫy, rồi ai cũng phải học cách cảnh giác thôi." />
-    <string id="JNb6l91E" text="If you ever want a chance for glory, you might want to consider fighting for me. One day you can tell your grandchildren that you served under my command." />
-    <string id="jr0XszmA" text="I can&amp;amp;amp;apos;t say that I&amp;amp;amp;apos;ve heard the name, but it&amp;amp;amp;apos;s good to make your acquaintance." />
-    <string id="JS5hKW6p" text="I&amp;amp;amp;apos;m not one of those who loves war for its own sake. But I still need reliable warriors who are true to their word. I will keep faith with all those who keep faith with me." />
-    <string id="jxduaTUc" text="I&amp;amp;amp;apos;ve heard of talk of you -- the woman who knows how to fight like a man." />
-    <string id="kaEUZ8NA" text="My son" />
-    <string id="kil3bT75" text="One thing you should know: If you cross me, you&amp;amp;amp;apos;ll regret it." />
-    <string id="kkOYSCSz" text="Brave words are easy. We&amp;amp;amp;apos;ll see what happens." />
-    <string id="KkWNSw9p" text="I know your name. It strikes fear in men&amp;amp;amp;apos;s hearts. That is good. Perhaps we should speak together, some time." />
-    <string id="KlQlzYdS" text="It&amp;amp;amp;apos;s Fortune&amp;amp;amp;apos;s idea of a good joke to make old friends fight. Shall we dance to her tune, or do you want to give up?[ib:warrior][if:idle_angry]" />
-    <string id="KMygMFj2" text="It is my duty to fight you" />
-    <string id="l2nEIZV5" text="I am {CONVERSATION_CHARACTER.LINK}, an emir of {LIEGE_TITLE}." />
-    <string id="L2PFxbD3" text="So... Not long ago, you betrayed my trust. Do we really have anything to discuss?" />
-    <string id="LBb7YgXU" text="rightful emperor of the Calradians" />
-    <string id="LbpdzoRd" text="I am {CONVERSATION_CHARACTER.LINK}, of the house of {CLAN_NAME}. Our family has stood in the Senate and discharged its duties honorably since the first days of the Empire." />
-    <string id="LEZKgNEm" text="I&amp;amp;amp;apos;ve never heard of you. No doubt another vulture come to this land to grow fat on the leftovers of war." />
-    <string id="lI8rPjEd" text="What do you take me for? A plotter? Whatever you suggest had best be honorable." />
-    <string id="LkVCTVMx" text="I thank you for what you did for me. You kept your word. Not everyone is so dependable these days." />
-    <string id="LYUqmf6P" text="I will hear you. I shall assume that you will not suggest anything dishonorable." />
-    <string id="Mlpy0SQo" text="I give up! You fought well. There is no call for further bloodshed.[rf:angry][rb:trivial]" />
-    <string id="MSiuWF7V" text="We can take no more! We have raised the standard of rebellion, and will fight the people&amp;amp;amp;apos;s enemies until our just demands are met." />
-    <string id="MUHdZHFw" text="I have heard much about you. They say that you are the equal of even the bravest of men in your prowess at arms. Perhaps one day I shall try my valor against yours, either in a tournament or on the battlefield!" />
-    <string id="MUuNmr6C" text="The odds are not in your favor today. You may fight us, but there is also no shame if you yield now.[ib:warrior][if:idle_angry]" />
-    <string id="MzKWlFTv" text="A pity you and I have to fight. Do you want to give up?[ib:warrior][if:idle_angry]" />
-    <string id="N5pglyyU" text="Have it your way." />
-    <string id="NeUilOqh" text="We welcome strangers into our lands. The woods are wide, and there is game to be hunted and food to be gathered, enough for all. But there are some who come here to steal from us, to enslave us, or to tax us. Every spring, the bodies of those thieves are discovered in the thaw." />
-    <string id="nJgp2MoR" text="I know your name -- and from what I hear, I&amp;amp;amp;apos;ll warrant that many a grieving widow knows too. But that is no concern of mine." />
-    <string id="NmlauVxB" text="Mm. Go on." />
-    <string id="Nq2dyiO1" text="I am {CONVERSATION_CHARACTER.LINK}, of the {CLAN_NAME}, a name you will have heard many times in the sagas of the Sturgians." />
-    <string id="nRnbBnFq" text="I am? Well... I am grateful.[if:happy][rb:very_positive]" />
-    <string id="NW1n9k45" text="Cousin." />
-    <string id="O8wTipT2" text="Thank you. When you are finally defeated, I will request that your death be swift and merciful. Unless, that is, you care to join us... Good bye, for now.[if:happy][rb:very_positive]" />
-    <string id="OgzAlCkk" text="I am still recovering from the bruises you gave me." />
-    <string id="oIrz5050" text="Your highness" />
-    <string id="oW51mkNE" text="You may fight us, but many of your men will be killed, and you will probably lose. Yield, and spare us both the unnecessary bloodshed.[ib:warrior][if:idle_angry]" />
-    <string id="PBgLvyOa" text="I am {CONVERSATION_CHARACTER.LINK}, of the {CLAN_NAME}. Our ancestors were among those who came from the far north to take the princes&amp;amp;amp;apos; denar and swear an oath to defend these lands, and we have held true to that oath." />
-    <string id="pDN7Wafo" text="khan of the Khuzaits" />
-    <string id="Pg8vccKF" text="Never heard of you. Doubt you&amp;amp;amp;apos;ll give me much trouble." />
-    <string id="PhTv43ve" text="Ah, yes. At last we meet. You sound like a good woman to know. Let us speak together, from time to time." />
-    <string id="pn79h0aj" text="I am {CONVERSATION_CHARACTER.LINK}, of the {CLAN_NAME}. We received our title from the Emperor Vortios himself. Not that he had much choice about it, as he was held captive in one of our raiding ships at the time, but I&amp;amp;amp;apos;m sure he recognized the nobility of our blood." />
-    <string id="pQkiu5qf" text="Would you like me to give you another task, so that you can betray me again?" />
-    <string id="pXULuzaq" text="I yield! You have won. Cursed be this day![rf:angry][rb:trivial]" />
-    <string id="pZj9C1yA" text="The Heavens will shall be done. But those who smooth the path shall be rewarded." />
-    <string id="q5nQGimE" text="I am {CONVERSATION_CHARACTER.LINK}, of the house of {CLAN_NAME}. Though one should not be too proud of one&amp;amp;amp;apos;s lineage, I am glad to say that we have always taken seriously our duty to protect the common folk of the Empire." />
-    <string id="qB3wfM1f" text="I&amp;amp;amp;apos;m glad that you and I could reach an agreement, earlier." />
-    <string id="Qb4tlTEj" text="But enough talking. Yield or fight![ib:warrior][if:idle_angry]" />
-    <string id="QhkM71ap" text="It&amp;amp;amp;apos;s an honor to meet you, good sir." />
-    <string id="QpBmbygb" text="You may have heard of us - the Eleftheroi. Our fathers were thieves and runaways and troublemakers - we won&amp;amp;amp;apos;t deny it. We came here because they didn&amp;amp;amp;apos;t want us anywhere else. But I&amp;amp;amp;apos;ll tell you this - if the empire survives, it&amp;amp;amp;apos;ll thanks to men like us, doing the hard bloody work out here in the wild fields, not those who sleep comfortably in their beds." />
-    <string id="qSF2z6Wa" text="I have not heard of you, but you have the look of a {?PLAYER.GENDER}woman{?}man{\?} who might make something of {?PLAYER.GENDER}herself{?}himself{\?}, some day." />
-    <string id="qvwfev22" text="I&amp;amp;amp;apos;ve got you cornered. Yield or die.[ib:warrior][if:idle_angry]" />
-    <string id="R6sTYEaz" text="You can&amp;amp;amp;apos;t talk your way out of this." />
-    <string id="RajD4RC1" text="I&amp;amp;amp;apos;ve never heard of you." />
-    <string id="rCNUXFTN" text="I yield! Congratulations on your victory.[rf:angry][rb:trivial]" />
-    <string id="reg1AUxr" text="My child" />
-    <string id="rhTUDKhJ" text="I am {CONVERSATION_CHARACTER.LINK}, of the {CLAN_NAME}. There&amp;amp;amp;apos;s not a clan of the Battanians who hasn&amp;amp;amp;apos;t contributed the skull of one of their champions to our collection of drinking cups." />
-    <string id="RNZ9LOxc" text="My friend" />
-    <string id="rPrBa7gK" text="My husband" />
-    <string id="rUzbs0Zr" text="khatun of the Khuzaits" />
-    <string id="ry1ycxNY" text="I wish it hadn&amp;amp;amp;apos;t come to this." />
-    <string id="s1FVPS5D" text="I am {CONVERSATION_CHARACTER.LINK}, of the house of {CLAN_NAME}. Our family has served the Empire for generations." />
-    <string id="S1vGzr8z" text="I am {CONVERSATION_CHARACTER.LINK}, of the {CLAN_NAME}, a clan of the Aserai." />
-    <string id="sax2tF9L" text="You are indeed a {?PLAYER.GENDER}woman{?}man{\?} of honor, {?PLAYER.GENDER}madame{?}sir{\?}. I shall not forget this![if:happy][rb:very_positive]" />
-    <string id="SJ3bpDxC" text="I do not recognize your banner, but clearly you are a lady of rank. Please consider me your most humble servant." />
-    <string id="sJNrVlXa" text="Heard you get around quite a bit... So... Tell me a bit about your travels, then." />
-    <string id="SSuL62NZ" text="I&amp;amp;amp;apos;m loyal to {FIRST_NAME}. No one better say otherwise." />
-    <string id="sswCmQZ2" text="They call us the Lake Rats, but we prefer to be known as the free people of the marshes. No prince or boyar can make us bow our heads and scrape our knees. Know that, and we can probably get along fine." />
-    <string id="t6sRVI5C" text="My wife" />
-    <string id="tA4wDLt2" text="I shall have my scribes make a note of your name." />
-    <string id="te2DSMtg" text="We&amp;amp;amp;apos;re not putting up with it any more. We will spill the blood of the oppressors and anyone who stands in the way of our just wrath." />
-    <string id="tOanKs9o" text="I am {LIEGE_TITLE}." />
-    <string id="tUa5WBpp" text="rightful empress of the Calradians" />
-    <string id="TUwY7IKc" text="So... You really did me over. Not sure we have much to talk about now, after that." />
-    <string id="Tvy4UvJC" text="queen of the Vlandians" />
-    <string id="TzPC5L5X" text="I&amp;amp;amp;apos;m always looking for good fighters. If you ask about me, I suspect you&amp;amp;amp;apos;ll be told that I take good care of my men." />
-    <string id="U4p70l9B" text="I am {CONVERSATION_CHARACTER.LINK}, a chieftain of the Khuzaits." />
-    <string id="U770Bvy8" text="I am {CONVERSATION_CHARACTER.LINK}, of the {CLAN_NAME}. The fame of our family is second to none in the songs of the Battanians." />
-    <string id="U9u8Qeu4" text="Perhaps you&amp;amp;amp;apos;ve heard of the Wolfskins, traveller. We are beasts. Know that so long as we eat no cooked meat, wear no woven cloth, and sleep under no roof, we cannot be touched by the laws of men. So tread carefully with us." />
-    <string id="Ua0T0A7t" text="I am {CONVERSATION_CHARACTER.LINK}, of the {CLAN_NAME}, one of the ancient lineages of the Battanians." />
-    <string id="UB4sqrWx" text="Mother" />
-    <string id="ufa20b2l" text="I&amp;amp;amp;apos;ll deal with those who keep their oaths. If you&amp;amp;amp;apos;re one of those who don&amp;amp;amp;apos;t value their word, don&amp;amp;amp;apos;t waste my time." />
-    <string id="Ufn3916B" text="I&amp;amp;amp;apos;ve heard about you. So now we meet. I&amp;amp;amp;apos;m not one for talk, so if you have anything to tell me, say it." />
-    <string id="v4nyY62z" text="queen of the Sturgians" />
-    <string id="vN4spwD1" text="Know that if you ever cross me, you&amp;amp;amp;apos;ll wind up as food for the jackals." />
-    <string id="vNnMHR84" text="You do yourself credit, {?PLAYER.GENDER}madame{?}sir{\?}. I shall not forget this.[if:happy][rb:very_positive]" />
-    <string id="VOExVZtX" text="I&amp;amp;amp;apos;m sorry. I don&amp;amp;amp;apos;t relish bloodshed, but I can&amp;amp;amp;apos;t let you ride away to fight another day." />
-    <string id="VUn8mQ5n" text="high king of the Battanians" />
-    <string id="w7EY8rbd" text="Let&amp;amp;amp;apos;s change the subject." />
-    <string id="WbAAkcbw" text="It&amp;amp;amp;apos;s an honor to meet you, my lady." />
-    <string id="WFwoWAic" text="I give up! I give up! Call back your dogs![rf:angry][rb:trivial]" />
-    <string id="WH8P3Y5F" text="I am {CONVERSATION_CHARACTER.LINK}, a loyal vassal of {LIEGE_TITLE}." />
-    <string id="wrIYDx9V" text="I&amp;amp;amp;apos;m free? Well... Good bye, then.[if:happy][rb:very_positive]" />
-    <string id="Wt4iJPcd" text="I&amp;amp;amp;apos;ve heard of you! It&amp;amp;amp;apos;s very good to finally make your acquaintance." />
-    <string id="WVeS3Lsb" text="Seek not the things of this world, but thirst after the divine truth." />
-    <string id="wWwoTzpG" text="Brother" />
-    <string id="XBbdhx4M" text="Again, I&amp;amp;amp;apos;m glad to have your assistance." />
-    <string id="xH4KJEBP" text="I&amp;amp;amp;apos;m sworn to {?GENDER}her{?}his{\?} service. That is all there is to say." />
-    <string id="xHjVl9gR" text="I&amp;amp;amp;apos;ve heard of you. At last we meet. You sound like a good {?PLAYER.GENDER}woman{?}man{\?} to know. Let us speak together, from time to time. We may be able to find arrangements that benefit us both." />
+    <string id="JNb6l91E" text="Nếu như ngươi muốn dương danh lập vạn, ngươi có thể cân nhắc việc đi theo ta. Sau này ngươi có thể nói cho con cháu của mình rằng ngươi đã từng hiệu trung dưới trướng của ta." />
+    <string id="jr0XszmA" text="Ta không chắc là đã nghe qua cái tên này hay chưa, nhưng mà rất vui khi được quen ngươi." />
+    <string id="JS5hKW6p" text="Ta không phải là loại người hiếu chiến quá mức, nhưng ta vẫn luôn rất mong muốn có những chiến sĩ đáng tin cậy. Phàm ai thủ tín với ta, ta cũng sẽ thủ tín đối đãi lại." />
+    <string id="jxduaTUc" text="Ta đã nghe qua tên của ngươi - một người phụ nữ biết cách chiến đấu như những người đàn ông." />
+    <string id="kaEUZ8NA" text="Con ta" />
+    <string id="kil3bT75" text="Có một việc ngươi nên biết là. Nếu như ngươi chọc giận ta, ngươi sẽ hối hận vì hành động đó." />
+    <string id="kkOYSCSz" text="Dũng cảm ấy à - nói thì dễ lắm, nhưng chúng ta vẫn là nhìn vào biểu hiện thực tế cơ." />
+    <string id="KkWNSw9p" text="Ta biết tên của ngươi, một cái tên khiến người khác nghe mà phát run. Vậy có thời gian chúng ta sẽ cùng nhau tâm sự nhé." />
+    <string id="KlQlzYdS" text="Vận mệnh nữ thần cho rằng, để mấy ông bạn cũ tự chém giết lẫn nhau mới là một trò vui. Chúng ta chỉ là án theo ý của nàng ấy mà thôi, hay là ngươi muốn từ bỏ? [ib:warrior][if:idle_angry]" />
+    <string id="KMygMFj2" text="Cùng ngươi chiến đấu chính là chức trách của ta" />
+    <string id="l2nEIZV5" text="Ta là {CONVERSATION_CHARACTER.LINK}, một vị tù trưởng của {LIEGE_TITLE}." />
+    <string id="L2PFxbD3" text="Thế đấy.. trước đây không lâu, ngươi đã phản bội lại sự tín nhiệm của ta. Hiện tại chúng ta còn gì để nói nữa hay sao?" />
+    <string id="LBb7YgXU" text="Hoàng Đế chính thống của người Tạp Lạp Đức" />
+    <string id="LbpdzoRd" text="Ta là {CONVERSATION_CHARACTER. LINK} của {CLAN_NAME}. Gia tộc chúng ta vẫn luôn thủ chức tại nguyên lão viện từ lúc Đế Quốc thành lập tới nay, vinh quang đảm nhiệm chức trách." />
+    <string id="LEZKgNEm" text="Ta chưa từng nghe nói qua về ngươi. Chắc lại là một con kền kền tới mảnh đất đang có chiến tranh này để ăn ké. Ăn tới phình bụng ra." />
+    <string id="lI8rPjEd" text="Ngươi đem ta thành cái gì rồi? Một kẻ mưu mẹo? Bất luận một cái đề nghị nào được đưa ra, phải tốt nhất thì mới đáng giá được tôn kính." />
+    <string id="LkVCTVMx" text="Ta rất cảm tạ những gì ngươi làm cho ta, ngươi là một người thủ tín. Không phải ai cũng thế trong thời đại này." />
+    <string id="LYUqmf6P" text="Ngươi đừng có đề xuất mấy thứ gì ám muội thì ta sẽ nghe một chút." />
+    <string id="Mlpy0SQo" text="Ta bỏ cuộc! Ngươi đánh rất tốt, không cần thiết phải đổ máu nữa! [rf:angry][rb:trivial]" />
+    <string id="MSiuWF7V" text="Chúng ta đã chịu đựng đủ rồi! Chúng ta đã dựng cờ khởi nghĩa, cùng chung kẻ thù với người dân, đánh đến khi nào chính nghĩa được thoả mãn thì thôi." />
+    <string id="MUHdZHFw" text="Ngưỡng mộ đại danh đã lâu. Bọn họ nói ngươi có thể đánh nổi cùng mấy tên cường giả nổi danh khác. Có lẽ một ngày nào đó, chúng ta sẽ đọ sức 1 phen, có thể trên chiến trường hoặc trong một đấu trường nào đó." />
+    <string id="MUuNmr6C" text="Hôm nay nữ thần may mắn không ở cạnh ngươi rồi. Ngươi có thể tử chiến cùng ta, hoặc không đầu hàng cũng được, chẳng có gì đáng xấu hổ cả.[ib:warrior][if:idle_angry]" />
+    <string id="MzKWlFTv" text="Thật đáng tiếc là chúng ta không thể không đánh một trận. Hay ngươi có muốn bỏ cuộc không? [ib:warrior][if:idle_angry]" />
+    <string id="N5pglyyU" text="Cứ làm theo cách của ngươi đi." />
+    <string id="NeUilOqh" text="Chúng ta luôn hoan nghênh những người lạ vào mảnh đất này của chúng ta, thú săn với thực vật phong phú có đủ hết cho mọi người. Nhưng lại có một số người tới nơi này trộm đồ, nô dịch không thì lại đánh thuế chúng ta. Cứ mùa xuân hàng năm, thi thể của những tên này có ở khắp nơi trong các khu rừng rậm. Chúng ta cũng không phải dạng người dễ chọc tới." />
+    <string id="nJgp2MoR" text="Ta biết tên của ngươi -- theo ta biết được thì cũng có rất nhiều quả phụ cũng biết tên ngươi. Nhưng điều này chẳng liên quan gì tới ta." />
+    <string id="NmlauVxB" text="Ừmm, đi đi." />
+    <string id="Nq2dyiO1" text="Ta là {CONVERSATION_CHARACTER.LINK} của {CLAN_NAME}, một gia tộc mà ngươi sẽ nghe thấy rất nhiều trong truyền thuyết của Tư Đặc Cát Á." />
+    <string id="nRnbBnFq" text="Thật không? Vậy được... Cảm ơn rất nhiều.[if:happy][rb:very_positive]" />
+    <string id="NW1n9k45" text="Họ hàng" />
+    <string id="O8wTipT2" text="Đa tạ. Sau này, lúc ngươi có bị bại trận, ta sẽ cho ngươi chết một cách thống khoái nhất có thể. Trừ phi, ngươi đồng ý gia nhập với chúng ta... Bây giờ thì cứ như vậy đã, tạm biệt. [if:happy][rb:very_positive]" />
+    <string id="OgzAlCkk" text="Ta vẫn còn đang dưỡng thương." />
+    <string id="oIrz5050" text="Điện hạ" />
+    <string id="oW51mkNE" text="Ngươi có thể đối địch với chúng ta, nhưng như vậy thủ hạ của ngươi sẽ phải đổ nhiều máu vì điều đó, đồng thời cũng chính ngươi có thể sẽ thua. Đầu hàng đi, chúng ta song phương đều sẽ bớt phải đổ máu hơn. [ib:warrior][if:idle_angry]" />
+    <string id="PBgLvyOa" text="Ta là {CONVERSATION_CHARACTER.LINK} của {CLAN_NAME}. Tổ tiên của chúng ta là những người từ phương Bắc xa xôi, bọn họ thu gom tiền của lũ quý tộc rồi thề bảo vệ mảnh đất này, mà chúng ta hiện tại cũng là tuân thủ theo lời thề đó." />
+    <string id="pDN7Wafo" text="Khố Tái Đặc - Khả Hãn" />
+    <string id="Pg8vccKF" text="Ta chưa bao giờ nghe danh ngươi. Chỉ sợ là ngươi sẽ đem lại nhiều phiền phức cho ta." />
+    <string id="PhTv43ve" text="A, thật tốt khi được gặp nàng. Như ta thấy thì nàng có vẻ như là một nữ tử đáng để kết giao, thời gian rảnh cũng ta có thể tâm sự thêm nhé." />
+    <string id="pn79h0aj" text="Ta là {CONVERSATION_CHARACTER.LINK} của gia tộc {CLAN_NAME}. Danh hiệu của chúng ta chính là được Hoàng Đế Ốc Đề Nga Tư ban cho. Thực ra hắn không có lựa chọn nào khác, bởi vì lúc ấy hắn đang bị bắt làm tù binh trên một chiếc thuyền mà chúng ta vừa đánh chiếm được, nhưng dù vậy thì hắn cũng sẽ làm điều đó bởi vì hắn thấy được huyết thống cao quý của chúng ta." />
+    <string id="pQkiu5qf" text="Ngươi muốn ta giao cho ngươi một nhiệm vụ khác để ngươi lại phản bội ta sao?" />
+    <string id="pXULuzaq" text="Ta hàng! Ngươi thắng. Hôm nay đúng là gặp quỷ rồi! [rf:angry][rb:trivial]" />
+    <string id="pZj9C1yA" text="Người trải bằng những con đường sẽ được đền đáp." />
+    <string id="q5nQGimE" text="Ta là {CONVERSATION_CHARACTER.LINK} của gia tộc {CLAN_NAME}. Mặc dù một người không nên quá kiêu ngạo vì huyết thống của mình, nhưng ta rất vui lòng biểu hiện ra rằng vì chúng ta vẫn luôn tận chức trách bảo hộ bình dân bách tích của Đế Quốc." />
+    <string id="qB3wfM1f" text="Ta rất vui vì trước đó chúng ta đã đạt được thoả thuận sớm." />
+    <string id="Qb4tlTEj" text="Bớt nói lời thừa thãi. Hoặc là đầu hàng, hoặc là khai chiến! [ib:warrior][if:idle_angry]" />
+    <string id="QhkM71ap" text="Rất vinh hạnh có thể gặp được tiên sinh." />
+    <string id="QpBmbygb" text="Có thể ngươi đã từng nghe qua chúng ta - Dân Tự Do. Đời cha của chúng ta là những tên trộm, những kẻ đào vong và những kẻ gây rối, chúng ta không phủ nhận những điều ấy. Chúng ta đi tới đây là bởi vì ở những chỗ khác họ không hoan nghênh chúng ta lắm. Nhưng mà ta phải nói cho ngươi biết, nếu như Đế Quốc vẫn còn may mắn trường tồn, thì phải biết ơn tới những người lao động bằng máu như chúng ta đây, chứ không phải mấy cái thùng cơm nằm trên giường vô tư lự kia." />
+    <string id="qSF2z6Wa" text="Ta chưa từng nghe nói gì về ngươi, nhưng ngươi nhìn trông rất có tiền đồ đấy." />
+    <string id="qvwfev22" text="Tuyệt lộ rồi. Đầu hàng hoặc chết. Ngươi chọn đi. [ib:warrior][if:idle_angry]" />
+    <string id="R6sTYEaz" text="Ngươi đừng tưởn ba hoa vài câu là có thể thoát khỏi việc này." />
+    <string id="RajD4RC1" text="Chưa từng nghe qua." />
+    <string id="rCNUXFTN" text="Ta đầu hàng! Mừng ngươi chiến thắng.[rf:angry][rb:trivial]" />
+    <string id="reg1AUxr" text="Con của ta" />
+    <string id="rhTUDKhJ" text="Ta là {CONVERSATION_CHARACTER.LINK}, của gia tộc {CLAN_NAME}. Những &lt;Vò Rượu&gt; của chúng ta cất chứa đầy những xương sọ các dũng sĩ của các tộc người Ba Đán Ni Á." />
+    <string id="RNZ9LOxc" text="Bạn ta" />
+    <string id="rPrBa7gK" text="Chồng ta" />
+    <string id="rUzbs0Zr" text="Khố Tái Đặc - Khả Đôn" />
+    <string id="ry1ycxNY" text="Ta hy vọng chuyện không tới mức như này." />
+    <string id="s1FVPS5D" text="Ta là {CONVERSATION_CHARACTER.LINK} của gia tộc {CLAN_NAME}. Gia tộc ta đã phục vụ Đế Quốc trong nhiều đời." />
+    <string id="S1vGzr8z" text="Ta là {CONVERSATION_CHARACTER.LINK} của {CLAN_NAME}, một gia tộc của A Tắc Lai." />
+    <string id="sax2tF9L" text="Ngươi là một người rất chính trực, Ta sẽ không quên việc này! [if:happy][rb:very_positive]" />
+    <string id="SJ3bpDxC" text="Tôi không nhận ra cờ hiệu của người, nhưng có vẻ như người là một nữ sĩ quý tộc. Xin hãy đem tôi thành một người hầu hèn mọn nhất của người." />
+    <string id="sJNrVlXa" text="Nghe nói ngươi có kiến thức rộng rãi.. Cho nên là... hãy kể cho ta nghe về chuyến đi của ngươi đi." />
+    <string id="SSuL62NZ" text="Ta trung với {FIRST_NAME}, không một ai có thể nói ta bất trung." />
+    <string id="sswCmQZ2" text="Bọn họ xưng ta là &lt;Hồ Thử&gt;, nhứng chúng ta thích được gọi là &lt;Dân Tự Do Đầm Lầy&gt;. Chúng ta sẽ không bao giờ khúm núm trước bất kỳ một vương công quý tộc nào. Nhớ kỹ điều này, như vậy thì chúng ta còn có thể đối xử tốt với nhau." />
+    <string id="t6sRVI5C" text="Vợ ta" />
+    <string id="tA4wDLt2" text="Ta sẽ ghi lại tên của ngươi." />
+    <string id="te2DSMtg" text="Chúng ta không thể nhịn được nữa, chúng ta muốn máu của những kẻ áp bách và bất cứ ai ngăn cản ngọn cờ chính nghĩa của chúng ta." />
+    <string id="tOanKs9o" text="Ta là {LIEGE_TITLE}." />
+    <string id="tUa5WBpp" text="Nữ Hoàng chính thống của người Tạp Lạp Đức" />
+    <string id="TUwY7IKc" text="Hmm.. ngươi thật đúng là đã hại ta thê thảm rồi. Ta không chắc là sau này chúng ta còn gì để nói nữa." />
+    <string id="Tvy4UvJC" text="Nữ Vương của Ngoã Lan Địch Á" />
+    <string id="TzPC5L5X" text="Ta vẫn đang chiêu mộ những anh tài về dưới trướng. Nếu như ngươi nghe được những người khác nói về ta, thì ta đoán hẳn là bọn họ sẽ nói ta đối xử rất tốt với thuộc hạ." />
+    <string id="U4p70l9B" text="Ta là {CONVERSATION_CHARACTER.LINK}, một thủ lĩnh của Khố Tái Đặc." />
+    <string id="U770Bvy8" text="Ta là {CONVERSATION_CHARACTER.LINK} của {CLAN_NAME}. Thanh danh của gia tộc ta vẫn còn lưu lại rất nhiều trong các bài ca dao của Ba Đán Ni Á." />
+    <string id="U9u8Qeu4" text="Ei người lạ mặt, có lẽ ngươi từng nghe qua danh tiếng &lt;Lang Bì Bộ Lạc&gt; chúng ta. Đơn giản mà nói, chúng ta là dã thú. Chúng ta không ăn thịt chín, không mặc quần áo, không ngủ dưới mái nhà, luật pháp con người không thể quản được chúng ta. Cho nên, đừng có làm càn trước mặt chúng ta." />
+    <string id="Ua0T0A7t" text="Ta là {CONVERSATION_CHARACTER.LINK} của {CLAN_NAME}, một trong những huyết mạch cổ xưa nhất trong Ba Đán Ni Á." />
+    <string id="UB4sqrWx" text="Mẹ" />
+    <string id="ufa20b2l" text="Ta chỉ giao thiệp với những người giữ chữ tín. Nếu như ngươi không coi trọng lời nói của bản thân thì thôi đừng lãng phí thời gian của ta." />
+    <string id="Ufn3916B" text="Ta đã nghe danh ngươi, cuối cùng cũng được gặp mặt a. Ta không phải là người hay nói, cho nên là có việc gì muốn nói, thì ngươi hãy mở lời đi." />
+    <string id="v4nyY62z" text="Nữ Vương của Tư Đặc Cát Á" />
+    <string id="vN4spwD1" text="Ngươi nên biết là, nếu ngươi mà chọc tới ta, thì ngươi sẽ là thức ăn cho chó rừng." />
+    <string id="vNnMHR84" text="Ngươi thắng được vinh dự cho chính mình. Ta sẽ không quên việc này.[if:happy][rb:very_positive]" />
+    <string id="VOExVZtX" text="Rất xin lỗi, mặc dù ta không thích máu chảy đầu rơi, nhưng ta cũng không thể để ngươi có thể cưỡi ngựa và tiếp tục đánh trận nữa." />
+    <string id="VUn8mQ5n" text="Quốc Vương của Ba Đán Ni Á" />
+    <string id="w7EY8rbd" text="Hãy đổi chủ đề nói chuyện đi." />
+    <string id="WbAAkcbw" text="Rất hân hạnh được gặp cô, thưa nữ sĩ." />
+    <string id="WFwoWAic" text="Ta nhận thua, ta nhận thua! Bảo lũ chó săn của ngươi dừng tay! [rf:angry][rb:trivial]" />
+    <string id="WH8P3Y5F" text="Ta là {CONVERSATION_CHARACTER.LINK}, một phong thần trung thành của {LIEGE_TITLE}." />
+    <string id="wrIYDx9V" text="Ta được tự do? Thật tốt... Vậy tạm biệt nhé.[if:happy][rb:very_positive]" />
+    <string id="Wt4iJPcd" text="Ta đã nghe danh ngươi, có thể quen được ngươi đúng là may mắn ba đời." />
+    <string id="WVeS3Lsb" text="Đừng truy cầu những vật tầm thường của trần thế, mà hãy theo đuổi chân lý thần thánh." />
+    <string id="wWwoTzpG" text="Anh em" />
+    <string id="XBbdhx4M" text="Lần nữa đa tạ ngài xuất thủ tương trợ." />
+    <string id="xH4KJEBP" text="Ta thề thần phục với {?GENDER}nàng{?}hắn{\?} ta, ta nghĩ như vậy là được rồi." />
+    <string id="xHjVl9gR" text="Ta đã nghe danh ngươi, cuối cùng cũng được gặp mặt. Nghe nói ngươi là một người đáng để kết giao. Chúng ta thi thoảng có thể tâm sự, biết đâu có thể tìm thấy những điều mà có lợi cho cả hai." />
     <string id="xJ1LJ3mH" text="We are at your mercy.[rf:angry][rb:trivial]" />
     <string id="Xk2rNuxQ" text="sultan of the Aserai" />
-    <string id="Xl25HtPL" text="It is good to know your name. If I see you at a feast, I&amp;amp;amp;apos;ll know how to greet you, and if I see you in a shield wall, I&amp;amp;amp;apos;ll know whom I slay." />
+    <string id="Xl25HtPL" text="Thật tốt khi biết được tên ngươi. Nếu như gặp trên yến tiệc thì ta sẽ biết cách chào hỏi với ngươi, còn nếu như gặp qua một bức tường khiên thì cũng sẽ biết nên giết ai." />
     <string id="xnR3sXJP" text="{PLAYER.NAME}" />
     <string id="xsaOxeHV" text="I have heard much about you. Some men may fear a woman who is versed in the art of war, but I for one will not turn away hands that can grip a sword, should their owner be brave and loyal." />
     <string id="xUOhJEJS" text="It is good to meet you. I am always looking for warriors who value courage, glory and a good name." />
-    <string id="Y8rYJaOa" text="I am {CONVERSATION_CHARACTER.LINK}, of the house of {CLAN_NAME}, one of the most illustrious families in the annals of the Empire. The barbarians we have slain, and the glory we have won, is second to none." />
+    <string id="Y8rYJaOa" text="Ta là {CONVERSATION_CHARACTER.LINK} của gia tộc {CLAN_NAME}, một trong những gia tộc hiển hách nhất trong sử sách Đế Quốc. Chúng ta đã giết Người Man Rợ, giành chiến thắng vinh quang và không một ai có thể sánh bằng." />
     <string id="YayEAKaI" text="Perhaps you have not heard of the Jawwal. Well, when you cross the desert, far from oasis and spring, in a land that others scorn, with thorns fit only for goats and camels, then you are in our domain." />
     <string id="YDjLPgi3" text="Hmm. You have piqued my interest. What do you have to say?" />
     <string id="ygP56lXC" text="The Heavens have blessed us with their commandments, which we must uphold and ensure others uphold." />
-    <string id="yRlINUML" text="Hah! I&amp;amp;amp;apos;ll see you beg for mercy." />
+    <string id="yRlINUML" text="Hah! I&amp;amp;amp;amp;apos;ll see you beg for mercy." />
     <string id="YWOSDu1W" text="Enough! I choose to live to fight another day. I trust you will respect the custom of war, and allow me to pay a fair ransom.[rf:angry][rb:trivial]" />
-    <string id="z1s1qOma" text="I think I know what you&amp;amp;amp;apos;re saying. Honor precludes me from even considering it." />
+    <string id="z1s1qOma" text="I think I know what you&amp;amp;amp;amp;apos;re saying. Honor precludes me from even considering it." />
     <string id="z2yr4mc6" text="I am {CONVERSATION_CHARACTER.LINK}, of the {CLAN_NAME}. Our clan has loyally served the Khuzait Khanate for generations." />
     <string id="ZH04pkV6" text="king of the Sturgians" />
     <string id="ZlA0uc8z" text="I thank you again for taking on the task I gave you." />
     <string id="zPbQs8Zt" text="I can offer you a glorious death in battle, or the hospitality of my dungeons.[ib:warrior][if:idle_angry]" />
-    <string id="zwRbpQJ0" text="I&amp;amp;amp;apos;ve heard of you! A pity we should meet like this." />
+    <string id="zwRbpQJ0" text="I&amp;amp;amp;amp;apos;ve heard of you! A pity we should meet like this." />
     <string id="zZ9FQJRI" text="I am {CONVERSATION_CHARACTER.LINK}, of the {CLAN_NAME}, the most ancient and noble of the Aserai lineages." />
     <string id="1bxTLLAk" text="Ngươi đã cướp bóc thôn trang của ta ở {SETTLEMENT_NAME}. Có phải ngươi cảm thấy ta rất yếu đuối? Ngươi cho rằng là mình có thể nhẹ nhàng mang đồ trong thôn trang của ta mà không phải trả giá bằng máu sao?" />
     <string id="1JgKFOw8" text="Ta hiệu trung với người." />
@@ -244,40 +244,40 @@
     <string id="ETxtYU6C" text="A... ngươi đúng thật là đã tạo nên tên tuổi cho chính mình rồi.." />
     <string id="FYLmd2ch" text="Ngươi đã cướp sạch tá điền của ta ở {SETTLEMENT_NAME}. Không cần nhiều lời, việc này ta rất là không vui." />
     <string id="g3oFsCtd" text="Ngươi đã yêu cầu đàm phán, ta tin tưởng ngươi sẽ tuân thủ lễ nghĩa chiến tranh mà không giở hoa chiêu gì." />
-    <string id="ghawrJRK" text="I heard you raided {SETTLEMENT_NAME}. That&amp;amp;amp;apos;s my property, you cretin. You think you can make me look weak? You&amp;amp;amp;apos;ll die for this." />
-    <string id="jrG4UPBr" text="For every house of mine that you burned when your raided {SETTLEMENT_NAME}, I&amp;amp;amp;apos;m going to carve another piece from your body." />
-    <string id="k6TABWrF" text="We have heard of your cruel deeds when you raided my village at {SETTLEMENT_NAME}. I am responsible to protect my tenants, and if I cannot protect them, to avenge them." />
-    <string id="L6FSmeIv" text="They say you&amp;amp;amp;apos;ve travelled widely. Such terrible times we live in, so much hardship. What do you think of what you&amp;amp;amp;apos;ve seen?" />
-    <string id="lcPeNFTN" text="I am glad to meet you." />
-    <string id="mUa4sDgF" text="You raided my village at {SETTLEMENT_NAME}. Well, I&amp;amp;amp;apos;m here now to pay back what I owe you." />
-    <string id="o2aKr8JD" text="I&amp;amp;amp;apos;ve heard your name." />
-    <string id="o4talwN5" text="Yeah... Thanks again for your help with that problem." />
-    <string id="ODa9Eikp" text="That raid on {VILLAGE_NAME}... Well, the poor suffer for their lords&amp;amp;amp;apos; mistakes, so they say." />
-    <string id="oxMlxVqd" text="You raided my village at {SETTLEMENT_NAME}. You&amp;amp;amp;apos;ll die for that!" />
-    <string id="oZnVxkp0" text="What happened at {VILLAGE_NAME}... I do not like attacking innocent villagers like that. I wish such things were not necessary." />
-    <string id="PFgGnk7z" text="It goes without saying that you have my allegiance." />
-    <string id="pgIaAnBt" text="So that problem I asked you to take care of... Didn&amp;amp;amp;apos;t go so well, I hear." />
-    <string id="PKzNW9do" text="It was a hard thing you did, when you raided my village at {SETTLEMENT_NAME}. War is cruel, but don&amp;amp;amp;apos;t make it more cruel than necessary." />
-    <string id="PQZfXcU1" text="I have heard your name. People speak of your deeds. It is good to finally meet you." />
-    <string id="qRW6JkXM" text="I hear you&amp;amp;amp;apos;re the one who raided my village of {SETTLEMENT_NAME} and lifted the crops and livestock. I suspect your men must have been hungry, but so are my tenants. Shall we battle for what&amp;amp;amp;apos;s left?" />
-    <string id="ra7YMN8S" text="You have my allegiance. If I hear a word spoken against you, I&amp;amp;amp;apos;ll cut that person&amp;amp;amp;apos;s tongue out." />
-    <string id="rndbZI9I" text="Now don&amp;amp;amp;apos;t take this the wrong way, but some would say that you&amp;amp;amp;apos;re aiming a bit beyond your station. But lets say your rise in the world. What would you do?" />
-    <string id="Rs0aUNlQ" text="The villagers at {VILLAGE_NAME} will remember us for a long time." />
-    <string id="s6xlGuTH" text="I will honor the terms of the parley if you do likewise." />
-    <string id="sEfAuErj" text="Some people say you will go far... Suppose you were to rise to a position of power. What would you do?" />
-    <string id="T0Cdfsx2" text="You asked for a parley. If you&amp;amp;amp;apos;re tempted to try any tricks, do know I have some archers standing by to keep you honest." />
-    <string id="tRSD2C3k" text="That task you took on for me. Very nicely done." />
-    <string id="TvqjhDaQ" text="So, my young lion. You have the look of someone who may go far, if they don&amp;amp;amp;apos;t wind up dead." />
-    <string id="u5b8UKaa" text="That raid on {VILLAGE_NAME}... Harsh, but let&amp;amp;amp;apos;s hope it brings the war to a faster end." />
-    <string id="UBtWqLDS" text="I hear your men raided the poor villagers of {SETTLEMENT_NAME}. You should know that they&amp;amp;amp;apos;re under my protection. Next time you raid a village, try not to get caught by it&amp;amp;amp;apos;s owner... " />
-    <string id="UehvSvLD" text="That job I gave you... I&amp;amp;amp;apos;d say you let me down." />
-    <string id="UyIuz9dt" text="What happened at {VILLAGE_NAME}... Well, war is cruel." />
+    <string id="ghawrJRK" text="Ta nghe nói ngươi đã cướp bóc sạch {SETTLEMENT_NAME}. Nơi đó chính là đất đai của ta, thằng ngu. Ngươi cho rằng làm thế thì có thể khiến ta suy yếu đi à? Chuẩn bị chịu chết đi." />
+    <string id="jrG4UPBr" text="Ngươi cướp bóc, thiêu dụi bao nhiêu ngôi nhà trong thôn trang của ta ở {SETTLEMENT_NAME}, ta cũng sẽ khoét bấy nhiêu lỗ thịt trên người của ngươi." />
+    <string id="k6TABWrF" text="Ta nghe nói ngươi đã nhẫn tâm cướp sạch thôn trang của ta ở {SETTLEMENT_NAME}. Ta có nghĩa vụ phải bảo vệ những tá điền đó, nếu như không thể bảo vệ tốt bọn họ, vậy thì liền thay họ báo thù vậy." />
+    <string id="L6FSmeIv" text="Mọi người nói rằng ngươi vân du tứ phương. Cuộc sống của chúng ta trong thời đại này đúng là khủng khiếp, cực khổ trùng điệp. Ngươi nghĩ thế nào về những gì đã thấy?" />
+    <string id="lcPeNFTN" text="Rất vui khi được gặp ngươi." />
+    <string id="mUa4sDgF" text="Ngươi cướp bóc thôn trang của ta ở {SETTLEMENT_NAME}. Hay lắm, giờ ta sẽ khiến ngươi nợ máu phải trả bằng máu." />
+    <string id="o2aKr8JD" text="Ngưỡng mộ đã lâu." />
+    <string id="o4talwN5" text="Nhaa.. Một lần nữa cảm tạ ngươi xuất thủ tương trợ." />
+    <string id="ODa9Eikp" text="Lần cướp bóc ở {VILLAGE_NAME} ... Haiza, lão gia gây chuyện, bách tính gặp nạn, tục ngữ nói là vậy." />
+    <string id="oxMlxVqd" text="Ngươi cướp sạch thôn trang của ta ở {SETTLEMENT_NAME}. Ngươi phải chết!" />
+    <string id="oZnVxkp0" text="Những chuyện xảy ra ở {VILLAGE_NAME}... Ta không thích việc đánh những nông dân tay không tấc sắt như vậy. Hy vọng sau này sẽ không xảy ra những việc này nữa." />
+    <string id="PFgGnk7z" text="Không cần nhiều lời, tất cả đều dưới lệnh của ngài." />
+    <string id="pgIaAnBt" text="Ta muốn ngươi xử lý tốt chuyện kia... Cơ mà nghe nói không được thuận lợi lắm thì phải." />
+    <string id="PKzNW9do" text="Ngươi đã làm một việc hết sức tồi tệ đó là cướp sạch sẽ thôn trang của ta ở {SETTLEMENT_NAME}. Chiến tranh mặc dù tàn khốc, nhưng không nên tàn khốc đến như vậy chứ." />
+    <string id="PQZfXcU1" text="Ngưỡng mộ đã lâu, mọi người ở đây đều đàm luận về những sự tích của ngươi. Thật vinh hạnh khi được gặp mặt ngươi." />
+    <string id="qRW6JkXM" text="Ta nghe nói chính ngươi đã cướp bóc thôn trang của ta ở {SETTLEMENT_NAME}, còn là ngươi vơ vét toàn bộ lương thực cũng như súc vật, ta đoán là người của ngươi có vẻ như rất thiếu ăn, nhưng người dân trong vùng của ta cũng vậy. Chúng ta phải chăng nên đánh một trận để chiếm chén canh thừa còn lại?" />
+    <string id="ra7YMN8S" text="Ta hiệu trung với ngài, nếu có người nói năng lỗ mãng với ngài, ta sẽ cắt bỏ đầu lưỡi của hắn." />
+    <string id="rndbZI9I" text="Đừng hiểu lầm nhá, chỉ là có người nói ngươi có dã tâm rất lớn. Ví thử như, trong cái xã hội đầy hỗn loạn này, ngươi lại rất thuận buồm xuôi gió, vậy ngươi có dự định tính toán gì không? " />
+    <string id="Rs0aUNlQ" text="Thôn dân tại {VILLAGE_NAME} sẽ còn nhớ chúng ta dài dài." />
+    <string id="s6xlGuTH" text="Nếu ngươi tuân thủ theo các điều khoản đã thương lượng, ta cũng sẽ làm như vậy." />
+    <string id="sEfAuErj" text="Có người nói ngươi sẽ thành công... Giả sử nắm trong tay quyền lực, ngươi sẽ làm gì?" />
+    <string id="T0Cdfsx2" text="You asked for a parley. If you&amp;amp;amp;amp;apos;re tempted to try any tricks, do know I have some archers standing by to keep you honest." />
+    <string id="tRSD2C3k" text="Việc ngươi hứa làm cho ta, hoàn thành rất tốt." />
+    <string id="TvqjhDaQ" text="Con sư tử con à, trông ngươi rất có tiền đồ, chỉ là nửa đường đừng chết là được." />
+    <string id="u5b8UKaa" text="Lần cướp phá ở {VILLAGE_NAME}... Thật thảm thiết, chỉ mong điều này có thể khiến chiến tranh nhanh chóng kết thúc đi." />
+    <string id="UBtWqLDS" text="Nghe nói người của ngươi đã cướp sạch những thôn dân đáng thương ở {SETTLEMENT_NAME}, ngươi nên biết là họ do ta bảo vệ. Lần sau lúc ăn cướp thôn dân thì đừng để chủ nhân của họ bắt tại trận..." />
+    <string id="UehvSvLD" text="Nhiệm vụ lần trước ta giao cho ngươi... Ngươi khiến ta thất vọng rồi." />
+    <string id="UyIuz9dt" text="Những việc xảy ra ở {VILLAGE_NAME}... Chiến tranh thật tàn khốc mà." />
     <string id="v2664Qeo" text="..." />
-    <string id="ve7pKxrc" text="The villagers back there at {VILLAGE_NAME}... Those could have been my people..." />
-    <string id="w1BKhf5F" text="You took my property when you raided {VILLAGE_NAME}, so I&amp;amp;amp;apos;m going to take your head and mount it to the first building we rebuild." />
-    <string id="WnxA6JQl" text="Good to meet you. Look, one thing I value is that people keep their word, so deal straight with me and I&amp;amp;amp;apos;ll deal straight with you." />
-    <string id="x3EZDo5k" text="I hear you have a habit of attacking helpless villagers, like my tenants at {VILLAGE_NAME}. I think you&amp;amp;amp;apos;ll find my men a tougher morsel to chew." />
-    <string id="xb5RGe0W" text="Thanks again for taking care of that little matter for me." />
+    <string id="ve7pKxrc" text="Những thôn dân ở {VILLAGE_NAME}... Vốn là lê dân bá tánh của ta..." />
+    <string id="w1BKhf5F" text="Ngươi cầm của cải của ta khi mà ngươi cướp bóc {VILLAGE_NAME}, chính điều này ta sẽ lấy đầu của ngươi và treo lên đỉnh toà nhà đầu tiên khi nó được xây lại." />
+    <string id="WnxA6JQl" text="Rất vui khi được gặp ngươi. Nghe này, ta rất xem trọng người giữ chữ tín, cho nên là ta và ngươi cứ thẳng thắn mà đối đãi với nhau đi." />
+    <string id="x3EZDo5k" text="Ta nghe nói ngươi rất thích việc cướp phá của những người dân tay không tấc sắt, tỉ như tại {VILLAGE_NAME} của ta. Ta tin rằng một lúc nữa thôi ngươi sẽ thấy thủ hạ của ta đều là khúc xương cứng, muốn gặp thì cũng phải bồi lại vài chiếc răng." />
+    <string id="xb5RGe0W" text="Ngươi giúp ta xử lý các việc vặt vãnh, ta rất biết ơn vì điều đó." />
     <string id="Z3E8MDaB" text="Ngươi đã tấn công thôn làng của ta ở {SETTLEMENT_NAME}. Ờ, nếu như đổi lại là ta đem quân tới bái phỏng thôn làng của ngươi, ta cũng sẽ để cho thủ hạ làm chút gì đó vui vẻ ở đó. Nhưng dưới tư cách là người bảo vệ cho các thần dân, ta có trách nhiệm báo thù cho họ. Đừng quá để trong lòng nha, nhìn việc chứ đừng nhìn người, đây không phải tư thù cá nhân." />
   </strings>
 </base>

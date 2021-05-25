@@ -118,7 +118,7 @@
     <string id="IcD7bMKe" text="Ta sinh ra trên thảo nguyên, nhưng lúc nhỏ đã bị những kẻ buôn nô lệ ở Đế Quốc bắt đi. Ở Đế Quốc có một truyền thuyết về những nữ chiến binh trên thảo nguyên, vì thế khi ta bị bán đi thì mấy con buôn đã nói ta là một trong số đó - cứ thể mà lại bị gán vào cái truyền thuyết kia mà lấy lòng được mấy người ở Đế Quốc. Họ dạy ta dùng kiếm, và ta cũng học rất tốt." />
     <string id="IEO3gvnz" text="...." />
     <string id="igGhbdFj" text="Số mệnh mỗi người đều đã có an bài. Vậy thì ngươi kiếm sống bằng cách nào vậy?" />
-    <string id="IszNoAcX" text="Mấy tiếng trước, ta trộm được con ngựa thứ 100 của ta! Con ngựa ấy đúng là không tệ, ta phát hiện nó ở trong 1 thương đội. Nó giống như là được ông trời hạ lệnh với các ngọn gió ở 4 hướng: &quot;Tập trung lại, hình thành gân cốt, phủ thêm một lớp xám trắng lên lông, trên mũi điểm thêm một đốm trắng!&quot; aizz, nhưng con súc sinh này không thức thời, làm cho ta ngã khỏi lưng rồi chạy về bên cạnh chủ nhân của nó. Nhưng vẫn là một ngày đáng để nhớ, đúng không?" />
+    <string id="IszNoAcX" text="Mấy tiếng trước, ta trộm được con ngựa thứ 100 của ta! Con ngựa ấy đúng là không tệ, ta phát hiện nó ở trong 1 thương đội. Nó giống như là được ông trời hạ lệnh với các ngọn gió ở 4 hướng: &amp;amp;quot;Tập trung lại, hình thành gân cốt, phủ thêm một lớp xám trắng lên lông, trên mũi điểm thêm một đốm trắng!&amp;amp;quot; aizz, nhưng con súc sinh này không thức thời, làm cho ta ngã khỏi lưng rồi chạy về bên cạnh chủ nhân của nó. Nhưng vẫn là một ngày đáng để nhớ, đúng không?" />
     <string id="iVXlb8Lv" text="Không, không. Xin mời tiếp tục đi." />
     <string id="iwxJWG81" text="Ta không thể bỏ qua một cơ hội như này, ta đồng ý thuê ngươi." />
     <string id="j2auwAej" text="Dù như nào thì một kỹ sư cũng nên cẩn thận. Tạm biệt nhé, chúc ngày tốt lành." />
@@ -155,113 +155,113 @@
     <string id="MlzMSNkQ" text="Đúng như ta đã nói, kể từ chiều hôm nay trở đi, ta sẽ không còn là tên trộm ngựa nữa. Ngươi sẽ không tìm được ai có đôi mắt nhìn ngựa tốt hơn ta trên cái thế giới này nữa." />
     <string id="n3IEXAGH" text="Để báo đáp lại, ta sẽ toàn lực nghiêm trị những tên vô lại trong quân đội của ngươi. Có điều ta sẽ không quan hệ với kỵ binh hay cung binh, giao bộ binh dũng cảm cho ta, ta sẽ chỉ đạo bọn hắn bày trận chỉnh tề, cứng như bàn đá, chặn mọi công kích của kẻ thù." />
     <string id="n5y4faSu" text="Tuyệt! Có điều, ta cần ngươi đưa trước cho ta {NPCPAYMENT}{GOLD_ICON}. Ta muốn dùng tiền để trả một chút nợ." />
-    <string id="N91Wnhht" text="There is only one thing I must ask. I would like to leave this town with clean balance books. I would like to settle all my debts. An advance of {NPCPAYMENT}{GOLD_ICON} should be enough." />
-    <string id="nagec3c3" text="Oh... Hm... Look, warriors can be a bit credulous... Maybe we should give this a pass." />
-    <string id="nbbn0HaV" text="Why? I&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;apos;ll tell you why." />
-    <string id="nEHOUdf8" text="I confess that this is not the first time something like this has happened to me. Hosts can be such sticklers about their guest lists. But it has left me at a bit of an impasse, as I should probably leave this town sooner rather than later." />
-    <string id="NLLnv7WH" text="I&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;apos;ve been around and about. I&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;apos;m still bored. I&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;apos;m still drinking more than I should. " />
-    <string id="NMTS37x2" text="I had an opportunity to buy pepper from another trader who was selling at a discount, and needed cash. I of course inspected the pepper and its storage. I interviewed the watchmen at the warehouse. You can trust us madame,&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;apos; they said. &amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;apos;Rest assured your pepper is in good hands.&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;apos; But one of them kept a brazier lit at night, for the warmth, and a camel kicked it into a bed of straw when he was off relieving himself. When he returned, the warehouse was in flames." />
-    <string id="nNFSLJ2A" text="That is too specialized a skill, my lady. Good-bye." />
-    <string id="nYAU0zNC" text="A wise king once said: I ask only of my generals that they be lucky. Good day, madame." />
-    <string id="o7gJN0Kk" text="You will not regret your decision. One thing I must ask - before riding out, I need a new bridle and saddle. An advance of {NPCPAYMENT}{GOLD_ICON} should suffice." />
-    <string id="odwyvxY1" text="Splendid. I have every confidence in you." />
-    <string id="OGNIl4xM" text="I have no interest in your services." />
-    <string id="OGqp7v0p" text="I see. What happened here?" />
-    <string id="on8y3fa6" text="But suppose I found an ambitious young captain - perhaps someone like your good self, someone who needed to sway a crowd or inspire soldiers at some point. I reckon I could travel with that captain - sharing all the battles and hardships of the road, of course - and perhaps teach them a bit of what I know." />
-    <string id="ovC1Sdix" text="Very well. One thing I can promise you is a lot of fighting." />
-    <string id="OVCdGjpT" text="Perhaps. What skills do you have to offer?" />
-    <string id="oxNAJ1Ha" text="In that case, I shall go bother someone else." />
-    <string id="peDtXrrt" text="Pardon me for that. I see thing that others do not. Spirits of the Otherworld, who cross into our world for a brief flicker of time. I am sorry  - I know it is disturbing for those around me. But I must pay attention to them. " />
-    <string id="PeWH4UqF" text="If I can attach myself to a group, like yours, there probably won&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;apos;t be any trouble. I don&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;apos;t have anything with which to pay you, but if you&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;apos;d let me work off any debt, I&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;apos;d appreciate that." />
-    <string id="pgoFlK3o" text="At any rate, I got out of there when they were still bumbling about with a bucket and mop. But if there&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;apos;s an inquiry and people start looking for someone to blame, well, they&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;apos;ll probably decide to point the finger at the external contractor. So I wouldn&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;apos;t mind getting out of town." />
-    <string id="PktncYtr" text="I&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;apos;ve met some who aren&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;apos;t, the ones who burn your village. Your type, from the look of you." />
-    <string id="plzerw4U" text="If you&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;apos;re knocking down, I&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;apos;m not just one of the best - I am the best. I do rams, mines, and of course catapults. Torsion and counterweight. You can ask any castellan in any town in Calradia... Well, maybe best not ask in this town, but any other town in Calradia." />
-    <string id="pQfiRC55" text="I&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;apos;ll take anyone, faerie-marked or not, if they can hold a place in a battle-line." />
-    <string id="pVSiRbni" text="I am sorry. It has been a long time since I spoke at such length to anyone. I think it is the wine. It has gone to my head. It has been three years that I have lived in the woods, with only the wolves for companions." />
-    <string id="pyz3ruTU" text="Well, that&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;apos;s upfront of you to tell me that. What skills would you bring to my company?" />
-    <string id="pZhCmnEO" text="My father was a servant of the fen Uvain. By the age of 15, it was clear that as a trainer of horses, I had no equal. Melidir fen Uvain made me an offer. serve him for three years, and they&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;apos;d give me the pick of the herd. At the end of the third year, when I was to claim my reward, Melidir&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;apos;s stablemaster told me that he&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;apos;d just given every horse in his herd as a gift to his son. If I wanted, I could have a goat." />
-    <string id="QAuX5fN4" text="Take me on now, and you can have my services for a fraction of what they&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;apos;re worth. Believe me, in your line of work, there&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;apos;s no bigger expense than a lengthy siege. Unless you like drinking dirty water and squatting in muddy ditches, hiring me is an opportunity you can&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;apos;t afford to miss." />
-    <string id="qCdrnUWP" text="Well, I was forced to pull out my sword and cut up his men a bit before vanishing over a wall. But I left his guests with a truly memorable evening&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;apos;s entertainment, and him with a tale that will no doubt make him the toast of many soirees to come. " />
-    <string id="qEsEzBME" text="Hmm. I could be interested. What can you offer me?" />
-    <string id="QNVJgFbF" text="It got tiresome, I can tell you, being accused of heresy by a heretic while living on donations by day and hiding in the hedgerows at night lest the local nobility got tired of us coaxing their tenants into holy poverty. I told the Perfect I wished to bring our message to the towns, and he gave me leave to come here, but I reckon I&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;apos;ve gone a little bit astray." />
-    <string id="QQN2906x" text="Let me think about this a bit." />
-    <string id="qrfeidLk" text="Very well. Here&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;apos;s to your health." />
-    <string id="R0oKayMF" text="If you are a wanderer, as you say, perhaps it would be to my advantage to go along with you, to collect such stories as I can. I may indeed be able to assist you in some way." />
-    <string id="r7P5d97H" text="Greetings, stranger. Looking for someone to shed blood for you?" />
-    <string id="rmX5ufHr" text="I might be heading out of town. Tell me a little more about yourself." />
-    <string id="rNkwrwo4" text="I blame Arenicos and his so-called reforms. It saved him silver, but now our armies are just blown-up lords&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;apos; retinues - toadies, farmers who have no business on the battlefield, a few good men but not enough. There&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;apos;s no pride and no discipline. No wonder that we&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;apos;re squabbling among ourselves these days, being mocked by the barbarians we used to rule. " />
-    <string id="RsCPQ167" text="My parents moved to Baravenus as refugees from Sturgian raids, and I started off doing errands for the merchants. Some of them like to get merchandise in or out of the city without going through the gate - they don&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;apos;t care for paying tariffs, perhaps, or maybe the item&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;apos;s original owner is out looking for it." />
-    <string id="RTNL9zYa" text="On second thought, you&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;apos;ve been a while by yourself. Maybe you shouldn&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;apos;t join a company just yet." />
-    <string id="RUu7rzvX" text="Well. A man who knows horses is always welcome. I pay each week, not after every three years." />
-    <string id="RZZXKFvd" text="Actually, I&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;apos;m more interested in skirmishers." />
-    <string id="s0TgECe7" text="Hello. Come any closer and I&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;apos;ll stick a knife in your belly, but if you remain where you are, I see no reason not to have a pleasant chat." />
-    <string id="s0Yanm4a" text="Very good. I would ask for {NPCPAYMENT}{GOLD_ICON} up front. I kill those who cheat me, and then afterwards it can be hard to collect payment." />
-    <string id="s1cAUzB7" text="Alas, I have had better luck taking horses than keeping them. And sooner or later, if I keep this up, I suppose I must end up in a noose. One hundred horses is a good enough point at which to quit, is it not? I must look for honest work. I don&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;apos;t suppose you have any such work to offer?" />
-    <string id="scmsbgrX" text="Wait! Silence! You&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;apos;ll frighten it! Ah... Never mind. It is gone." />
-    <string id="SjQiHp6W" text="I&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;apos;m not sure you&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;apos;re quite what I&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;apos;m looking for..." />
-    <string id="SPp4OsPO" text="Lath is fine. No need to speak to the hyenas. What do you do?" />
-    <string id="sQgZR0dA" text="My friend, why should a man not eat the finest food off of golden plates, if he has the wit to do so? Although I confess I am growing a bit jaded of it all, and perhaps would enjoy a change of pace." />
-    <string id="sRxN3IyF" text="Know before you speak to me, that I am under a curse." />
-    <string id="SVOylcqx" text="If you know your way around caravans, I may have some work for you." />
-    <string id="swaLbjD1" text="More importantly, I really should be moving on. I don&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;apos;t suppose you might be in the market for my talents and knowledge? I know a back door into every city in the eastern half of Calradia, or the right guard to bribe." />
-    <string id="T8egZl6T" text="Yes. Please continue." />
-    <string id="TaDaCPb8" text="I did not ask to hear your story. I have other business." />
-    <string id="teLnMBXG" text="I like my men to be aggressive, but there are limits. Good-day, sir." />
-    <string id="tEw3TwnM" text="How blunt of him! What happened next?" />
-    <string id="TGYJUUn0" text="Go on." />
-    <string id="TMLpc1mq" text="So you live by sneaking into other men&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;apos;s dinner parties, I see. But it sounds like you have a useful set of skills." />
-    <string id="TnVIWrof" text="You sound like you have the right attitude. Tell me more about yourself." />
-    <string id="u8N37fgb" text="A tragic story, my lady. Please continue." />
-    <string id="UhEt737M" text="I did. Well, it was a risk - but a calculated one. If you are willing to listen to my story, I would welcome the chance to unburden my sorrows." />
-    <string id="UlsvDHLV" text="Ah, a pity. If you were a native of Calradia, I would be most interested to know about your ancestry and some particulars of your place of birth. I am collecting notes on the lineages of this land, both of the great imperial families and of our barbarian brethren." />
-    <string id="unbf7266" text="I&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;apos;m here to drink, not to talk, so whatever it you have to say, I&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;apos;d advise you to say it to someone else. Unless, that is, you have a fight that needs fighting." />
-    <string id="UpEItRrJ" text="Hello? Hello? You look as though you are staring right through me." />
-    <string id="Upr8OV6G" text="Sorry times indeed, madame. Pray continue." />
-    <string id="UYmAp92Q" text="In return, I promise you I&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;apos;ll be first into every battle. I also yell a lot. You&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;apos;ll find it encourages the others. Do we have a deal?" />
+    <string id="N91Wnhht" text="Ta có một yêu cầu, chính là hy vọng khi rời khỏi đây thì bản thân cũng không còn nợ nần gì nữa. Cho nên mong là ngươi sẽ đưa trước cho ta {NPCPAYMENT}{GOLD_ICON}." />
+    <string id="nagec3c3" text="Ôi,, hmmm. Xem này, các chiến binh thật dễ bị lừa... Có lẽ chúng ta nên bỏ qua chuyện này đi." />
+    <string id="nbbn0HaV" text="Vì sao à? Để ta nói cho ngươi biết vì sao." />
+    <string id="nEHOUdf8" text="Thật ra thì ta cũng chẳng phải lần đầu trải qua chuyện này. Người chủ có vẻ như quá khắt khe với lại những vị khách mới rồi, việc này khiến ta có chút xấu hổ, có lẽ ta nên rời khỏi nơi này thôi." />
+    <string id="NLLnv7WH" text="Ta vẫn luôn đi khắp nơi. Nhưng ta vẫn cảm thấy cuộc sống nhạt nhẽo, và cũng thường xuyên uống nhiều hơn." />
+    <string id="NMTS37x2" text="Ta trùng hợp gặp được một thương nhân đang cần tiền gấp, hắn đã bán cho ta hồ tiêu, ta cũng liền mua luôn. Đương nhiên là ta cũng kiểm tra chất lượng hồ tiêu cũng như nhà kho chứa, cũng hỏi qua những người trông giữ. Bọn họ nói: cứ yên tâm đi thưa quý cô. Chúng ta sẽ trông coi tốt hồ tiêu của cô. Nhưng một người trong số họ nửa đêm đang sưởi ấm thì đi vệ sinh, mà trong lúc hắn đi thì con lạc đà lại đá rơm lên chậu than, thế là khi hắn trở về, nhà khó đã cháy ngút trời." />
+    <string id="nNFSLJ2A" text="Đó là một kỹ năng thật sự quá chuyên nghiệp thưa cô, Cáo từ." />
+    <string id="nYAU0zNC" text="Một vị vua anh minh từng nói: Ta chỉ cầu mong các tướng quân của ta luôn có vận may tốt. Tạm biệt quý cô, chúc ngươi một ngày tốt lành." />
+    <string id="o7gJN0Kk" text="Ngươi nhất định sẽ không phải hối hận về quyết định này. Trước khi cưỡi ngựa lên đường, ta có một yêu cầu nhỏ, ta cần dây cương và yên ngựa mới. Ngươi có thể đưa trước cho ta {NPCPAYMENT}{GOLD_ICON}." />
+    <string id="odwyvxY1" text="Rất tốt, ta rất có niềm tin vào  ngươi." />
+    <string id="OGNIl4xM" text="Ta không hứng thú với việc thuê ngươi." />
+    <string id="OGqp7v0p" text="Ta hiểu rồi, chuyện gì tiếp theo?" />
+    <string id="on8y3fa6" text="Thử nghĩ mà xem, nếu như ta tìm được một vị đội trưởng trẻ tuổi đầy tham vọng - có lẽ giống vơi tiểu tử ngươi. Có thể cổ vũ, khích lệ sĩ khí của mọi người. Ta nghĩ ta sẽ cùng hắn đi khắp nơi, cùng chinh chiến, chia sẻ hoạn nạn, có lẽ sẽ truyền thụ những kinh nghiệm của ta." />
+    <string id="ovC1Sdix" text="Rất tốt, ta cam đoan với ngươi, không thiếu đánh nhau đâu." />
+    <string id="OVCdGjpT" text="Có lẽ vậy, ngươi biết những gì?" />
+    <string id="oxNAJ1Ha" text="Nếu như vậy, ta sẽ nên đi tìm người khác thì hơn." />
+    <string id="peDtXrrt" text="Xin thứ lỗi. Ta có thể nhìn thấy những thứ mà người khác không nhìn thấy, đó là những u linh tới từ Bỉ Thế, bọn chúng thi thoảng sẽ tiến vào thế giới của chúng ta. Rất xin lỗi, ta biết mấy chuyện này sẽ khiến người bên cạnh thấy bất an, nhưng ta vẫn luôn phải chú ý tới những u linh đó." />
+    <string id="PeWH4UqF" text="Nếu như có thể gia nhập vào ngươi, có lẽ sẽ bớt đi chút phiền não. Ta không có gì để trả cho ngươi, nhưng nếu có thể thì để ta làm việc để trả nợ cũng được, ta sẽ vô cùng cảm kích." />
+    <string id="pgoFlK3o" text="Tóm lại, khi bọn chúng còn đang tay chân luống cuống tìm thùng gỗ và cây lau nhà thì ta đã chạy trốn rồi. Chẳng qua nếu có người bắt đầu điều tra, truy cứu trách nhiệm, bọn hắn rất có thể sẽ chỉ tay vào mấy thương nhân bên ngoài. Chính thế, ta không ngại mà rời khỏi thành trấn này." />
+    <string id="PktncYtr" text="Ta đã gặp qua một số người, cũng giống như ngươi, nhìn qua là biết thuộc cái loại người đấy." />
+    <string id="plzerw4U" text="Cho dù ngươi không nhận, nếu ta đứng thứ hai thì không ai dám đứng thứ nhất, Ta hiểu rõ cách công thành chuỳ, đào hang, xe bắn đá, cho đến lực xoắn và phối trộng. Ngươi có thể hỏi bất cứ lãnh chúa nào ở Tạp Lạp Địch Á này.. Có điều, tốt nhất không phải ở thành trấn này, mà là bất kỳ thành trấn nào ở Tạp Lạp Địch Á." />
+    <string id="pQfiRC55" text="Chỉ cần là người trong chiến đấu luôn giữ vững được đội hình, ta đều có thể thuê, còn việc có ấn ký ma quỷ hay không, ta không quan tâm." />
+    <string id="pVSiRbni" text="Thật có lỗi, đã lâu rồi không nói nhiều như vậy. Chắc là do men rượu ấy mà. Ta đã sống hoang dã trong ba năm, cô độc một mình, chỉ có sói bầu bạn." />
+    <string id="pyz3ruTU" text="Ngươi rất thẳng thắn, có thể nói với ta những việc này. Thế ngươi có thể làm được những gì?" />
+    <string id="pZhCmnEO" text="Cha ta từng là người hầu của gia tộc Phân - Ô Vạn. Khi 15 tuổi, kỹ năng thuần phục ngựa đã không ai sánh bằng. Mai Lợi Địch Nhĩ của Phân - Ô Vạn đã đưa ra một đề nghị với ta, chỉ cần dốc sức cho hắn ba năm thì hắn sẽ cho ta tuỳ ý chọn ngựa mang đi. Đến hạn ba năm, khi ta muốn nhận thù lao của mình, phu ngựa của hắn lại nói với ta, Mai Lợi Địch Nhĩ đã mang tất cả ngựa cho con của mình. Nếu tôi muốn, thì chỉ có thể cho ta một con dê rừng." />
+    <string id="QAuX5fN4" text="Giờ hãy thuê ta ngay đi, ngươi sẽ có hồi báo xứng đáng. Tin ta, trong việc của ngươi, không gì tốn kém hơn việc vây hãm kéo dài. Trừ khi ngươi thích ngồi xổm ở vũng bùn và uống nước bẩn, nếu không thì thuê ta chính là một cơ hội ngươi không nên bỏ qua." />
+    <string id="qCdrnUWP" text="Chà, ta buộc phải rút kiếm và chém người của hắn một chút, sau đó leo tường bỏ trốn. Có điều ta đã để lại một buổi tối giải trí cực kỳ đáng nhớ cho các tân khách, mà không nghỉ ngờ gì sau này chuyện này sẽ trở thành đề tài để nói chuyện trong các bữa tiệc của hắn." />
+    <string id="qEsEzBME" text="Ừmm, có thể ta sẽ có hứng thú đó. Ngươi có thể làm được những gì?" />
+    <string id="QNVJgFbF" text="Nói thật, khi đó thật sự quá mệt mỏi, ban ngày thì dựa vào sự cứu tế miễn cưỡng sống qua ngày, bị kẻ dị giáo chỉ trích làm trái với luân thường đạo lý, ban đêm thì trốn sau hàng rào vì sợ các quý tộc địa phương chán ghét việc chúng ta dùng danh nghĩa hành hương để dụ dỗ những tá điền của họ. Ta nói với người Hoàn Mỹ rằng muốn đi từng cái thành trấn truyền bá giáo nghĩa, nên hắn mới cho ta đi, và tới đây. Nhưng ta nghĩ có lẽ mình đã nhầm rồi." />
+    <string id="QQN2906x" text="Để ta suy nghĩ thêm." />
+    <string id="qrfeidLk" text="Rất tốt, chúc ngươi mạnh khoẻ." />
+    <string id="R0oKayMF" text="Nếu như đúng theo lời ngươi nói, ngươi là một kẻ lang thang, có lẽ sẽ có ích khi đi cùng với ngươi, thu thập kỳ văn dị sự. Ta có thể giúp ngươi theo một cách nào đó." />
+    <string id="r7P5d97H" text="Chào, người xa lạ. Ngươi đang tìm người biết đổ máu sao?" />
+    <string id="rmX5ufHr" text="Ta có thể phải ra khỏi thành, nói một chút về chuyện của ngươi đi." />
+    <string id="rNkwrwo4" text="Đều do A Lôi Ni Khoa và cái gọi là cải cách của hắn. Cải cách giúp tiết kiệm tiền của hắn, nhưng quân đội của ta chỉ là những tên lãnh chúa được tâng bốc lên, chỉ biết a dua nịnh hót, triệu tập nông phu cho đủ quân số, những chiến binh ưu tú thì chả có ai, không có vinh dự hay kỷ luật. Khó trách mấy năm gần đây trong Đế Quốc lại xảy ra nội chiến, chúng ta bị chế giễu bởi những tên Man tộc mà trước kia chúng ta từng cai trị." />
+    <string id="RsCPQ167" text="Cha mẹ của chúng ta phải chạy tị nạn tới Ba Lạp Duy Nặc Tư để tránh sự tập kích của người Tư Đặc Cát Á, và ta cũng bắt đầu làm các công việc giúp thương gia. Một số thương nhân thích mua hàng hoá, hoặc ra vào thành trấn mà không phải đi qua cổng - họ cũng không quan tâm tới việc trả thuế, cũng có thể là những hàng hoá này đang được chủ nhân ban đầu của họ đi tìm." />
+    <string id="RTNL9zYa" text="Nghĩ lại thì ngươi cô độc cũng một đoạn thời gian rồi. Có lẽ thời điểm này ngươi vẫn chưa nên tham gia vào một đội ngũ nào." />
+    <string id="RUu7rzvX" text="Rất tốt, người am hiểu về ngựa thì ở đâu cũng được chào đón. Tiền lương ta sẽ trả vào mỗi thứ hai, chứ không phải ba năm mới trả một lần." />
+    <string id="RZZXKFvd" text="Thật ra, ta quan tâm tới tán binh hơn." />
+    <string id="s0TgECe7" text="Xin chào, nếu ngươi lại gần thêm chút nữa ta sẽ không khách khí mà khiến bụng ngươi có vài lỗ đâu, còn đâu ngươi cứ đứng yên chỗ đó thì có lẽ chúng ta sẽ có thể nói chuyện nghiêm túc được." />
+    <string id="s0Yanm4a" text="Rất tốt, trước tiên ta muốn {NPCPAYMENT}{GOLD_ICON}. Để đi làm thịt mấy tên dám chơi xỏ ta, mà việc này thì sẽ khó để kiếm được thù lao." />
+    <string id="s1cAUzB7" text="Đáng tiếc, ta chỉ am hiểu trộm ngựa chứ cũng không am hiểu chăm ngựa. Nếu ta lại tiếp tục làm trộm ngựa, rất có khả năng sớm sẽ bị treo cổ. Trộm đủ 100 con ngựa, giờ rửa tay gác kiếm cũng đáng mà, đúng không? Ta phải tìm kiếm một việc làm ngay thẳng lại. Ngươi có việc nào như vậy cho ta không?" />
+    <string id="scmsbgrX" text="Chờ một chút! Xuỵt! Ngươi sẽ doạ nó mất! A... được rồi. Nó chạy mất rồi." />
+    <string id="SjQiHp6W" text="Ta không chắc là ngươi có phù hợp với yêu cầu của ta hay không..." />
+    <string id="SPp4OsPO" text="Lạp Tư rất tốt, không cần phải nói chuyện với linh cẩu. Ngươi là làm việc gì?" />
+    <string id="sQgZR0dA" text="Anh bạn à, người thông minh chân chính sao lại không ăn hết thức ăn ngon trong đĩa vàng được? Có điều nói thật, ta đối với việc này cũng không mấy làm thích thú lắm, có thể đổi khẩu vị cũng không tệ." />
+    <string id="sRxN3IyF" text="Ngươi trước hết đừng nói gì với ta, để ta nói cho ngươi nghe, ta bị dính một lời nguyền." />
+    <string id="SVOylcqx" text="Nếu như ngươi biết cách buôn bán, ta có thể có việc cho ngươi làm." />
+    <string id="swaLbjD1" text="Quan trọng hơn là, ta thực sự nên tiếp tục. Ta nghĩ ngươi chắc không phải vì tài năng và kiến thức của ta mới tới chỗ chợ này ha? Ta thông hiểu cửa sau của mỗi cái thành thị ở nửa phía đông Tạp Lạp Địch Á, hoặc không thì có thể đủ để mua chuộc được thủ vệ." />
+    <string id="T8egZl6T" text="Ừm. Mời tiếp tục." />
+    <string id="TaDaCPb8" text="Ta không có thời gian nghe mấy chuyện của ngươi." />
+    <string id="teLnMBXG" text="Ta thích thủ vệ xông xáo, nhưng cũng phải có giới hạn. Tạm biệt nhé." />
+    <string id="tEw3TwnM" text="Thật là thô lỗ! Sau đó thì sao?" />
+    <string id="TGYJUUn0" text="Tiếp tục." />
+    <string id="TMLpc1mq" text="Ta hiểu rồi, ngươi là đi ăn ké của các bữa tiệc để sống qua ngày. Có điều đây cũng là có chút bản lãnh." />
+    <string id="TnVIWrof" text="Nghe có vẻ thái độ của ngươi rất đúng mực. Hãy nói thêm về bản thân ngươi đi." />
+    <string id="u8N37fgb" text="Một câu chuyện bi thảm, thưa cô. Xin tiếp tục đi." />
+    <string id="UhEt737M" text="Đúng là vậy. Nói như vậy mặc dù cũng có chút nguy hiểm - nhưng đã có trong dự liệu. Nếu ngươi muốn nghe câu chuyện của ta, ta cũng sẵn lòng để trút bỏ nỗi sầu của mình." />
+    <string id="UlsvDHLV" text="A, thật đáng tiếc. Ví thử như ngươi là người Tạp Lạp Địch Á bản địa, ta sẽ tuyệt đối phải tìm hiểu nơi sinh của tổ tiên ngươi. Ta đang thu thập các ghi chép về các lịch sử các thế hệ của vùng đất này, bất kể là các gia tộc của các đế quốc, hay là những nhóm người man di." />
+    <string id="unbf7266" text="Ta tới đây để uống rượu, chứ không phải để nói chuyện, ngươi muốn nói thì kiếm người khác. Trừ khi, ngươi muốn tìm người đánh nhau." />
+    <string id="UpEItRrJ" text="Ngươi có ổn không? Uây? có vẻ như ngươi đang nhìn chằm chằm vào ta," />
+    <string id="Upr8OV6G" text="Thật xin lỗi, thưa quý cô. Xin mời tiếp tục." />
+    <string id="UYmAp92Q" text="Đổi lại, ta hứa với ngươi, ta sẽ là người xung phong đầu tiên trong mỗi trận chiến, đồng thời cũng hò hét trợ uy. Lúc đó ngươi có thể biết là tiếng hò hét cũng là cách để tăng sĩ khí của mọi người, không biết ngươi thấy sao?" />
     <string id="v2664Qeo" text="..." />
-    <string id="v86ZaoFv" text="I think you are wasting your time, madame. Good day" />
-    <string id="VC5CkkUD" text="That&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;apos;s very impressive! From a technical standpoint, that is." />
-    <string id="VDssJwd4" text="Nice try, stranger. That&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;apos;s not the other half of the callword. But you don&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;apos;t look like the city watch, so I&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;apos;m going to take a little risk here and ask you something." />
-    <string id="vGokzhrp" text="Oh yes. I do indeed." />
-    <string id="vl7wgzIg" text="I am Tabur son of Alqan. You do not recognize the name? Well, perhaps we move in different circles. Any connoisseur of dinner parties, wine, courtesans, and poetry would doubtless have heard of me." />
-    <string id="vm7V0Il5" text="Well, he did not believe in such things, so he laughed, tossed her a few coins, and sent her on her way. I grew up. When my first suitor was skewered by a spear in battle, I grieved, but thought little of it. When my second suitor passed of a fever, I was unnerved. When my third suitor was thrown from his horse on a hunt, I knew I must do something." />
-    <string id="vp24haLz" text="Count yourself lucky I don&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;apos;t call the watch right now. Good day to you." />
-    <string id="vqC3imQv" text="Rabble? Barbarians? These are my friends you&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;apos;re talking about!" />
-    <string id="vT1fdgss" text="Master of empty talk, rather. Good day, sir." />
-    <string id="vuiCGQpZ" text="There&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;apos;s not much more to say. My master was a debauched animal but he let me keep a small share of my winnings, and eventually buy my freedom. I think he may also have realized that eventually, had he kept me against my will, he&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;apos;d have ended up with a severed neck vein." />
-    <string id="vXvsnePq" text="I see you, spirit! What have you come to tell me this time?" />
-    <string id="vYY87DK9" text="Fah. The Wolfskins are rich feral children, playing at being animals. There was one in my band, Deimul fen Gruffendoc, a cousin of the king. He had a quick tongue. He mocked me, every chance he had. I was slow and could never think how to answer. One night I couldn&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;apos;t take it any more. I pulled my knife, and we fought. I stabbed him in the thigh and no one knew how to staunch the bleeding so he bled to death." />
-    <string id="vzfZyIfy" text="Certainly. A very sensible precaution." />
-    <string id="wd4BBrTY" text="Because I&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;apos;ve drunk my way through all the silver in my pocket, and I&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;apos;m thirsty again. Because it&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;apos;s been a too long since I swung a sword, and my arm&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;apos;s a bit itchy. Because if you don&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;apos;t kill a man every few weeks, people forget what you&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;apos;re about. There. You need only one reason, and I just give you three." />
-    <string id="Wnt5Ngzr" text="Greeting, {?PLAYER.GENDER}madame{?}sir{\?}. Are you by any chance in the market for an engineer?" />
-    <string id="WQCAanal" text="Ah, the old days. And no doubt back then they complained about the older days. I&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;apos;ve heard enough." />
-    <string id="WYri5sav" text="Hello, stranger. &amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;apos;The cat walks on silent paws.&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;apos;" />
-    <string id="WzyHzNW3" text="Splendid, {?PLAYER.GENDER}madame{?}sir{\?}! There is one other small favor. I have incurred a few debts in this town, mostly due to the spilling of wine upon books. I would ask for an advance of {NPCPAYMENT} on my pay." />
-    <string id="XAbqJNk5" text="The emperor Arenicos was very open to my ideas, and gave me leave to accompany his armies. But since this civil war began, commanders have become very wary - fearing that I may be a spy for one side or the other. I have had to spend my time in the library and not in the field, which is very discouraging to me." />
-    <string id="XHCxDciV" text="I hope I&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;apos;ve made it clear to you what I&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;apos;m about. " />
-    <string id="Xi0A9Bb8" text="However, although the desert is bountiful, horses and steel must be bought with silver. So, I wish to inform you, my services are for hire." />
-    <string id="XJZ9XV1U" text="Not at present, madame. Good day to you." />
-    <string id="xlJEkqH9" text="I intend to find the captain of a company who will take me on as an apprentice. I will thereupon master the arts of war, and raise a company of my own, and thus shame the males of the empire into recovering their lost manhood." />
-    <string id="xpGLd7Co" text="I&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;apos;m afraid not, my lady. You&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;apos;d best leave now." />
-    <string id="XUqko0Fo" text="[what he won&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;apos;t do]" />
-    <string id="xxaOegyt" text="Uh, &amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;apos;but carries a large bird in its mouth&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;apos;?" />
-    <string id="Xxmiytv0" text="Patrols and hunting parties would sometimes come into the woods. I could run circles around them, and they would never know I was there." />
-    <string id="Y1R0x220" text="How droll of them..." />
-    <string id="Y7elloP2" text="Uh, well, I might. Why would you want to fight for me?" />
-    <string id="YBtDZuCL" text="Excellent. I&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;apos;d like an advance payment, not least because I&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;apos;m going to need to get my equipment cleanred. Shall we say {NPCPAYMENT}?" />
-    <string id="yczuEk0C" text=" He fought to kill, but I was faster, and I slew him. I feel no regret. Let any man who imagines he can treat a shieldmaiden like chattel consider his fate." />
-    <string id="yjkGHRkA" text="All very interesting to a scholar, I suppose, but not to me. Good day." />
-    <string id="ySwWQmYW" text="Then the last thing I want, my lady, is to be seen talking to you." />
-    <string id="yTnm04Hh" text="I can afford to pay {NPCPAYMENT}{GOLD_ICON} denars. Make yourself ready." />
-    <string id="YWQTQ5OH" text="You my hair on edge. Good day, sir." />
-    <string id="yYHCwEeo" text="Even now I feel I made a wise choice to buy the pepper -- wise, but unlucky. Such is fortune! Had I not seized this opportunity, other merchants would have mocked me, a woman too timid to succeed in a man&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;apos;s trade. Now they tut-tut, a rash woman who lacked a man&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;apos;s judgment. " />
-    <string id="Z3b8jrxn" text="I began seeing them after my mother vanished. At first we thought that raiders had taken her, or wolves. That is life in the steppe, where we lived. But the spirits told me that my mother had not been taken, she had gone Below, to gather the spirits of other members of her family. I must be ready to conduct the ceremony for her return." />
-    <string id="zbji14tF" text="I am a pathfinder and a scout." />
-    <string id="ziu66P84" text="I&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;apos;ll stand where I am. So, why so friendly a greeting?" />
-    <string id="znWhtJxt" text="I do indeed. I pay attention to packing and loading in particular. It is a fine art, one which determines how fast a beast of burden can move, whether a caravan makes good time or is forever pausing to pick up a spilled load." />
-    <string id="ZO6PptgQ" text="Oh, here and there. I&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;apos;m a recent arrival in Calradia." />
-    <string id="ZSR5CZxx" text="Very well. What makes today such a special day?" />
-    <string id="zsXbMbnc" text="I have one, and I can do that." />
-    <string id="zyBXzKZ6" text="Hello, traveller. The wanderer is a blessing to the lands through which he passes." />
+    <string id="v86ZaoFv" text="Ta nghĩ ngươi đang làm lãng phí thời gian của ta đấy thưa cô. Tạm biệt." />
+    <string id="VC5CkkUD" text="Thật là ấn tượng! Từ góc độ kỹ thuật mà nói." />
+    <string id="VDssJwd4" text="Nghĩ hay lắm, người lạ, đó cũng không phải là một nửa của khẩu hiệu. Có điều, thấy ngươi không giống thủ vệ trong thành lắm, nên ta sẽ mạo hiểm tới hỏi ngươi chút chuyện." />
+    <string id="vGokzhrp" text="Đúng vậy a, chính xác là thế" />
+    <string id="vl7wgzIg" text="Ta là Tháp Bố Nhĩ, là con trai của A Nhĩ Khảm. Ngươi đã từng nghe qua cái tên này chưa? Chà, có lẽ do trước đó chưa từng gặp nhau lần nào. Ở bất kỳ cái bữa tiệc, thưởng thức rượu, chơi gái, hay trong thơ ca đều đã từng nghe tới tên ta." />
+    <string id="vm7V0Il5" text="Có điều, cha ta cũng không tin lắm, cười rồi đưa cho nàng mấy đồng tiền xu rồi tiễn nàng ra khỏi nhà. Sau khi ta lớn lên, người đầu tiên theo đuổi ta thì bị trường mâu đâm xiên, ta rất đau buồn, nhưng lại chẳng nghĩ là do bị nguyền rủa như trên. Khi người thứ hai theo đuổi ta ốm mà chết, ta cảm thấy lo lắng bất an. Khi cái người thứ ba theo đuổi ta rồi hắn bị ngã ngựa mà bỏ mình, ta liền biết là cần phải làm gì rồi." />
+    <string id="vp24haLz" text="Coi như ngươi may mắn khi ta không gọi thủ vệ tới. Chào nhé, chúc ngày tốt lành." />
+    <string id="vqC3imQv" text="Bạo dân? Man rợ? Những người ngươi nói tới đều là bằng hữu của ta!" />
+    <string id="vT1fdgss" text="Đúng là toàn lời sáo rỗng. Chào tạm biệt, chúc ngày vui vẻ." />
+    <string id="vuiCGQpZ" text="Chẳng có gì đáng nói cả. Mặc dù chủ của ta là một tên súc sinh vô sỉ, những mỗi lần ta chiến thắng, hắn cũng cho ta chút tiền, cuối cùng ta cũng chuộc được thân, tự do tự tại. Ta đoán hắn cũng biết được, nếu như hắn không để ta chuộc thân thì cuối cùng đầu của hắn cũng không còn nằm trên cổ mình nữa." />
+    <string id="vXvsnePq" text="Ta thấy ngươi rồi, U Linh! Ngươi muốn nói với ta điều gì?" />
+    <string id="vYY87DK9" text="Aiz, bộ lạc Lang Bì đều là mấy đứa con hoang của mấy nhà giàu, chạy tới chơi mấy trò giả dạng làm động vật. Trong đội ngũ của ta có một thành viên của bộ lạc Lang Bì, tên là Địch Mục Nhĩ - Phân - Cách Lỗ Phân Đa Khắc, là hoàng thân quốc thích. Miệng lưỡi hắn bén nhọn, có cơ hội là lấy ta ra cợt nhả. Còn ta thì chẳng biết phải phản bác như nào. Một đêm nọ, ta không thể nhịn được nữa, liền rút đao đánh nhau với hắn. Ta đâm trúng bắp đùi của hắn, mà lại không ai biết cách cầm máu, thế là hắn bị chảy máu đến chết." />
+    <string id="vzfZyIfy" text="Tất nhiên. Là bản năng tự vệ thôi mà." />
+    <string id="wd4BBrTY" text="Vì ta đã vét cạn túi để nốc rượu rồi, mà giờ thì lại đang khát. Và cũng bởi vì lâu không sờ vào kiếm, nên có chút ngứa ngáy. Mà thêm nữa cách vài tuần không giết người, mọi người sẽ quên mất ta là ai. Đó xem đi, ngươi chỉ cần một lý do, nhưng ta lại cho ngươi tới lận ba cái." />
+    <string id="Wnt5Ngzr" text="Xin chào {?PLAYER.GENDER}phu nhân{?}đại nhân{\?}. Ngươi đang đến chợ để chiêu mộ một vị kỹ sư?" />
+    <string id="WQCAanal" text="A, những ngày tháng xa xưa. Mọi người đều sẽ phàn nàn về những ngày xa xưa. Ta nghe đủ rồi." />
+    <string id="WYri5sav" text="Xin chào, người lạ, -Mèo con bước đi rất nhẹ nhàng-" />
+    <string id="WzyHzNW3" text="Tuyệt vời quá thưa {?PLAYER.GENDER}phu nhân{?}đại nhân{\?}! Ta còn có một yêu cầu nho nhỏ. Ta vẫn nợ một chút tiền, chủ yếu là tiền thưởng. Cho nên ta muốn ngươi chi trước cho ta {NPCPAYMENT} để trả nợ." />
+    <string id="XAbqJNk5" text="Hoàng đế A Lôi Ni Khoa Tư rất tán thành với ý nghĩ của ta, cho phép ta gia nhập quân đội của hắn. Nhưng, khi nội chiến bắt đầu, các tướng lĩnh đã trở nên rất cảnh giác - lo sợ ta là gián điệp của quân địch. Vì thế mà ta phải ở lại trong thư phòng chứ không phải trên chiến trận, việc này khiến ta rất nản lòng." />
+    <string id="XHCxDciV" text="Ta hy vọng ngươi hiểu những gì ta nói." />
+    <string id="Xi0A9Bb8" text="Mặc dù sa mạc tài nguyên phong phú, nhưng ngươi phải dùng vàng ròng bạc trắng mới mua được và sắt thép. Nói cách khác, thuê ta là cần trả tiền." />
+    <string id="XJZ9XV1U" text="Ta nghĩ hiện tại không phải là lúc thích hợp thưa phu nhân. Chúc ngươi một ngày vui vẻ." />
+    <string id="xlJEkqH9" text="Ta muốn tìm một vị tướng lĩnh chấp nhận một người học việc như ta. Không bao lâu nữa, ta có thể nắm giữ được nghệ thuật chiến tranh, thành lập chiến đoàn của chính ta, để lấy lại khí khái nam nhi của đàn ông trên Đế Quốc." />
+    <string id="xpGLd7Co" text="Chỉ e là không được thưa phu nhân. Ngươi nên đi mau đi." />
+    <string id="XUqko0Fo" text="[Việc hắn không biết làm]" />
+    <string id="xxaOegyt" text="Humm, -miệng mang chiến lợi phẩm, vô thanh thắng hữu thanh-?" />
+    <string id="Xxmiytv0" text="Đội tuần tra và đội đi săn đôi khi sẽ đi vào trong rừng. Mà ta thì có thể thần không biết quỷ không hay đi vòng quanh họ." />
+    <string id="Y1R0x220" text="Bọn chúng thật ngu xuẩn..." />
+    <string id="Y7elloP2" text="Ừm, có lẽ vậy đi, thế ngươi tại sao lại muốn chiến đấu cho ta?" />
+    <string id="YBtDZuCL" text="Rất tốt. Để bảo dưỡng trang bị, ta cần chút tiền. Ngươi đưa trước cho ta {NPCPAYMENT} thì sao?" />
+    <string id="yczuEk0C" text=" Lúc đó hắn muốn giết ta, may là ta thân thủ nhanh hơn, nên đã giết lại hắn. Ta không hối hận, dám đem nữ chiến binh làm của riêng thì đừng nghĩ có kết cục tốt." />
+    <string id="yjkGHRkA" text="Những người có học có lẽ sẽ thấy hứng thú, còn ta thì không. Chào nhé, chúc ngày vui." />
+    <string id="ySwWQmYW" text="Phu nhân, ta có việc này tương đối lo lắng, đó là bị nhìn thấy đang nói chuyện cùng ngươi." />
+    <string id="yTnm04Hh" text="Ta có thể cho ngươi {NPCPAYMENT}{GOLD_ICON}, chuẩn bị mọi thứ êm xuôi đi." />
+    <string id="YWQTQ5OH" text="Ngươi khiến ta có chút khẩn trương. Tạm biệt đại nhân, chúc ngày tốt lành." />
+    <string id="yYHCwEeo" text="Dù sao thì ta vẫn cảm thấy mua số hồ tiêu ấy là lựa chọn chính xác, chỉ là vận số ta đen thôi. Dù sao thì chuyện may rủi, không ai nói trước được điều gì! Nếu lúc ấy ta không mua số hồ tiêu đó, những thương nhân khác sẽ cười nhạo ta là một người đàn bà nhát gan, không dám làm những chuyện mà đàn ông làm. Còn bây giờ thì chúng lại nói ta là đàn bà lỗ mãng, thiếu khả năng phán đoán của đàn ông." />
+    <string id="Z3b8jrxn" text="Từ khi mẹ của ta mất tích, ta bắt đầu nhìn thấy u linh. Lúc đầu, chúng ta nghĩ là mẹ bị mấy kẻ cướp hoặc lũ sói bắt đi. Bởi vì lúc ấy chúng ta ở tren thảo nguyên, những việc này xảy ra hết sức bình thường. Nhưng u linh lại nói cho ta biết, mẹ ta không phải bị bắt đi, mà là đã đi xuống -phía dưới- triệu tập các linh hồn của thành viên trong gia tộc. Cho nên ta phải chuẩn bị sẵn sàng, tổ chức nghi thức nghênh đón mẹ ta trở về." />
+    <string id="zbji14tF" text="Ta là một người dò đường, mà cũng là một trinh sát." />
+    <string id="ziu66P84" text="Ta vẫn sẽ tiếp tục đứng ở nơi ta nên đứng. Vậy thì, vì cớ gì mà ngươi vẫn nhiệt tình như vậy hả?" />
+    <string id="znWhtJxt" text="Chính xác là vậy. Ta rất chú trọng việc đóng hàng và chuyên chở. Đây chính là một môn nghệ thuật, môn này có thể quyết định một đầu súc vật chở đồ có thể đi được nhanh hay chậm, hơn nữa là để cho thương đội có thể kịp giờ. Nói cách khác, nếu như ngươi không hiểu được nghệ thuật ở đây, thì cũng chỉ có thể vĩnh viễn dừng tại một chỗ mà gánh hàng chảng may bị đổ thôi." />
+    <string id="ZO6PptgQ" text="Xin chào tất cả mọi ngươi, ta vừa mới tới Tạp Lạp Địch Á không lâu." />
+    <string id="ZSR5CZxx" text="Rất tốt, hôm nay đúng là một ngày đặc biệt." />
+    <string id="zsXbMbnc" text="Ta có, và cũng có thể làm được." />
+    <string id="zyBXzKZ6" text="Xin chào, người lữ hành. Những người lang thang thì sẽ mang đến những lời chúc phúc cho những nơi họ đi qua." />
   </strings>
 </base>

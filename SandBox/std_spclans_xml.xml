@@ -5,16 +5,16 @@
   </tags>
   <strings>
     <string id="0m0IUnL1" text="fen Uvain" />
-    <string id="0u8ipbgn" text="The tribes known as the Forest People practice slash-and-burn farming in the deep woods, outside the grasp of the Sturgian boyars. They burn down tracts of trees, grow crops on the virgin soil fertilized by ash for a few years until the land is exhausted, and move on. It is an inefficient use of land but a very efficient use of labor, suitable for a numerically small population in a large area. Also, because the plots are hard to measure and tax, it's a very good strategy for people who don't care to be governed." />
+    <string id="0u8ipbgn" text="The tribes known as the Forest People practice slash-and-burn farming in the deep woods, outside the grasp of the Sturgian boyars. They burn down tracts of trees, grow crops on the virgin soil fertilized by ash for a few years until the land is exhausted, and move on. It is an inefficient use of land but a very efficient use of labor, suitable for a numerically small population in a large area. Also, because the plots are hard to measure and tax, it&amp;apos;s a very good strategy for people who don&amp;apos;t care to be governed." />
     <string id="1sbJQR4H" text="Looters" />
     <string id="3o5s6L3y" text="dey Meroc" />
     <string id="3PzgpFGq" text="Neutral" />
     <string id="4Dbwdjbe" text="Hongeros" />
     <string id="4rr3d8hY" text="Dolentor" />
-    <string id="4TiYXBqK" text="The Ghilman are a band of mercenaries who recruit from the tribes of southern Calradia and the lands to the east. They are legally their own slaves and masters: each “sells“ himself to the order and, in the process, becomes a part-owner. They are known for their fine horses and fine clothes. But no one should assume from their oiled locks, perfumes and peacock feathers that they spend more time preening then training. Their skills as mounted archers are second to none, and as lancers are close behind the Vlandians and the imperial cataphracts." />
+    <string id="4TiYXBqK" text="Ghilman là một nhóm lính đánh thuê, tuyể chọn từ các bộ lạc phía nam Calradia và các vùng đất phía Đông. Dưới góc độ pháp lý, họ vừa là nô lệ của chính mình, vừa là chủ của chính mình: mọi người đều “bán mình” cho tổ chức và dần dần trở thành chủ sở hữ một phần. Họ nổi tiếng với những con ngựa tốt và quần áo đẹp. Nhưng ít ai quan tâm về tóc, nước hoa và phụ kiện lông công, nên họ ít chú trọng việc ăn mặc, tập trung vào tập luyện. Kỹ năng cưỡi và bắn của họ là vô song, và khả năng sử dụng thương của họ chỉ đứng sau người Vlandian và kỵ binh của Đế Quốc." />
     <string id="6BvGhzao" text="Karakhergit" />
     <string id="6OEQJV6k" text="Julios" />
-    <string id="7bhNgOKd" text="The Wolfskins are heirs to a long tradition in the Battanian lands wherein great warriors went “wilding” for part of their youth, learning the ways of the woods and how to suffer hardship. So long as a Wolfskin wears no sewn clothes, eats no cooked food, and sleeps under no roof, he is immune from the laws of men. In fact, the modern Wolfskins tend to be the sons of wealthy families taking a few years to indulge their feral side, robbing travellers and living viciously and not necessarily hewing to the old code." />
+    <string id="7bhNgOKd" text="Bộ tộc da sói đã kế thừa một truyền thống lâu đời ở vùng đất Battania: những chiến binh vĩ đại phải rèn luyện trong một khoảng thời gian khi họ còn nhỏ, học cách sinh tồn trong rừng và trau dồi tinh thần làm việc chăm chỉ. Bộ tộc da sói không mặc quần áo may vá, không ăn thức ăn nấu chín, ngủ không có mái che và không bị chi phối bởi luật pháp của con người. Trên thực tế, các thành viên của bộ tộc da sói thường là con trai của những gia đình giàu có. Họ dành một vài năm để tận hưởng khía cạnh hoang dã của mình, săn lùng khách du lịch, và sống một cuộc sống sa đọa mà không tuân theo các quy tắc cũ." />
     <string id="7k9izAvC" text="Skolderbrotva" />
     <string id="7WL1LWdf" text="Lake Rats" />
     <string id="8ba4tpRU" text="Jawwal" />
@@ -22,9 +22,9 @@
     <string id="9NWQNInC" text="dey Molarn" />
     <string id="9ORFG9l4" text="Chonis" />
     <string id="9qAUWcfa" text="dey Gunric" />
-    <string id="9qAWNBvA" text="The Eleftheroi, the free people, live on the steppelands at the edge of the Empire. Originally the descendants of runaway slaves and debtors, they soon became highly valued by the local imperial commanders for their knowledge of this frontier zone. Their leaders have been granted titles, their young men taken into the retinues of archons and emperors. But though they are now very loyal to the idea of the Empire, they remain quite hostile to its actual authority." />
+    <string id="9qAWNBvA" text="Eleftheroi, những người tự do, sống trên những đồng cỏ ở rìa Đế chế. Vốn là con cháu của những nô lệ bỏ trốn và những con nợ, họ nhanh chóng được các chỉ huy đế quốc địa phương đánh giá cao vì hiểu biết về vùng biên cương này. Các nhà lãnh đạo của họ đã được phong tước vị, những người đàn ông trẻ tuổi của họ được đưa vào làm tùy tùng cho hoàng đế. Nhưng mặc dù bây giờ họ rất trung thành với ý tưởng về Đế chế, họ vẫn thù địch với quyền lực thực tế của nó." />
     <string id="9Y1u2onl" text="Banu Hulyan" />
-    <string id="9ZEdEWmi" text="The Lake Rats live in the marshes on the shores of the great northern lake, in shacks made out of the timbers of ruined ships. They live by “wrecking“ - ie, luring ships onto shoals with false lighthouses and beacons. Because they're scorned by the rest of Calradia - ”all criminals, smell like marsh gas and mud and rotten fish” - they scorn everyone else back. Although mostly Sturgian, their ranks have been swelled by fugitives, debtors, and anyone else who’d rather live by a thieves’ code than by the laws of nobles." />
+    <string id="9ZEdEWmi" text="The Lake Rats live in the marshes on the shores of the great northern lake, in shacks made out of the timbers of ruined ships. They live by “wrecking“ - ie, luring ships onto shoals with false lighthouses and beacons. Because they&amp;apos;re scorned by the rest of Calradia - ”all criminals, smell like marsh gas and mud and rotten fish” - they scorn everyone else back. Although mostly Sturgian, their ranks have been swelled by fugitives, debtors, and anyone else who’d rather live by a thieves’ code than by the laws of nobles." />
     <string id="a4GxTbPD" text="Varros" />
     <string id="A4wIVnM4" text="Gundaroving" />
     <string id="a67wFbUw" text="fen Gruffendoc" />
@@ -50,7 +50,6 @@
     <string id="fvYgmrjG" text="Banu Sarran" />
     <string id="fXENjJJL" text="Osticos" />
     <string id="GCy0xb6U" text="Company" />
-    <string id="GgMVWlkr" text="Test Clan" />
     <string id="gXeF1yKn" text="Harfit" />
     <string id="H5iWxbbl" text="Ghilman" />
     <string id="h7ujXmDx" text="Mestricaros" />
@@ -90,7 +89,7 @@
     <string id="sAbjtZbB" text="Forest Bandits" />
     <string id="Ssl38GEF" text="Legion" />
     <string id="tA3IRBgv" text="Impestores" />
-    <string id="tae3lhXh" text="The Company are Vlandians, mostly local levies who don’t adjust well to peacetime and opted for a life of constant warfare. They are probably the least disciplined and most brigandish of Calradia's mercenaries, and a scourge to any bit of countryside where they are allowed to run loose. Still, like all mercenaries, they know that their future earnings depend on their reputation, so they honor their contracts and practice their skills, particularly with the crossbow, to ensure their employers receive their money’s worth." />
+    <string id="tae3lhXh" text="The Company are Vlandians, mostly local levies who don’t adjust well to peacetime and opted for a life of constant warfare. They are probably the least disciplined and most brigandish of Calradia&amp;apos;s mercenaries, and a scourge to any bit of countryside where they are allowed to run loose. Still, like all mercenaries, they know that their future earnings depend on their reputation, so they honor their contracts and practice their skills, particularly with the crossbow, to ensure their employers receive their money’s worth." />
     <string id="tdGvElSy" text="Dionicos" />
     <string id="txCNVmSV" text="Neretzes" />
     <string id="UmVjzPI4" text="Company of the Golden Boar" />
@@ -109,5 +108,14 @@
     <string id="zcLTthfN" text="Embers" />
     <string id="zvas3ieB" text="fen Derngil" />
     <string id="zY2TQC9t" text="Banu Arbas" />
+    <string id="14GLGKNj" text="Các bộ tộc này được gọi là Người Rừng, làm nương rẫy trong rừng sâu, ngoài tầm kiểm soát của người Sturgian. Họ đốt những vùng cây cối, trồng trọt trên đất nguyên sinh được bón bằng tro trong vài năm cho đến khi đất đai màu mỡ cạn kiệt, rồi tiếp tục đổi chỗ ở. Đây là hình thức sử dụng đất kém hiệu quả nhưng sử dụng lao động rất hiệu quả, phù hợp với những nơi có diện tích rộng, dân cư thưa thớt. Ngoài ra, vì những vùng đất này rất khó đo lường và đánh thuế, đây là một chiến lược rất tốt cho những người không thích bị cai trị. " />
+    <string id="cYTdzMQ4" text="Oburit" />
+    <string id="DeSGiCgF" text="dey Rothad" />
+    <string id="LTWTTQ71" text="Palladios" />
+    <string id="nclQqoam" text="Serapides" />
+    <string id="NI1paia1" text="Banu Ruwaid" />
+    <string id="SCTf5cay" text="Vatatzes" />
+    <string id="WssI6mOE" text="Kostoroving" />
+    <string id="xbkYPXCt" text="Vetranis" />
   </strings>
 </base>

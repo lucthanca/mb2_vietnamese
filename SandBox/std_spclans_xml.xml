@@ -5,7 +5,7 @@
   </tags>
   <strings>
     <string id="0m0IUnL1" text="fen Uvain" />
-    <string id="0u8ipbgn" text="The tribes known as the Forest People practice slash-and-burn farming in the deep woods, outside the grasp of the Sturgian boyars. They burn down tracts of trees, grow crops on the virgin soil fertilized by ash for a few years until the land is exhausted, and move on. It is an inefficient use of land but a very efficient use of labor, suitable for a numerically small population in a large area. Also, because the plots are hard to measure and tax, it&amp;apos;s a very good strategy for people who don&amp;apos;t care to be governed." />
+    <string id="0u8ipbgn" text="Các bộ tộc này được gọi là Người Rừng, làm nương rẫy trong rừng sâu, ngoài tầm kiểm soát của người Sturgian. Họ đốt những vùng cây cối, trồng trọt trên đất nguyên sinh được bón bằng tro trong vài năm cho đến khi đất đai màu mỡ cạn kiệt, rồi tiếp tục đổi chỗ ở. Đây là hình thức sử dụng đất kém hiệu quả nhưng sử dụng lao động rất hiệu quả, phù hợp với những nơi có diện tích rộng, dân cư thưa thớt. Ngoài ra, vì những vùng đất này rất khó đo lường và đánh thuế, đây là một chiến lược rất tốt cho những người không thích bị cai trị. " />
     <string id="1sbJQR4H" text="Looters" />
     <string id="3o5s6L3y" text="dey Meroc" />
     <string id="3PzgpFGq" text="Neutral" />
@@ -24,7 +24,7 @@
     <string id="9qAUWcfa" text="dey Gunric" />
     <string id="9qAWNBvA" text="Eleftheroi, những người tự do, sống trên những đồng cỏ ở rìa Đế chế. Vốn là con cháu của những nô lệ bỏ trốn và những con nợ, họ nhanh chóng được các chỉ huy đế quốc địa phương đánh giá cao vì hiểu biết về vùng biên cương này. Các nhà lãnh đạo của họ đã được phong tước vị, những người đàn ông trẻ tuổi của họ được đưa vào làm tùy tùng cho hoàng đế. Nhưng mặc dù bây giờ họ rất trung thành với ý tưởng về Đế chế, họ vẫn thù địch với quyền lực thực tế của nó." />
     <string id="9Y1u2onl" text="Banu Hulyan" />
-    <string id="9ZEdEWmi" text="The Lake Rats live in the marshes on the shores of the great northern lake, in shacks made out of the timbers of ruined ships. They live by “wrecking“ - ie, luring ships onto shoals with false lighthouses and beacons. Because they&amp;apos;re scorned by the rest of Calradia - ”all criminals, smell like marsh gas and mud and rotten fish” - they scorn everyone else back. Although mostly Sturgian, their ranks have been swelled by fugitives, debtors, and anyone else who’d rather live by a thieves’ code than by the laws of nobles." />
+    <string id="9ZEdEWmi" text=" Bang Chuột  sống trong đầm lầy bên bờ hồ lớn phía bắc, trong những căn lều làm từ gỗ của những con tàu đổ nát. Họ sống bằng cách “đánh đắm” - tức là dụ tàu vào các bãi cạn bằng những ngọn hải đăng và đèn hiệu giả. Họ bị người Calradia khinh bỉ - &quot; những tên tội phạm này có mùi như khí đầm lầy, bùn và cá thối&quot; - họ cũng khinh bỉ lại những người khác. Mặc dù chủ yếu là người Sturgian, nhưng dân số của họ đã tăng lên gồm cả những kẻ đào tẩu, những con nợ và bất kỳ ai  khác, muốn tuân theo luật của những tên trộm hơn là của giới quý tộc." />
     <string id="a4GxTbPD" text="Varros" />
     <string id="A4wIVnM4" text="Gundaroving" />
     <string id="a67wFbUw" text="fen Gruffendoc" />
@@ -34,7 +34,7 @@
     <string id="as2TiAIJ" text="Brotherhood of the Woods" />
     <string id="b6SEM6Ab" text="Koltit" />
     <string id="B8c2mNKj" text="The Embers of the Flame are the descendants of a rebel movement that rose up nearly a century ago, after the saintly but ineffective teenaged Emperor Darusos was toppled by one of his generals. They claim that they are preparing the way for Heaven to bring back Darusos and usher in a golden age, but like so many other rebel movements in Calradia they have been forced to turn to extortion to survive." />
-    <string id="bhxVA9w7" text="The Last Legion was created after the Emperor Arenicos enacted his reforms after the disaster of the battle of Pendraic, abolishing the last of the Empire’s standing armies in favor of archon’s private retinues that were significantly cheaper and better at controlling territory. The Legion is made up of men who detested this change: they loved the old army, its standards and its unit histories and its camp life, and they blame the new system for destroying the empire. But an army does not hold together unless it is paid regularly, and they take contracts from imperial and foreign lords alike." />
+    <string id="bhxVA9w7" text="Quân đoàn cuối cùng ra đời từ những cải cách được thực hiện bởi Hoàng đế Arenikos sau thất bại của ông trong trận Pendrak. Đội quân này bao gồm những người ghét sự thay đổi này: họ thích quân đội cũ, luật lệ, lịch sử và cuộc sống doanh trại của nó, và họ cáo buộc hệ thống mới đang phá hủy Đế Quốc. Nhưng họ không thể thành lập một đội quân mà không có tiền trả, vì vậy họ sẽ ký hợp đồng với cả lãnh chúa triều đình và lãnh chúa nước ngoài cùng một lúc" />
     <string id="bjemmmcF" text="Corenios" />
     <string id="bsPd5zri" text="The Skolderbroda, or Shield Brothers, are a mercenary company for those who take fighting and training very seriously. They are primarily Nordic but do allow recruits from other cultures, as long as an already-serving Shield Brother will vouch for them. Their rules are almost monastic:no women in their encampments and no amusements, and no Brother is allowed to spend the night outside without permission. In combat they fight with spear and axe in the Nordic style, and are valued by all the noble houses of the north." />
     <string id="BxCRDt5m" text="Vizartos" />
@@ -73,7 +73,7 @@
     <string id="MVHawAEp" text="Hidden Hand" />
     <string id="nh4Y3LOc" text="Wolfskins" />
     <string id="NObV048p" text="Beni Zilal" />
-    <string id="nQOf27Rx" text="The Hidden Hand are a mafia who dominate the rural areas, and sometimes the towns, of the southern parts of the Empire. They thrive by making themselves useful to authorities: repressing unrest, silencing troublesome preachers, and robbing from merchants who compete with their patrons. Many of them go back and forth between a respectable life in the towns and a criminal life in countryside, spending two or three months a year as a brigand and enforcer and the rest as a ”trader” in stolen goods, knowing full well that no one will bother them." />
+    <string id="nQOf27Rx" text="The Secret Hand là một băng nhóm xã hội đen kiểm soát các khu vực nông thôn và thậm chí một số thị trấn ở phía nam của đế quốc. Họ phát triển nhờ làm việc cho chính quyền: trấn áp tình trạng bất ổn, đàn áp những người truyền giáo phiền phức, và cướp bóc các đối thủ cạnh tranh của khách hàng quen của họ. Nhiều người trong số họ sống một cuộc sống kép: tử tế ở thành phố, phạm tội ở nông thôn, dành hai hoặc ba tháng một năm như kẻ cướp và côn đồ, còn lại là &quot;thương nhân&quot; bán đồ ăn cắp - họ biết rằng không ai dám can thiệp vào. " />
     <string id="o0Xm5Rqk" text="Playerland" />
     <string id="o4wKMT9x" text="Banu Habbab" />
     <string id="o7ud4X2X" text="Forest People" />
@@ -84,12 +84,12 @@
     <string id="Q1nAHnV7" text="Khergit" />
     <string id="qFntgcGy" text="dey Tihr" />
     <string id="qoLWSdRE" text="fen Eingal" />
-    <string id="RWOYui01" text="The Jawwal, or “Roamers,” are the main bedouin confederacy in the Nahhas desert. They wander from highland to lowland grazing grounds, declaring huge swathes of the desert their “territory” in which any caravan must offer protection money. They compose poems of their deeds and mock other clans of the Banu Asera for having given up the “freedom” of black wool tents for stone houses in the oases. The other clans consider them boastful nuisances, though grudgingly respecting them as protectors of the old Aserai ways." />
+    <string id="RWOYui01" text="Jawwal, hay &quot;Những kẻ mộng mơ&quot;, là liên minh chính của người Bedouin ở sa mạc Nahasa. Họ lang thang từ vùng cao đến vùng thấp, tuyên bố những vùng đất rộng lớn trên sa mạc là “lãnh thổ” của họ, trong đó bất kỳ đoàn lữ hành nào cũng phải trả phí bảo vệ. Họ sáng tác những bài thơ về những việc làm của họ và chế nhạo các gia tộc khác của Banu Asera vì đã từ bỏ những chiếc lều len đen và sống ở những ngôi nhà bằng đá trong ốc đảo. Các thị tộc khác coi họ là những kẻ khoe khoang phiền toái, mặc dù miễn cưỡng tôn trọng họ như những người bảo vệ truyền thống Aserai cũ." />
     <string id="s0AVQCbJ" text="Togaroving" />
     <string id="sAbjtZbB" text="Forest Bandits" />
     <string id="Ssl38GEF" text="Legion" />
     <string id="tA3IRBgv" text="Impestores" />
-    <string id="tae3lhXh" text="The Company are Vlandians, mostly local levies who don’t adjust well to peacetime and opted for a life of constant warfare. They are probably the least disciplined and most brigandish of Calradia&amp;apos;s mercenaries, and a scourge to any bit of countryside where they are allowed to run loose. Still, like all mercenaries, they know that their future earnings depend on their reputation, so they honor their contracts and practice their skills, particularly with the crossbow, to ensure their employers receive their money’s worth." />
+    <string id="tae3lhXh" text="Các thành viên của tập đoàn đều là người Valandian, chủ yếu là các cựu chiến binh địa phương. Những người này không thích nghi tốt với thời bình, vì vậy họ chọn cách sống trong những cuộc chiến kéo dài. Họ có thể là nhóm lính đánh thuê kém kỉ luật và đáng khinh bỉ nhất ở Calradia. Khi được phép di chuyển tự do, những người này là một tai họa lớn ở nông thôn. Nhưng giống như tất cả những người lính đánh thuê khác, họ biết rằng thu nhập trong tương lai dựa trên danh tiếng của mình, vì vậy họ tôn trọng  hợp đồng và luyện tập võ thuật, đặc biệt là bắn cung và bắn nỏ, để đảm bảo chủ nhân của họ nhận được số tiền xứng đáng. " />
     <string id="tdGvElSy" text="Dionicos" />
     <string id="txCNVmSV" text="Neretzes" />
     <string id="UmVjzPI4" text="Company of the Golden Boar" />
@@ -100,7 +100,7 @@
     <string id="W2HkbCeX" text="Ubroving" />
     <string id="W9n5iPbB" text="Yanserit" />
     <string id="wFR1ukg9" text="Banu Qild" />
-    <string id="xahrUc5n" text="The Brotherhood of the Woods started as a Vlandian peasant movement, hiding out in the forests, robbing from the rich and giving to the poor. However, it encountered the problems that any long-running rebel movement might – it needed to ensure a steady supply of food, and also ensure that none of the poor would dare earn a bag of coins by informing on them. Slowly but surely, it began to make use of extortion, terror, and corrupt deals with the local authorities to survive, becoming little different from any other organized bandit group in Calradia." />
+    <string id="xahrUc5n" text="The Brotherhood of the Woods started as a Vlandian peasant movement, hiding out in the forests, robbing from the rich and giving to the poor. However, it encountered the problems that any long-running rebel movement might - it needed to ensure a steady supply of food, and also ensure that none of the poor would dare earn a bag of coins by informing on them. Slowly but surely, it began to make use of extortion, terror, and corrupt deals with the local authorities to survive, becoming little different from any other organized bandit group in Calradia." />
     <string id="XJbDRBfd" text="The Karakhergit are a nomadic clan that has resisted all efforts by the centralizing Urkhunid khans to keep them in one place, give them farmlands and serfs, and force them to give over taxes and military levies. They are treated by the other clans with a combination of envy and contempt. They trade and sometimes even intermarry with their settled brethren, but they also do a limited amount of kidnapping for ransom and raiding of flocks, and scoff at those who would blame them for carrying on with the heroic old ways." />
     <string id="xqkKtWqa" text="Elaches" />
     <string id="xw0eTkkb" text="Vezhoving" />
@@ -108,7 +108,7 @@
     <string id="zcLTthfN" text="Embers" />
     <string id="zvas3ieB" text="fen Derngil" />
     <string id="zY2TQC9t" text="Banu Arbas" />
-    <string id="14GLGKNj" text="Các bộ tộc này được gọi là Người Rừng, làm nương rẫy trong rừng sâu, ngoài tầm kiểm soát của người Sturgian. Họ đốt những vùng cây cối, trồng trọt trên đất nguyên sinh được bón bằng tro trong vài năm cho đến khi đất đai màu mỡ cạn kiệt, rồi tiếp tục đổi chỗ ở. Đây là hình thức sử dụng đất kém hiệu quả nhưng sử dụng lao động rất hiệu quả, phù hợp với những nơi có diện tích rộng, dân cư thưa thớt. Ngoài ra, vì những vùng đất này rất khó đo lường và đánh thuế, đây là một chiến lược rất tốt cho những người không thích bị cai trị. " />
+    <string id="14GLGKNj" text="fen Caernacht" />
     <string id="cYTdzMQ4" text="Oburit" />
     <string id="DeSGiCgF" text="dey Rothad" />
     <string id="LTWTTQ71" text="Palladios" />

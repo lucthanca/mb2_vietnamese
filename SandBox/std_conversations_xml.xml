@@ -6,15 +6,13 @@
   <strings>
     <string id="5qoYjNVs" text="Bằng hữu của ta, ngươi còn điều gì muốn nói chăng?" />
     <string id="A8VlEUMS" text="Xin chào {PLAYER.LINK}, rất vui khi gặp được ngươi." />
-    <string id="ah9SN1u0" text="Bọn em đầu hàng!" />
-    <string id="EBKrcDnY" text="Đéo!" />
+    <string id="ah9SN1u0" text="Ta đầu hàng!" />
+    <string id="EBKrcDnY" text="Không!" />
     <string id="jnJqjlnr" text="Ta sẽ cắt yết hầu của ngươi." />
-    <string id="kwVELZN1" text="" />
-    <string id="nG4FT8jJ" text="{CONVERSATION_STUB}" />
     <string id="nZDF7yVq" text="Trước khi chết, có điều gì muốn trăn trối không?" />
     <string id="wTFjLsgq" text="Được thôi." />
-    <string id="xkKMT083" text="Mày chắc chắn là sẽ phải chết hôm nay." />
-    <string id="yUPOktil" text="Tao mà phải sợ mày à, chiến đi." />
+    <string id="xkKMT083" text="Ngày này năm sau sẽ là ngày giỗ của ngươi." />
+    <string id="yUPOktil" text="Ta không sợ ngươi, đánh thì đánh." />
     <string id="ZFqlqyci" text="[Rời đi]" />
   </strings>
 </base>

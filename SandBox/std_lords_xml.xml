@@ -1,231 +1,412 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
   <tags>
-    <tag language="Tiếng Việt" />
+    <tag language="English" />
   </tags>
   <strings>
-    <string id="0CQgia2a" text="Culharn" />
-    <string id="0YZQ8vr8" text="Ulman" />
-    <string id="10urvYUQ" text="Belithor" />
-    <string id="1cKxsHSh" text="Penton" />
-    <string id="26W8jFm9" text="Sechanis" />
-    <string id="2Bh8DS8S" text="Siga" />
-    <string id="2fYYfHUI" text="Martira" />
-    <string id="2OqAomZy" text="Oragur" />
-    <string id="2RGc09o0" text="Alijin" />
-    <string id="2V8NE0Vn" text="Sea Raiders Hero" />
-    <string id="3AMc9o0o" text="Solun" />
-    <string id="3C8F07SL" text="Achios" />
-    <string id="3PzgpFGq" text="Neutral" />
-    <string id="3qr3bhL6" text="Nicasor" />
-    <string id="3Y4jnu5i" text="Looter Hero" />
-    <string id="48bvCvb2" text="Pharon" />
-    <string id="4MwHbMFs" text="Carfyd" />
-    <string id="4YOoGhpK" text="Niphon" />
-    <string id="5eTb2xr7" text="Sanion" />
-    <string id="5N6i1jQP" text="Philenora" />
-    <string id="6GC0PsSh" text="Manteos" />
-    <string id="6TphQddp" text="Saratis" />
-    <string id="6WWJpv88" text="Maraa" />
-    <string id="6YiMWxVM" text="Helea" />
-    <string id="6ZQ8nUwj" text="Hecard" />
-    <string id="6ZTCwKfD" text="Miron" />
-    <string id="7ayj6WAw" text="Alcaea" />
-    <string id="7nVZgjmn" text="Desporion" />
-    <string id="891zDKIl" text="Haqan" />
-    <string id="8auuZ79h" text="Nywin" />
-    <string id="8LuUksQg" text="Vartin" />
-    <string id="9lFmNG5c" text="Khada" />
-    <string id="9xyXdX4I" text="Tharos" />
-    <string id="a2rhPaGB" text="Baldron" />
-    <string id="a4E2pVDA" text="Servic" />
-    <string id="AAqB4QxB" text="Bortu" />
-    <string id="abCBBVaU" text="Romund" />
-    <string id="AccBcEIt" text="Zoana" />
-    <string id="acp2IcMs" text="Crotor" />
-    <string id="AdK4Ilzw" text="Chalia" />
-    <string id="agn93v7y" text="Yorig" />
-    <string id="aJhRX6Lz" text="Peric" />
-    <string id="Al1FEd8h" text="Aeron" />
-    <string id="ALYCFEZR" text="Alynneth" />
-    <string id="aRCzXkiD" text="Mountain Bandits Hero" />
-    <string id="aSNUtnbH" text="Temun" />
-    <string id="auMsvXpb" text="Maximin" />
-    <string id="AWDNxFbh" text="Baranor" />
-    <string id="b2d9BYxT" text="Svana" />
-    <string id="bDMmX9YI" text="Luichan" />
-    <string id="bFeyvTJj" text="Mimir" />
-    <string id="bHTdXTwC" text="Alary" />
-    <string id="bpl9EXWY" text="Elbet" />
-    <string id="bT6YtmSs" text="Morcan" />
-    <string id="BVNCWAai" text="Ecarand" />
-    <string id="cdmrCQfC" text="Hurunag" />
-    <string id="cdViCKs7" text="Siaramus" />
-    <string id="cjuYkvlX" text="Panalea" />
-    <string id="cL1lO5iP" text="Ergeon" />
-    <string id="CLqPbdiZ" text="Lucon" />
-    <string id="CuH8aalQ" text="Valla" />
-    <string id="D2aRzMRF" text="Raonul" />
-    <string id="D6sMSANW" text="Amalgun" />
-    <string id="d8D98oFG" text="Melidir" />
-    <string id="DH7SnD7L" text="Eronyx" />
-    <string id="dkEJCrzi" text="Asela" />
-    <string id="Dsclf61p" text="Chason" />
-    <string id="DVtqrS0T" text="Akrum" />
-    <string id="dwFZFQ6V" text="Lysica" />
-    <string id="ebQiU2wT" text="Corein" />
-    <string id="EHalkcEU" text="Morcon" />
-    <string id="EHHVVfgW" text="Forest Bandits Hero" />
-    <string id="EJFY3KdF" text="Altenos" />
-    <string id="EptYW9tj" text="Nayantai" />
-    <string id="EPVOYcgH" text="Suran" />
-    <string id="Er3eFLdH" text="Suruq" />
-    <string id="eTS0B8NB" text="Olypos" />
-    <string id="f6urGGlU" text="Godun" />
-    <string id="fb0F6jKI" text="Sejaron" />
-    <string id="FLrdHzSf" text="Anat" />
-    <string id="FR2wUMdb" text="Elys" />
-    <string id="FUT6eXfw" text="Phaea" />
-    <string id="GFmOwx4L" text="Idrun" />
-    <string id="GK1k9K4j" text="Furnhard" />
-    <string id="gnGxp46c" text="Wythuin" />
-    <string id="gQ1JZ8ow" text="Ukhai" />
-    <string id="GRjLT63Z" text="Kuyug" />
-    <string id="gyqSk2Mp" text="Fenagan" />
-    <string id="haAlaU7N" text="Taslur" />
-    <string id="Hf70w27i" text="Branoc" />
-    <string id="HGBWqbhQ" text="Temion" />
-    <string id="HIi53JMZ" text="Galden" />
-    <string id="HQaqg40g" text="Ovagos" />
-    <string id="HSlPLC4m" text="Ira" />
-    <string id="HSlqsoPK" text="Thamza" />
-    <string id="hy7mIh48" text="Vidar" />
-    <string id="I2gnhOc2" text="Honoratus" />
-    <string id="I72U5ttG" text="Garios" />
-    <string id="iaUQ9lt9" text="Ingalther" />
-    <string id="IgSZcCW0" text="Karith" />
-    <string id="iOYRpw24" text="Ratagost" />
-    <string id="iOZtAOgk" text="Tais" />
-    <string id="IwAcNgLc" text="Sven" />
-    <string id="IWI3T6zi" text="Kinteg" />
-    <string id="ja22un5W" text="Svedorn" />
-    <string id="jEIsVazl" text="Derthert" />
-    <string id="JFVseSa3" text="Oros" />
-    <string id="JhLPgr5x" text="Jinda" />
-    <string id="jIOMwnka" text="Varra" />
-    <string id="JjGuU6Tt" text="Ilatar" />
-    <string id="JPBz1blG" text="Tariq" />
-    <string id="jQjouVRk" text="Gyphor" />
-    <string id="k3cm9EgA" text="Undul" />
-    <string id="kadJAjaA" text="Rhagaea" />
-    <string id="katzUyMI" text="Joron" />
-    <string id="KBq7aQRa" text="Lek" />
-    <string id="kfNW01y5" text="Tynops" />
-    <string id="kgbt5pim" text="Desert Bandits Hero" />
-    <string id="kNThwuOH" text="Steppe Bandits Hero" />
-    <string id="KsBoNHW5" text="Calatild" />
-    <string id="kuOs90Uh" text="Aradwyr" />
-    <string id="kvxnbHjF" text="Iyalas" />
-    <string id="l1Ac8s1T" text="Lucand" />
-    <string id="LiAefNmE" text="Thephilos" />
-    <string id="LJ6Intaq" text="Usair" />
-    <string id="LQYkBOsU" text="Maurentios" />
-    <string id="LwbqCwne" text="Ospir" />
-    <string id="m9ZgghCo" text="Abagai" />
-    <string id="MADTaSFV" text="Seranor" />
-    <string id="MaeS2r7p" text="Tasynor" />
-    <string id="MbnZZE0G" text="Bolat" />
-    <string id="mbRvqDhY" text="Vashorki" />
-    <string id="MlmPJ502" text="Manan" />
-    <string id="mSV1FBu1" text="Esur" />
-    <string id="n2FdWOtE" text="Adram" />
-    <string id="N7qb7ae6" text="Fafen" />
-    <string id="nBDKxiyC" text="Ruma" />
-    <string id="NOchnEwX" text="Ghuzid" />
-    <string id="O75XlydW" text="Arcor" />
-    <string id="oeJoezpU" text="Bestein" />
-    <string id="OMkSgsV2" text="Jathea" />
-    <string id="OymqpgTX" text="Serandon" />
-    <string id="P7iNhhPl" text="Turiados" />
-    <string id="p7kYHNDJ" text="Achaku" />
-    <string id="p9nM7XwG" text="Mehir" />
-    <string id="PBCwzvbf" text="Alvar" />
-    <string id="PjSQYAaR" text="Tadeos" />
-    <string id="pKf56MdS" text="Bagai" />
-    <string id="pkJy3oQL" text="Olek the Old" />
-    <string id="pMbA799s" text="Vyldur" />
-    <string id="PuRfbiW3" text="Erdurand" />
-    <string id="Pya9aCTd" text="Elthild" />
-    <string id="q186AQHt" text="Phadon" />
-    <string id="QGIAbglw" text="Obron" />
-    <string id="qJJ8nXFN" text="Vipon" />
-    <string id="QjJAbaoT" text="Apys" />
-    <string id="QJq4VAU7" text="Mesui" />
-    <string id="qKrOVIAq" text="Tovir" />
-    <string id="qqW5n5Ox" text="Milos" />
-    <string id="qtwYBHIn" text="Thomund" />
-    <string id="quVUTYOB" text="Lashonek" />
-    <string id="QvfUqzpF" text="Mina" />
-    <string id="r3oIoCr8" text="Unqid" />
-    <string id="rGuYLmez" text="Ascyron" />
-    <string id="rNrq6QdU" text="Raganvad" />
-    <string id="rUvnbDi2" text="Encurion" />
-    <string id="RYksq67N" text="Abalytos" />
-    <string id="saaeExBg" text="Addas" />
-    <string id="sABDrRyF" text="Awdhan" />
-    <string id="SFybYZNK" text="Mengus" />
-    <string id="sikx0BFu" text="Silvind" />
-    <string id="sZebVgCp" text="Sichanis" />
-    <string id="T2JS44bJ" text="Belgir" />
-    <string id="TAGefbaW" text="Kanujan" />
-    <string id="TbQ9w13e" text="Fiarad" />
-    <string id="tCTzsaIu" text="Muinser" />
-    <string id="TfNSLFNF" text="Anidha" />
-    <string id="tHtt3HCn" text="Pryndor" />
-    <string id="Toj0vayQ" text="Monchug" />
-    <string id="tTuaiLS6" text="Meritor" />
-    <string id="u1lTJoPO" text="Nemos" />
-    <string id="uDlnsFIF" text="Urik" />
-    <string id="uducgNbf" text="Chaghan" />
-    <string id="uLjRHv9p" text="Nadea" />
-    <string id="UTFGUeVQ" text="Zeno" />
-    <string id="uTFjknE2" text="Andros" />
-    <string id="V1QLbhRl" text="Sora" />
-    <string id="V44d9fIP" text="Terra" />
-    <string id="VAAIYJqI" text="Talas" />
-    <string id="vAKB54zO" text="Arwa" />
-    <string id="vDTGRgtu" text="Varmund" />
-    <string id="vEsKYrFR" text="Aldric" />
-    <string id="vl2tgsKa" text="Urkhun" />
-    <string id="voimockT" text="Unthery" />
-    <string id="VzhbUL60" text="Vendelia" />
-    <string id="w1okK9gq" text="Rogan" />
-    <string id="W1uwgvAQ" text="Arion" />
-    <string id="w51wGx4b" text="Caladog" />
-    <string id="waQPRCaT" text="Patyr" />
-    <string id="wbLqHvjE" text="Zerosica" />
-    <string id="wGAJSplG" text="Rozhivol" />
-    <string id="WnhPFlON" text="Melkea" />
-    <string id="WrAMfIG1" text="Phenoria" />
-    <string id="WTCIOhvV" text="Nuqar" />
-    <string id="x9LbvJYp" text="Nimr" />
-    <string id="xC3kCGte" text="Dhiyul" />
-    <string id="XDAQgjpH" text="Simir" />
-    <string id="XjMsnpgS" text="Tulag" />
-    <string id="XkNnlSwA" text="Jastion" />
-    <string id="Xnngcfg9" text="Sein" />
-    <string id="XqcD0WEu" text="Asta" />
-    <string id="Xs2Ffm4I" text="Hashan" />
-    <string id="xtEfnInH" text="Olek" />
-    <string id="xViSxONn" text="Ulbos" />
-    <string id="YaHhZccz" text="Lasand" />
-    <string id="YBGCXSEx" text="Debana" />
-    <string id="yNSLGTYc" text="Erta" />
-    <string id="YUoydtNS" text="Yana" />
-    <string id="YWJUZlzt" text="Lantanor" />
-    <string id="yWPpaXij" text="Qahin" />
-    <string id="zaHnL2It" text="Eutropius" />
-    <string id="ZkaaXxeB" text="Isvan" />
-    <string id="zUJKwx5J" text="Liena" />
+    <string id="03vNcoOt" text="Tế Lạp" />
+    <string id="0AuMcOga" text="La Lan" />
+    <string id="0CQgia2a" text="Khố Nhĩ Cáp Ân" />
+    <string id="0YZQ8vr8" text="Ô Lặc Man" />
+    <string id="10urvYUQ" text="Bách Lợi Thác Nhĩ" />
+    <string id="13YN3S79" text="Lạp Trát Nạp" />
+    <string id="1cKxsHSh" text="Bành Đồng" />
+    <string id="1yJZWqhG" text="Phổ Lạp Đôn Đề Á&#xA;" />
+    <string id="26W8jFm9" text="Trát Ca Ni Tư" />
+    <string id="27fMB4Ri" text="A Cách Na Lạp" />
+    <string id="2Bh8DS8S" text="Tây Gia" />
+    <string id="2fYYfHUI" text="Mã Nhĩ Đề Lạp" />
+    <string id="2jTyvL4y" text="Khuếch Nhi Thiếp" />
+    <string id="2OqAomZy" text="Oát Lạt Cổ Nhi" />
+    <string id="2RGc09o0" text="A Lệ Chân" />
+    <string id="2T4CbYRn" text="Cách Nhĩ Mã Na" />
+    <string id="2V8NE0Vn" text="Đầu Sỏ Cướp Biển" />
+    <string id="2XKnC45z" text="Ba Pháp Lợi Áo Tư" />
+    <string id="36Y88cTv" text="Mai Căn Hách Nhĩ Đạt" />
+    <string id="3a8sskoz" text="Khoát Lực Chân" />
+    <string id="3AMc9o0o" text="Tuế Luân" />
+    <string id="3BSUgBh3" text="Ai Tỉ Nhĩ" />
+    <string id="3C8F07SL" text="A Ca Nga Tư" />
+    <string id="3PzgpFGq" text="Trung Lập" />
+    <string id="3qr3bhL6" text="Ni Tạp Sách Nhĩ" />
+    <string id="3Y4jnu5i" text="Đầu Sỏ Giặc Cỏ" />
+    <string id="48bvCvb2" text="Pháp Nhung" />
+    <string id="4MwHbMFs" text="Tạp Phí Đức" />
+    <string id="4WiAzdHf" text="Y Ông Na" />
+    <string id="4YOld4FR" text="Đa Lạp Đề Lạp" />
+    <string id="4YOoGhpK" text="Ni Phong" />
+    <string id="5eTb2xr7" text="Tát Ni Ông" />
+    <string id="5g54Smqk" text="Bá Lý Khang" />
+    <string id="5lYm8YtD" text="Y Tư Đăng Tạp" />
+    <string id="5N6i1jQP" text="Phi Lợi Nặc Lạp" />
+    <string id="5xOBW2Qz" text="A Hi Toa" />
+    <string id="6GC0PsSh" text="Man Thắc Nga Tư" />
+    <string id="6RtIRVit" text="Mễ Lan Tạp" />
+    <string id="6TphQddp" text="Tát Lạp Đề Tư" />
+    <string id="6WWJpv88" text="Mã Lạp" />
+    <string id="6YiMWxVM" text="Hách Lặc Á" />
+    <string id="6ZQ8nUwj" text="Hách Tạp Nhĩ" />
+    <string id="6ZTCwKfD" text="Di Long" />
+    <string id="7ayj6WAw" text="A Nhĩ Khải Á" />
+    <string id="7DJgows0" text="Trạch Na&#xA;" />
+    <string id="7nVZgjmn" text="Đắc Tư Ba Lý Ông" />
+    <string id="7ZFm3GTF" text="Tát Lặc Mã" />
+    <string id="891zDKIl" text="Cáp Khảm" />
+    <string id="8auuZ79h" text="Ny Ôn" />
+    <string id="8LuUksQg" text="Ngõa Nhĩ Thản" />
+    <string id="8LXDxyr2" text="Lỵ Á Hân" />
+    <string id="8uqqo3R2" text="Duy Nhật Đỗ Na" />
+    <string id="94xDbGvf" text="Bối Đặc Lâm" />
+    <string id="9iyfFTok" text="Tỏa Hợp Đài" />
+    <string id="9lFmNG5c" text="Ca Đáp" />
+    <string id="9Pw7LDXY" text="Mã Lợi Tề Nga Tư" />
+    <string id="9xyXdX4I" text="Tháp Lạc Tư" />
+    <string id="a2rhPaGB" text="Ba Nhĩ Đức Long" />
+    <string id="A3LSuoBu" text="Tiêu Na Cách" />
+    <string id="a4E2pVDA" text="Tắc Nhĩ Duy Khắc" />
+    <string id="AAqB4QxB" text="Bột Nhi Đồ" />
+    <string id="abCBBVaU" text="La Mông Đức" />
+    <string id="AccBcEIt" text="Tá An Na" />
+    <string id="acp2IcMs" text="Khắc Lạc Thác Nhĩ" />
+    <string id="AdK4Ilzw" text="Cáp Lợi Á" />
+    <string id="AEA6qavG" text="Liệt Áo Đề Á&#xA;" />
+    <string id="aemIaJIv" text="Kháp Tư Quý Mễ Nhĩ" />
+    <string id="agn93v7y" text="Ước Lý Cách" />
+    <string id="aJhRX6Lz" text="Bội Lý Khắc" />
+    <string id="Al1FEd8h" text="Ai Long" />
+    <string id="ALYCFEZR" text="A Lâm Ny Ti" />
+    <string id="apiBts2j" text="Duy Thác Mễ Lạp" />
+    <string id="aR5QmQBo" text="Bác Vạn" />
+    <string id="aRCzXkiD" text="Đầu Sỏ Sơn Tặc" />
+    <string id="aSNUtnbH" text="Thiếp Mông" />
+    <string id="Atuo4eR7" text="Tạ Mã" />
+    <string id="auMsvXpb" text="Tạp Tây Nông" />
+    <string id="AVEDQNvr" text="Ngõa Lạp Lý Á&#xA;" />
+    <string id="aVfnZMt6" text="Bột Dung Sát Nhi" />
+    <string id="aVkqqEOx" text="Pháp Lệ Na" />
+    <string id="AWDNxFbh" text="Ba Lạp Nặc Nhĩ" />
+    <string id="aznyxfae" text="梅拉格" />
+    <string id="b10NS3yK" text="A Lôi Lỵ An Na" />
+    <string id="b2d9BYxT" text="Tư Ngõa Na" />
+    <string id="bDMmX9YI" text="Lư Y Hán" />
+    <string id="bEKtDbS0" text="A Lặc Đồ&#xA;" />
+    <string id="bFeyvTJj" text="Mật Mễ Nhĩ" />
+    <string id="bHTdXTwC" text="A Lạp Lý" />
+    <string id="Bo6IZGAN" text="Đề Lỵ An Na" />
+    <string id="BosCJ3Rb" text="Thôi Tư Thản Ni Á&#xA;" />
+    <string id="bpl9EXWY" text="Ai Nhĩ Bội" />
+    <string id="brZGZw7D" text="A Tề Na&#xA;" />
+    <string id="bujI7g96" text="Tây Nhĩ Duy Na" />
+    <string id="buvim3t7" text="Trát Nỗ Ngõa" />
+    <string id="bVAPtfVG" text="Sát Mộc Bộ Diệc" />
+    <string id="BVNCWAai" text="Ai Tạp Lãng" />
+    <string id="bvY3HRvY" text="Ngõa Nhĩ Tạp Oa" />
+    <string id="BxABzWjH" text="Tạp Thắc Lạp" />
+    <string id="C1LIflK9" text="Lý Tạ Nhĩ Đạt" />
+    <string id="cdmrCQfC" text="Hô Lỗ Na Cách" />
+    <string id="cdViCKs7" text="Hạ Lạp Mục Tư" />
+    <string id="CfuGI5RK" text="Địch Á Bố Hải Nhân" />
+    <string id="cjuYkvlX" text="Bạc Na Lặc Á&#xA;" />
+    <string id="cL1lO5iP" text="Ai Nhĩ Cống" />
+    <string id="CLqPbdiZ" text="Lư Khổng" />
+    <string id="codK1ezX" text="Ai Lai Địch Lan" />
+    <string id="cqu8MATS" text="Ngạch Tát Triệt" />
+    <string id="CS4unEGi" text="Bối A Tháp Cách" />
+    <string id="CuH8aalQ" text="Ngõa Lạp" />
+    <string id="CwK8l7IX" text="Sách Pháp Lợi Á&#xA;" />
+    <string id="D2aRzMRF" text="Lạp Kỳ" />
+    <string id="d6aTWH9m" text="Duy Lý Na" />
+    <string id="D6sMSANW" text="A Mã Nhĩ Cam" />
+    <string id="D71AGZWF" text="Đạt Hi Lạp" />
+    <string id="d8D98oFG" text="Mai Lợi Địch Nhĩ" />
+    <string id="DADHWcX4" text="Bố Hi Lạp" />
+    <string id="dbe79bvU" text="A Luật Tháp" />
+    <string id="DCAa3GOY" text="Lạc Đạt" />
+    <string id="DH7SnD7L" text="Ách Lạc Nghê Khắc Tư" />
+    <string id="dkEJCrzi" text="A Sắt Lạp" />
+    <string id="dqSpWdO9" text="Lợi Đặc Gia Đế Tư" />
+    <string id="Dsclf61p" text="Ca Tống" />
+    <string id="DsduCz91" text="Tát Ny Đặc" />
+    <string id="DuTdWRbB" text="Pháp Trát Na" />
+    <string id="DVtqrS0T" text="A Khắc Lỗ Mộc" />
+    <string id="dwFZFQ6V" text="Lữ Tây Tạp" />
+    <string id="e0iDOkUq" text="Cổ Tốc Khảm" />
+    <string id="E5CKYEWf" text="Cơ Toa" />
+    <string id="e8NQzxiE" text="Lư Đạt" />
+    <string id="ebQiU2wT" text="Khoa Lâm" />
+    <string id="EdQ0Lp2a" text="Duy Niết Lan Đạt" />
+    <string id="EFgG35sB" text="Tổ Lai Tạp" />
+    <string id="eghwtdDx" text="Vu Lan Địch Phu" />
+    <string id="EHalkcEU" text="Mạc Nhĩ Khổng" />
+    <string id="EHHVVfgW" text="Đầu Sỏ Cường Đạo" />
+    <string id="EJFY3KdF" text="A Nhĩ Thắc Nặc Tư" />
+    <string id="enuXNYIl" text="A Mạc Khổng" />
+    <string id="eoTzkbbv" text="Mễ Đặc Lạp" />
+    <string id="EptYW9tj" text="Nạp Diên Thái" />
+    <string id="EPVOYcgH" text="Tốc Lan" />
+    <string id="Er3eFLdH" text="Tô Lỗ Khắc" />
+    <string id="eRhu9Lbf" text="Đế Nhĩ Tạ" />
+    <string id="eTS0B8NB" text="Nga Lữ Ba Tư" />
+    <string id="f6urGGlU" text="Qua Đôn" />
+    <string id="fb0F6jKI" text="Tắc Á Nhung" />
+    <string id="FBa3bDcl" text="A Nhĩ Tháp Mông Đức" />
+    <string id="fepOjbsV" text="Ba Tí Lợi Á" />
+    <string id="fGp76I0G" text="Tạp Nhĩ Lợi Ni Á&#xA;" />
+    <string id="FLrdHzSf" text="A Na Đặc" />
+    <string id="FP1nudkE" text="Giả Lặc Pháp" />
+    <string id="FR2wUMdb" text="Ách Lữ Tư" />
+    <string id="FUT6eXfw" text="Hoài Á" />
+    <string id="GFmOwx4L" text="Y Đức Luân" />
+    <string id="GFV7bzME" text="Y Khắc Lạp Đề Á&#xA;" />
+    <string id="Ggj9PWIU" text="Di Na Nhĩ Duy Na" />
+    <string id="GJhRw7qb" text="Ai Sách Tư" />
+    <string id="GK1k9K4j" text="Phí Ân Cáp Nhĩ" />
+    <string id="gnGxp46c" text="Duy Tô Nhân" />
+    <string id="gQ1JZ8ow" text="Ô Hải" />
+    <string id="gRcc0zjg" text="An Đức Lỗ Tháp" />
+    <string id="GRjLT63Z" text="Khố Do Cách" />
+    <string id="gSR6ObvN" text="Thắc A Duy Sách Tư&#xA;" />
+    <string id="gyqSk2Mp" text="Phí Nạp Cam" />
+    <string id="GysebVMW" text="Ngạch Sắc Lăng" />
+    <string id="H4OolRf7" text="Nhiệt Niết Oa" />
+    <string id="haAlaU7N" text="Đạt Tư Lỗ Nhi" />
+    <string id="heDA2r49" text="Ốc Lặc Lý Khắc" />
+    <string id="Hf70w27i" text="Bố Lan Nặc Khắc" />
+    <string id="HGBWqbhQ" text="Đặc Di Ông" />
+    <string id="HIi53JMZ" text="Gia Nhĩ Đăng" />
+    <string id="hjcwElSM" text="Âu Lôi Tát" />
+    <string id="HQaqg40g" text="Nga Ngõa Qua Tư" />
+    <string id="HSlPLC4m" text="Y Lạp" />
+    <string id="HSlqsoPK" text="Tát Mẫu Trát" />
+    <string id="hy7mIh48" text="Duy Đạt Nhĩ" />
+    <string id="hzUbrsG6" text="Ngột Na Căn" />
+    <string id="I2gnhOc2" text="Hoắc Nặc Lạp Đồ Tư" />
+    <string id="I6pJg72E" text="Từ Ôn" />
+    <string id="I72U5ttG" text="Gia Lý Nga Tư" />
+    <string id="i7GvKab4" text="A Ba Lạp Niết Á&#xA;" />
+    <string id="iaUQ9lt9" text="Nhân Gia Thái Nhĩ" />
+    <string id="IbgH3J03" text="Duy Duy An Na" />
+    <string id="IgSZcCW0" text="Ca Lý Tư" />
+    <string id="ioDNXwba" text="A Nhĩ Duy Đặc" />
+    <string id="iOYRpw24" text="Lạp Tháp Qua Tư Đặc" />
+    <string id="iOZtAOgk" text="Thái Y Tư&#xA;" />
+    <string id="it6GDDPw" text="Nhân Cống Đức&#xA;" />
+    <string id="iU8D2Psj" text="Tô Cáp Na" />
+    <string id="IwAcNgLc" text="Áo Tư Ôn" />
+    <string id="IWI3T6zi" text="Cân Thiếp Cách" />
+    <string id="J0QdMsnX" text="Tô Tát Đạt" />
+    <string id="J2LE3595" text="Áo Đa Phù Lôi Đức" />
+    <string id="j3iaqr6v" text="Tích Tạp" />
+    <string id="ja22un5W" text="Tư Duy Đa Ân" />
+    <string id="JEfh8gHY" text="Ngõa Mật Lạc Tư" />
+    <string id="jEIsVazl" text="Đức Thái Nhĩ" />
+    <string id="JFVseSa3" text="Nga Lạc Tư" />
+    <string id="JhLPgr5x" text="Kim Đạt" />
+    <string id="jIOMwnka" text="Ngõa Nhĩ Lạp" />
+    <string id="JJcFwAUb" text="Pháp Lạp Lý Tát" />
+    <string id="JjGuU6Tt" text="Diệc Lạt Tháp Nhi" />
+    <string id="JjK987wB" text="Thích Luân&#xA;" />
+    <string id="JPBz1blG" text="Tháp Lý Khắc" />
+    <string id="jqdpTXYV" text="Tra Sĩ Đinh Na" />
+    <string id="jQjouVRk" text="Cư Phúc Nhĩ" />
+    <string id="JTSWHkvd" text="Phất Lạc Lại Đức" />
+    <string id="juzJA5Tw" text="Thác Nhĩ Ngõa Tây Tư" />
+    <string id="jXIFcw1a" text="Lạp Đạo Cổ Nhĩ" />
+    <string id="JZvihMbB" text="Ngạch Nhi Cách Niết" />
+    <string id="K2UUjntt" text="Quân Sĩ Tháp Lỵ Á&#xA;" />
+    <string id="K2uyaOia" text="Á Kháp Na" />
+    <string id="k3cm9EgA" text="Ôn Đô Lặc" />
+    <string id="k7vF5gWy" text="Y Mẫu Gia Nhĩ" />
+    <string id="kAbug2ja" text="Ách Áo Địch Tây Á" />
+    <string id="kadJAjaA" text="Lạp Cái Á" />
+    <string id="katzUyMI" text="Ước Nhung" />
+    <string id="KBq7aQRa" text="Liệt Khắc" />
+    <string id="KDznbXh9" text="Cát Cố" />
+    <string id="kfNW01y5" text="Đê Nặc Phổ Tư" />
+    <string id="KFYNhxLC" text="Tô Na&#xA;" />
+    <string id="kgbt5pim" text="Đầu Sỏ Cường Đạo Sa Mạc" />
+    <string id="kHo2jIcm" text="Tá Lý Na" />
+    <string id="KNppNkHr" text="Đặc Cam" />
+    <string id="kNThwuOH" text="Đầu Sỏ Cường Đạo Thảo Nguyên" />
+    <string id="KsBoNHW5" text="Tạp Lạp Đế Nhĩ Đức" />
+    <string id="ktPP2R1i" text="Cổ Lan" />
+    <string id="kuOs90Uh" text="A Lạp Đức Duy Nhĩ" />
+    <string id="kvxnbHjF" text="Y Á Lạp Tư" />
+    <string id="KwNdjleW" text="Khoa Lạp Mô Bách Á" />
+    <string id="kwNl4bsS" text="A Môn Nông" />
+    <string id="KxvbFSnm" text="Nhân Cách Đặc Lỗ Đức" />
+    <string id="l1Ac8s1T" text="Lư khang" />
+    <string id="l1Q7WjO6" text="Giai Tư Tạp" />
+    <string id="L2SmutOy" text="Ách Lợi Địch Lặc Á&#xA;" />
+    <string id="lFV6m1rc" text="Tiệp Tháp" />
+    <string id="lGrQRXKt" text="Ngõa Tây Lợi Á" />
+    <string id="LiAefNmE" text="Thắc Phỉ La Tư" />
+    <string id="LJ6Intaq" text="Ô Trại Y Nhĩ" />
+    <string id="lLNkm48w" text="Ngõa Di Na" />
+    <string id="LQYkBOsU" text="Mao Luân Đề Nga Tư" />
+    <string id="lRjHdd5l" text="Tạp Ban" />
+    <string id="LwbqCwne" text="Áo Tư Bì Nhĩ" />
+    <string id="m460qJaY" text="Duy Lâm Na" />
+    <string id="m9ZgghCo" text="A Ba Cai" />
+    <string id="MADTaSFV" text="Tắc Lạp Nặc Nhĩ" />
+    <string id="MaeS2r7p" text="Tháp Tự Nặc Nhĩ" />
+    <string id="MBKTyzXQ" text="Lư Tư Đề Tạp" />
+    <string id="MbnZZE0G" text="Bác Lạt Đặc" />
+    <string id="mbRvqDhY" text="Ngõa Xá Nhĩ Cơ" />
+    <string id="MlmPJ502" text="Mã Nam" />
+    <string id="MOH80RNb" text="Cáp Giả Lạp" />
+    <string id="mpgkzY0Y" text="Cách Nhĩ Địch An Na" />
+    <string id="MrIvBcNH" text="A Mã Lợi Á Na" />
+    <string id="mSV1FBu1" text="Ngạch Tốc Nhi" />
+    <string id="n2FdWOtE" text="A Đức Lạp Mẫu" />
+    <string id="N7qb7ae6" text="Pháp Phân" />
+    <string id="nBDKxiyC" text="Lỗ Mã" />
+    <string id="NdkT0eqh" text="Lạp Não Ân" />
+    <string id="ndSKTPib" text="A Tạp Nhĩ" />
+    <string id="nfvgHpn5" text="Phúc Tư Thác Nhĩ" />
+    <string id="NiOxe8Y2" text="Chu Đế Lạp" />
+    <string id="NOchnEwX" text="Cổ Tề Đức" />
+    <string id="o5C0LbdP" text="Mặc Già Lý Tháp" />
+    <string id="O6NKphJk" text="A Đắc Lý Khắc Á" />
+    <string id="O75XlydW" text="A Khoa Nhĩ" />
+    <string id="OMkSgsV2" text="Nhã Thắc Á&#xA;" />
+    <string id="ooIX4QHL" text="Ai Lỵ Đức" />
+    <string id="oPN4vTKh" text="Bố Lệ Cam" />
+    <string id="otabNNZK" text="Trát Vi Liệt Na" />
+    <string id="OtzsT453" text="Tổ Ngải Đức" />
+    <string id="oyb1LMDs" text="Mao Lôi A Tư" />
+    <string id="OymqpgTX" text="Tắc Lan Đông" />
+    <string id="ozpbN30B" text="A Lâm Thất Á" />
+    <string id="p4vC5oBc" text="Da Pháp Lợi Á&#xA;" />
+    <string id="P7iNhhPl" text="Đồ Lý Á Đa Tư" />
+    <string id="p7kYHNDJ" text="A Sát Khố" />
+    <string id="p9nM7XwG" text="Mặc Khôi Nhi" />
+    <string id="PBCwzvbf" text="A Nhĩ Ngõa Nhĩ" />
+    <string id="PjSQYAaR" text="Tháp Đắc Nga Tư" />
+    <string id="pKf56MdS" text="Bạt Cai" />
+    <string id="pkJy3oQL" text="Áo Liệt Khắc Già" />
+    <string id="pMbA799s" text="Duy Đỗ Nhĩ" />
+    <string id="PopVsatN" text="Tắc Nga Nhĩ Cụ Tư&#xA;" />
+    <string id="PQoWbtKo" text="Tự Niết Tu Tư" />
+    <string id="psnfaZbC" text="Tây Lạp" />
+    <string id="PuRfbiW3" text="Ai Nhĩ Địch Lãng" />
+    <string id="Pya9aCTd" text="Ai Đế Nhĩ Đức" />
+    <string id="PYacMIxz" text="Mạc Lý Á Na" />
+    <string id="q186AQHt" text="Pháp Đông" />
+    <string id="Q4kJ8PTh" text="A Đạt Lâm Địch Tư" />
+    <string id="q72YO5vb" text="Tô Khải Na" />
+    <string id="QGIAbglw" text="Nga Bố Nhung" />
+    <string id="qJJ8nXFN" text="Duy Bành" />
+    <string id="QjJAbaoT" text="A Tí Tư" />
+    <string id="QJq4VAU7" text="Mặc Tốc Nghi" />
+    <string id="qKrOVIAq" text="Thác Duy Nhĩ" />
+    <string id="qqW5n5Ox" text="Di La Tư" />
+    <string id="qtwYBHIn" text="Thác Mông Đức" />
+    <string id="QuGKE0wg" text="Y Tháp Lý Á" />
+    <string id="quVUTYOB" text="Lạp Thiệu Niết Khắc" />
+    <string id="QvfUqzpF" text="Di Na" />
+    <string id="r3oIoCr8" text="Ôn Cát Đức" />
+    <string id="rBjsDVgz" text="Từ Thành" />
+    <string id="rf8KHRSP" text="Bạc Gia Lý Nga Tư" />
+    <string id="rGuYLmez" text="A Tư Cư Nhung" />
+    <string id="rhSlO9g3" text="Niết Tư Đê Tư" />
+    <string id="Rlx9ndwy" text="Bối A Toa Cách" />
+    <string id="rNrq6QdU" text="Lãng Ngõa Đức" />
+    <string id="RoKwj5XN" text="Sát Cổn" />
+    <string id="rUvnbDi2" text="Ân Khố Lý Ông" />
+    <string id="RYksq67N" text="A Ba Lữ Thác Tư" />
+    <string id="saaeExBg" text="A Đạt Tư" />
+    <string id="sABDrRyF" text="Áo Tán" />
+    <string id="SbiUqDke" text="Tư Lạp Đặc Tạp" />
+    <string id="SFybYZNK" text="Môn Cách Tư" />
+    <string id="sh1o5nEe" text="Gia Vấn" />
+    <string id="sikx0BFu" text="Tây Nhĩ Văn" />
+    <string id="sPSqyA4R" text="Tát Trại Toa" />
+    <string id="stjahQvD" text="Lư Tạp Lạp" />
+    <string id="sZebVgCp" text="Tây Khách Ni Tư" />
+    <string id="T2JS44bJ" text="Bối Nhĩ Cát Nhĩ" />
+    <string id="t31RboMa" text="Cáp Phỉ Toa" />
+    <string id="TAGefbaW" text="Hợp Nỗ Chiêm" />
+    <string id="TbluOCYP" text="Đạt Cam Ni Khắc" />
+    <string id="TbQ9w13e" text="Phí Á Lạp Đức" />
+    <string id="tCTzsaIu" text="Minh Sắt" />
+    <string id="TfNSLFNF" text="An Ny Trát" />
+    <string id="tHtt3HCn" text="Phổ Lâm Đa Nhĩ" />
+    <string id="Toj0vayQ" text="Mông Sở Cách" />
+    <string id="tRAl9AW2" text="Khoa Mã Tháp Tát" />
+    <string id="tTuaiLS6" text="Mặc Lý Thác Nhĩ" />
+    <string id="txyVEr0U" text="Tát Đặc Lạc Tư" />
+    <string id="u1lTJoPO" text="Niết Ma Tư&#xA;" />
+    <string id="uD0BU83l" text="Lại Nhân Gia Đạt" />
+    <string id="uDlnsFIF" text="Ô Lý Khắc" />
+    <string id="uducgNbf" text="Sát Hãn" />
+    <string id="ujbkd52l" text="Ai Lãng Đạt Lạp&#xA;" />
+    <string id="uLjRHv9p" text="Na Đắc Á" />
+    <string id="up2Pbi6u" text="Đức Lạp Kháp" />
+    <string id="Upt1X9HN" text="Niết Lôi Đạt" />
+    <string id="UQg7UijR" text="Cổ Đông Hách Nhĩ Đạt" />
+    <string id="uqGvaPxz" text="Lợi Lợi Trát" />
+    <string id="UTFGUeVQ" text="Chi Nặc" />
+    <string id="uTFjknE2" text="An Đức Lạc Tư&#xA;" />
+    <string id="uxt1DnZM" text="Gia Lư Khắc" />
+    <string id="V1QLbhRl" text="Sách Lạp" />
+    <string id="V44d9fIP" text="Đặc Lạp" />
+    <string id="v6CSTkR4" text="Hứa Lạp Tây Á Na" />
+    <string id="VAAIYJqI" text="Tháp Lạp Tư&#xA;" />
+    <string id="vAKB54zO" text="A Nhĩ Ngõa&#xA;" />
+    <string id="vDqbZTbb" text="Mặc Lạt" />
+    <string id="vDTGRgtu" text="Ngõa Nhĩ Mông Đức" />
+    <string id="vEsKYrFR" text="A Nhĩ Đức Lý Khắc" />
+    <string id="VGxQ98Tp" text="Dã Tô Mộc" />
+    <string id="VIs6y29A" text="Mặc Cách Đề Á" />
+    <string id="vl2tgsKa" text="Ngột Nhi Hồn" />
+    <string id="vlpRh9ZB" text="Ách Tí Phỉ Lý Á&#xA;" />
+    <string id="voa4jkxo" text="An Ti Đặc Lỗ Đạt" />
+    <string id="voimockT" text="Ân Thái Lý" />
+    <string id="VPH7syd9" text="Phổ Lôi Tây Á Na" />
+    <string id="VPnW6rA1" text="Hi mẫu lạp" />
+    <string id="VvFQhqub" text="Tá Lý Tạp" />
+    <string id="VzhbUL60" text="Văn Đắc Lợi Á" />
+    <string id="w1okK9gq" text="La Căn" />
+    <string id="W1uwgvAQ" text="Á Lý Ông" />
+    <string id="w51wGx4b" text="Tạp Lạp Đa Cách" />
+    <string id="waQPRCaT" text="Bạc Đê Nhĩ" />
+    <string id="wbLqHvjE" text="Trạch Lạc Tây Tạp" />
+    <string id="wGAJSplG" text="La Nhật Ốc Nhĩ" />
+    <string id="WnhPFlON" text="Mặc Nhĩ Khắc Á&#xA;" />
+    <string id="WrAMfIG1" text="Phỉ Nặc Lý Á" />
+    <string id="WTCIOhvV" text="Nỗ Tạp Nhĩ" />
+    <string id="x9LbvJYp" text="Ni Mẫu Nhĩ" />
+    <string id="xC3kCGte" text="Tế Vưu Lặc" />
+    <string id="XDAQgjpH" text="Tây Mễ Nhĩ" />
+    <string id="xfSKiKl1" text="Ôn Khảm Đề Nga Tư" />
+    <string id="XjMsnpgS" text="Đột Lạt Cách" />
+    <string id="XkNnlSwA" text="Nhã Tư Đề Ông" />
+    <string id="Xnngcfg9" text="Tắc Nhân" />
+    <string id="XqcD0WEu" text="A Ti Tháp" />
+    <string id="Xs2Ffm4I" text="Cáp San" />
+    <string id="XSfDaaFp" text="A Đạt Đặc Lỗ Đức" />
+    <string id="xtEfnInH" text="Áo Liệt Khắc" />
+    <string id="xViSxONn" text="Ô Nhĩ Pha Tư&#xA;" />
+    <string id="Y0I9T9pe" text="Địch Á Ti Tạp" />
+    <string id="y881d2ER" text="Ngõa Lý Á Tây Tư&#xA;" />
+    <string id="YaHhZccz" text="Lạp Tang" />
+    <string id="YBGCXSEx" text="Đắc Ba Na" />
+    <string id="Ybpa7Nbz" text="A Ba Lữ Thắc Á&#xA;" />
+    <string id="YDy8meZp" text="A Niết Á&#xA;" />
+    <string id="yl6y9ua7" text="Bối Đặc Lỵ An Na" />
+    <string id="yNSLGTYc" text="Ai Nhĩ Tháp&#xA;" />
+    <string id="yROMCMB3" text="Nặc Niết Sách Tư&#xA;" />
+    <string id="ysrWE08a" text="Tạp Tự Lôi Á" />
+    <string id="YUoydtNS" text="Nhã Na&#xA;" />
+    <string id="YWJUZlzt" text="Lan Tháp Nặc Nhĩ" />
+    <string id="yWPpaXij" text="Tạp Hân" />
+    <string id="zaHnL2It" text="Âu Đặc Lạc Tí Nga Tư" />
+    <string id="zFPc7VEO" text="Đắc Khảm Đề Á" />
+    <string id="ZkaaXxeB" text="Y Tư Phàm" />
+    <string id="Zq11L8aO" text="Á Mễ Na&#xA;" />
+    <string id="Zttbvvxr" text="La Đạt Lạp Khắc" />
+    <string id="zUJKwx5J" text="Lỵ Da Na" />
+    <string id="Zzw3S7Lo" text="Phúc Lý Mẫu" />
   </strings>
 </base>
